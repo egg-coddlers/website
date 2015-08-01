@@ -1,0 +1,133 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <title>
+      Royal Worcester - Birds Pattern
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Birds Pattern
+    </h1>
+
+    <p>
+      This pattern consists of a wren, carrying a worm or some twigs, on
+      one side, and a pair of finches on the other side.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="birds-01-a.jpg" alt="Birds - Front"></td>
+	<td><img src="birds-01-b.jpg" alt="Birds - Back"></td>
+      </tr>
+    </table>
+
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a>
+	Matrix</caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Sizes</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type7">Type 7</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+          &nbsp;&nbsp;
+          <a href="../sizes.shtml#king">King</a>
+        </td>	
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type8">Type 8</a>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+          &nbsp;&nbsp;
+          <a href="../sizes.shtml#king">King</a>
+	</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type9">Type 9</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+          &nbsp;&nbsp;
+          <a href="../sizes.shtml#king">King</a>
+	</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type10">Type 10</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+          &nbsp;&nbsp;
+          <a href="../sizes.shtml#king">King</a>
+	</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type11">Type 11</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+          &nbsp;&nbsp;
+          <a href="../sizes.shtml#king">King</a>
+	</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type12">Type 12</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+          &nbsp;&nbsp;
+          <a href="../sizes.shtml#king">King</a>
+          &nbsp;&nbsp;
+	  <a href="../sizes.shtml#jumbo">Jumbo</a>	
+	</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type12">Type 12</a></td>
+	<td><a href="../sizes.shtml#king">King</a></td>
+	<td>King sized coddler with smaller size decal (i.e., the
+          patterns are the size of those on a single coddler).
+        </td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

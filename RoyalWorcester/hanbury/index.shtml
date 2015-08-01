@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Royal Worcester - Hanbury Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Hanbury Pattern
+</h1>
+
+<p>
+This pattern consists of a blue motif, similar to, but in a deeper
+blue, and smaller, than
+<a href="../rhapsody/">Rhapsody</a>.
+<p>
+There are two variations of the king size coddler, one that has the
+same large design backand front, and the otherthat has a butterfly on
+the reverse (the same as the standard size).  There are also two
+variations of the design on the single.
+
+<p>
+<table align="center">
+<tr>
+<td><img src="hanbury-01-d.jpg" alt="Hanbury">
+<td><img src="hanbury-01-bs.jpg" alt="Special Backstamp">
+</tr>
+</table>
+
+<p>
+<table align="center">
+<tr>
+<td><img src="hanbury-01-a.jpg" alt="Hanbury">
+<td><img src="hanbury-01-b.jpg" alt="Hanbury">
+<td><img src="hanbury-01-c.jpg" alt="Hanbury">
+<td><img src="hanbury-01-e.jpg" alt="Hanbury">
+</tr>
+</table>
+
+<p>
+<table align="center">
+<tr>
+<td><img src="hanbury-02.jpg" alt="Hanbury">
+</tr>
+</table>
+
+<p>
+<a name="Knowntypes"></a>
+
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix (Hanbury)</caption>
+<tr>
+<th width="20%">Type</th>
+<th width="35%">Sizes</th>
+<th width="35%">Notes</th>
+<th width="10%">Sources</th>
+</tr>
+
+<tr>
+<td><a href="../types/#Type12">Type 12</a>
+<td><a href="../sizes.shtml#standard">Standard</a>
+    &nbsp;&nbsp;
+    <a href="../sizes.shtml#king">King</a>
+<td>Backstamp is under the glaze, in green.
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+<tr>
+<td><a href="../types/#Type12">Type 12</a>
+<td><a href="../sizes.shtml#standard">Standard</a>
+    &nbsp;&nbsp;
+    <a href="../sizes.shtml#king">King</a>
+<td>Special backstamp, with the date, <b>1995</b>,
+    under the glaze, in blue.
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

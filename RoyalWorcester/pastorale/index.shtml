@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Royal Worcester - Pastorale Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Pastorale Pattern
+    </h1>
+
+    <p>
+      Blue and orange flowers on vines.  Blue and yellow frieze around
+      the top of the coddler.
+    </p>
+
+    <br />
+    <table align="center">
+      <tr>
+	<td><a href="pastorale-ks-02-a.jpg">
+            <img src="pastorale-ks-02-a.jpg"
+	         height="250" alt="Pastorale"></a></td>
+	<td><a href="pastorale-ks-02-b.jpg">
+            <img src="pastorale-ks-02-b.jpg"
+	         height="250" alt="Pastorale"></a></td>
+	<td><a href="pastorale-ks-02-c.jpg">
+            <img src="pastorale-ks-02-c.jpg"
+	         height="250" alt="Pastorale"></a></td>
+	<td><a href="pastorale-ks-02-d.jpg">
+            <img src="pastorale-ks-02-d.jpg"
+	         height="250" alt="Pastorale"></a></td>	
+      </tr>
+
+      <tr>
+	<th colspan="4">Pastorale Pattern - King Size</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a>
+	Matrix (Pastorale) </caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Sizes</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type12">Type 12</a>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+          &nbsp;&nbsp;
+          <a href="../sizes.shtml#king">King</a>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a>
+      </tr>
+
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

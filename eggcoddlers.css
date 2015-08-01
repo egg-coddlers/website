@@ -1,0 +1,12 @@
+/* #ident "@(#) $Id$" */
+
+/* Cascading Style Sheet for all egg-coddlers.com pages */
+
+/* Our default background is white */
+body {	background-color: #ffffff; }
+/* default to full separator lines - override in individual hrs */
+hr { width: 100%; }
+
+div.space50px { height: 50px; }
+
+/* End of egg-coddlers.com Style Sheet */

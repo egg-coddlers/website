@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      T.G. Green - Granville Pattern
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      T.G. Green - Granville Pattern
+    </h1>
+
+    <p>
+      These coddlers are convex, with a pedestal, and have a
+      a <b>flat</b> lifting ring ... that is, a flat strip of metal,
+      approximately &frac14; inches wide, curved into a circular loop, and
+      bonded to the lid.
+    </p>
+
+    <p>
+      This pattern consists of light caramel-coloured coddler with a
+      single, darker caramel stripe at the rim of the coddler.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="granville-01.jpg">
+            <img src="granville-01.jpg"
+	         height="250" alt="Granville"></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th>Pattern Granville</th>
+      </tr>
+      
+    </table>
+
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>
+	Known
+	<a href="../#Types">Types</a>
+	Matrix (Granville)
+      </caption>
+      
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../#Type1">Type 1</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

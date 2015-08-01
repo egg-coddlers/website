@@ -1,0 +1,156 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Royal Worcester - Rhapsody Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Rhapsody Pattern
+    </h1>
+
+    <p>
+      This pattern consists of large blue flowers, probably cabbage roses.
+      This design is also called Blue Sprays.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="rhapsody-02-a_full.jpg">
+            <img src="rhapsody-02-a_250px.jpg" alt="Rhapsody"></a></td>
+	<td><a href="rhapsody-02-b_full.jpg">
+            <img src="rhapsody-02-b_250px.jpg" alt="Rhapsody"></a></td>
+	<td><a href="rhapsody-02-c_full.jpg">
+            <img src="rhapsody-02-c_250px.jpg" alt="Rhapsody"></a></td>
+	<td><a href="rhapsody-02-bs_full.jpg">
+            <img src="rhapsody-02-bs_150px.jpg" alt="Backstamp"></a></td>
+      </tr>
+
+      <tr>
+	<th colspan="4">Rhapsody Pattern - Standard Size</th>
+      </tr>
+    </table>
+
+    <br />
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="rhapsody-king-04-a_full.jpg">
+            <img src="rhapsody-king-04-a_250px.jpg" alt="Rhapsody"></a>
+	<td><a href="rhapsody-king-04-b_full.jpg">
+            <img src="rhapsody-king-04-b_250px.jpg" alt="Rhapsody"></a>
+	<td><a href="rhapsody-king-04-c_full.jpg">
+            <img src="rhapsody-king-04-c_250px.jpg" alt="Rhapsody"></a>
+	<td><a href="rhapsody-king-04-bs_full.jpg">
+            <img src="rhapsody-king-04-bs_150px.jpg" alt="Backstamp"></a>
+      </tr>
+
+      <tr>
+	<th colspan="4">Rhapsody Pattern - King Size</th>
+      </tr>
+    </table>
+
+    <br />
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="rhapsody-max-03-a.jpg" alt="Rhapsody"></td>
+	<td><img src="rhapsody-max-03-b.jpg" alt="Rhapsody"></td>
+	<td><img src="rhapsody-max-03-c.jpg" alt="Rhapsody"></td>
+	<td><img src="rhapsody-max-03-bs.jpg" alt="Backstamp"></td>
+      </tr>
+
+      <tr>
+	<th colspan="4">Rhapsody Pattern - Maxime Size</th>
+      </tr>
+    </table>
+
+    <br />
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>
+	Known
+	<a href="../types">Types</a>
+	Matrix (Rhapsody)
+      </caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Sizes</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type10">Type 10</a>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+          &nbsp;&nbsp;
+          <a href="../sizes.shtml#king">King</a>
+	<td>&nbsp;
+	<td><a href="/sources/#BB">BB</a>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type11">Type 11</a>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+          &nbsp;&nbsp;
+          <a href="../sizes.shtml#king">King</a>
+          &nbsp;&nbsp;
+          <a href="../sizes.shtml#maxime">Maxime</a>
+	<td>&nbsp;
+	<td><a href="/sources/#BB">BB</a>
+      </tr>
+
+
+      <tr>
+	<td><a href="../types/#Type12">Type 12</a>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+          &nbsp;&nbsp;
+	  <a href="../sizes.shtml#king">King</a>
+	<td>This is a variation of the Type 12 backstamp .. it is blue, and
+          under the glaze.
+	<td><a href="/sources/#BB">BB</a>
+      </tr>
+
+
+      <tr>
+	<td><a href="rhapsody-spec-bs.jpg">
+            <img src="rhapsody-spec-bs.jpg" align="left"
+	         height="50" alt="Click to View Backstamp"></a>
+          Special Backstamp including the name <b>Rhapsody</b>
+          and the date <b>1975</b>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+          &nbsp;&nbsp;
+          <a href="../sizes.shtml#king">King</a>
+	<td>&nbsp;
+	<td><a href="/sources/#BB">BB</a>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

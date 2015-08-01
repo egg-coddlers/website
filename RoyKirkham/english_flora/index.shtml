@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Roy Kirkham - English Flora Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Roy Kirkham - English Flora Pattern
+</h1>
+
+    This pattern consists of a spray of flowers, dominated by clover and harebells.
+    The pattern appears twice, on opposite
+    faces of the coddler.  (Click on either image to view in more
+    detail).   The copyright date of this pattern is <b>2002</b>.
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="english_flora-01.jpg">
+            <img src="english_flora-01.jpg"
+	        height="200 alt="english_flora Pattern"></a>
+    <td><a href="english_flora-01-bs.jpg">
+            <img src="english_flora-01-bs.jpg"
+	        height="100" alt="Backstamp"></a>
+</tr>
+
+<tr>
+    <th colspan="2">English Flora Pattern
+</tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

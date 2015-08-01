@@ -1,0 +1,26 @@
+Sands Egg Coddler Identifier Cross-Reference
+============================================
+
+Old		New		Homily
+
+UM25-UNK01	SA-HH-01	Fill your world with happiness
+
+UM25-UNK02	SA-HH-02	The way to a friend's home is never long
+
+UM25-UNK03	SA-HH-03	A true friend is the best possession
+
+UM25-UNK04	SA-HH-04	Happiness is having someone to care for
+
+UM25-UNK05	SA-HH-05	Start each day in a happy way
+
+UM25-UNK06	SA-HH-06	Love is the greatest gift of all
+
+UM25-UNK08	SA-TT-02	Colour the world with happiness
+
+UM68-UNK01	SA-TT-01	Love is meant to be shared
+
+UM68-UNK02	SA-TT-02	Colour the world with happiness
+
+UM68-UNK03	SA-TT-03	A friend like you is a wish come true
+
+UM68-UNK04	SA-TT-04	Happiness is found in little things

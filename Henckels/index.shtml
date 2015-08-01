@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    
+    <!-- @(#) $Id$ -->
+
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    
+    <meta name="description"
+	  content="Eight-sided egg coddlers in various patterns. Found
+	  mostly in Germany, we believe these were made or sold by
+	  J. A. Henckels." />
+
+    <title>Henckels</title>
+
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>Henckels</h1>
+
+    <p>
+      These are double-sized, convex coddlers, with an octahedral horizontal
+      cross-section.  It's hard to tell from the photos, but the coddler
+      has 8 flat surfaces instead of the  usual round exterior.  They have
+      a tiny pedestal, also octahedral, and a round
+      lifting ring.  There is no identifying markings or backstamp.
+      Most examples of these egg coddlers that we have seen were
+      located in Germany. We believe that they were made or sold by
+      J. A. Henckels.
+    </p>
+
+    <br />
+    
+    <h3>HE-UNK01</h3>
+    <p>
+      The pattern consists of tiny pink flowers with green leaves - four
+      rows of flowers with 13 flowers in each row.
+    </p>
+
+    <p>
+      This coddler came with a brochure of recipes in three languages:
+      French, English, and German ... but no indication of manufacturer.
+      There was also a picture of four other coddlers, that we've never seen
+      examples of.  We have no idea whether they were made by the same
+      manufacturer ... from the picture, they might all have the same
+      octahedral shape as this one.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="Henckels-UNK01-01.jpg">
+            <img src="Henckels-UNK01-01.jpg" align="top"
+		 height="250" alt="Pattern HE-UNK01"></a>
+	  </td>
+	<td width="200">&nbsp;</td>
+	<td><a href="Henckels-UNK01-01-booklet.jpg">
+            <img src="Henckels-UNK01-01-booklet.jpg" align="top"
+		 height="400" alt="Coddler  with box and booklet"></a>
+	  </td>
+      </tr>
+      
+      <tr>
+	<th colspan="3">Pattern HE-UNK01</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="flying-dutchmen-coddlers.jpg">
+            <img src="flying-dutchmen-coddlers.jpg"
+		 width="500" alt="Other Coddler Pictures"></a>
+	  </td>
+      </tr>
+      
+      <tr>
+	<th>The Flying Dutchmen -- Four Mysterious Egg Coddlers</th>
+      </tr>    		
+    </table>
+
+    <br />
+
+    <p>Information on this coddler was provided by Contributor
+      <a href="/sources/#AC">AC-02</a>.
+    </p>
+
+    <br />
+
+    <h3>HE-UNK02</h3>
+    <p>
+      The pattern is of a woodland scene, with trees and small people.
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="Henckels-UNK02-01.jpg">
+            <img src="Henckels-UNK02-01.jpg" align="top"
+		 height="250" alt="HE-UNK02"></a>
+	  </td>
+      </tr>
+      
+      <tr>
+	<th>Pattern HE-UNK02</th>
+      </tr>
+    </table>
+
+    <br />
+    
+    <h3>HE-UNK03</h3>
+    <p>
+      The pattern is a freize of red flowers and green leaves.
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="Henckels-UNK03-01.jpg">
+            <img src="Henckels-UNK03-01.jpg" align="top"
+		 height="250" alt="HE-UNK03"></a>
+	  </td>
+      </tr>
+      
+      <tr>
+	<th>Pattern HE-UNK03</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <h3>HE-UNK04</h3>
+    <p>The pattern is tiny blue flowers</p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="Henckels-UNK04-01.jpg">
+            <img src="Henckels-UNK04-01.jpg" align="top"
+		 height="250" alt="HE-UNK04"></a>
+	  </td>
+      </tr>
+      
+      <tr>
+	<th>Pattern HE-UNK04</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <h3>HE-UNK05</h3>
+    <p>The pattern is blue & red thistle-like flowers</p>
+    
+    <table align="center">
+      <tr>
+	<td><a href="Henckels-UNK05-01.jpg">
+            <img src="Henckels-UNK05-01.jpg" align="top"
+		 height="250" alt="HE-UNK05"></a>
+	  </td>
+      </tr>
+      
+      <tr>
+	<th>Pattern HE-UNK05</th>
+      </tr>
+    </table>
+
+    <br />
+    
+    <p>
+      Information on this coddler was provided by Contributor
+      <a href="/sources/#BB">BB</a>.
+    </p>
+    
+    <!--#include virtual="/manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

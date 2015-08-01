@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />    
+
+    <title>
+      Wedgwood - Sterling
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Wedgwood - Sterling
+    </h1>
+
+    <p>
+      This is a plain coddler glazed chocolate brown.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="sterling-small-02.jpg">
+            <img src="sterling-small-02.jpg"
+		 height="250" alt="Sterling Small"></a>
+      </tr>
+    </table>
+
+    <br />
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="sterling-01.jpg">
+            <img src="sterling-01.jpg"
+		 height="250" alt="Sterling"></a>
+	  <a href="sterling-01-bs.jpg">
+            <img src="sterling-01-bs.jpg"
+		 height="250" alt="Backstamp"></a>
+      </tr>
+    </table>
+
+    <br />
+    
+    <table border width="100%">
+      <caption>Known Variations Matrix (Sterling)</caption>
+      <tr>
+	<th width="40%"><a href="../#Sizes">Sizes</a></th>
+	<th width="50%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+      
+      <tr>
+	<td>Single</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      
+      <tr>
+	<td>Double</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

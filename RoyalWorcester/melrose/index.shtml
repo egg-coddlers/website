@@ -1,0 +1,139 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+        <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Royal Worcester - Melrose Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Melrose Pattern
+    </h1>
+
+    <p>
+      This pattern consists of oriental flowers and an ornate pheasant.
+    </p>
+
+    <table align="center">
+      <tr>
+	<td><a href="melrose-01-a.jpg">
+            <img src="melrose-01-a.jpg"
+		 height="250" alt="Melrose"></a>
+        </td>	    
+	<td><a href="melrose-01-b.jpg">
+            <img src="melrose-01-b.jpg"
+	         height="250" alt="Melrose"></a>
+        </td>		
+      </tr>
+
+      <tr>
+	<th colspan="2">Melrose Pattern</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <a name="Example2"></a>
+    <table align="center">
+      <tr>
+	<td><a href="melrose-02-a.jpg">
+            <img src="melrose-02-a.jpg"
+		 alt="Melrose"></a>
+        </td>	    
+	<td><a href="melrose-02-b.jpg">
+            <img src="melrose-02-b.jpg"
+	         alt="Melrose"></a>
+        </td>		
+	<td><a href="melrose-02-bs.jpg">
+            <img src="melrose-02-bs.jpg"
+	         height="100" alt="Melrose"></a>
+        </td>		
+      </tr>
+
+      <tr>
+	<th colspan="3">Melrose Pattern with Type 6D Backstamp</th>
+      </tr>
+    </table>
+
+    <br />
+    
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a>
+	Matrix (Melrose)</caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="30%">Sizes</th>
+	<th width="30%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type3">Type 3</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td>&nbsp;</td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type4B">Type 4B</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td>&nbsp;</td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type6A">Type 6A</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td>&nbsp;</td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <!-- eBay #463904260, end Oct-16-00 17:32:39 PDT, winner quevera -->
+      <tr>
+	<td><a href="../types/#Type6C">Type 6C</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td>&nbsp;</td>
+	<td><a href="/sources/#EA">EA</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type6D">Type 6D</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td><a href="#Example2">shown above</a></td>
+	<td><a href="/sources/#AC">AC-02</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type7">Type 7</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type8">Type 8</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

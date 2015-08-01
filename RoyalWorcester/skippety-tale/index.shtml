@@ -1,0 +1,152 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <title>
+      Royal Worcester - A Skippety Tale Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - A Skippety Tale Pattern
+    </h1>
+
+    <p>
+      This pattern consists of a happy group of bouncing animals with
+      vegetables, fruit, and flowers.  Depending on the size you are looking
+      at, you'll see mice on an apple, hedgehogs, a rabbit with a carrot,
+      butterflies, a squirrel with acorns (on the Maxime), etc.  This is an
+      incredibly cute egg coddler.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="skippety-tale-01-a.jpg"
+		 height="200" alt="A Skippety Tale"></td> 
+	<td><img src="skippety-tale-01-b.jpg"
+		 height="200" alt="A Skippety Tale"></td>
+	<td><img src="skippety-tale-01-c.jpg"
+		 height="200" alt="A Skippety Tale"></td>
+      </tr>
+      <tr>
+	<th colspan="3">A Skippety Tale</th>
+      </tr>    
+    </table>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="skippety-tale-02-a.jpg" height="200"
+		 alt="A Skippety Tale - Maxime"></td>
+	<td><img src="skippety-tale-02-b.jpg" height="200"
+		 alt="A Skippety Tale - Maxime"></td>
+      </tr>
+      <tr>
+	<th colspan="2">A Skippety Tale - Maxime</th>
+      </tr>    
+    </table>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><img src="skippety-tale-03-a.jpg"
+		 height="250" alt="A Skippety Tale"></td>
+	<td><img src="skippety-tale-03-b.jpg"
+		 height="250" alt="A Skippety Tale"></td>
+	<td><img src="skippety-tale-03-bs.jpg"
+		 height="100" alt="A Skippety Tale"></td>
+      </tr>
+      <tr>
+	<th colspan="3">A Skippety Tale</th>
+      </tr>    
+    </table>
+
+
+    <br />
+    
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a>
+	Matrix</caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Sizes</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type9">Type 9</a></td>
+	<td><a href="../sizes.shtml#maxime">Maxime</a></td>
+	<td>King size is suspected but not verified to exist in Type 9.</td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type10">Type 10</a></td>
+	<td><a href="../sizes.shtml#king">King</a></td>
+	<td>Maxime is suspected but not verified to exist in Type 10.</td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type11">Type 11</a></td>
+	<td><a href="../sizes.shtml#king">King</a>
+	  &nbsp;&nbsp;
+	  <a href="../sizes.shtml#maxime">Maxime</a>
+	</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="skippety-tale-spec-bs.jpg">
+            <img src="skippety-tale-spec-bs.jpg" align="left"
+	         height="50" alt="Click to View Backstamp"></a>
+          Special Backstamp including the name <b>A Skippety Tale</b>
+	  and the date <b>1970</b>
+	</td>
+	<td><a href="../sizes.shtml#king">King</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td>
+	  The Royal Worcester Museum said that some Standard Size
+	  Skippety Tale coddlers were made. We have not verified
+	  this in any collection we know of. If you have a
+	  <b>Standard Size</b> Skippety Tale, please
+	  <a href="/contact/">contact us</a>.
+	</td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

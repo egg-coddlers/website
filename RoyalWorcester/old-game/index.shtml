@@ -1,0 +1,119 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id: index.shtml,v 1.3 2012/03/25 20:56:41 RobJenson Exp
+	 $ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <title>
+      Royal Worcester - Old Game Series
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Old Game Series
+    </h1>
+
+    <p>
+      This pattern consists of a grouse and a hare.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="old-game-02-a.jpg">
+            <img src="old-game-02-a.jpg"
+	         height="250" alt="Old Game Series"></a></td>
+	<td><a href="old-game-02-bs.jpg">
+            <img src="old-game-02-bs.jpg"
+	         height="150" alt="Old Game Series"></a></td>
+      </tr>
+      <tr>
+	<th colspan="2">Old Game Series Pattern</th>
+      </tr>
+
+    </table>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="old-game-03-a.jpg">
+            <img src="old-game-03-a.jpg"
+	         height="250" alt="Old Game Series"></a></td>
+	<td><a href="old-game-03-b.jpg">
+            <img src="old-game-03-b.jpg"
+	         height="250" alt="Old Game Series"></a></td>
+      </tr>
+      
+      <tr>
+	<th colspan="2">Old Game Series Pattern</th>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a>
+	Matrix (Old Game Series)
+      </caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Sizes</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <!-- eBay # 496964651 ended 19 Nov 2000 -->
+      <tr>
+	<td><a href="../types/#Type9">Type 9</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td></td>
+	<td><a href="/sources/#EA">EA</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type10">Type 10</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+          &nbsp;&nbsp;
+          <a href="../sizes.shtml#king">King</a>
+	  &nbsp;&nbsp;
+          <a href="../sizes.shtml#maxime">Maxime</a>
+	</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type11">Type 11</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+          &nbsp;&nbsp;
+          <a href="../sizes.shtml#king">King</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

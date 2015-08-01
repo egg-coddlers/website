@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="manufacturer.css" type="text/css" />
+    <title>Screw Threads on Royal Worcester Coddlers</title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>Screw Threads on Royal Worcester Coddlers</h1>
+
+    <p>
+      The screw threads on the lids of Royal Worcester (RW) coddlers
+      varies by pitch (or number of lines in the thread).  The screw
+      threads at the top of the coddler itself also varies in pitch, and
+      the material from which the top rim of the coddler is made.  Most
+      of the coddler top rims were made of metal (stainless steel),
+      except the rims used in <a href="types/#Type10">Type 10</a>.
+      The rims of Type 10 coddlers (and a possible sub-type
+      of <a href="types/#Type9">Type 9</a>) have a rim made of white
+      nylon.
+    </p>
+    
+    <p>
+      The screw threads of RW coddler types
+      <a href="types/#Type1">Type 1</a>
+      through
+      <a href="types/#Type7">Type 7</a>
+      have the finger-pitched, or tighter
+      screw threads.  These are indicative of an older coddler.  The screw
+      threads of RW coddler types
+      <a href="types/#Type8">Type 8</a>
+      through
+      <a href="types/#Type12">Type 12</a>
+      have the coarser-pitched, sometimes referred to as having "fewer"
+      threads.
+    </p>
+
+    <p>
+      You can count three or four threads on the <u>lid</u> of a coddler of
+      <a href="types/#Type7">Type 7</a>
+      or earlier, Standard or King Size.   You can count four or five
+      threads on the <u>top</u> of a coddler of Type 7 or earlier.
+    </p>
+
+    <p>
+      You can count one or two threads on the <u>lid</u> of a coddler of
+      <a href="types/#Type8">Type 8</a>
+      or later, Standard or King Size.  You can count three or four
+      threads on the <u>top</u> of a coddler of Type 8 or later.
+    </p>
+
+    <p>
+      Coddlers with a backstamp indicating
+      <a href="types/#Type7">Type 7</a>
+      (or earlier) but with lids with fewer screw threads have, most
+      likely, had their lid replaced.  Conversely, the presence of a
+      finer-pitched lid alone should not be used as compelling evidence that
+      the coddler is of an older
+      <a href="types/">type</a>.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="threads-single-comparison.jpg">
+            <img src="threads-single-comparison.jpg" 
+	         alt="Single Size"></a>
+	</td>
+	<td><a href="threads-king-comparison.jpg">
+            <img src="threads-king-comparison.jpg" 
+	         alt="King Size"></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th colspan="2">Side-by-Side Comparison of Threads</th>
+      </tr>
+      
+      <tr>
+	<th>Single Size</th>
+	<th>King Size</th>
+      </tr>
+    </table>
+
+    <br />
+    
+    <!--#include virtual="nav-block.ssi" -->
+    
+  </body>
+</html>

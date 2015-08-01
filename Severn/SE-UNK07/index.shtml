@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <title>
+      Pattern Severn - Pattern SE-UNK07 (Blue Tit bird)
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top">
+
+      <h1>Severn - Pattern SE-UNK07 (Blue Tit bird)</h1>
+
+      <p>This pattern consists of a Blue Tit on a tree with pink blossoms</p>
+
+      <br />
+
+      <table align="center">
+	<tr>
+	  <td><a href="SE-UNK07-01-a.jpg">
+	      <img src="SE-UNK07-01-a.jpg" height="250"
+		   alt="SE-UNK07"></a>
+	    </td>
+	</tr>
+	
+	<tr>
+	  <th>Pattern SE-UNK07 (Blue Tit bird)</th>
+	</tr>
+	
+      </table>
+
+      <br />
+
+      <!--#include virtual="../pattern-nav-block.ssi" -->
+
+      <p>
+	This page was last modified on
+	<!--#echo var="LAST_MODIFIED"-->
+	.<br />
+	<!--#include virtual="/copyright.ssi" -->
+      </p>
+
+  </body>
+</html>

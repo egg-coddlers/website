@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Unknown Manufacturer - UM01: Milton Brook Backstamp
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Unknown Manufacturer - UM01: Milton Brook Backstamp
+    </h1>
+
+    <p>
+      This backstamp consists of the inscriptions
+      <b>MB</b>,
+      <b>MILTON BROOK</b>,
+      and
+      <b>ENGLAND</b>
+      in a circle.  The lids on the coddlers with this backstamp
+      are more rounded than the other
+      <a href="..">UM01</a>
+      coddlers.
+    </p>
+
+    <p>
+      According to one correspondent, Milton Brook was a trade name
+      for porcelain made by
+      <a href="../bs-taylor-tunnicliffe/">Taylor and Tunnicliffe</a>,
+      who were part of the Bullers/Allied Insulators Group of
+      companies who operated from an area in Stoke on Trent known as
+      Milton.
+      </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="bs-milton-brook-01.jpg" align="left"
+		 alt="Milton Brook">
+	</td>
+      </tr>
+    </table>
+
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>Known Types Matrix</caption>
+
+      <tr>
+	<th width="20%">Colour/Pattern</th>
+	<th width="20%">Size</th>
+	<th width="50%">Images (click to enlarge)</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td>White</td>
+	<td>Double</td>
+	<td><a href="white-double-01.jpg">
+            <img src="white-double-01.jpg"
+	         height="100" alt="White"></a>
+	</td>
+	<td><a href="/sources/#EA">EA</a></td>
+      </tr>
+
+      <tr>
+	<td>Reddish Brown - Probably a shade variant on the Brown</td>
+	<td>Double</td>
+	<td><a href="reddish-brown-double-01-a.jpg">
+            <img src="reddish-brown-double-01-a.jpg"
+	         height="100" alt=" Reddish Brown"></a>
+          <a href="reddish-brown-double-01-b.jpg">
+            <img src="reddish-brown-double-01-b.jpg"
+        	 height="100" alt=" Reddish Brown"></a>	    
+          <a href="reddish-brown-double-01-bs.jpg">
+            <img src="reddish-brown-double-01-bs.jpg"
+        	 height="50" alt=" Backstamp (Cropped)"></a>
+	</td>
+	<td><a href="/sources/#EA">EA</a></td>
+      </tr>
+
+      <tr>
+	<td>Brown</td>
+	<td>Single</td>
+	<td><a href="brown-single-01.jpg">
+	    <img src="brown-single-01.jpg" height="100" alt="Brown"></a>
+	  <a href="brown-single-01-bs.jpg">
+	    <img src="brown-single-01-bs.jpg" height="50"
+		 alt="Backstamp"></a>
+	</td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+
+      <tr>
+	<td>White and Yellow Flowers</td>
+	<td>Single</td>
+	<td><a href="white-yellow-flowers-01-a.jpg">
+	    <img src="white-yellow-flowers-01-a.jpg" height="100"
+		 alt="Brown"></a>
+	</td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td>Red and Yellow Flowers</td>
+	<td>Single</td>
+	<td><a href="red-yellow-flowers-01-a.jpg">
+	    <img src="red-yellow-flowers-01-a.jpg" height="100"
+		 alt="Brown"></a>
+	</td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

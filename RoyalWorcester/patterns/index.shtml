@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <meta name="description"
+	  content="Royal Worcester Egg Coddler Pattern Index" />
+    <title>
+      Royal Worcester Patterns
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester Patterns
+    </h1>
+
+    <p>
+
+      These pages contain descriptions and low-resolution images of the
+      patterns that Royal Worcester (RW) used on their egg coddlers over the
+      years.  In many cases, there are several different motifs that are
+      associated with each pattern name.  In other cases, we have pictures
+      of the coddler but we don't know what the name of the pattern is.  To
+      see images of coddlers with the patterns shown (or described), and to
+      learn more about this particular pattern, you must click on the name
+      and/or the image.
+    </p>
+
+    <br />
+
+    <!--#include virtual="pattern-nav-block.ssi" -->
+
+    <p>
+      We have broken up this section into multiple pages so that you can
+      browse patterns in a reasonable amount of time. 
+      Each page is numbered, and will
+      include a navigation block at the top and the bottom to let you
+      browse other pages.  The ordering of the patterns in most of the
+      pages is 
+      <a href="/sources/#BB">Bruce's</a>.  He states:
+      <ul>
+	The coddler designs that I know of are listed in what I believe to be
+	roughly the order of their introduction -- based on the known
+	<a href="../types/">"Types"</a>.
+      </ul>
+    </p>
+
+    <p>
+      Patterns on the last pages do not conform to Bruce's order,
+      or any order at all.  As we learn more about those, they will
+      drift into where we believe they belong in Bruce's ordering
+      scheme.
+    </p>
+
+    <p>    
+      If you have an egg coddler from Royal Worcester (or any
+      <a href="/manufacturers.shtml">manufacturer</a>) that is
+      not shown and/or described on the web site, 
+      please do
+      <a href="/contact/">let us know</a>.
+      We want to provide as complete a reference guide online as is
+      possible, and we need everyone's help to do that.
+    </p>
+
+    <br />
+
+    <!--#include virtual="../nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

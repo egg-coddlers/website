@@ -1,0 +1,131 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>Shafford Coddlers</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+<h1>
+    Shafford Coddlers
+</h1>
+
+    Egg coddlers that have a backstamp identifying them with
+    <b>Shafford</b> do not indicate where the coddler was made.  Other
+    pieces of porcelain made by Shafford have <b>Japan</b> in their
+    backstamps.
+
+<p>
+<a name="Shapes"></a>
+<h2>Shapes</h2>
+<ul>
+    Shafford coddlers are known in two shapes: concave, without a
+    pedestal, and convex with a pedestal.
+</ul>    
+<table align="center" width="50%">
+<tr>
+    <td width="30%" align="top">
+        <a href="shape-concave.jpg">
+            <img src="shape-concave.jpg"
+	        alt="Shafford Concave without Pedestal Shape"></a>
+    </td>
+    <td width="40">&nbsp;</td>
+    <td><a href="shape-convex.jpg">
+            <img src="shape-convex.jpg"
+	        alt="Shafford Convex with Pedestal Shape"></a>
+    </td>		
+</tr>
+
+<tr>
+    <th>Concave without Pedestal</th>
+    <th>&nbsp;</th>
+    <th>Convex with Pedestal</th>
+</tr>    
+</table>
+
+<p>
+<a name="Patterns"></a>
+<h2>Patterns</h2>
+
+<ul>
+    Listed below are brief descriptions and low-resolution images of the
+    patterns of Shafford coddlers.  Click on an image or pattern name
+    for more details.
+</ul>
+
+<p>
+<table border width="100%">
+<tr>
+<th width="20%">Pattern Name<b>
+<a href="#Footnote1"></a></th>
+<th width="25%">Description of Pattern</th>
+<th width="55%">Image</th>
+</tr>
+
+<tr>
+    <th><a href="chinese-garden/">Chinese Garden</a>
+    <td>Bird on a branch with white and lilac flowers.
+        <i><a href="chinese-garden/">[Details]</a></i>
+    <td><a href="chinese-garden/">
+        <img src="chinese-garden/chinese-garden-pat-1.jpg"
+	    height="100"
+	    alt="Chinese Garden"></a>
+        <a href="chinese-garden/">	    
+            <img src="chinese-garden/chinese-garden-pat-2.jpg"
+	        height="100"
+	        alt="Chinese Garden"></a>
+</tr>
+
+<tr>
+    <th><a href="herb-n-spices/">Herb and Spices</a>
+    <td>Decorated with cornflowers.
+        <i><a href="herb-n-spices/">[Details]</a></i>
+    <td><a href="herb-n-spices/">
+        <img src="herb-n-spices/herb-n-spice-pat-1.jpg"
+	    height="100"
+	    alt="Herbs and Spices"></a>
+        <a href="herb-n-spices/">	    
+            <img src="herb-n-spices/herb-n-spice-pat-2.jpg"
+	        height="100"
+                alt="Herbs and Spices"></a>
+        <a href="herb-n-spices/">	    		
+            <img src="herb-n-spices/herb-n-spice-pat-3.jpg"
+	        height="100"
+	        alt="Herbs and Spices"></a>
+</tr>
+
+<tr>
+    <th><a href="persian-garden/">Persian Garden</a>
+    <td>Four sprays of flowers in red, blue, and yellow with green leaves.
+        <i><a href="persian-garden/">[Details]</a></i>
+    <td><a href="persian-garden/">
+        <img src="persian-garden/persian-garden-pat-1.jpg"
+	    height="100"
+	    alt="Persian Garden"></a>
+        <a href="persian-garden/">
+            <img src="persian-garden/persian-garden-pat-2.jpg"
+	            height="100"
+        	    alt="Persian Garden"></a>
+        <a href="persian-garden/">
+            <img src="persian-garden/persian-garden-pat-3.jpg"
+	            height="100"
+        	    alt="Persian Garden"></a>		    
+</tr>
+</table>
+
+<!--#include virtual="/AA-UncertainManu/shafford-sigma-crossref.ssi" -->
+
+<!--#include virtual="../manu-nav-block.ssi" -->
+
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>
+
+
+
+

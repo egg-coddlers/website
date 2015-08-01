@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>Royal Worcester - Quail Pattern</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>Royal Worcester - Quail Pattern</h1>
+
+<p>
+
+<p>
+    This pattern shows a walking quail, with or without a signature
+    beneath the bird.  The reverse side of the
+    coddler is plain white.
+
+<p>
+    We are not sure that the official Royal Worcester name for this
+    pattern was quail.
+
+<p>    
+    If you have example of any of the "bird" patterns
+    ( 
+      <a href="../quail/">Quail</a>,
+      <a href="../bobwhite/">Bobwhite</a>,
+      <a href="../canada-goose/">Canada Goose</a>,
+      <a href="../mallard/">Mallard</a>,
+      or
+      <a href="../pheasant/">Pheasant</a>
+    ), with a clear signature (or clear portions of the signature),
+    please  
+    <a href="/contact/">contact us</a>
+    ... we'd like to try to decipher the signatures.
+
+<p>
+
+<table align="center">
+<tr>
+    <td><a href="quail-4B.jpg">
+            <img src="quail-4B.jpg"
+	        alt="quail"></a>
+    <td><a href="quail-4B-detail.jpg">
+            <img src="quail-4B-detail.jpg"
+	        height="100" alt="Quail - detail">
+</tr>
+</table>
+
+<p>
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix (quail)</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="30%">Sizes</th>
+    <th width="30%">Notes</th>
+    <th width="10%">Sources</th>
+</tr>
+
+<tr>
+    <td><a href="../types/#Type4B">Type 4B</a>
+    <td><a href="../sizes.shtml#standard">Standard</a>
+    <td>Signature beneath the bird.
+    <td><a href="/sources/#4B">BB</a>
+</tr>
+
+</table>
+
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>
+
+
+

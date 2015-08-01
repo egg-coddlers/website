@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Pattern Severn - Pattern SE-UNK13 (Huntsman)
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Severn - Pattern SE-UNK13 (Huntsman)
+    </h1>
+
+    <p>
+      This pattern consists of a huntsman on a horse.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="SE-UNK13-01a.jpg">
+	    <img src="SE-UNK13-01a.jpg" alt="SE-UNK13"></a>
+	</td>
+	<td><a href="SE-UNK13-01b.jpg">
+	    <img src="SE-UNK13-01b.jpg" alt="SE-UNK13"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="2">Pattern SE-UNK13 (Huntsman)</th>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

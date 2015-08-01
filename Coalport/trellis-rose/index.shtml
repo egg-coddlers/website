@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+    <title>
+        Coalport - Trellis Rose
+        </title>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+    Coalport - Trellis Rose
+</h1>
+
+<p>
+    This pattern consists of a delicate necklace of red and blue
+    flowers, and green leaves. This is a double-sized coddler.  There
+    is gold trim at the base of the pedestal.   We have not seen the
+    backstamp.
+    </p>
+
+<table align="center">
+<tr>
+    <td><a href="trellis-rose-01-a.jpg">
+            <img src="trellis-rose-01-a.jpg"
+	        height="250" alt="Trellis Rose"></a>
+        </td>
+    </tr>
+<tr>
+    <th colspan="1">Trellis Rose</a></th>
+    </tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

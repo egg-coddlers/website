@@ -1,0 +1,32 @@
+<!-- BEGIN INCLUDE /Sigma/pattern-nav-block.ssi -->
+<!-- $Id$ --> 
+
+<p><hr width="100%"></p>
+
+<center>
+<table border width="95%">
+<caption>
+<h4>Egg-Coddlers.COM Navigation Bar</h4></caption>
+<tr>
+    <th width=20%"><a href="/">Front Page / Index</a></th>
+    <th width=20%"><a href="/Sigma/">Sigma Coddlers</a></th>
+    <th width=40%" colspan="2" align="center">
+Search Egg-Coddlers.COM:
+<gcse:searchbox-only></gcse:searchbox-only>
+        </th>
+    <th width=20%"><a href="">Top of This Page</a></th>
+    </tr>
+
+<tr>
+    <th><a href="/manufacturers.shtml">Catalog by Manufacturer</a></th>
+    <th><a href="/pattern-xref.shtml">Catalog by Pattern</a></th>
+    <th><a href="/faq.shtml">Frequently Asked Questions</a></th>
+    <th><a href="/whats-new.shtml">What's New Here?</a></th>
+    <th><a href="/guestbook.shtml">Guestbook</a></th>
+    </tr>
+</table>
+</center>
+
+<p><hr width="100%"></p>
+
+<!-- END INCLUDE /Sigma/pattern-nav-block.ssi -->

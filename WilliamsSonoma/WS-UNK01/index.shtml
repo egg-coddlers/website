@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+        <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />    
+    <title>
+      Pattern WS-UNK01
+    </title>
+  </head>
+  <body bgcolor="white">
+    
+    <a name="Top"></a>
+    <h1>
+      Pattern WS-UNK01
+    </h1>
+
+    <p>
+      These coddlers are double-sized cylindrical coddlers.
+      The glaze is a pale cobalt blue.  The inside of the coddler is 
+      white.  These coddlers have no backstamp sticker.  
+      The weight of this coddler (to distinguish it from
+      <a href="../WS-UNK02/">WS-UNK02</a>)
+      is 7.5 oz.  To remove the lid of this coddler, approximately
+      <font size=-1><sup>1</sup>/<sub>3</sub></font>
+      a turn (120 &deg; is necessary.
+    </p>
+
+    <table align="center">
+      <tr>
+	<td><a href="WS-UNK01-01.jpg">
+            <img src="WS-UNK01-01.jpg"
+	         height="250" alt="WS-UNK01"></a>
+	</td>
+	<td><a href="WS-UNK01-01-bs.jpg">
+            <img src="WS-UNK01-01-bs.jpg"
+	         height="150" alt="Backstamp"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="2">Pattern WS-UNK01 (Cobalt Blue)
+      </tr>
+    </table>
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

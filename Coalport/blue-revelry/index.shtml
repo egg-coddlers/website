@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Coalport - Blue Revelry
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Coalport - Blue Revelry
+</h1>
+
+This pattern consists of a white cherub pattern on a blue background.
+The backstamp includes the name of the pattern.
+This is a double-sized coddler.
+
+
+<p>
+<table align="center">
+<tr>
+<td><a href="blue-revelry-pat-3">
+        <img src="blue-revelry-pat-3.jpg"
+	    height="250" alt="Blue Revelry"></a>
+   	    
+</tr>
+</table>
+<p>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+
+</body>
+</html>
+
+
+
+

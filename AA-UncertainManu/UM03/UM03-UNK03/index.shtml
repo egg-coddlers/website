@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <title>
+      Pattern UM03-UNK03 (Two Birds)
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Pattern UM03-UNK03 (Two Birds)
+    </h1>
+
+    <p>
+      These coddlers are double-sized convex coddlers with no pedestal
+      and have corrugated sides.  The shape is the same as coddlers made
+      by <a href="/HouseOfPrill/">House of Prill</a> but they have no
+      backstamp.  The pattern consists of two coloured birds.  One has
+      blue, black, green and a belly of yellow with orange spots.  The
+      other bird's head is green and black with blue and black back and
+      yellow belly. The birds are on a green branch with small fuchsia
+      pink flowers and three tiny orange flowers on a top branch.  This
+      design appears on only one side of the coddler.
+    </p>
+    
+    <table align="center">
+      <tr>
+	<td><a href="UM03-UNK03-01.jpg">
+            <img src="UM03-UNK03-01.jpg"
+	         alt="UM03-UNK03"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="2">UM03-UNK03 (Two Birds)
+      </tr>
+    </table>
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+  </body>
+</html>

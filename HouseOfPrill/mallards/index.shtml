@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+House of Prill - Mallards Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+House of Prill - Mallards Pattern
+</h1>
+
+    This pattern consists of two flying mallard ducks.
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="mallards-01.jpg">
+        <img src="mallards-01.jpg" height="250" alt="Mallards">
+</tr>
+
+<tr>
+    <th colspan="2">Mallards Pattern
+</tr>    
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>
+

@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Unknown Manufacturer - UM50
+    </title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+<h1>
+    Unknown Manufacturer - UM50
+    </h1>
+
+<p>
+    This double-sized convex coddler with no pedestal is almost
+    cylindrical in shape. It has a round lifting ring.
+    </p>
+
+<p>
+    This pattern consists of strawberries.
+    </p>
+
+<table align="center">
+<tr>
+    <td><a href="strawberries-01.jpg">
+            <img src="strawberries-01.jpg" align="top"
+                height="250" alt="UM50-UNK01"></a>
+        </td>		
+    </tr>
+<tr>
+    <th>Pattern UM50-UNK01</th>
+    </tr>
+</table>
+
+<!--#include virtual="/AA-UncertainManu/convex-cylindrical-crossref.ssi" -->
+
+<!--#include virtual="../../manu-nav-block.ssi" -->
+</body>
+</html>

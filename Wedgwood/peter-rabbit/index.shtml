@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />    
+
+    <title>
+      Wedgwood - Peter Rabbit
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Wedgwood - Peter Rabbit
+    </h1>
+
+    <p>
+      This pattern consists of scenes and quotations from the Beatrice
+      Potter's Book  <u>The Tale of Peter Rabbit</u>.  We know of one
+      version of the single size and two versions of the double size
+      egg coddlers.
+    </p>
+    
+    <h2>Single Size</h2>
+
+    <table align="center">
+      <tr>
+	<td><img src="peter-rabbit-small-06-a.jpg"
+		 height="250" alt="Peter Rabbit Small">
+	  <img src="peter-rabbit-small-06-b.jpg"
+	       height="250" alt="Peter Rabbit Small">
+	  <img src="peter-rabbit-small-06-c.jpg"
+	       height="250" alt="Peter Rabbit Small">
+	  <img src="peter-rabbit-small-06-bs.jpg"
+	       alt="Backstamp">	    
+      </tr>
+    </table>
+
+    <br />
+
+    <h2>Double Size</h2>
+
+    <table align="center">
+      <tr>
+	<td><img src="peter-rabbit-large-05-a.jpg"
+		 height="250" alt="Peter Rabbit Large">
+	  <img src="peter-rabbit-large-05-b.jpg"
+	       height="250" alt="Peter Rabbit Large">
+	  <img src="peter-rabbit-large-05-c.jpg"
+	       height="250" alt="Peter Rabbit Large">
+	  <img src="peter-rabbit-large-05-d.jpg"
+	       height="250" alt="Peter Rabbit Large">	    
+	  <img src="peter-rabbit-large-05-bs.jpg"
+	       alt="Backstamp">	    
+      </tr>
+    </table>
+
+    <br />
+
+    <h2>Double Size - Second Version</h2>
+
+    <table align="center">
+      <tr>
+	
+	<td><a href="peter-rabbit-large-v2-01a_750px.jpg">
+	    <img src="peter-rabbit-large-v2-01a_250px.jpg"
+		 alt="Peter Rabbit Large - Second Version"></a>
+	</td>
+	
+	<td><a href="peter-rabbit-large-v2-01d_750px.jpg">
+	    <img src="peter-rabbit-large-v2-01d_250px.jpg"
+		 alt="Peter Rabbit Large - Second Version">
+	</td>
+
+	<td><a href="peter-rabbit-large-v2-01b_750px.jpg">
+	    <img src="peter-rabbit-large-v2-01b_250px.jpg"
+		 alt="Peter Rabbit Large - Second Version"></a>
+	</td>
+	<td><a href="peter-rabbit-large-v2-01c_750px.jpg">
+	    <img src="peter-rabbit-large-v2-01c_250px.jpg"
+		 alt="Peter Rabbit Large - Second Version"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<td colspan="4" align="center">Click on an image for more
+	  detail</td>
+      </tr>
+      
+    </table>
+    
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

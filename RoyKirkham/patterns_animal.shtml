@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- ident "@(#) $Id$" -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="manufacturer.css" type="text/css" />
+
+    <title>
+      Roy Kirkham Egg Coddlers - Bird and Animal Patterns
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Roy Kirkham Egg Coddlers - Bird and Animal Patterns
+    </h1>
+
+    <table border width="100%">
+      <tr>
+	<th width="20%">Pattern Name</th>
+	<th width="25%">Description of Pattern</th>
+	<th width="55%">Image</th>
+      </tr>
+
+      <tr>
+	<td><a href="doglovers/">Dog Lovers</a></td>
+	<td>Celebrates dogs.
+          <i><a href="doglovers/">[Details]</a></i></td>
+	<td><a href="doglovers/">
+            <img src="doglovers/doglovers-01.jpg"
+		 height="100"  alt="Dog Lovers"></a></td>
+      </tr>
+
+      <tr>
+	<td><a href="catlovers/">Cat Lovers</a></td>
+	<td>Celebrates cats.
+          <i><a href="catlovers/">[Details]</a></i></td>
+	<td><a href="catlovers/">
+            <img src="catlovers/catlovers-01.jpg"
+		 height="100"  alt="Cat Lovers"></a></td>
+      </tr>
+      
+      <tr>
+	<td><a href="bluegardenbird/">Garden Bird</a></td>
+	<td>Features a blue tit.
+          <i><a href="bluegardenbird/">[Details]</a></i></td>
+	<td><a href="bluegardenbird/">
+            <img src="bluegardenbird/bluegardenbird-01.jpg"
+		 height="100"  alt="Blue Garden Bird"></a></td>
+      </tr>
+      
+      <tr>
+	<td><a href="shirehorses/">Shire Horses</a></td>
+	<td>Features Shire horses.
+          <i><a href="shirehorses/">[Details]</a></i></td>
+	<td><a href="shirehorses/">
+            <img src="shirehorses/shirehorses-01.jpg"
+		 height="100"  alt="Shire Horses"></a></td>
+      </tr>
+
+      <tr>
+	<td><a href="butterflies/">Butterflies</a></td>
+	<td>Celebrates butterflies.
+	  <i><a href="butterflies/">[Details]</a></i></td>
+	<td><a href="butterflies/">
+	    <img src="butterflies/butterflies-01.jpg"
+		 height="100" alt="Butterflies"></a></td>
+      </tr>
+      
+      <tr>
+	<td><a href="natures-way/">Nature's Way</td>
+	<td>Celebrates nature.
+	  <i><a href="natures-way/">[Details]</a></i></td>
+	<td><a href="natures-way/">
+	    <img src="natures-way/natures-way-pat-1.jpg"
+		 alt="Nature's Way"></a></td>
+      </tr>
+
+      <tr>
+	<td><a href="owls/">Owls</td>
+	<td>Celebrates owls.
+	  <i><a href="owls/">[Details]</a></i></td>
+	<td><a href="owls/">
+	    <img src="owls/owls-pat-1.jpg"
+		 alt="Owls"></a></td>
+      </tr>
+
+      <tr>
+	<td><a href="penguins/">Penguins</td>
+	<td>Celebrates penguins.
+	  <i><a href="penguins/">[Details]</a></i></td>
+	<td><a href="penguins/">
+	    <img src="penguins/penguins-pat-1.jpg"
+		 alt="Penguins"></a></td>
+      </tr>
+      
+      <tr>
+	<td><a href="wild-animals/">Wild Animals</td>
+	<td>Celebrates wild animals.
+	  <i><a href="wild-animals/">[Details]</a></i></td>
+	<td><a href="wild-animals/">
+	    <img src="wild-animals/wild-animals-pat-1.jpg"
+		 alt="Wild Animals"></a></td>
+      </tr>
+
+    </table>
+
+    <br />
+    
+    <!--#include virtual="pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+    
+  </body>
+</html>

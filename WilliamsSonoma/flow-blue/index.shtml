@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Flow Blue Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Flow Blue Pattern
+    </h1>
+
+    <p>
+      These coddlers are double-sized cylindrical coddlers.
+      The pattern is a flow-blue vine with flowers and leaves around
+      the body of the coddler.  A ring of floral markings is 
+      at the top and bottom of the coddler.
+    </p>
+
+    <p>
+      This coddler was for sale in the 2001 Williams-Sonoma catalogue
+      (set of four for $24.00).
+    </p>
+
+
+    <p>
+      These coddlers have a backstamp, with the incriptions:
+      <b>WILLIAMS-SONOMA</b>,
+      <b>Flow Blue</b> (in large script),
+      <b>DISHWASHER AND MICROWAVE SAFE</b>,
+      <b>MADE IN CHINA</b>.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="flow-blue-01-a_full.jpg" 
+	         alt="Williams Sonoma Flow Blue Pattern">
+	</td>
+
+	<td><img src="flow-blue-01-b_full.jpg"
+	         alt="Williams Sonoma Flow Blue Pattern">
+	</td>
+
+	<td><img src="flow-blue-01-bs.jpg"
+	         alt="Williams Sonoma Flow Blue Backstamp">
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="3">Pattern WS-UNK05 (Flow-blue Flower)</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+  </body>
+</html>
+
+
+

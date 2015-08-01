@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    
+    <!-- @(#) $Id$ -->
+
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+
+    <meta name="description"
+	  content="Egg coddler with images of Chinese birds." />
+    
+    <title>
+      Unknown Manufacturer - UM78 (Chinese Birds)
+    </title>
+
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Unknown Manufacturer - UM78 (Chinese Birds)      
+    </h1>
+    
+    <p>
+
+      These egg coddlers are double-sized. The pattern is Chinese
+      birds. The backstamp is not known
+    </p>
+
+    <br />
+    
+    <h2>UM78-UNK01</h2>
+
+    <table align="center" width="60%">
+      <tr>
+	<td>
+	  <a href="UM78-UNK01-1.jpg">
+            <img src="UM78-UNK01-1.jpg"
+		 height="250" alt="UM78-UNK01"></a>
+	</td>
+
+      </tr>
+    </table>
+
+    <br />
+
+      <!--#include virtual="/manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

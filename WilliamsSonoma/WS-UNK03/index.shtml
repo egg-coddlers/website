@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />    
+    <title>
+      Pattern WS-UNK03
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Pattern WS-UNK03
+    </h1>
+
+    <p>
+      These coddlers are double-sized cylindrical coddlers.
+      The pattern is a flow-blue cluster of leaves with a blue ring at
+      the top and bottom of the coddler.
+      These coddlers have a backstamp sticker that says <b>Made in
+	China</b>, <b>Williams-Sonoma</b>, and <b>Grande Cuisine</b>, with
+      the reversed "GC" logo in the centre. 
+    </p>
+
+    <p>
+      This coddler was for sale in the 1998/1999 Williams-Sonoma catalogue.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="WS-UNK03-01.jpg">
+            <img src="WS-UNK03-01.jpg"
+	         alt="WS-UNK03"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th>Pattern WS-UNK03 (Flow-blue Leaves)</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="WS-UNK03-02.jpg">
+            <img src="WS-UNK03-02.jpg"
+	         alt="WS-UNK03" /></a>
+	</td>
+	<td><a href="WS-UNK03-02-bs.jpg">
+              <img src="WS-UNK03-02-bs.jpg"
+	           alt="WS-UNK03"></a>		
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="2">Pattern WS-UNK03 (Flow-blue Leaves)</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

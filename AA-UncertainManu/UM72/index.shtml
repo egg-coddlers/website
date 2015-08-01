@@ -1,0 +1,182 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="manufacturer.css" type="text/css" />
+    <meta name="Description"
+	  content="Coddlers of plants and flowers - with two shapes -
+		   ribbed or smooth." />
+    <title>
+      UM72 Double Coddlers - either ribbed or smooth.
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      UM72 Double Coddlers - either ribbed or smooth.
+    </h1>
+
+    <p>
+      This is a grouping of double size convex coddlers, decorated
+      with plants or flowers. 
+      Each comes in two different types - either ribbed, very similar to
+      <a href="/HouseOfPrill/">House of Prill</a> coddlers - or smooth.
+    </p>
+
+    <p>
+      There is no backstamp.
+    </p>
+
+    <p>
+      See also similarly shaped corrugated egg-coddlers by
+      <a href="/Windsor/">Windsor</a>, and also
+      <a href="/AA-UncertainManu/UM03/">Unknown Manufacturer:
+      UM03</a>.
+      </p>
+    
+    <br />
+    
+    <h2>UM72-UNK01</h2>
+
+    <table align="center">
+      <tr>
+	<td><a href="UM72-UNK01R-01.jpg">
+            <img src="UM72-UNK01R-01.jpg"
+	         height="250" alt="UM72-UNK02 Ribbed"></a>
+	</td>
+	<td><a href="UM72-UNK01S-01.jpg">
+            <img src="UM72-UNK01S-01.jpg"
+	         height="250" alt="UM72-UNK02 Smooth"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<td>UM72-UNK01 Ribbed</td>
+	<td>UM72-UNK01 Smooth</td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <h2>UM72-UNK02</h2>
+
+    <table align="center">
+      <tr>
+	<td><a href="UM72-UNK02R-01.jpg">
+            <img src="UM72-UNK02R-01.jpg"
+	         height="250" alt="UM72-UNK02 Ribbed"></a>
+	</td>
+	<td><a href="UM72-UNK02S-01.jpg">
+            <img src="UM72-UNK02S-01.jpg"
+	         height="250" alt="UM72-UNK02 Smooth"></a>
+        </td>
+      </tr>
+
+      <tr>
+	<td>UM72-UNK02 Ribbed</td>
+	<td>UM72-UNK02 Smooth</td>
+      </tr>
+
+    </table>
+
+    <br />
+    
+    <h2>UM72-UNK03</h2>
+
+    <table align="center">
+      <tr>
+	<td><a href="UM72-UNK03R-01.jpg">
+            <img src="UM72-UNK03R-01.jpg"
+		 height="250" alt="UM72-UNK03 Ribbed"></a>
+	</td>
+	<td><a href="UM72-UNK03S-01.jpg">
+            <img src="UM72-UNK03S-01.jpg"
+		 height="250" alt="UM72-UNK03 Smooth"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<td>UM72-UNK03 Ribbed</td>
+	<td>UM72-UNK03 Smooth</td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <h2>UM72-UNK04</h2>
+
+    <table align="center">
+      <tr>
+	<td><a href="UM72-UNK04R-01.jpg">
+            <img src="UM72-UNK04R-01.jpg"
+		 height="250" alt="UM72-UNK04 Ribbed"></a>
+	</td>
+	<td><a href="UM72-UNK04S-01.jpg">
+            <img src="UM72-UNK04S-01.jpg"
+		 height="250" alt="UM72-UNK04 Smooth"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<td>UM72-UNK04 Ribbed</td>
+	<td>UM72-UNK04 Smooth</td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <h2>UM72-UNK05 (Orange Lilies)</h2>
+
+    <table align="center">
+      <tr>
+	<td><a href="UM72-UNK05R-01.jpg">
+            <img src="UM72-UNK05R-01.jpg"
+		 height="250" alt="UM72-UNK05 Ribbed"></a>
+	</td>
+	<td><a href="UM72-UNK05S-01.jpg">
+            <img src="UM72-UNK05S-01.jpg"
+		 height="250" alt="UM72-UNK05 Smooth"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<td>UM72-UNK05 Ribbed
+	  <a href="#Footnote_1"><sup>[1]</sup></a></td>
+	<td>UM72-UNK05 Smooth</td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <h2>UM72-UNK06 (Orange Daisies with Yellow Centres)</h2>
+
+    <p>Pictures to be added.</p>
+
+    <br />
+
+    <h2>Notes</h2>
+    <a name="Footnote_1"></a>
+    <p>
+      <b>[1]</b> Photo Courtesy of Morris Jones, Alberta, Canada.
+      </p>
+
+    <br />
+
+    <!--#include virtual="/manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

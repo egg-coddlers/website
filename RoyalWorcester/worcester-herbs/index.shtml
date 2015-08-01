@@ -1,0 +1,112 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Royal Worcester - Worcester Herbs Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Worcester Herbs Pattern
+</h1>
+
+<p>
+    This pattern consists of several herbs.  The standard size
+    coddlers show wild thyme and sage.  The king size coddlers show
+    peppermint and parsley.  Each picture is captioned with the common
+    name of the herb and the botanical name of the herb.
+    </p>
+
+<br />
+
+<table align="center">
+<tr>
+    <td><img src="worcester-herbs-01-a.jpg"
+        alt="Worcester Herbs - Standard Size">
+	</td>
+    <td><img src="worcester-herbs-01-b.jpg"
+        alt="Worcester Herbs - Standard Size">
+	</td>
+    </tr>
+</table>
+
+<br />
+
+<table align="center">
+<tr>
+    <td><img src="worcester-herbs-02-a.jpg"
+        alt="Worcester Herbs - King Size" height="200">
+	</td>
+    <td><img src="worcester-herbs-02-b.jpg"
+        alt="Worcester Herbs - King Size" height="200">
+	</td>
+    </tr>
+</table>
+
+<br />
+
+<table align="center">
+<tr>
+    <td><img src="rwherbsjumbo1.jpg"
+        alt="Worcester Herbs - Jumbo Size"height="200" >
+	</td>
+    <td><img src="rwherbsjumbo2.jpg"
+        alt="Worcester Herbs - Jumbo Size"height="200" >
+	</td>
+    <td><img src="rwherbsjumbo3.jpg"
+        alt="Worcester Herbs - Jumbo Size"height="200" >
+	</td>
+    </tr>
+</table>
+
+<br />
+
+<a name="Knowntypes"></a>
+
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix (Worcester Herbs)</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="35%">Sizes</th>
+    <th width="35%">Notes</th>
+    <th width="10%">Sources</th>
+    </tr>
+
+<tr>
+    <td><a href="../types/#Type12">Type 12</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>Pattern shows wild thyme and sage.</td>
+    <td><a href="/sources/#BB">BB</a></td>
+    </tr>
+
+<tr>
+    <td><a href="../types/#Type12">Type 12</a></td>
+    <td><a href="../sizes.shtml#king">King</a></td>
+    <td>Pattern shows peppermint and parsley.</td>
+    <td><a href="/sources/#BB">BB</a></td>
+    </tr>
+
+<tr>
+    <td><a href="../types/#Type12">Type 12</a></td>
+    <td><a href="../sizes.shtml#jumbo">Jumbo</a></td>
+    <td>Pattern shows Rosemary and Wild Thyme</td>
+    <td><a href="/sources/#BB">BB</a></td>
+    </tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

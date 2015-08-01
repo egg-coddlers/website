@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>Royal Worcester - RW-UNK62 (Blue-Green Ivy Leaves)</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>Royal Worcester - RW-UNK62 (Blue-Green Ivy Leaves)</h1>
+
+<p>
+    This is an old Royal Worcester coddler, with no ring on the
+    lid. The backstamp is Type 1.
+    </p>
+
+<br />
+
+<table align="center">
+    <tr>
+        <td><a href="RW-UNK62-01-a.jpg">
+	        <img src="RW-UNK62-01-a.jpg"
+		    height="200"
+		    alt="RW-UNK62"></a>
+            </td>
+        <td><a href="RW-UNK62-02-a.jpg">
+	        <img src="RW-UNK62-02-a.jpg"
+		    height="100"
+		    alt="RW-UNK62"></a>
+            </td>
+        </tr>
+    <tr>
+        <th colspan="2">RW-UNK62 - Ivy Leaves</th>
+	</tr>
+</table>
+
+<br />
+<table border width="100%">
+<caption>Known
+    <a href="../types">Types</a> Matrix</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="30%">Sizes</th>
+    <th width="30%">Notes</th>
+    <th width="10%">Sources</th>
+</tr>
+
+<tr>
+    <td><a href="../types/#Type1">Type 1</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#BB">BB</a></td>     
+    </tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

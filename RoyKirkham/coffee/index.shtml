@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Roy Kirkham - Coffee Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Roy Kirkham - Coffee Pattern
+</h1>
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="coffee-01.jpg">
+            <img src="coffee-01.jpg"
+	        height="200 alt="Coffee Pattern"></a>
+
+</tr>
+
+<tr>
+    <th colspan="2">Coffee Pattern
+</tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

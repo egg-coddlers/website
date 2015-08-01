@@ -1,0 +1,40 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Royal Worcester - Made for Felix Martin
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+    Royal Worcester - Made for Felix Martin
+</h1>
+
+<p>
+    This pattern is the logo, address, and telephone number of
+    <a href="http://www.felixmartin.ch">Felix Martin</a>,
+    a Swiss electronics shop.  It was produced by Royal Worcester
+    for that company.
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="felix-martin-01.jpg">
+        <img src="felix-martin-01.jpg"
+	    height="250" alt="Felix Martin"></a>
+</tr>
+
+<tr>
+    <th colspan="1">Special Pattern for Felix Martin
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

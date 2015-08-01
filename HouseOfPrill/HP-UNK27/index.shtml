@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <meta name="description"
+	  content="Egg coddlers from House of Prill.
+		   These coddlers are double-sized convex coddlers
+		   with no pedestal and have corrugated sides. This
+		   pattern consists of A large pink Tulip, and other flowers,
+		   in a diagonal spray." /> 
+    <title>
+      HP-UNK27 (Pink Tulip)
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Pattern HP-UNK27 (Pink Tulip)
+    </h1>
+
+    <p>
+      These coddlers are double-sized convex coddlers with no pedestal
+      and have corrugated sides. This pattern consists of A large pink
+      Tulip, and other flowers, in a diagonal spray.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="HP-UNK27-01_750px.jpg">
+            <img src="HP-UNK27-01_250px.jpg" alt="HP-UNK06"></a>
+	  </td>
+      </tr>
+
+      <tr>
+	<th>Pattern HP-UNK27</th>
+      </tr> 
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

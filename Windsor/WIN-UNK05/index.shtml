@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Windsor - WIN-UNK05 (Fruit)
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Windsor - WIN-UNK05 (Fruit)
+    </h1>
+
+    <p>
+      This pattern consists of fruit (peaches, we think).
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="WIN-UNK05-01.jpg"
+		 alt="WIN-UNK05 Pattern"></td>
+      <tr>
+	<th colspan="1">Pattern WIN-UNK05 (Fruit)</th>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

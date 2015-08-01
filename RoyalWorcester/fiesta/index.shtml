@@ -1,0 +1,327 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Royal Worcester - Fiesta Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+    Royal Worcester - Fiesta Pattern
+</h1>
+
+<p>
+    This pattern consists of musical instruments, fruit, vegetables,
+    and leaves in shades of green.  We have catalogued eight unique
+    decals that were used for this pattern.  In many cases, three
+    different decals were used to decorate a coddler.  However, we
+    also have seen examples with two decals, and there is no reason to
+    believe that there are Fiesta coddlers with three of the same
+    decal (though we have not yet seen one). It is very possible that
+    every unique combination of three decals was manufactured and
+    released by Royal Worcester.  We have
+    <a href="#combinations">listed below</a> 
+    those combinations that we have seen.
+<p>
+
+<a name="decals"></a>
+<table align="center">
+<tr>
+    <td><a href="instrandveg-01.jpg">
+            <img src="instrandveg-01.jpg" height="200"
+	        alt="Decal D-1"></a>
+    <td><a href="instrandveg-02.jpg">
+            <img src="instrandveg-02.jpg" height="200"
+	        alt="Decal D-2"></a>
+    <td><a href="instrandveg-04.jpg">
+            <img src="instrandveg-04.jpg" height="200"
+                alt="Decal D-3"></a>
+</tr>
+
+<tr>
+    <th>Decal D-1 (Pear, Recorder, Leaves)
+    <th>Decal D-2 (Cherries, Leaves)
+    <th>Decal D-3 (Cymbals, Leaf)
+</tr>
+
+<tr>
+    <td><a href="instrandveg-06.jpg">
+            <img src="instrandveg-06.jpg" height="200"
+	        alt="Decal D-4"></a>
+    <td><a href="instrandveg-07.jpg">
+            <img src="instrandveg-07.jpg" height="200"
+	        alt="Decal D-5"></a>
+    <td><a href="decal-D-6.jpg">
+            <img src="decal-D-6.jpg" height="200"
+	        alt="Decal D-6"></a>
+</tr>
+
+<tr>
+    <th>Decal D-4 (Castanets)
+    <th>Decal D-5 (Oranges[?], Leaves)
+    <th>Decal D-6 (Blueberries[?])
+</tr>
+
+<tr>
+    <td><a href="decal-D-7.jpg">
+            <img src="decal-D-7.jpg" height="200"
+	        alt="Decal D-7"></a>
+    <td><a href="decal-D-8.jpg">
+            <img src="decal-D-8.jpg" height="200"
+	        alt="Decal D-8"></a>
+    <td>&nbsp;				
+</tr>
+
+<tr>
+    <th>Decal D-7 (Triangle, Plum[?])
+    <th>Decal D-8 ([?],[?])
+    <th>&nbsp;
+</tr>
+</table>
+<p>
+
+<table border=3 width="50%" align="center">
+<tr>
+    <th><a href="fiesta-examples.shtml">Click Here to View More Fiesta
+    Images</a>
+</tr>
+</table>    
+<p>
+<a name="combinations"></a>
+<h2>Fiesta Decal Combinations</h2>
+    In order to disambiguate identification of Fiesta decal
+    combinations, we have given "names" to each decal pattern (D-1,
+    D-2, ..., D-8).  Those names are our own, as is the ordering schema.
+    We don't know how Royal Worcester designers identified or ordered
+    the decals. 
+
+<p>    
+    To identify a the decal combination of a Fiesta coddler, follow
+    the following steps: 
+    <ol>
+        <li>Find the decal number for each picture on the coddler by
+            comparing them to the images above.
+        <li>Stand the coddler upright such that the picture with the
+            lowest decal number is facing you.  D-1 is the lowest decal
+            number, D-2 is next, and so on up to D-6.  Unless the
+            coddler has two matching pictures, you should never be
+            starting with a D-7 or D-8 picture first.  The decal
+            number of the picture facing you is the first in the 
+            three-decal combination.  In the case of multiples of the
+            same decal being the lowest decal number, start with the
+            first one.
+        <li>Rotate the coddler clockwise 120 degrees.  The picture
+            that was to the right of your first decal should be facing
+            you.  The decal number of this picture is the second of
+            the combination.
+        <li>Turn the coddler another 120 degrees.  The picture that
+            was to the left of the first decal should now be facing
+            you.  The decal number of this decal is the third of the
+            combination.
+    </ol>	    
+<p>
+
+    To clarify: a coddler with decals D-1, D-3, and D-5 could be
+    either a "D-1, D-3, D-5" or a "D-1, D-5, D-3" combination.  Those
+    would be two distinct coddler variations.
+<p>
+    As always, the Royal Worcester craftsmen did not always place the
+    decals in the same alignment vertically from one example to the
+    next.  There are any number of variations of how the decal is
+    positioned relative to the pictures above.  We're not going to try
+    to catalogue the infinite number of variations of these.
+
+<p>
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix (Fiesta)</caption>
+<tr>
+    <th width="30%">Decals</th>
+    <th width="10%">Type</th>
+    <th width="20%">Size</th>
+    <th width="30%">Notes</th>
+    <th width="10%">Source</th>
+</tr>
+
+<tr>
+    <td>D-1, D-2, D-6</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td><b>Might be a D-1,D-6,D-2</b></td>
+    <td><a href="/sources/#AC">AC-02</a></td>
+</tr>
+
+<tr>
+    <td>D-1, D-3, D-4</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td><b>Might be a D-1,D-4,D-3</b></td>    
+    <td><a href="/sources/#EA">EA</a></td>
+        <!-- eBay item #462417628, closed 15 Oct 2000 --> 
+</tr>
+
+<tr>
+    <td>D-1, D-4, D-7</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td><b>Might be a D-1,D-7,D-4</b></td>
+    <td><a href="/sources/#EA">EA</a></td>
+</tr>
+
+<tr>
+    <td>D-1, D-5, D-7</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>The D-5 decal is upside-down from the orientation shown above.</td>
+    <td><a href="/sources/#EA">EA</a></td>
+        <!-- eBay item #500940227, closed 16 Nov 2000 -->
+        <!-- Verified positioning. Example 11. -->    
+</tr>
+
+<tr>
+    <td>D-1, D-6, D-4</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-08</a></td>
+        <!-- Verified positioning. Example 8 -->
+</tr>
+
+<tr>
+    <td>D-1, D-6, D-8</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-12</a></td>
+        <!-- Verified positioning. -->
+</tr>
+
+<tr>
+    <td>D-1, D-7, D-5</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-05</a></td>
+            <!-- Verified positioning. -->
+</tr>
+
+<tr>
+    <td>D-1, D-7, D-6</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-08</a></td>
+            <!-- Verified positioning. Example 9 -->
+</tr>
+
+<tr>
+    <td>D-1, D-8, D-3</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-08</a></td>
+        <!-- Verified positioning. --> 
+</tr>
+
+<tr>
+    <td>D-2, D-5, D-4</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-12</a></td>
+        <!-- Verified positioning. -->
+</tr>
+
+<tr>
+    <td>D-2, D-7, D-6</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-05</a></td>
+            <!-- Verified positioning. -->
+</tr>
+
+<tr>
+    <td>D-2, D-7, D-8</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-12</a></td>
+            <!-- Verified positioning. -->
+</tr>
+
+<tr>
+    <td>D-3, D-3, D-7</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-08</a></td>
+            <!-- Verified positioning. -->
+</tr>
+
+<tr>
+    <td>D-3, D-5, D-6</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-05</a></td>
+            <!-- Verified positioning. -->
+</tr>
+
+<tr>
+    <td>D-3, D-6, D-8</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-12</a></td>
+        <!-- Verified positioning. -->
+</tr>
+
+<tr>
+    <td>D-3, D-7, D-5</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-18</a></td>
+        <!-- Verified positioning. -->     
+</tr>
+
+<tr>
+    <td>D-4, D-5, D-7</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-18</a></td>
+        <!-- Verified positioning. --> 
+</tr>
+
+<tr>
+    <td>D-5, D-5, D-7</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>Second D-5 decal is rotated approx. 45&deg; clockwise from the
+    example above.</td>
+    <td><a href="/sources/#AC">AC-08</a></td>
+            <!-- Verified positioning. -->
+</tr>
+
+<tr>
+    <td>D-5, D-8, D-7</td>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-05</a></td>
+        <!-- Verified positioning. --> 
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

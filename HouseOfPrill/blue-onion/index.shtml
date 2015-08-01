@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <title>
+      House of Prill - Blue Onion Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      House of Prill - Blue Onion Pattern
+    </h1>
+
+    <p>
+      This pattern is similar to the classic blue and white pattern seen
+      on other coddlers. There are two House of Prill variations that we
+      know of. Another example of Blue Onion is seen from
+      <a href="/AA-UncertainManu/UM11/">Unknown Manufacturer UM11</a>.
+    </p>
+    
+    <p>
+      <table align="center">
+	<tr>
+	  <td><a href="blue-onion-01.jpg">
+              <img src="blue-onion-01.jpg"
+		   height="250" alt="Blue Onion"></a>
+	  </td>
+	  <td><a href="blue-onion-02_750px.jpg">
+	      <img src="blue-onion-02_250px.jpg"
+		   alt="Blue Onion"></a>
+	  </td>
+	</tr>
+
+	<tr>
+	  <th colspan="2">Blue Onion Pattern</th>
+	</tr>    
+      </table>
+
+      <br />
+
+      <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+

@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      T.G. Green - Pattern TG-UNK09
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      T.G. Green - Pattern TG-UNK09
+    </h1>
+
+    <p>
+      These coddlers are decorated with a basket of bright red roses.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="TG-UNK09-01.jpg">
+	    <img src="TG-UNK09-01.jpg"
+		 height="250" alt="TG-UNK09"></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th>Pattern TG-UNK09</th>
+      </tr>
+      
+    </table>
+
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>
+	Known
+	<a href="../#Types">Types</a>
+	Matrix (TG-UNK09)
+      </caption>
+      
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td>Not known</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+      </tr>
+      
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

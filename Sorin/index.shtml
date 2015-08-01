@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <meta name="description"
+	  content="Egg coddlers from Sorin." />
+    <title>
+      Sorin Egg Coddlers
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Sorin Egg Coddlers
+    </h1>
+    <p>
+      Egg coddlers made in France.
+    </p>
+
+    <br />
+
+    <h2>Patterns</h2>
+
+
+    <h3>SO-UNK01</h3>
+    <p>
+      Pictures of chldren eating from coddlers - and a maid delivering a
+      coddler with toast soldiers. 
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="Sorin-UNK01-01-a.jpg">
+            <img src="Sorin-UNK01-01-a.jpg" height="250"
+                 alt="Sorin-UNK01 Pattern"></a>
+        </td>
+	<td><a href="Sorin-UNK01-01-b.jpg">
+            <img src="Sorin-UNK01-01-b.jpg" height="250"
+                 alt="Sorin-UNK01 Pattern"></a>
+        </td>
+	<td><a href="Sorin-UNK01-bs.jpg">
+            <img src="Sorin-UNK01-bs.jpg" height="150"
+                 alt="Sorin-UNK01 Pattern"></a>
+        </td>
+      </tr>
+      <tr>
+        <th colspan="3">Sorin-UNK01</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="/manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

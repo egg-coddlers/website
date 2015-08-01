@@ -1,0 +1,167 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Windsor - WIN-UNK99 (Months of the Year)
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Windsor - WIN-UNK99 (Months of the Year)      
+    </h1>
+
+    <p>
+      Windsor made a set of twelve egg coddlers, one for each month of
+      the year. We have not yet obtained images of each month, but we
+      do have a an image of their advertisement that shows all twelve.
+    </p>
+
+    <br />
+
+    <table align="center">
+
+      <tr>
+	<td><a href="WIN-UNK99-mar-01a_750px.jpg">
+	    <img src="WIN-UNK99-mar-01a_250px.jpg"
+		 alt="WIN-UNK99 March"></a></td>
+	
+	<td><a href="WIN-UNK99-mar-01b_750px.jpg">
+	    <img src="WIN-UNK99-mar-01b_250px.jpg"
+		 alt="WIN-UNK99 March"></a></td>
+      </tr>
+
+      <tr>
+	<th colspan="2">WIN-UNK99 March</th>
+      </tr>
+
+      <tr>
+	<td colspan="2" align="center">
+	  Click on an image to view in more detail.
+        </td>    
+      </tr>
+
+    </table>
+
+    <br />
+    <br />
+
+    <table align="center">
+
+      <tr>
+	<td><img src="WIN-UNK99-apr-01a.jpg"
+		 alt="WIN-UNK99 April"></td>
+	
+	<td><a href="WIN-UNK99-apr-01b_full.jpg">
+	    <img src="WIN-UNK99-apr-01b_232px.jpg"
+		 alt="WIN-UNK99 April"></a></td>
+      </tr>
+
+      <tr>
+	<th colspan="2">WIN-UNK99 April</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <table align="center">
+
+      <tr>
+	<td><a href="WIN-UNK99-jun-01a_750px.jpg">
+	    <img src="WIN-UNK99-jun-01a_250px.jpg"
+		 alt="WIN-UNK99 June"></a></td>
+	
+	<td><a href="WIN-UNK99-jun-01b_750px.jpg">
+	    <img src="WIN-UNK99-jun-01b_250px.jpg"
+		 alt="WIN-UNK99 June"></a></td>
+      </tr>
+
+      <tr>
+	<th colspan="2">WIN-UNK99 June</th>
+      </tr>
+
+      <tr>
+	<td colspan="2" align="center">
+	  Click on an image to view in more detail.
+        </td>    
+      </tr>
+
+    </table>
+    
+    <br />
+    <br />
+
+    <table align="center">
+
+      <tr>
+	<td><a href="WIN-UNK99-aug-01a_750px.jpg">
+	    <img src="WIN-UNK99-aug-01a_250px.jpg"
+		 alt="WIN-UNK99 August"></a></td>
+	
+	<td><a href="WIN-UNK99-aug-01b_750px.jpg">
+	    <img src="WIN-UNK99-aug-01b_250px.jpg"
+		 alt="WIN-UNK99 August"></a></td>
+      </tr>
+
+      <tr>
+	<th colspan="2">WIN-UNK99 August</th>
+      </tr>
+
+      <tr>
+	<td colspan="2" align="center">
+	  Click on an image to view in more detail.
+        </td>    
+      </tr>
+
+    </table>
+
+    <br />
+    <br />
+
+    <table border="0" align="center" width="60">
+      <tr>
+	<td><a href="WIN-UNK99-brochure_full.jpg">
+	    <img src="WIN-UNK99-brochure_300px.jpg"
+		 alt="Windsor Monthly Pattern Brochure"></td>
+      </tr>
+
+      <tr>
+	<th>Windsor Monthly Patterns Brochure
+	  <a href="#Footnote_1"><sup>[1]</sup></a>
+	</th>
+      </tr>
+
+      <tr>
+	<td align="center">Click on image for more detail.</td>
+      </tr>
+
+    </table>
+    
+    <br />
+
+    <h2>Notes</h2>
+    <a name="Footnote_1"></a>
+    <p>
+      <b>[1]</b> Photo Courtesy of Yvonne Lott.
+    </p>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+

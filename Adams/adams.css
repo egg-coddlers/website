@@ -1,0 +1,27 @@
+/* #ident "@(#) $Id$" */
+
+/* Cascading Style Sheet for Adams Coddlers */
+
+/* Our default background is white */
+body {	background-color: #ffffff; }
+/* default to full separator lines - override in individual hrs */
+hr { width: 100%; }
+
+/* Class typetbl is for the table of types */
+table.typetbl { margin-left: 10%; margin-right: 10%;  text-align: center; }
+td.typetbl1 { width: 15%; text-align: left; }
+td.typetbl2 { width: 85%; text-align: left; }
+
+/* Class pattbl is for the table of pattern variations */
+
+table.pattbl { width: 100%; left-indent: 5%; right-indent: 5%; }
+tr.pattbl {}
+th.pattbl1 { width: 15%; text-align: center; }
+th.pattbl2 { width: 60%; text-align: center; }
+th.pattbl3 { width: 25%; text-align: left;}
+td.pattbl1 { width: 15%; text-align: center;}
+td.pattbl2 { width: 60%; text-align: left; }
+td.pattbl3 { width: 25%; text-align: left;}
+
+
+/* End of Adams Style Sheet */

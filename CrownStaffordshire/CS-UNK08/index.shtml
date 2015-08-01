@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Crown Staffordshire - CS-UNK08 (Bunch of Flowers - Roses etc.)
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+    Crown Staffordshire - CS-UNK08 (Bunch of Flowers - Roses etc.)
+</h1>
+
+    This pattern consists of a bunch of various flowers - including red roses and blue (cornflowers?)
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="CS-UNK08-01.jpg">
+            <img src="CS-UNK08-01.jpg"
+	        height="250" alt="CS-UNK08"></a>
+    <td><a href="CS-UNK08-01-bs.jpg">
+            <img src="CS-UNK08-01-bs.jpg"
+	        height="100" alt="Backstamp"></a>		
+</tr>
+<tr>
+    <th colspan="2">Crown Staffordshire CS-UNK08
+</table>
+
+<p>
+<table border width="100%">
+<caption>
+    Known Variations Matrix (CS-UNK08)
+</caption>
+<tr>
+    <th width="20%"><a href="../#Lids">Lid</a></th>
+    <th width="20%"><a href="../#LiftingRings">Lifting Ring</th>
+    <th width="30%">Size/Notes</th>
+    <th width="10%">Source</th>
+</tr>
+
+<tr>
+    <td>Quick Release
+    <td>Flat
+    <td>&nbsp;
+    <td><a href="/sources/#AC">EB</a>
+</tr>
+
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>Unknown Manufacturer - UM22</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+<h1>Unknown Manufacture - UM22</h1>
+</a>
+
+This is a double-size cylindrical-shaped coddler.
+The pattern consists of pink and purple flowers.
+The backstamp says <b>Japan</b>.
+
+<p>
+<table align="center">
+<tr>
+<td><a href="pink-purple-flowers-01.jpg">
+        <img src="pink-purple-flowers-01.jpg" align="top"
+            height="250" alt="UM22-UNK01"></a>
+</tr>
+<tr>
+<th>Pattern UM22-UNK01
+</tr>
+</table>
+
+<p>
+<!--#include virtual="../cylindrical-crossref.ssi" -->
+<p>
+<!--#include virtual="../../manu-nav-block.ssi" -->
+</body>
+</html>

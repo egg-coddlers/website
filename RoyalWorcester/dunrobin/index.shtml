@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Royal Worcester - Dunrobin Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Dunrobin Pattern
+</h1>
+
+<p>
+This pattern consists of sprays of heather.
+
+<ul>
+    Although most have the same set of decals, I have seen one that
+    had some distinct variations. -- <a href="/sources/#BB">BB</a>.
+</ul>    
+
+
+<!-- Use the next block to center the images nicely -->
+<p>
+<table align="center">
+
+<tr>
+<td><img src="dunrobin-01.jpg" alt="Dunrobin">
+</tr>
+
+<tr>
+<td><img src="dunrobin-02.jpg" alt="Dunrobin (King Size)">
+</tr>
+
+</table>
+<!-- Delete the above block if you have no pictures -->
+
+<p>
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix</caption>
+<tr>
+<th width="20%">Type</th>
+<th width="30%">Sizes</th>
+<th width="30%">Notes</th>
+<th width="10%">Sources</th>
+</tr>
+
+<tr>
+<td><a href="../types/#Type7">Type 7</a>
+<td><a href="../sizes.shtml#standard">Standard</a>
+&nbsp;&nbsp;
+    <a href="../sizes.shtml#king">King</a>
+<td>&nbsp;
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

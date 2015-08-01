@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->    
+
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <title>
+      Aynsley - Marlina Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+    
+    <a name="Top"></a>
+
+    <h1>
+      Aynsley - Marlina Pattern
+    </h1>
+
+    <p>
+      Blue, Yellow, and Orange Flowers.
+    </p>
+
+    <br />
+    <table align="center">
+      <tr>
+
+	<td><a href="marlina-01a_750px.jpg">
+	    <img src="marlina-01a_250px.jpg"
+		 alt="Marlina"></a>
+	</td>
+
+	<td><a href="marlina-01b_750px.jpg">
+	    <img src="marlina-01b_250px.jpg"
+		 alt="Marlina"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="3">Aynsley Marlina Pattern</th>
+      </tr>
+    </table>
+    
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

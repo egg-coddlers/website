@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Roy Kirkham - Garden Rose Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Roy Kirkham - Garden Rose Pattern
+</h1>
+
+    This pattern consists of a red and yellow roses
+    The pattern appears twice, on opposite
+    faces of the coddler.  (Click on either image to view in more
+    detail).   The copyright date of this pattern is <b>2004</b>.
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="garden_rose-01.jpg">
+            <img src="garden_rose-01.jpg"
+	        height="200 alt="garden_rose Pattern"></a>
+    <td><a href="garden_rose-01-bs.jpg">
+            <img src="garden_rose-01-bs.jpg"
+	        height="100" alt="Backstamp"></a>
+</tr>
+
+<tr>
+    <th colspan="2">Garden Rose Pattern
+</tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <title>
+      Roy Kirkham - Vivid Blooms Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Roy Kirkham - Vivid Blooms Pattern
+    </h1>
+
+    <p>
+      This pattern consists of a purple flowers, surrounded by text.
+    </p>
+
+    <table align="center">
+      <tr>
+	<td><a href="vivid-blooms-01_750px.jpg">
+            <img src="vivid-blooms-01_250px.jpg"
+		 alt="Vivid Blooms Pattern"></a></td>
+      </tr>
+
+      <tr>
+	<th colspan="1">Vivid Blooms Pattern</th>
+      </tr>
+
+      <tr>
+	<td align="center">Click on image to view in more detail.</td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

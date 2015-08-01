@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Pattern HP-UNK17 (Grapes and Blue Band)
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+      <h1>
+	Pattern HP-UNK17 (Grapes and Blue Band)
+      </h1>
+
+      <p>
+	These coddlers are double-sized convex coddlers with no pedestal
+	and have corrugated sides. There are two variants to this
+	pattern. Both consist of grapes with large green leaves. One
+	has a wide blue band, the other has a blue triangle.
+      </p>
+
+      <table align="center">
+	<tr>
+	  <td><a href="HP-UNK17-01_full.jpg">
+              <img src="HP-UNK17-01_250px.jpg" alt="HP-UNK17"></a>
+          </td>
+
+	  <td><a href="HP-UNK17-02_750px.jpg">
+	      <img src="HP-UNK17-02_250px.jpg" alt="HP-UNK17"></a>
+	    </td>
+	</tr>
+
+	<tr>
+	  <th colspan="2">HP-UNK17 (Grapes and Blue Band)</th>
+	</tr>
+	
+      </table>
+
+      <!--#include virtual="../pattern-nav-block.ssi" -->
+
+      <p>
+	This page was last modified on
+	<!--#echo var="LAST_MODIFIED"-->
+	.<br />
+	<!--#include virtual="/copyright.ssi" -->
+      </p>
+
+  </body>
+</html>
+
+
+

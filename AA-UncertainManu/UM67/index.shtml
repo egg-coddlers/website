@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <!-- @(#) $Id$ -->
+<head>
+<meta name="description"
+      content="Egg coddlers with bright flowers, dominated by red poppies,
+        in a blue and brown oval frame. These are convex coddlers,
+        with a square lifting ring.">
+<title>
+    UM67 - Bright red flowers in a blue and brown oval frame
+</title>
+<link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+<link rel="stylesheet" href="manufacturer.css" type="text/css" />
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+<h1>
+    UM67 - Bright red flowers in a blue and brown oval frame
+</h1>
+
+
+<p>
+    These coddlers are decorated with bright flowers, dominated by red poppies,
+    in a blue and brown oval frame. 
+    These are convex coddlers, with a square lifting ring.
+</p>
+
+<p>We do not know what backstamps they have.
+    </p>
+
+
+<h2>UM67-UNK01</h2>
+
+
+<table align="center">
+<tr>
+  <td>
+    <a href="UM67-UNK01-a.jpg">
+      <img src="UM67-UNK01-a.jpg"
+	   height="250" alt="UM67-UNK01"></a>
+  </td>
+</tr>
+</table>
+
+<br />
+
+<!--#include virtual="/manu-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

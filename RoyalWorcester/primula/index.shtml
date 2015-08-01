@@ -1,0 +1,118 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <title>
+      Royal Worcester - Primula Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Primula Pattern
+    </h1>
+
+    <p>
+      This pattern consists of primulas in a flower pot.  There are four
+      decals in four colours around the coddler: orange, lavender, blue,
+      and red.
+
+    <p>
+      <table align="center">
+	<tr>
+	  <td><a href="primula-ks-02-a.jpg">
+              <img src="primula-ks-02-a.jpg" height="250"
+	           alt="Primula"></a></td>
+	  <td><a href="primula-ks-02-b.jpg">
+	      <img src="primula-ks-02-b.jpg" height="250"
+	           alt="Primula"></a></td>
+	  <td><a href="primula-ks-02-c.jpg">
+	      <img src="primula-ks-02-c.jpg" height="250"
+		   alt="Primula"></a></td>
+	  <td><a href="primula-ks-02-d.jpg">
+	      <img src="primula-ks-02-d.jpg" height="250"
+		   alt="Primula"></a></td>
+	</tr>
+
+	<tr>
+	  <th colspan="4">Primula Pattern - King Size</th>
+	</tr>
+
+      </table>
+
+      <br />
+
+      <a name="Example2"></a>
+      <table align="center">
+	<tr>
+	  <td><a href="primula-samp-02-a.jpg">
+              <img src="primula-samp-02-a.jpg"  height="250"
+	           alt="Primula Sample"></a></td>
+	  <td><a href="primula-samp-02-b.jpg">
+	      <img src="primula-samp-02-b.jpg" height="250"
+	           alt="Primula Sample"></a></td>
+	  <td><a href="primula-samp-02-c.jpg">
+	      <img src="primula-samp-02-c.jpg" height="250"
+		   alt="Primula Sample"></a></td>
+	  <td><a href="primula-samp-02-d.jpg">
+	      <img src="primula-samp-02-d.jpg" height="250"
+		   alt="Primula Sample"></a></td>	
+	</tr>
+
+	<tr>
+	  <th colspan="4">Primula Pattern - Design Sample</th>
+	</tr>
+
+      </table>
+
+      <br />
+
+      <a name="Knowntypes"></a>
+
+      <table border width="100%">
+	<caption>Known
+	  <a href="../types">Types</a>
+	  Matrix (Primula)</caption>
+	<tr>
+	  <th width="20%">Type</th>
+	  <th width="35%">Sizes</th>
+	  <th width="35%">Notes</th>
+	  <th width="10%">Sources</th>
+	</tr>
+
+	<tr>
+	  <td><a href="../types/#Type12">Type 12</a></td>
+	  <td><a href="../sizes.shtml#standard">Standard</a>
+            &nbsp;&nbsp;
+	    <a href="../sizes.shtml#king">King</a></td>
+	  <td></td>
+	  <td><a href="/sources/#BB">BB</a></td>
+	</tr>
+
+	<tr>
+	  <td></td>
+	  <td><a href="../sizes.shtml#king">King</a></td>
+	  <td>Design sample,  <a href="#Example2">shown above</a>.</td>
+	  <td><a href="/sources/#BB">BB</a></td>
+	</tr>
+
+      </table>
+
+      <br />
+
+      <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+    <title>
+        Coalport - Indian Tree
+        </title>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    </head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Coalport - Indian Tree
+</h1>
+
+<p>
+    This pattern consists of the classic Indian Tree pattern, with
+    pink buds and green stems and leaves intertwined around the belly
+    of the coddler. The backstamp includes the name of the
+    pattern. This is a double-sized coddler.
+    </p>
+
+<p>
+    This pattern is very similar to
+    <a href="../indian-tree-coral/">Indian Tree Coral</a>.
+    </p>
+
+<table align="center">
+<tr>
+    <td><a href="indian-tree-01.jpg">
+        <img src="indian-tree-01.jpg"
+	    height="250" alt="Indian Tree"></a>
+        </td>        
+    <td><a href="indian-tree-01-bs.jpg">	    
+        <img src="indian-tree-01-bs.jpg"
+	    height="100" alt="Backstamp">
+        </td>
+    </tr>
+
+<tr>
+    <th>Indian Tree</th>
+    </tr>                    
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

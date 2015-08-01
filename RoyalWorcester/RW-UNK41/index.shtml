@@ -1,0 +1,97 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Royal Worcester - RW-UNK41 (Blue Oriental Motif)
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - RW-UNK41 (Blue Oriental Motif)
+    </h1>
+
+    <p>
+      This pattern consists of a blue oriental motif that has some
+      feature similarities to the
+      <a href="../willow/">Willow</a>
+      pattern, but it isn't the same.  According to a contact at
+      Royal Worcester, a version of the Willow pattern was produced
+      between 1890 and 1902 at the Grainger factory.  We don't know if
+      this is it.
+    </p>
+
+    <br />
+    <table align="center">
+      <tr>
+	<td><a href="RW-UNK41-01-a.jpg">
+            <img src="RW-UNK41-01-a.jpg"
+	         height="250" alt="RW-UNK41"></a>
+	</td>
+	<td><a href="RW-UNK41-01-b.jpg">
+            <img src="RW-UNK41-01-b.jpg"
+	         height="250" alt="RW-UNK41"></a>
+	</td>
+	<td><a href="RW-UNK41-01-c.jpg">
+            <img src="RW-UNK41-01-c.jpg"
+	         height="250" alt="RW-UNK41"></a>
+	</td>
+      </tr>
+
+      <tr>		
+	<td><a href="RW-UNK41-01-d.jpg">
+            <img src="RW-UNK41-01-d.jpg"
+	         height="250" alt="RW-UNK41"></a>
+	</td>
+	<td></td>
+	<td><a href="RW-UNK41-01-bs.jpg">
+            <img src="RW-UNK41-01-bs.jpg"
+	         height="150" alt="Backstamp"></a>
+      </tr>
+
+      <tr>
+	<th colspan="3">Pattern RW-UNK41 - Type 1 Backstamp</th>
+      </tr>    
+    </table>
+
+    <br />
+
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a>
+	Matrix (RW-UNK41)</caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="30%">Sizes</th>
+	<th width="30%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type1">Type 1</a></td>
+	<td><a href="../sizes.shtml/#standard">Standard</a></td>
+	<td></td>
+	<td><a href="/sources/#AC">AC-04</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

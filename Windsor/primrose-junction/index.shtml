@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Windsor - English Life : Primrose Junction
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Windsor - English Life : Primrose Junction
+    </h1>
+
+    <p>
+      This pattern shows people in and around a cafe. The pattern
+      includes <b>Primrose Junction</b> as a caption.  The backstamp
+      includes <b>English Life</b>, <b>Windsor</b>, and
+      <b>Under licence from Wade</b> as well as a pair of birds.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="primrose-junction-01.jpg"
+		 alt="Primrose Junction"></td>
+
+	<td><img src="primrose-junction-01-bs.jpg"
+		 alt="Primrose Junction Backstamp"></td>
+      </tr>
+
+      <tr>
+	<th colspan="2">English Life : Primrose Junction</th>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

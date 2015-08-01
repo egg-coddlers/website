@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <title>Wedgwood - Gourmet</title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>Wedgwood - Gourmet</h1>
+
+    <p>This pattern consists of a strawberry and flower and eight
+    blueberries. </p>
+
+      <table align="center">
+	<tr>
+	  <td><a href="gourmet-01.jpg">
+              <img src="gourmet-01.jpg"
+		   alt="Gourmet"></a>
+	    <a href="gourmet-01-bs.jpg">
+              <img src="gourmet-01-bs.jpg"
+		   alt="Backstamp"></a>
+	  </td>
+	</tr>
+
+	<tr>
+	  <th colspan="2">Gourmet Pattern</th>
+	</tr>
+      </table>
+
+      <br />
+
+      <table border width="100%">
+	<caption>Known Variations Matrix (Gourmet)</caption>
+	<tr>
+	  <th width="20%"><a href="../#Sizes">Sizes</a></th>
+	  <th width="20%">Name on Backstamp?</th>
+	  <th width="50%">Notes</th>
+	  <th width="10%">Sources</th>
+	</tr>
+
+	<tr>
+	  <td>Single</td>
+	  <td>Yes</td>
+	  <td>&nbsp</td>
+	  <td><a href="/sources/#EA">EA</a></td>
+	</tr>
+
+
+	<tr>
+	  <td>Single</td>
+	  <td>No</td>
+	  <td>&nbsp</td>
+	  <td><a href="/sources/#BB">BB</a></td>
+	</tr>
+
+	<tr>
+	  <td>Double</td>
+	  <td>Yes</td>
+	  <td>&nbsp</td>
+	  <td><a href="/sources/#BB">BB</a></td>
+	</tr>
+
+	<tr>
+	  <td>Double</td>
+	  <td>No</td>
+	  <td>&nbsp</td>
+	  <td><a href="/sources/#BB">BB</a></td>
+	</tr>
+      </table>
+      
+      <br />
+      
+      <!--#include virtual="../pattern-nav-block.ssi" -->
+
+      <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+      </p>
+
+  </body>
+</html>
+
+

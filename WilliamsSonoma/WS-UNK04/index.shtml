@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $ID$ -->
+    <title>
+      Pattern WS-UNK04
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Pattern WS-UNK04
+    </h1>
+
+    <p>
+      These coddlers are double-sized cylindrical coddlers.
+      The pattern is a flow-blue flower (rose?, tulip?) with a blue ring
+      at the top and bottom of the coddler.
+    </p>
+
+    <p>
+      This coddler was for sale in the 2000 Williams-Sonoma catalogue
+      (set of four for $24.00).
+    </p>
+    
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="WS-UNK04-catalog.jpg">
+	    <img src="WS-UNK04-catalog.jpg" height="250"
+	         alt="WS-UNK04"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th>Pattern WS-UNK04 (Flow-blue Flower)</th>
+      </tr>
+    </table>
+
+    <br />
+
+      <!--#include virtual="../pattern-nav-block.ssi" -->
+  </body>
+</html>
+
+
+

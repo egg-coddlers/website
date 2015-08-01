@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Royal Worcester - RW-UNK45 (Green Shamrocks)
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - RW-UNK45 (Green Shamrocks)
+    </h1>
+
+    <p>
+      This pattern consists of a wreath of shamrocks, or three-leaf
+      clovers, around the body of the coddler.
+    </p>
+    
+    <p>
+      There is also a much earlier pattern with blue shamrocks: <a href="../RW-UNK95">RW-UNK95</a>.
+    </p>
+
+    <br />
+
+    <a name="Example_Type11"></a>
+    <table align="center">
+      <tr>
+	<td><img src="RW-UNK45-01-b.jpg" alt="RW-UNK45"></td>
+	<td><img src="RW-UNK45-01-c.jpg" alt="RW-UNK45"></td>
+	<td><img src="RW-UNK45-01-d.jpg" alt="RW-UNK45"></td>							<td><img src="RW-UNK45-01-bs.jpg"alt="Backstamp"></td>
+      </tr>
+
+      <tr>
+	<th colspan="4">RW-UNK45 -- Shamrocks</th>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a>
+	Matrix</caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Sizes</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type11">Type 11</a></td>
+	<td><a href="../sizes.shtml/#standard">Standard</a></td>
+	<td><a href="#Example_Type11">Shown above</a>.</td>
+	<td><a href="/sources/#AC">AC-12</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

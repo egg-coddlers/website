@@ -1,0 +1,48 @@
+<!-- BEGIN INCLUDE /RoyalWorcester/patterns/pattern-nav-block.ssi -->
+<!-- ident "@(#) $Id$" -->
+
+<br />
+
+<table border=5 width="90%" align="center">
+  <caption>
+    <b>Royal Worcester Patterns</b>
+  </caption>
+
+  <tr>
+    <th><a href="patterns-p01.shtml">Page 1</a></th>
+    <th><a href="patterns-p02.shtml">Page 2</a></th>
+    <th><a href="patterns-p03.shtml">Page 3</a></th>
+  </tr>
+
+  <tr>
+    <th><a href="patterns-p04.shtml">Page 4</a></th>
+    <th><a href="patterns-p05.shtml">Page 5</a></th>
+    <th><a href="patterns-p06.shtml">Page 6</a></th>
+
+  </tr>
+
+  <tr>
+    <th><a href="patterns-p07.shtml">Page 7</a></th>
+    <th><a href="patterns-p08.shtml">Page 8</a></th>
+    <th><a href="patterns-p09.shtml">Page 9</a></th>
+  </tr>
+
+  <tr>
+    <th>&nbsp;</th>
+    <th><a href="patterns-p10.shtml">Page 10</a></th>
+    <th>&nbsp;</th>
+  </tr>
+
+  <tr>
+    <th colspan="3">
+      <a href="patterns-all.shtml">
+	Show All Patterns on Single Page
+	</a></th>
+  </tr>
+
+</table>
+
+<br />
+
+<!-- END INCLUDE /RoyalWorcester/patterns/pattern-nav-block.ssi -->
+

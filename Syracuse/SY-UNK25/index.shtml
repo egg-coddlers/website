@@ -1,0 +1,91 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Syracuse - Pattern SY-UNK25 (Yellow Chick)
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Syracuse - Pattern SY-UNK25 (Yellow Chick)
+    </h1>
+
+    <p>
+      This pattern consists of a baby chick on a green base with a broken egg.
+    </p>
+    
+    <br />
+
+    <table align="center">
+      <tr>
+	<td align="center"><img src="SY-UNK25-1.jpg"
+		 alt="Extra large size, no pedestal,
+		      pink flowers, with orange EGG backstamp"></td>
+      </tr>
+
+      <tr>
+	<th>SY-UNK25 -- Yellow Chick</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <table width="100%" border>
+      <caption>
+	Known Variations Matrix (Pattern SY-UNK25)
+      </caption>    
+      <tr>
+	<th width="11%">
+          <a href="../#characteristics_body_size">Body Size</a>:
+	</th>
+	<th width="11%">
+          <a href="../#characteristics_body_style">Pedestal
+            (Y/N)</a>:
+	</th>
+	<th width="11%">
+          <a href="../#characteristics_bs_colour">Backstamp
+            Colour</a>:
+	</th>
+	<th width="11%">
+          <a href="../#characteristics_bs_style">Backstamp
+            Style</a>:
+	</th>
+	<th width="11%">
+          <a href="../#characteristics_bs_dates">Backstamp
+            Dates</a>:
+	</th>
+	<th width="34%">Notes:</th>
+	<th width="11%">Source:</th>
+      </tr>
+
+      <tr>
+	<td>KLarge</td>
+	<td>Y</td>
+	<td>orange</td>
+	<td>EGG</td>
+	<td>2</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+

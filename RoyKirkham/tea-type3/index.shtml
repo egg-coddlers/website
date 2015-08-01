@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Roy Kirkham - Tea-type3 Pattern
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Roy Kirkham - Tea (Type 3) Pattern
+    </h1>
+
+    <p>   
+      The pattern appears twice, on opposite
+      faces of the coddler.
+    </p>
+
+    <p>
+      <table align="center">
+	<tr>
+	  <td><a href="tea-type3-01_750px.jpg">
+              <img src="tea-type3-01_250px.jpg"
+		   alt="Tea (Type 3) Pattern"></a></td>
+	  <td><a href="tea-type3-02_750px.jpg">
+              <img src="tea-type3-02_250px.jpg"
+		   alt="Tea (Type 3) Pattern"></a></td>
+	</tr>
+
+	<tr>
+	  <th colspan="2">Tea (Type 3) Pattern</th>
+	</tr>
+
+	<tr>
+	  <td colspan="2" align="center">Click on an image to view in more detail.</td>
+	</tr>
+
+      </table>
+
+      <br />
+      <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

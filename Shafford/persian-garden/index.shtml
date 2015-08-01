@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Shafford - Persian Garden Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Shafford - Persian Garden Pattern
+</h1>
+
+This coddler comes in two shapes: one convex with a pedestal and the other
+concave with no pedestal.  The pattern consists of four sprays of
+flowers in red, blue, and  yellow with green leaves. 
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="persian-garden-01.jpg">
+            <img src="persian-garden-01.jpg" height="200"
+	        alt="Persian Garden"></a>
+</tr>
+
+<tr>
+    <th>Persian Garden Pattern - Convex  Coddler with Pedestal
+</tr>    		
+</table>
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="persian-garden-02-a.jpg">
+            <img src="persian-garden-02-a.jpg" height="200"
+	        alt="Persian Garden"></a>
+    <td><a href="persian-garden-02-b.jpg">
+            <img src="persian-garden-02-b.jpg" height="200"
+	        alt="Persian Garden"></a>
+    <td><a href="persian-garden-02-c.jpg">
+            <img src="persian-garden-02-c.jpg" height="200"
+	        alt="Persian Garden"></a>
+    <td><a href="persian-garden-02-bs.jpg">
+            <img src="persian-garden-02-bs.jpg" height="100"
+	        alt="Persian Garden"></a>		
+</tr>
+
+<tr>
+    <th colspan="4">Persian Garden Pattern - Conex Coddler with Pedestal
+</tr>    		
+</table>
+
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

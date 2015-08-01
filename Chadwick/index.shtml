@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+
+    <title>
+      Chadwick Egg Coddlers
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Chadwick Egg Coddlers
+    </h1>    
+
+    <p>
+      These are convex porcelain cups with white Bakelite lids that were
+      sold as egg cookers.  The lid sits on top of the body, without any
+      threading or strap to hold it down.  These coddlers were sold in
+      pairs with a dipping stand with which to lower them into boiling
+      water and lift them out. They come in both clear and opaque
+      white versions.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="plainwhite-01-a.jpg">
+            <img src="plainwhite-01-a.jpg"
+	         height="250" align="top"
+                 alt="Chadwick coddlers" /></a>
+	</td>
+	<td><a href="plainwhite-01-b.jpg">
+            <img src="plainwhite-01-b.jpg"
+	         height="250" align="top"
+                 alt="Chadwick coddlers" /></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="2">Chadwick Coddlers with Stand</th>
+      </tr>
+    </table>    
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="plainwhite-01-box.jpg">
+            <img src="plainwhite-01-box.jpg"
+	         height="200" align="top"
+                 alt="Chadwick box" /></a>
+	</td>
+      </tr>
+    </table>		    
+
+    <br />
+    <!--#include virtual="../manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+
+  </body>
+</html>
+

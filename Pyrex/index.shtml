@@ -1,0 +1,160 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="manufacturer.css" type="text/css" />
+    <title>
+      Pyrex Egg Coddlers
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Pyrex Egg Coddlers
+    </h1>
+
+    <p>
+      Pyrex has made several different styles of egg coddlers.
+      At least one style is documented on page 28 of the book
+      <u>Pyrex ... the Unauthorized Collector's Guide</u>.
+    </p>
+    
+    <p>
+      The style designations given below are our own invention for
+      distinguishing between coddlers.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="PY-SSALNC-01.jpg">
+            <img src="PY-SSALNC-01.jpg"
+                 height="250" alt="Pyrex PY-SSALNC Style"></a>
+	</td>
+	<td><a href="PY-SSALNC-02.jpg">
+            <img src="PY-SSALNC-02.jpg"
+                 height="250" alt="Pyrex PY-SSALNC Style"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="2">Pyrex Style PY-SSALNC</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="PY-SSALNC-03-b.jpg">
+            <img src="PY-SSALNC-03-b.jpg"
+                 height="200" alt="Pyrex PY-SSALNC Style"></a>
+	</td>
+	<td><a href="PY-SSALNC-03-c.jpg">
+            <img src="PY-SSALNC-03-c.jpg"
+                 height="200" alt="Pyrex PY-SSALNC Style"></a>
+	</td>
+	<td><a href="PY-SSALNC-03-a.jpg">
+            <img src="PY-SSALNC-03-a.jpg"
+                 height="200" alt="Pyrex PY-SSALNC Style"></a>
+	</td>
+      </tr>
+      <tr>
+	<th colspan="3">Pyrex Style PY-SSALNC with Stand</th>
+      </tr>
+    </table>
+
+    <p>
+      <b>PY-SSALNC</b> is a single-sized coddler (2&frac12; inches tall)
+      made of clear glass.  The lid is made of aluminum, including the
+      knob.  These coddlers were sold in sets of three, with a wire
+      stand to raise and lower the coddlers into boiling water.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="PY-SSPLNC-01.jpg">
+            <img src="PY-SSPLNC-01.jpg"
+                 height="250" alt="Pyrex PY-SSPLNC Style"></a>
+	</td>
+      </tr>
+      <tr>
+	<th>Pyrex Style PY-SSPLNC</th>
+      </tr>    
+    </table>	    
+
+    <p>
+      <b>PY-SSPLNC</b> is a single-sized coddler made of clear glass.
+      The lid is made of plastic.  These were sold in pairs with a metal
+      rack to raise and lower the coddlers into boiling water.  The
+      bottom of the coddler is marked <b>PYREX</b> and <b>FRANCE</b>.
+      Each coddler came with a foldout sheet of directions and recipes,
+      titled "L'Oeuf Pyrex".  In very small letters, requiring a
+      magnifying glass, the following is printed:
+      <b>D & G, Paris, R.C., Siene 55 B 11600</b>.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="PY-DSGLMC-01.jpg">
+            <img src="PY-DSGLMC-01.jpg"
+                 height="250" alt="Pyrex PY-DSGLMC Style"></a>
+      </tr>
+
+      <tr>
+	<th>Pyrex Style PY-DSGLMC</th>
+      </tr>    
+    </table>	    
+
+    <p>
+      <b>PY-DSGLMC</b> is a double-sized coddler made of clear glass.
+      The lid is also made of clear glass.  The lid is held to the body
+      of the coddler during cooking with a metal clip.  Pyrex called
+      these items <b>French Egg Poachers</b>.
+    </p>
+
+    <br />
+
+    <p>
+      <b>PY-DSTOPWIRE</b> is a double-sized coddler made of clear glass.
+      The lid is also made of clear glass.  The lid is held to the body
+      of the coddler during cooking with a metal wire that runs over the
+      top ridge.  Pyrex called
+      these items <b>French Egg Poachers</b>.
+    </p>
+
+    <p>
+      Picture to be added soon.
+    </p>
+
+    <br />
+
+    <p>
+      <b>PY-SSTOPWIRE</b> is a single-sized coddler made of clear glass.
+      The lid is also made of clear glass.  The lid is held to the body
+      of the coddler during cooking with a metal wire that runs over the
+      top ridge.  Pyrex called these items <b>French Egg Poachers</b>.
+    </p>
+
+    <p>
+      Picture to be added soon.
+    </p>
+
+    <!--#include virtual="../manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

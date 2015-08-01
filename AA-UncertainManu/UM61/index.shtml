@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    
+    <title>
+      Unknown Manufacturer - UM61 (Red and Blue Flowered Pattern)
+    </title>
+
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Unknown Manufacturer - UM61 (Red and Blue Flowered Pattern)      
+    </h1>
+
+    <p>
+      This is a double-size coddler, with a large pedestal and a round
+      lifting ring. The pattern consists of red and blue stylised
+      flowers around the rim, with a red line around the base. We have
+      only ever seen these coddlers for sale in Germany, and suspect a
+      German Manufacturer.
+    </p>
+
+    <p>
+      The packaging says <b>GLOBE SHOPPER</b>, <b>Schlemmer-Ei</b>
+      (Gourmet Egg), <b>mit rostfreiem Deckel</b> (with stainless
+      lid).
+      </p>
+
+    <br />
+
+      <table align="center">
+	<tr>
+	  <td>
+	    <a href="UM61-UNK01-02.jpg">
+              <img src="UM61-UNK01-02.jpg"
+	           height="250" alt="UM61-UNK01" /></a>
+          </td>		
+	</tr>
+	
+	<tr>
+	  <th>Pattern UM61-UNK01</th>
+	</tr>
+      </table>
+
+      <!--#include virtual="../../manu-nav-block.ssi" -->
+  </body>
+</html>

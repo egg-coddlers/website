@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>Royal Worcester - RW-UNK77 (Cross-Keys (Company Logo?))</title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>Royal Worcester - RW-UNK77 (Cross-Keys (Company Logo?))</h1>
+
+    <p>
+      This is a plain white coddler, with a single logo on it - crossed
+      keys over what looks like an "f". We suspect that it is a company
+      logo.
+    </p>
+
+    <br />
+    
+    <table>
+      <tr>
+        <td><img src="RW-UNK77-01-a.jpg" alt="RW-UNK77"></a></td>
+      </tr>
+
+      <tr>
+	<th>RW-UNK77 Cross-Keys (Company Logo?)</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a> Matrix</caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="30%">Sizes</th>
+	<th width="30%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type12">Type 12</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>     
+      </tr>       
+    </table>
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

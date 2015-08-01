@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Adams - Pattern AD-UNK03 (ABC's/123's)
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Adams - Pattern AD-UNK03 (ABC's/123's)
+    </h1>
+
+    <p>
+      This pattern consists of the letters of the alphabet, in upper
+      and lower case, and the numbers from 1 to 20, around the body of
+      the coddler. Both red and blue versions exist.
+      </p>
+    
+    <p>
+      The examples we've  seen to date all have
+      a <a href="../#Type2">Type 2</a> backstamp.
+    </p>
+
+    <p>
+      Both the single size (approx. 3&frac12;" tall) and the double size
+      (approx. 4" tall) are known.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td>
+          <a href="AD-UNK03-01.jpg">
+            <img src="AD-UNK03-01.jpg"
+	         height="200" alt="AD-UNK03 (Blue)"></a>
+	</td>
+	
+	<td>
+          <a href="AD-UNK03-01-bs.jpg">
+            <img src="AD-UNK03-01-bs.jpg"
+	         height="100" alt="Backstamp"></a>
+        </td>
+	
+	<td>
+          <a href="AD-UNK03-02.jpg">
+	    <img src="AD-UNK03-02.jpg"
+	         height="200" alt="AD-UNK03 (Blue)"></a>
+        </td>
+      </tr>
+
+      <tr>
+	<th colspan="3">
+          Pattern AD-UNK03
+	</th>
+      </tr>
+    </table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

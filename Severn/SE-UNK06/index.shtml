@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>Severn - Pattern SE-UNK06</title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>Severn - Pattern SE-UNK06</h1>
+
+    <p>
+      This pattern consists of multicolored flowers (purple, yellow,
+      shades of blue) and leaves.  There are four flowers on one decal
+      and three on the other.
+      </p>
+
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="SE-UNK06-01-a.jpg">
+            <img src="SE-UNK06-01-a.jpg" height="250"
+            alt="SE-UNK06"></a>
+	  </td>
+	  
+	<td><a href="SE-UNK06-01-b.jpg">
+	    <img src="SE-UNK06-01-b.jpg" height="250"
+	    alt="SE-UNK06"></a>
+	  </td>
+	<td><a href="SE-UNK06-01-bs.jpg">
+	    <img src="SE-UNK06-01-bs.jpg" height="100"
+		 alt="Backstamp">
+	  </a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="3">Pattern SE-UNK06
+      </tr>  
+    </table>
+
+      <br />
+      
+      <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+

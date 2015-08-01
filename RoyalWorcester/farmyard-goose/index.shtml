@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Royal Worcester - Farmyard - Goose Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Farmyard - Goose Pattern
+</h1>
+
+<p>
+    This pattern consists of a light purple frame, with a background
+    of leaves ... in the centre of the frame is a goose.  Around the
+    frame is a border of fruits.  
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="goose-01.jpg">
+            <img src="goose-01.jpg" height="250"
+	        alt="Farmyard - Goose"></a>
+</tr>
+
+<tr>
+    <th colspan="1">Farmyard - Goose Pattern
+</tr>    
+</table>
+
+<p>
+<a name="Knowntypes"></a>
+
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix (Farmyard - Goose)</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="35%">Sizes</th>
+    <th width="35%">Notes</th>
+    <th width="10%">Sources</th>
+</tr>
+
+<tr>
+    <td><a href="../types/#Type12">Type 12</a>
+    <td><a href="../sizes.shtml#standard">Standard</a>
+        &nbsp;&nbsp;
+    <a href="../sizes.shtml#king">King</a>
+    <td>&nbsp;
+    <td><a href="/sources/#EA">EA</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

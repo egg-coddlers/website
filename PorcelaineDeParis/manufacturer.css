@@ -1,0 +1,8 @@
+/* Cascading Style Sheet for Porcelain de Paris Coddlers */
+
+/* Our default background is white */
+body {	background-color: #ffffff; }
+/* default to full separator lines - override in individual hrs */
+hr { width: 100%; }
+
+/* End of Porcelain de Paris Style Sheet */

@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Royal Worcester - Pattern RW-UNK36 (Special Pattern)
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Pattern RW-UNK36 (Special Pattern)
+</h1>
+
+<p>
+This pattern was made special for some company (unknown).
+It resembles a shopping bag.
+A few of these escaped into the Royal Worcester shop and were sold.
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="special-01.jpg">
+        <img src="special-01.jpg" height="250" alt="RW-UNK36"></a>
+</tr>
+
+<tr>
+    <th colspan="2">Pattern RW-UNK36
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

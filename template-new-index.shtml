@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>==MANU== Egg Coddlers</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top">
+<h1>==MANU== Egg Coddlers</h1></a>
+
+<! Description of the style, info we have, quotes from sources, etc !>
+
+
+<p>
+<! Pattern Block - Small set of codders !>
+<! Use one of these for each example !>
+
+<h4>Pattern Name</h4>
+<table>
+<tr>
+<td><img src="pic1.jpg" height="250" alt="Pattern Name">
+<td><img src="pic2.jpg" height="250" alt="Pattern Name">
+<td><img src="bs_pic.jpg" height="150" align="center" alt="Backstamp">
+</tr>
+</table>
+<p>
+<hr>
+
+<p>
+<!--#include virtual="../manu-nav-block.ssi">
+</body>
+</html>
+
+
+

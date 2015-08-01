@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+    <title>
+        Coalport - Tintern - Green and Blue Flowers
+        </title>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+    Coalport - Tintern - Green and Blue Flowers
+</h1>
+
+<p>
+    This coddler is decorated with pale green and blue flowers. This
+    is a double-sized coddler. We do not know the backstamp.
+    </p>
+
+<table align="center">
+<tr>
+    <td><a href="tintern-01-a.jpg">
+        <img src="tintern-01-a.jpg"
+	    height="250" alt="Tintern"></a>
+        </td>
+    </tr>
+
+<tr>
+    <th>Tintern</th>
+    </tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>
+

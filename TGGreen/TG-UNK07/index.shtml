@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      T.G. Green - Pattern TG-UNK07
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      T.G. Green - Pattern TG-UNK07
+    </h1>
+
+    <p>
+      These coddlers are convex, with a pedestal, and have a
+      a <b>flat</b> lifting ring.  This coddler design is unlike many of
+      the other T.G. Green convex coddlers, in that the "hips" of the
+      coddler are much more pronounced.
+    </p>
+
+    <p>
+      The coddler is decorated with a spray of pink flowers as the main
+      theme with many smaller pink flowers all around.  The pattern
+      surrounds the coddler and seems to extend to the base as well.
+    </p>
+    
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="TG-UNK07-01.jpg">
+            <img src="TG-UNK07-01.jpg"
+	         height="250" alt="TG-UNK07"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th>Pattern TG-UNK07</th>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>
+	Known
+	<a href="../#Types">Types</a>
+	Matrix (TG-UNK07)
+      </caption>
+
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td>Uncertain</td>
+	<td>Seller noted only that it was marked <b>Made in England -
+            T.G. Green</b>, which could have been Types 1, 2, 3, or an
+          unknown backstamp style.
+	</td>
+	<td><a href="/sources/#EA">EA</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

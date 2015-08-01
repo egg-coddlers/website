@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Windsor - WIN-UNK12 (Blue Flowers and a Ribbon)
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Windsor - WIN-UNK12 (Blue Flowers and a Ribbon)
+    </h1>
+
+    <p>
+      This pattern consists of a bunch of small blue flowers, with a neat red
+      ribbon. Note that this pattern seems to be identical to
+      pattern <a href="/AA-UncertainManu/UM03/UM03-UNK19">UM03-UNK19</a>,
+      which does not have a backstamp.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="WIN-UNK12-01_750px.jpg">
+	    <img src="WIN-UNK12-01_250px.jpg"
+		 alt="WIN-UNK12 Pattern"></td>
+	<td><a href="WIN-UNK12-02_750px.jpg">
+	    <img src="WIN-UNK12-02_250px.jpg"
+		 alt="WIN-UNK12 Pattern"></td>
+      </tr>
+      
+      <tr>
+	<th colspan="2">Pattern WIN-UNK12 (Blue Flowers and a Ribbon)</th>
+      </tr>
+
+      <tr>
+	<td colspan="2" align="center">
+	  Click on an image to view in more detail.
+        </td>    
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

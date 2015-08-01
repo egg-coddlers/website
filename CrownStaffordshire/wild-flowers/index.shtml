@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Crown Staffordshire - Wild Flowers Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+
+<h1>
+Crown Staffordshire - Wild Flowers Pattern
+</h1>
+
+This pattern  consists of wildflowers in purple, blue, or white.
+
+<p>
+<table align="center">
+<tr>
+<td><img src="wild-flowers-02-a.jpg" align="top" alt="Wild Flowers"></td>
+<td><img src="wild-flowers-02-b.jpg" align="top" alt="Backstamp"></td>
+</tr>
+</table>
+
+<p>
+<table border width="100%">
+<caption>Known Variations Matrix</caption>
+<tr>
+<th width="20%"><a href="../#Lids">Lid</a></th>
+<th width="20%"><a href="../#LiftingRings">Lifting Ring</th>
+<th width="30%">Size/Notes</th>
+<th width="10%">Source</th>
+</tr>
+
+<tr>
+<td>Full Turn
+<td>Round
+<td>&nbsp;
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+<tr>
+<td>Full Turn
+<td>Square
+<td>&nbsp;
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+<tr>
+<td>Quick Release
+<td>Square
+<td>&nbsp;
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+<tr>
+<td>Quick Release
+<td>Flat
+<td>&nbsp;
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

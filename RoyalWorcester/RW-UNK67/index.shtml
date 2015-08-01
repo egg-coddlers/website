@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+  <!-- @(#) $Id$ -->  
+  <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+  <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>Royal Worcester - RW-UNK67 (Redhead Duck)</title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>Royal Worcester - RW-UNK67 (Redhead Duck)</h1>
+
+    <p>
+      This is an older coddler - based on the lid threads - but we do
+      not know any more about it. The picture is of a duck - probably a
+      Redhead - although it does not quite match that - or any other
+      species.
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+        <td align="center"><a href="RW-UNK67-01-a_full.jpg">
+	    <img src="RW-UNK67-01-a_250px.jpg" alt="RW-UNK67"></a></td>
+      </tr>
+
+      <tr>
+	<th>RW-UNK67 -- Redhead Duck</th>
+      </tr>
+
+      <tr>
+	<td align="center">Click on image to view in more detail.</td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a> Matrix</caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="30%">Sizes</th>
+	<th width="30%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td>Not Known</td>
+	<td>Not Known</td>
+	<td></td>
+	<td></td>
+      </tr>
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

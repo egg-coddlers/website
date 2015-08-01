@@ -1,0 +1,161 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <meta name="description"
+	  content="Egg coddlers with a 'Delft-like' pattern.
+		   These appear to be hand-painted, and, therefore, probably each is unique.
+		   They are single coddlers, and the lids have no lifting rings." />
+    <title>
+      UM66 - 'Delft-like' Coddlers
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      UM66 - 'Delft-like' Coddlers
+    </h1>
+
+    <p>
+      These coddlers are single or double-sized convex
+      coddlers.
+    </p>
+
+    <p>The lids have no lifting ring.
+    </p>
+
+    <p>
+      We do not know what backstamps they have.
+    </p>
+
+    <p>
+      <i>Note: These coddlers were brought to out attention
+	by Dieter, from Germany. I am remiss in losing Dieter's
+	details. If he will contact us, we would be very happy to give him
+	the correct credit.</i>
+    </p>
+
+    <br />
+
+    <h2>UM66-UNK01</h2>
+
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="UM66-UNK01-a.jpg">
+            <img src="UM66-UNK01-a.jpg"
+		 height="250" alt="UM66-UNK01"></a>
+	  <a href="UM66-UNK01-b.jpg">
+            <img src="UM66-UNK01-b.jpg"
+		 height="250" alt="UM66-UNK01"></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th>UM66-UNK02</th>
+      </tr>
+    </table>
+
+    <br />
+    <br />
+
+    <h2>
+      UM66-UNK02
+    </h2>
+
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="UM66-UNK02-a.jpg">
+	    <img src="UM66-UNK02-a.jpg" height="250"
+		 alt="UM66-UNK02"></a>
+	  <a href="UM66-UNK02-b.jpg">
+	    <img src="UM66-UNK02-b.jpg" height="250"
+		 alt="UM66-UNK02"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th>UM66-UNK02</th>
+      </tr>
+
+    </table>
+
+    <br />
+    <br />
+
+    <h2>
+      UM66-UNK03
+    </h2>
+
+    <p>
+      This coddler is 6.5 cm high and 5.2 cm in diameter.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="UM66-UNK03-a.jpg">
+            <img src="UM66-UNK03-a.jpg"
+		 height="250" alt="UM66-UNK03"></a>
+	  <a href="UM66-UNK03-b.jpg">
+            <img src="UM66-UNK03-b.jpg"
+		 height="250" alt="UM66-UNK03"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th>UM66-UNK04</th>
+      </tr>
+
+    </table>
+
+    <br />
+    <br />
+
+    <h2>
+      UM66-UNK04
+    </h2>
+
+    <p>
+      This coddler is 8.0 cm high and 6.0 cm in diameter.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="UM66-UNK04-a.jpg">
+            <img src="UM66-UNK04-a.jpg"
+		 height="250" alt="UM66-UNK04"></a>
+	  <a href="UM66-UNK04-b.jpg">
+            <img src="UM66-UNK04-b.jpg"
+		 height="150" alt="UM66-UNK04"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th>UM66-UNK04</th>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="/manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

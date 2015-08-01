@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Royal Worcester - RW-UNK46 (Diagonal Flower Sprays)
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - RW-UNK46 (Diagonal Flower Sprays)
+    </h1>
+
+    <p>
+      This pattern consists of sprays of flowers,  all from one stem on
+      a diagonal.  The colors are yellow, pink, blue, orange, purple,
+      and green.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="RW-UNK46-01-a_full.jpg">
+            <img src="RW-UNK46-01-a_250px.jpg" alt="RW-UNK46"></a></td>
+	<td><a href="RW-UNK46-01-b_full.jpg">
+            <img src="RW-UNK46-01-b_250px.jpg" alt="RW-UNK46"></a></td>	    
+	<td><a href="RW-UNK46-01-c_full.jpg">
+            <img src="RW-UNK46-01-c_250px.jpg" alt="RW-UNK46"></a></td>	    
+      </tr>
+
+      <tr>
+	<th colspan="3">Pattern RW-UNK46</th>
+      </tr>
+
+      <tr>
+	<td colspan="3" align="center">
+	  Click on an image to view in more detail.
+        </td>    
+      </tr>
+
+    </table>
+    
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a>
+	Matrix</caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Sizes</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type5C">Type 5C</a></td>
+	<td><a href="../sizes.shtml/#standard">Standard</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type7">Type 7</a></td>
+	<td><a href="../sizes.shtml/#standard">Standard</a></td>
+	<td></td>
+	<td><a href="/sources/#AC">AC-13</a></td>
+      </tr>
+    </table>
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

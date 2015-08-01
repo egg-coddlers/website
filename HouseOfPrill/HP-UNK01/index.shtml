@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+House of Prill - Pattern HP-UNK01
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+House of Prill - Pattern HP-UNK01
+</h1>
+
+    This pattern consists of two rows of tiny flowers around the coddler.
+    This pattern is very similar to the pattern
+    <a href="/AA-UncertainManu/UM03/UM03-UNK04/">
+    UM03-UNK04</a>.
+    
+<p>
+<table align="center">
+<tr>
+    <td><a href="HP-UNK01-02.jpg">
+        <img src="HP-UNK01-02.jpg" height="250" alt="HP-UNK01">
+	</td>
+    <td><a href="HP-UNK01-03.jpg">
+        <img src="HP-UNK01-03.jpg" height="250" alt="HP-UNK01">
+	</td>	
+    <td><a href="HP-UNK01-01-bs.jpg">
+        <img src="HP-UNK01-01-bs.jpg"  alt="Backstamp">
+	</td>
+    </tr>
+
+<tr>
+    <th colspan="3">Pattern HP-UNK01</th>
+    </tr>    
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>
+

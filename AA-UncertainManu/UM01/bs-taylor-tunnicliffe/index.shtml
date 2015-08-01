@@ -1,0 +1,114 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Unknown Manufacturer - UM01: Taylor Tunnicliffe Backstamp
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Unknown Manufacturer - UM01: Taylor Tunnicliffe Backstamp
+    </h1>
+
+    <p>
+      This backstamp is embossed with <b>TAYLOR TUNNICLIFFE & CO LTD</b>
+      <b>MADE IN ENGLAND</b>. We don't know if this is the name of the
+      retailer/distributor or the name of the manufacturer.  Two notes
+      of interest though ... Taylor Tunnicliffe & Co. manufactured
+      ceramics, and the name Taylor appears on  
+      <a href="../bs-patent-49405/">Patent 49405</a>
+      that appears on another backstamp. The lids on the coddlers with
+      this backstamp are different from other <a href="../">UM01</a>
+      examples. 
+    </p>
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>Known Types Matrix</caption>
+      
+      <tr>
+	<th width="20%">Colour/Pattern</th>
+	<th width="20%">Size</th>
+	<th width="50%">Images (click to enlarge)</th>
+	<th width="10%">Sources</th>
+      </tr>
+      
+      <tr>
+	<td>Ivory</td>
+	<td>Single</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td>Ivory</td>
+	<td>Double</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td>Pink</td>
+	<td>Single</td>
+	<td><a href="pink-single-01.jpg">
+            <img src="pink-single-01.jpg"
+                 height="100" alt="Pink"></a>
+        </td>		
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td>Pink</td>
+	<td>Double</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td>Yellow</td>
+	<td>Double</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td>Olive Green</td>
+	<td>Single</td>
+	<td><a href="olivegreen-single-01.jpg">
+            <img src="olivegreen-single-01.jpg"
+                 height="100" alt="Olive Green"></a>
+          <a href="olivegreen-single-bs.jpg">
+	    <img src="olivegreen-single-bs.jpg"
+	         height="50" alt="Backstamp"></a>
+        </td>
+	<td><a href="/sources/#EA">EA</a></td>
+      </tr>
+
+      <tr>
+	<td>Blue</td>
+	<td>Double</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

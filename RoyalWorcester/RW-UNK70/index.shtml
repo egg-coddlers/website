@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+  <!-- @(#) $Id$ -->  
+  <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+  <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+<title>Royal Worcester - RW-UNK70 (Horse's Head)</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>Royal Worcester - RW-UNK70 (Horse's Head)</h1>
+
+<p>
+    This is an old Royal Worcester coddler, based on the screw
+    pitch. The specific backstamp is not known.
+    </p>
+
+<br />
+
+<table align="center">
+    <tr>
+        <td><img src="RW-UNK70-01-a.jpg" alt="RW-UNK70"></td>
+        </tr>
+    
+<tr>
+    <th>RW-UNK70 - Horse's Head</th>
+    </tr>
+</table>
+
+<br />
+
+<table border width="100%">
+<caption>Known
+    <a href="../types">Types</a> Matrix</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="30%">Sizes</th>
+    <th width="30%">Notes</th>
+    <th width="10%">Sources</th>
+</tr>
+
+<tr>
+    <td>Not known</td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td></td>
+    <td><a href="/sources/#BB">BB</a></td>
+    </tr>
+
+</table>
+
+<br />
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+
+</body>
+</html>

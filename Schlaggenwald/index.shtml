@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <meta name="description"
+	  content="Egg coddlers from Schlaggenwald." />
+    <title>
+      Schlaggenwald Egg Coddlers
+    </title>
+
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Schlaggenwald Egg Coddlers
+    </h1>
+    
+    <p>
+    We know very little about these coddlers - other than that at
+    least one exists.
+    </p>
+
+    <br />
+
+    <h2>Patterns</h2>
+
+
+    <h3>SCH-UNK01</h3>
+    <p>
+      Plain white single size coddler, with pail-like all-over handle.
+    </p>
+
+    <table align="center">
+      <tr>
+	<td><a href="SCH-UNK01-02.jpg">
+            <img src="SCH-UNK01-02.jpg" height="250"
+                 alt="Schlaggenwald UNK01 Pattern"></a>
+        </td>
+	<td><a href="SCH-UNK01-01.jpg">
+            <img src="SCH-UNK01-01.jpg" height="250"
+                 alt="Schlaggenwald UNK01 Pattern"></a>
+        </td>
+	<td><a href="SCH-UNK01-bs-01.jpg">
+            <img src="SCH-UNK01-bs-01.jpg" height="150"
+                 alt="Schlaggenwald UNK01 Pattern"></a>
+        </td>
+      </tr>
+      
+      <tr>
+        <th colspan="2">Schlaggenwald SCH-UNK01</th>
+      </tr>
+      
+    </table>
+
+    <br />
+    
+    <!--#include virtual="/manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

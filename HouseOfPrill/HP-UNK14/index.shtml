@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Pattern HP-UNK14
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Pattern HP-UNK14
+    </h1>
+
+    <p>
+      These coddlers are double-sized convex coddlers with no pedestal
+      and have corrugated sides. This pattern
+      consists of a Diagonal Spray of blue & red flowers & Green leaves
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="HP-UNK14-01.jpg">
+            <img src="HP-UNK14-01.jpg" height="250"
+		 alt="HP-UNK14"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th>HP-UNK14</th>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

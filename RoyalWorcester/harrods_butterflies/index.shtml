@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Royal Worcester - Harrods - Butterflies Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Harrods - Butterflies Pattern
+</h1>
+
+<p>
+    This is one of several (we have yet to add the others) coddlers that were
+    made by Royal Worcester for, and sold by, Harrods of London.
+    </p>
+
+<p>    
+    All are King size, and have gold-coloured tops and rings.
+    </p>
+
+
+<table align="center">
+<tr>
+    <td><a href="harrods_butterflies-ks-01-a.jpg">
+            <img src="harrods_butterflies-ks-01-a.jpg"
+	        height="250" alt="Harrods Butterflies"></a>
+    <td><a href="harrods_butterflies-ks-01-b.jpg">
+            <img src="harrods_butterflies-ks-01-b.jpg"
+	        height="250" alt="Harrods Butterflies"></a>
+    <td><a href="harrods_butterflies-ks-bs-01-a.jpg">
+            <img src="harrods_butterflies-ks-bs-01-a.jpg"
+	        height="250" alt="Harrods Butterflies"></a>
+</tr>
+
+<tr>
+    <th colspan="3">Harrods - Butterflies - King Size</th>
+</tr>
+
+
+</table>
+
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

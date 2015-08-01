@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Royal Worcester - Delecta Pattern
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Delecta Pattern
+    </h1>
+
+    <p>
+      This pattern consists of plums, cherries, raspberries, strawberries,
+      and flowers.  We have not seen a coddler in this pattern.
+      However, Royal Worcester claims to have made a Delecta coddler,
+      so we are including a picture of the plate pattern temporarily
+      until we find someone who has the coddler.
+    </p>
+
+
+    <table align="center">
+      <tr>
+	<td><img src="delecta-plate-01.jpg"
+		 alt="Delecta Pattern on Plate"></td>
+      </tr>
+
+      <tr>
+	<th>Delecta Pattern</th>
+      </tr>
+    </table>
+
+    <p>
+      <i><b>
+	  Note: We need images of this pattern for the site.  Please
+	  <a href="/contact/">contact us</a>
+	  if you can help.
+      </i></b>
+    </p>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

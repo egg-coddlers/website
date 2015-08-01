@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Coalport - CO-UNK07
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Coalport - CO-UNK07
+</h1>
+
+<p>
+This pattern is in blue, with crinkled blue and white leaves - of a plant the name of which escapes me.  The backstamp is marked with
+<b>ENGLAND</b>,
+a crown,
+<b>COALPORT</b>,
+<b>A.D. 1750</b>,
+and
+<b>PATENT</b>.
+This is a single-sized coddler.
+</p>
+
+<p>
+<b>Note:</b> We know of a version of this coddler that also has a
+gold band in the design. We do not yet have a picture.
+</p>
+
+<table align="center">
+<tr>
+    <td><a href="CO-UNK07-01.jpg">
+        <img src="CO-UNK07-01.jpg"
+	    height="250" alt="CO-UNK03"></a>
+    <a href="CO-UNK07-01-bs.jpg">	    
+        <img src="CO-UNK07-01-bs.jpg"
+	    height="100" alt="Backstamp">
+        </td>
+    </tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

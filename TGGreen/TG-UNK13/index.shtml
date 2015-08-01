@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      T.G. Green - TG-UNK13 Pattern
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <p>
+      These coddlers are convex, with a pedestal. The pattern is
+      rose-hips and a three-leaved plant (as yet unidentified). 
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="TG-UNK13-01_full.jpg" alt="TG-UNK13"></td>
+      </tr>
+
+      <tr>
+	<th colspan="2">TG-UNK13 Pattern</th>
+      </tr>
+
+    </table>
+
+    <br />
+    
+    <table border width="100%" align="center">
+    
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../#Type1">Type 1</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

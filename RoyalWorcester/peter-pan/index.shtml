@@ -1,0 +1,159 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Royal Worcester - Peter Pan Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Peter Pan Pattern
+    </h1>
+
+    <p>
+      This pattern consists of three different images from the story Peter
+      Pan.  Each size has a different pattern.
+    </p>
+    
+    <p>
+      The single coddlers show pictures of Native Americans and the text
+      <b>The redskins disappear as they have come -- like shadows</b>.
+    </p>
+
+    <p>
+      The double coddlers show pictures of an Native American princess and
+      the text
+      <b>The Beautiful Princess</b> and <b>Tiger Lily</b>.
+    </p>
+
+    <p>
+      The maxime coddlers show pictures of fairies and the text
+      <b>Every time a child says - I don't believe in Fairies -- Another
+	-- Fairy somewhere falls down Dead</b>.
+    </p>
+
+    <br />
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><img src="pp-standard-01-a.jpg"
+		 alt="Peter Pan - Standard"></td>
+	<td><img src="pp-standard-01-b.jpg"
+		 alt="Peter Pan - Standard"></td>
+	<td><img src="pp-standard-01-c.jpg"
+		 alt="Peter Pan - Standard"></td>  
+      </tr>
+
+      <tr>
+	<td><img src="pp-standard-02-a.jpg"
+		 alt="Peter Pan - Standard"></td>
+	<td><img src="pp-standard-02-b.jpg"
+		 alt="Peter Pan - Standard"></td>
+	<td><img src="pp-standard-02-c.jpg"
+		 alt="Peter Pan - Standard"></td>
+      </tr>
+
+      <tr>
+	<th colspan="3">Peter Pan - Standard Size
+      </tr>
+      
+    </table>
+
+    <br />
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td colspan="2" align="center">
+	  <a href="pp-king-01_full.jpg">
+            <img src="pp-king-01_250px.jpg" alt="Peter Pan - King"></a></td>
+      </tr>
+
+      <tr>
+	<td><img src="pp-king-02-a.jpg" alt="Peter Pan - King"></td>
+	<td><img src="pp-king-02-b.jpg" alt="Peter Pan - King"></td>
+      </tr>
+      
+      <tr>
+	<th colspan="2">Peter Pan - King Size</th>
+      </tr>
+    </table>
+
+    <br />
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="pp-maxime-01-a_full.jpg">
+	    <img src="pp-maxime-01-a_250px.jpg"
+		 alt="Peter Pan - Maxime"></a></td>
+	<td><a href="pp-maxime-01-b_full.jpg">
+	    <img src="pp-maxime-01-b_250px.jpg"
+		 alt="Peter Pan - Maxime"></a></td>
+	<td><a href="pp-maxime-01-c.jpg">
+	    <img src="pp-maxime-01-c_250px.jpg"
+		 alt="Peter Pan - Maxime"></a></td>
+      </tr>
+
+      <tr>
+	<th colspan="3">Peter Pan - Maxime Size</th>
+      </tr>    
+    </table>
+
+    <br />
+    <br />
+    
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>
+	Known
+	<a href="../types">Types</a>
+	Matrix (Peter Pan)
+      </caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Sizes</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type10">Type 10</a>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+	  &nbsp;&nbsp;
+	  <a href="../sizes.shtml#king">King</a>
+	  &nbsp;&nbsp;
+	  <a href="../sizes.shtml#maxime">Maxime</a>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type11">Type 11</a>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+	  &nbsp;&nbsp;
+	  <a href="../sizes.shtml#king">King</a>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a>
+      </tr>
+
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

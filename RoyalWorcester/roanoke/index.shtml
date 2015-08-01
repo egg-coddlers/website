@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Royal Worcester - Roanoke Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Roanoke Pattern
+</h1>
+
+<p>
+This pattern consists of bunches of multi-coloured flowers, the
+largest of which is straw in colour. The reverse varies. Some have a
+small spray of lfowers, while others have a full bunch.
+
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="roanoke-01.jpg">
+            <img src="roanoke-01.jpg"
+	        height="250" alt="Roanoke"></a>
+</tr>
+<tr>
+    <th>Roanoke Pattern - Example 1
+</tr>    
+</table>
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="roanoke-02.jpg">
+            <img src="roanoke-02.jpg"
+	        height="200" alt="Roanoke"></a>
+</tr>
+<tr>
+    <th>Roanoke Pattern - Example 2
+</tr>    
+</table>
+
+<p>
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="30%">Sizes</th>
+    <th width="30%">Notes</th>
+    <th width="10%">Sources</th>
+    </tr>
+
+    <tr>
+    <td><a href="../types/#Type7">Type 7</a>
+    <td><a href="../sizes.shtml#standard">Standard</a>
+    <td>&nbsp;
+    <td><a href="/sources/#BB">BB</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

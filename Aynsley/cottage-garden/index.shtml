@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Aynsley - Cottage Garden Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Aynsley - Cottage Garden Pattern
+    </h1>
+
+    <p>
+      This pattern consists of a garden scene, with flowers, plants,
+      and a butterfly. On the back is a vine with leaves and a flower.
+      There are two variations of the flower on the back of this
+      pattern. One is an orange-yellow flower, the other is a blue and
+      yellow three-leaved flower. There are also two variations of the
+      ring on the lid, with a round cross-section, one with a flat
+      cross-section.
+      </p>
+
+    <br />
+    
+    <table align="center">
+	<tr>
+	  <td><img src="cottage-garden-01-b.jpg"
+		   height="200" alt="Cottage Garden"></td>
+	  <td><img src="cottage-garden-01-a.jpg" height="200"
+		   alt="Cottage Garden"></td>
+	  <td><img src="cottage-garden-01-bs.jpg" height="100"
+		   alt="Backstamp"></td>
+	</tr>
+
+	<tr>
+	  <th colspan="3">Cottage Garden Pattern -
+	    Orange-Yellow Flower on Back</th>
+	</tr>    
+    </table>
+
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><img src="cottage-garden-02-a.jpg"
+		 height="200" alt="Cottage Garden"></td>
+	<td><img src="cottage-garden-02-b.jpg" height="200"
+		 alt="Cottage Garden"></td>
+	<td><img src="cottage-garden-02-c.jpg" height="200"
+		 alt="Cottage Garden"></td>
+	<td><img src="cottage-garden-02-bs.jpg" height="100"
+		 alt="Backstamp"></td>
+      </tr>
+
+      <tr>
+	<th colspan="4">Cottage Garden Pattern -
+	  Blue and Yellow Flower on Back</th>
+      </tr>
+    </table>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><img src="cottage-garden-03-a.jpg" height="200"
+		 alt="Cottage Garden"></td>
+	  <td><img src="cottage-garden-03-b.jpg" height="200"
+		   alt="Cottage Garden"></td>
+	</tr>
+
+	<tr>
+	  <th colspan="2">Cottage Garden Pattern -
+	    Blue and Yellow Flower on Back</th>
+	</tr>
+      </table>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><img src="cottage-garden-04.jpg" height="200"
+		 alt="Cottage Garden">
+	<td><img src="cottage-garden-04-bs.jpg" height="100"
+		 alt="Backstamp">
+      </tr>
+
+      <tr>
+	<th colspan="2">Cottage Garden Pattern -
+	  Orange-Yellow Flower on Back</th>
+      </tr>    
+    </table>
+
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><img src="cottage-garden-05-c.jpg" alt="Cottage Garden">
+	<td><img src="cottage-garden-05-a.jpg" alt="Cottage Garden">
+	<td><img src="cottage-garden-05-b.jpg" alt="Cottage Garden">
+      </tr>
+
+      <tr>
+	<th colspan="3">Cottage Garden Pattern - Both Back Variations Shown
+      </tr>    
+    </table>
+
+    <br />
+    
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+  </body>
+</html>

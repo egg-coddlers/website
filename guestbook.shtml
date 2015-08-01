@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="EN" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1" />
+    <title>
+      Guestbook has been Discontinued
+    </title>
+    <meta name="dc.creator" content="Rob Jenson" />
+    <meta name="dcterms.created" content="2000-03-05" />
+    <meta name="dcterms.modified" content="2012-03-18" />
+    <meta name="dc.format" content="text/html" />
+<!-- ident "@(#) $Id$ -->
+  </head>
+
+  <body bgcolor="white">
+    <a name="Top"></a>
+    <h1>
+      Guestbook has been Discontinued
+    </h1>
+
+    <p>
+      Due to circumstances beyond our control, we have had to
+      discontinue the Egg-Coddlers.COM guestbook. We are currently
+      looking for a replacement system. In the meantime, please
+      <a href="/contact/">contact us by email.</a>
+      </p>
+
+<!--#include virtual="nav-block.ssi" -->
+
+  </center>
+</body>
+</html>
+
+

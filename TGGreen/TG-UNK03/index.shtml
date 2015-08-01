@@ -1,0 +1,103 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      T.G. Green - Pattern TG-UNK03 
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      T.G. Green -  Pattern TG-UNK03
+    </h1>
+
+    <p>
+      These coddlers are made of pottery, including the lid.
+      The body of the coddler is convex, without a pedestal.
+      The lids have a "primitive" screw thread, and a "flattened-oval"
+      lifting ring.
+    </p>
+
+    <p>
+      This pattern consists of a cream-coloured finish without additional
+      decoration.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="cream-01.jpg" alt="TG-UNK03">
+      </tr>
+      <tr>
+	<th>TG-UNK03 Pattern
+      </tr>    
+    </table>
+
+    <br />
+
+    <p>
+      We have been informed that a single size coddler exists in this
+      pattern, but have neither a picture nor the dimensions.
+    </p>
+
+    <p>
+      The dimensions of the double size coddler are as follows:
+    </p>
+
+    <ul>
+      <li>Height without lid:
+        3<font size="-2"><sup>1</sup>/<sub>8</sub></font> inches
+      <li>Height with lid:
+        4&frac14; inches
+      <li>Lid height:
+        1<font size="-2"><sup>5</sup>/<sub>8</sub></font> inches
+      <li>Base diameter:
+        1<font size="-2"><sup>7</sup>/<sub>8</sub></font> inches
+      <li>Diameter at the rim (inside):
+        1<font size="-2"><sup>13</sup>/<sub>16</sub></font> inches
+      <li>Diameter at the rim (inside):
+        2<font size="-2"><sup>7</sup>/<sub>16</sub></font> inches
+    </ul>
+
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>
+	Known Types Matrix (TG-UNK03)
+      </caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../#Type4">Type 4</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

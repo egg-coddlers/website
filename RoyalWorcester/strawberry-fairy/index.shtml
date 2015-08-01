@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Royal Worcester - Strawberry Fairy Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Strawberry Fairy Pattern
+    </h1>
+
+    <p>
+      This pattern consists of a fairy walking, carrying a strawberry.
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="strawberry-fairy-01_full.jpg">
+            <img src="strawberry-fairy-01_250px.jpg" alt="Strawberry Fairy"></a></td>
+      </tr>
+
+      <tr>
+	<th colspan="1">Strawberry Fairy Pattern</th>
+      </tr>
+    </table>
+
+    <br />
+    
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a>
+        Matrix (Strawberry Fairy)
+      </caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Sizes</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td></td>
+	<td><a href="../sizes.shtml#king">King</a></td>
+	<td>Design sample for a future release? (Sep 2001)</td>
+	<td><a href="/sources/#MN">MN</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

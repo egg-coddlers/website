@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Sigma - Pattern SI-UNK03 (Flowers with Blue Twisted Rope)
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Sigma - Pattern SI-UNK03 (Flowers with Blue Twisted Rope)      
+    </h1>
+
+    <p>
+      This design comprises pink and yellow flowers with a blue
+      twisted rope around the coddler body.
+    </p>
+
+    <table align="center">
+      <tr>
+	<td align="center"><a href="SI-UNK03-01_full.jpg">
+            <img src="SI-UNK03-01_250px.jpg" alt="SI-UNK03"></a></td>
+      </tr>
+
+      <tr>
+	<th>SI-UNK03</th>
+      </tr>
+      
+      <tr>
+	<td align="center">Click on image to view in more detail.</td>
+      </tr>
+      
+    </table>
+    
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

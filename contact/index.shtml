@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <title>
+      This Page is Redirected
+    </title>
+    <meta http-equiv="Refresh"
+	  content="0;url=http://www.egg-coddlers.com/cgi-bin/tfmaull/ecc_contact_recaptcha.pl" />
+  </head>
+  <body>
+  </body>
+</html>
+

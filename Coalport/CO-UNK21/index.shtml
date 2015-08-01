@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+
+    <!-- @(#) $Id$ -->
+
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <title>
+      Coalport - CO-UNK21 - Floral
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Coalport - CO-UNK21
+    </h1>
+
+    <p>
+      This is yet another floral Coalport pattern. We do not know the
+      backstamp. Flowers, dominated by three pink roses arranged in a
+      triangle. 
+    </p>
+
+    <p>
+      This is a double-sized coddler.
+    </p>
+
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="CO-UNK21-01a_full.jpg">
+            <img src="CO-UNK21-01a_250px.jpg"
+		 alt="CO-UNK21"></a>
+	  <a href="CO-UNK21-01b_full.jpg">
+            <img src="CO-UNK21-01b_250px.jpg"
+		 alt="CO-UNK21"></a>
+        </td>
+      </tr>
+
+      <tr>
+	<th>Coalport: CO-UNK21</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="../floral-pattern-list.ssi" -->
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+

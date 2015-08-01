@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Royal Worcester - Shakespeare Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Shakespeare Pattern
+    </h1>
+
+    <p>
+      This pattern consists of a scene of Stratford upon Avon, wrapped
+      around the body of the coddler, with the face of Shakespeare
+      superimposed, and <b>Stratford Upon Avon</b> appears once at the
+      bottom of the pattern.
+    </p>
+
+    <p>
+      This pattern is believed to have been first used by
+      Royal Worcester on egg coddlers in 2001.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="shakespeare-ks-01-a_full.jpg">
+            <img src="shakespeare-ks-01-a_250px.jpg" alt="Shakespeare"></a></td>
+	<td><a href="shakespeare-ks-01-b_full.jpg">
+            <img src="shakespeare-ks-01-b_250px.jpg" alt="Shakespeare"></a></td>
+	<td><a href="shakespeare-ks-01-c_full.jpg">
+            <img src="shakespeare-ks-01-c_250px.jpg" alt="Shakespeare"></a></td>
+	<td><a href="shakespeare-ks-01-d_full.jpg">
+            <img src="shakespeare-ks-01-d_250px.jpg" alt="Shakespeare"></a></td>
+      </tr>
+
+      <tr>
+	<th colspan="4">Shakespeare Pattern  - King Size</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a>
+        Matrix (Shakespeare)
+      </caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Sizes</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type12">Type 12</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+          &nbsp;&nbsp;
+          <a href="../sizes.shtml#king">King</a></td>
+	<td></td>
+	<td><a href="/sources/#RJ">RJ</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

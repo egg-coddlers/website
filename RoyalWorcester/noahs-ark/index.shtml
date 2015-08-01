@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Royal Worcester - Noah's Ark Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Noah's Ark Pattern
+</h1>
+
+<p>
+    This pattern consists of images of Noah's Ark, being built, and
+    many animals.
+    <p>
+
+
+<table align="center">
+<tr>
+    <td><a href="noahs-ark-single-02-a.jpg">
+            <img src="noahs-ark-single-02-a.jpg"
+	        height="250" alt="Noah's Ark Standard Size"></a>
+        <td>
+    <td><a href="noahs-ark-single-02-b.jpg">
+            <img src="noahs-ark-single-02-b.jpg"
+	        height="250" alt="Noah's Ark Standard Size"></a>
+        </td>
+</tr>
+<tr>
+    <th colspan="2">Noah's Ark Pattern - Standard Size</th>
+</tr>
+</table>
+    		
+<br />
+
+<table align="center">
+<tr>
+    <td><img src="noahs-ark-01-a.jpg" alt="Noah's Ark"></td>
+    <td><img src="noahs-ark-01-b.jpg" alt="Noah's Ark"></td>
+    <td><img src="noahs-ark-01-c.jpg" alt="Noah's Ark"></td>
+    </tr>
+</table>
+
+<br />
+
+<table align="center">
+<tr>
+    <td><a href="noahs-ark-single-03-bs.jpg">
+            <img src="noahs-ark-single-03-bs.jpg"
+	        height="150"
+		alt="Special Backstamp on some samples"></a>
+        <td>		
+    </tr>
+    
+<tr>
+    <th>Special Backstamp on some samples<th>
+    </tr>
+</table>
+
+<br />
+
+<a name="Knowntypes"></a>
+
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix (Noah's Ark)</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="35%">Sizes</th>
+    <th width="35%">Notes</th>
+    <th width="10%">Sources</th>
+    </tr>
+
+<tr>
+    <td><a href="../types/#Type12">Type 12</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a>
+        &nbsp;&nbsp;
+	<a href="../sizes.shtml#king">King</a>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#BB">BB</a>
+</tr>
+
+<tr>
+    <td><a href="../types/#Type12">Type 12</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a>
+        &nbsp;&nbsp;
+	<a href="../sizes.shtml#king">King</a>
+    <td>Special backstamp includes pattern name.</td>
+    <td><a href="/sources/#BB">BB</a>
+</tr>
+
+
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

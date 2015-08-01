@@ -1,0 +1,159 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+  <head>
+    <!-- "@(#) $Id$" -->
+    
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    
+    <title>About Egg-Coddlers.COM</title>
+
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>About Egg-Coddlers.COM</h1>
+
+    <h2>How the Site Came to Be</h2>
+    <p>
+      <i>
+	Once upon a time there was a woman who acquired a pair of
+	<a href="/RoyalWorcester">Royal Worcester</a> egg coddlers
+	with the <a href="/RoyalWorcester/evesham/">Evesham</a>
+	pattern.   We don't know where she got them, or why she
+	did.  We do know that she made coddled eggs for her husband and
+	her only daughter.   Eventually, the woman passed away, and her
+	daughter acquired the egg coddlers.  The daughter was very fond of
+	the egg coddlers because they remind her of her mother.
+      </i>
+    </p>
+
+    <p>
+      In her wanderings through antiques stores, years later, the
+      daughter finds other egg coddlers and starts a modest collection
+      of the coddlers that she finds very pretty and in undamaged
+      condition.  Her husband, who occasionally wanders with her through
+      the antiques stores, has blithely failed to pay much attention to
+      her coddler collection.  Then, one weekend after they find several
+      coddlers at an antiques store, the husband suddenly wonders if
+      there is any information to be found about egg coddlers on the
+      Internet.  <i>Pandora's Box had been opened</i>.
+    </p>
+    
+    <p>
+      In wandering through the Internet, the husband (who will be
+      referred to from here on as
+      <a href="http://www.spotch.com/">Rob</a>)
+      discovered that there were many varieties of these egg coddler
+      designs ... dozens ... maybe even hundreds.  It seemed that there
+      were as many as ninety of the little beasties for sale on 
+      <a href="http://www.ebay.com">eBay</a>
+      alone.  Rob decided to create an online catalog of egg coddlers,
+      based on the data that he could glean from auctions and other
+      online resources.  He created this first web site as a home page
+      for the daughter (who will be referred to from here on as
+      Paula).  Rob believed
+      that having a catalog of egg coddlers would help Paula with her
+      collection, and what better medium than a web page?  Then other
+      collectors of egg coddlers could benefit from Rob's research as well.
+    </p>
+    
+    <p>
+      <i>Rob and Paula had a lot to learn about egg coddlers</i>.  An
+      interesting note about the auctions on
+      <a href="http://www.ebay.com">eBay</a>
+      is that people are not always consistent about naming the coddlers
+      that they are selling.  One day, (two weeks into becoming an
+      online egg coddler expert) Rob noticed that a seller of egg
+      coddlers was naming 
+      <a href="/RoyalWorcester/june-garland/">a pretty floral pattern</a>
+      with the name that Rob had believed belonged to
+      <a href="/RoyalWorcester/birds/">a pattern with birds</a>.
+      Rob decided to contact the seller to find out why he had the
+      "wrong" name.
+    </p>
+    
+    <p>
+      <i>Enter Bruce, Stage Left</i>.
+      <a href="/sources/#BB">Bruce</a> has been collecting egg
+      coddlers for many years.  Rob learned, after a quick E-mail
+      exchange, that Bruce knew an awful lot about egg coddlers.  In
+      fact, Bruce seemed to know everything about egg coddlers that
+      there was to know.   He had meticulously kept notes on everything
+      he had ever learned about egg coddlers.  One day, he would write a
+      book to share his knowledge with other collectors.  Rob was
+      astounded by the depth of Bruce's notes ... he wanted to buy two
+      copies of the (as-yet unwritten) book.  After some back-and-forth
+      conversation, Bruce decided to publish his knowledge on the
+      Internet, with technical assistance from Rob.   Thus was born
+      <a href="http://www.egg-coddlers.com">Egg-Coddlers.COM</a>.
+    </p>
+    
+    <p>
+      Our goal is to make this web site a repository of information about egg
+      coddlers on the Internet.  Don't let the ".COM" part of the name
+      mislead you ... this is a non-commercial site ... we want to
+      provide a forum for egg coddler collectors to meet and communicate
+      and share their knowledge and learn from other collectors.  As time
+      goes on, we hope that other collectors of egg coddlers will share
+      their knowledge (and pictures of examples) with us, so that
+      ultimately, if there is something to know about an egg coddler, you
+      can find it via this site.
+    </p>
+    
+    <p>
+      If you have questions, comments, complaints, kudos, suggestions,
+      or anything else to share with the authors/editors/maintainers of
+      this site, please
+      <a href="/contact/">use this link</a>
+      to send us a message.  If, for whatever reason, that link does not
+      work for you, you can send an E-mail message to the following address:
+      <b>ecc-editors_AT_egg-coddlers_DOT_com</b>.  You will have to
+      manually change the "_AT_" to an '@' character, and the "_DOT_" to
+      a '.' character before using that address.
+    </p>
+    
+    <p>
+      <i>It is only fair to say that Paula is slightly overwhelmed with
+	the extent to which Rob has expanded her little hobby into a massive
+	production.  However, her coddler collection has benefitted, so she
+	can't complain too much. :)</i>
+    </p>
+
+    <h2>What We Do</h2>
+
+    <p>
+      This website is an information site for collectors of egg
+      coddlers. Our goal is to provide a compendium of information
+      about egg coddlers ... as much as we can gather and present.
+      </p>
+
+    <p>
+      We don't sell the egg coddlers shown on this site. In the past
+      we have had sections about "Where to Buy" coddlers, but we're
+      going to phase those out because those pages are just impossible
+      to keep up-to-date.
+      </p>
+
+    <p>
+      As a matter of policy, we don't publish any information about
+      pricing, relative scarcity, or rarity of individual coddlers. We
+      don't put that information on the web site, and we will not
+      respond to inquiries in person about "how rare is my egg
+      coddler" or "what is my egg coddler worth."
+      </p>
+
+      
+    <br />
+    
+    <!--#include virtual="nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Coalport - CO-UNK17 - Blue flowers - arranged in
+      sprays that run diagonally
+    </title>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Coalport - CO-UNK17
+    </h1>
+
+    <p>
+      Blue flowers - arranged in sprays that run diagonally. This is a
+      single-sized coddler. We do not know the backstamp.
+      </p>
+
+    <br />
+
+      <table align="center">
+	<tr>
+	  <td><a href="CO-UNK17-01.jpg">
+              <img src="CO-UNK17-01.jpg"
+		   height="250" alt="CO-UNK17"></a>
+          </td>
+	</tr>
+
+	<tr>
+	  <th>CO-UNK17</th>
+	</tr>
+      </table>
+
+      <br />
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+      .<br />
+<!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+

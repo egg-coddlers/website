@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Syracuse - Pattern SY-UNK02 (Blue Flowers)
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Syracuse - Pattern SY-UNK02 (Blue Flowers)
+    </h1>
+
+    <p>
+      This pattern consists of blue flowers on a brown branch with green
+      leaves, wrapping around the upper third of the coddler body.
+    </p>
+
+    <br />
+    <table align="center">
+      <tr>
+	<td><a href="bf-OGN0-S-01_full.jpg">
+            <img src="bf-OGN0-S-01_250px.jpg"
+		 alt="Single size, no pedestal, blue flowers, with
+		 green OPS backstamp"></a>
+	  </td>
+      </tr>
+
+      <tr>
+	<th>SY-UNK02 -- Blue Flowers</th>
+	</tr>
+      <tr>
+	<td align="center">Click on image to view in more detail.</td>
+      </tr>
+      
+    </table>
+
+    <br />
+
+    <table width="100%" border>
+      <caption>
+	Known Variations Matrix (Pattern SY-UNK02)
+      </caption>    
+      <tr>
+	<th width="11%">
+          <a href="../#characteristics_body_size">Body Size</a>:</th>
+	<th width="11%">
+          <a href="../#characteristics_body_style">Pedestal (Y/N)</a>:</th>
+	<th width="11%">
+          <a href="../#characteristics_bs_colour">Backstamp Colour</a>:</th>
+	<th width="11%">
+          <a href="../#characteristics_bs_style">Backstamp Style</a>:</th>
+	<th width="11%">
+          <a href="../#characteristics_bs_dates">Backstamp Dates</a>:</th>
+	<th width="34%">Notes:</th>
+	<th width="11%">Source:</th>
+      </tr>
+
+      <tr>
+	<td>Single
+	<td>N
+	<td>green
+	<td>OPS
+	<td>0
+	<td>&nbsp;
+	<td><a href="/sources/#AC">AC-05</a>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+  Adams - Tower Pattern - Blue
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+  Adams - Tower Pattern - Blue
+</h1>
+
+<p>
+  This is the classic Adams Tower pattern - in blue.
+</p>
+
+<p>
+  We've seen this coddler only with an Adams
+  <a href="../#Type2">Type 2</a>
+  backstamp.
+</p>
+
+<p>
+  Both the single size (approx. 3&frac12;" tall) and the double size
+  (approx. 4" tall) are known.
+  </p>
+
+<br />
+
+<table align="center">
+  <tr>
+    <td><a href="tower-blue-1.jpg">
+        <img src="tower-blue-1.jpg"
+	     height="200" alt="Adams Tower - Blue"></a>
+      </td>
+  </tr>
+
+  <tr>
+    <th colspan="2">Pattern Adams Tower blue
+  </tr>
+</table>
+
+<br />
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>Severn - Pattern SE-UNK05</title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>Severn - Pattern SE-UNK05</h1>
+
+    <p>
+      This pattern consists of blue flowers on both sides of the coddler.
+    </p>
+    
+    <table align="center">
+      <tr>
+	<td><a href="SE-UNK05-01.jpg">
+            <img src="SE-UNK05-01.jpg" alt="SE-UNK05"></a>
+	</td>
+	<td><a href="SE-UNK05-02.jpg">
+            <img src="SE-UNK05-02.jpg" alt="SE-UNK05"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="2">Pattern SE-UNK05</th>
+      </tr>  
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+

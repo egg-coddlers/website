@@ -1,0 +1,71 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+
+    <!-- $Id$ -->
+    
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    
+    <title>
+      Coalport - Ludlow
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Coalport - Ludlow
+    </h1>
+
+    <p>
+      This pattern consists of a bunch of flowers, including one pink
+      rose, one white flower, several smaller red flowers, and a yellow
+      narcissus.  The pattern is repeated on the other side of the
+      coddler. There is gold trim at the base of the pedestal.   This
+      backstamp is the usual backstamp, with the number <b>47</b> below
+      the backstamp.
+    </p>
+
+    <p>
+      This is a double-size coddler.
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="ludlow-01.jpg">
+            <img src="ludlow-01.jpg"
+	         height="250" alt="Ludlow"></a>
+        </td>
+	<td>	
+          <a href="ludlow-01-bs.jpg">	    
+            <img src="ludlow-01-bs.jpg"
+	         height="100" alt="Backstamp"></a>
+        </td>
+      </tr>
+
+      <tr>
+	<th colspan="2">Ludlow Pattern</th>
+      </tr>    
+    </table>
+
+    <br />
+
+    <!--#include virtual="../floral-pattern-list.ssi" -->
+    
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

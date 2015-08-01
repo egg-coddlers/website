@@ -1,0 +1,167 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>Royal Worcester - RW-UNK02 (Plain White)</title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>Royal Worcester - RW-UNK02 (Plain White)</h1>
+
+    <p>
+      This coddler is plain, with a white glaze.
+
+      <ul>
+        "Plain white Royal Worcester coddlers with either no
+        backstamp, or a <a href="../types/#Type12">Type 12</a>
+        backstamp are likely factory errors, where the design decals
+        were omitted before firing."&nbsp;&nbsp;&nbsp;
+        <a href="/sources/#BB">BB</a>
+      </ul>
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><img src="plain-white.jpg" alt="Plain White"></td>
+      </tr>
+
+      <tr>
+	<th>RW-UNK02 -- Plain White</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="plain-white-02.jpg" alt="Plain White"></td>
+	<td><a href="plain-white-02-bs_full.jpg">
+	    <img src="plain-white-02-bs_150px.jpg" alt="Backstamp"></a></td>
+      </tr>
+
+      <tr>
+	<th colspan="2">RW-UNK02 -- Plain White</th>
+      </tr>
+    </table>
+
+    <br />
+    
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a>
+	Matrix</caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="30%">Sizes</th>
+	<th width="30%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type1">Type 1</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type2D">Type 2D</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+        </td>
+	<td></td>
+	<td><a href="../../sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type3">Type 3</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+        </td>
+	<td></td>
+	<td><a href="../../sources/#BB">BB</a></td>
+      </tr>
+
+      <!-- eBay 2025403935 -->
+      <tr>
+	<td><a href="../types/#Type4B">Type 4B</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td></td>
+	<td><a href="/sources/#EA">EA</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type4D">Type 4D</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type5D">Type 5D</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type5E">Type 5E</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type7">Type 7</a></td>
+	<td><a href="../sizes.shtml#king">King</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type8">Type 8</a></td>
+	<td><a href="../sizes.shtml#king">King</a></td>
+	<td>Most likely a factory error.</td>
+	<td><a href="/sources/#AC">AC-14</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type12">Type 12</a></td>
+	<td><a href="../sizes.shtml#king">King</a></td>
+	<td>Most likely a factory error.</td>
+	<td><a href="/sources/#AC">AC-14</a></td>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type12">Type 12</a></td>
+	<td><a href="../sizes.shtml#king">Jumbo</a></td>
+	<td>Most likely a factory error.</td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td>None</td>
+	<td><a href="../sizes.shtml#king">King</a></td>
+	<td>Looks like a more recent coddler - so is probably another
+	  factory error</td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

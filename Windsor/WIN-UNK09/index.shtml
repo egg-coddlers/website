@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Windsor - WIN-UNK09 (Dog Rose)
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Windsor - WIN-UNK09 (Dog Rose)
+    </h1>
+
+    <p>
+      The pattern consists of a group of pink dog roses, dominated
+      by a single bloom.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="WIN-UNK09-01.jpg"
+		 alt="WIN-UNK09 Pattern"></td>
+      <tr>
+	<th colspan="1">Pattern WIN-UNK09 (Dog Rose)</th>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

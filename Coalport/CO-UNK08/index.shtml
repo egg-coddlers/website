@@ -1,0 +1,65 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Coalport - CO-UNK08 (Blue Willow)
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Coalport - CO-UNK08 (Blue Willow)
+    </h1>
+
+    <p>
+      This is the classic Blue Willow pattern. Backstamp says
+      <b>ENGLAND</b>, a crown, <b>COALPORT</b>, <b>A.D. 1750</b>, 
+      and <b>PATENT</b>. This is a single-sized coddler. Coalport made
+      another
+      <a href="../willow/">Blue Willow</a> pattern, in a double
+      size. We are not sure what Coalport's official name for this
+      pattern was.
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="CO-UNK08-01.jpg">
+            <img src="CO-UNK08-01.jpg"
+	         height="250" alt="CO-UNK03"></a>
+          <a href="CO-UNK08-02.jpg">
+            <img src="CO-UNK08-02.jpg"
+	         height="250" alt="CO-UNK03"></a>
+          <a href="CO-UNK08-03.jpg">
+            <img src="CO-UNK08-03.jpg"
+	         height="250" alt="CO-UNK03"></a>
+          <a href="CO-UNK08-04.jpg">
+            <img src="CO-UNK08-04.jpg"
+	         height="250" alt="CO-UNK03"></a>
+          <a href="CO-UNK08-01-bs.jpg">	    
+            <img src="CO-UNK08-01-bs.jpg"
+	         height="100" alt="Backstamp"></a>
+        </td>
+      </tr>
+
+      <tr>
+	<th>Coalport CO-UNK08 Pattern</th>
+      </tr>
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

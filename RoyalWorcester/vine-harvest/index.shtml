@@ -1,0 +1,95 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Royal Worcester - Vine Harvest Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Vine Harvest Pattern
+</h1>
+
+<p>
+    This pattern consists of grapes on a vine with large leaves.
+    </p>
+
+<br />
+
+<table align="center">
+<tr>
+    <td><img src="vine-harvest-01-a.jpg" alt="Vine Harvest"></td>
+    <td><img src="vine-harvest-01-b.jpg" alt="Vine Harvest"></td>
+    </tr>
+    
+<tr>
+    <th colspan="2">Vine Harvest Pattern</th>
+    </tr>    
+</table>
+
+<br />
+
+<table align="center">
+<tr>
+    <td><img src="design-sample-01.jpg"
+        alt="Vine Harvest Design Sample"></td>
+    <td><img src="design-sample-01-bs.jpg"
+        alt="Vine Harvest  Design Sample"></td>
+    </tr>
+    
+<tr>
+    <th colspan="2">Vine Harvest Pattern (Design Sample)</th>
+    </tr>    
+</table>
+
+<br />
+
+<a name="Knowntypes"></a>
+
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix (Vine Harvest)</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="35%">Sizes</th>
+    <th width="35%">Notes</th>
+    <th width="10%">Sources</th>
+    </tr>
+
+<tr>
+    <td><a href="../types/#Type12">Type 12</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a>
+        &nbsp;&nbsp;
+        <a href="../sizes.shtml#king">King</a>
+	&nbsp;&nbsp;
+        <a href="../sizes.shtml#jumbo">Jumbo</a>
+	</td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#BB">BB</a></td>
+    </tr>
+
+<tr>
+    <td>Backstamp includes the words <b>DESIGN SAMPLE</b>
+        and/or <b>RETURN TO DESIGN DEPARTMENT</b>.
+	</td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>Probably a pre-release sample of this design.</td>
+    <td><a href="/sources/#BB">BB</a></td>
+    </tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

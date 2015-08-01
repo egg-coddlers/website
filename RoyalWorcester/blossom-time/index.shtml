@@ -1,0 +1,109 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Royal Worcester - Blossom Time Pattern
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Blossom Time Pattern
+    </h1>
+
+    <p>
+      This pattern consists of four flowers (roses) on a stem, with
+      green leaves on the reverse.  The size and number of flowers, and
+      the size of the leaves varies considerably. We know of three
+      different colour variations, pink, blue, and purple.
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+        <td><img src="blossomtime-01-a.jpg" alt="Pink Blossom Time">/td>
+        <td><img src="blossomtime-01-b.jpg" alt="Pink Blossom Time"></td>
+      </tr>
+
+      <tr>
+        <th colspan="2">Pink Blossom Time</th>
+      </tr>
+    </table>	
+
+    <br />
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="blossomtime-02-a.jpg" alt="Blue Blossom Time"></td>		
+	<td><img src="blossomtime-02-b.jpg" alt="Blue Blossom Time"></td>
+      </tr>
+
+      <tr>
+	<th colspan="2">Blue Blossom Time</th>
+      </tr>
+    </table>	
+
+    <br />
+    <br />
+
+    <table align="center">
+      <tr>
+	<td align="center"><a href="blossomtime-03_full.jpg">
+            <img src="blossomtime-03_250px.jpg" alt="Purple Blossom Time"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th>Purple Blossom Time</th>
+      </tr>
+
+      <tr>
+	<td align="center">Click on image to view in more detail.</td>
+      </tr>
+
+    </table>
+
+    <br />
+    <br />
+    
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a>
+	Matrix</caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="30%">Sizes</th>
+	<th width="30%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type7">Type 7</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

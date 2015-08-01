@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Royal Worcester - Patricia Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+    Royal Worcester - Patricia Pattern
+</h1>
+
+<p>
+This pattern consists of a green vine around the top of the coddler
+with large bright red and blue flowers.
+
+<a name="Example2"></a>
+<p>
+<table align="center">
+<tr>
+     <td><a href="patricia-02-a.jpg">
+            <img src="patricia-02-a.jpg"
+                height="250" alt="Patricia - Example 2">
+    <td><a href="patricia-02-b.jpg">
+            <img src="patricia-02-b.jpg"
+                height="250" alt="Patricia - Other side">		
+</tr>
+<tr>
+    <th colspan="2">Patricia - Example 2
+</tr>    
+</table>
+
+<a name="Example3"></a>
+<p>
+<table align="center">
+<tr>
+    <td><a href="patricia-03-a.jpg">
+            <img src="patricia-03-a.jpg"
+                height="200" alt="Patricia">
+    <td><a href="patricia-03-b.jpg">
+            <img src="patricia-03-b.jpg"
+                height="200" alt="Patricia">
+    <td><a href="patricia-03-c.jpg">
+            <img src="patricia-03-c.jpg"
+                height="200" alt="Patricia">
+    <td><a href="patricia-03-d.jpg">
+            <img src="patricia-03-d.jpg"
+                height="200" alt="Patricia">
+    <td><a href="patricia-03-e.jpg">
+            <img src="patricia-03-e.jpg"
+                height="200" alt="Patricia">
+</tr>
+<tr>
+    <th colspan="5">Patricia - Example 3
+</tr>    
+</table>
+
+<p>
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix (Patricia)</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="30%">Sizes</th>
+    <th width="30%">Notes</th>
+    <th width="10%">Sources</th>
+</tr>
+
+<tr>
+    <td><a href="../types/#Type5C">Type 5C</a>
+    <td><a href="../sizes.shtml#standard">Standard</a>
+    <td>Example 2
+        <a href="#Example2">shown above</a>.
+    <td><a href="/sources/#AC">AC-02</a>
+</tr>
+
+<!-- eBay 354080989 -->
+<tr>
+    <td><a href="../types/#Type7">Type 7</a>
+    <td><a href="../sizes.shtml#standard">Standard</a>
+    <td>Example 3
+        <a href="#Example3">shown above</a>.    
+    <td><a href="/sources/#EA">EA</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

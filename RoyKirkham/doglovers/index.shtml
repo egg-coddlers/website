@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Roy Kirkham - Dog Lovers Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Roy Kirkham - Dog Lovers Pattern
+</h1>
+
+    
+    The pattern appears twice, on opposite
+    faces of the coddler.  (Click on either image to view in more
+    detail).   
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="doglovers-01.jpg">
+            <img src="doglovers-01.jpg"
+	        height="200 alt="Dog Lovers Pattern"></a>
+    
+</tr>
+
+<tr>
+    <th colspan="2">Dog Lovers Pattern
+</tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

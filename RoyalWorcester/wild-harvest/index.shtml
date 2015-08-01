@@ -1,0 +1,111 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <title>
+      Royal Worcester - Pattern Wild Harvest (Cherries)
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Wild Harvest Pattern
+    </h1>
+
+    <p>
+      This pattern consists of cherries on one side of the coddler, and
+      hazelnuts on the other side.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="wild-harvest-01-a.jpg">
+            <img src="wild-harvest-01-a.jpg" alt="Wild Harvest"></a>
+	</td>
+	<td><a href="wild-harvest-01-b.jpg">
+            <img src="wild-harvest-01-b.jpg" alt="Wild Harvest"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="2">Wild Harvest Pattern</th>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="wild-harvest-cup-a.jpg">
+            <img src="wild-harvest-cup-a.jpg"
+		 height="150" alt=" "></a>
+	</td>
+	<td><a href="wild-harvest-cup-b.jpg">
+            <img src="wild-harvest-cup-b.jpg"
+		 height="100" alt=" "></a>
+	</td>
+	<td><a href="wild-harvest-cup-c.jpg">
+            <img src="wild-harvest-cup-c.jpg"
+		 height="150" alt=" "></a>
+	</td>
+	<td><a href="wild-harvest-cup-d.jpg">
+            <img src="wild-harvest-cup-d.jpg"
+		 height="100" alt=" "></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="4">Wild Harvest Pattern on a Cup (not all decals will
+          appear on egg coddlers)
+	</th>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>
+	Known
+	<a href="../types">Types</a>
+	Matrix (Wild Harvest)
+      </caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="35%">Sizes</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type8">Type 8</a></td>
+	<td><a href="../sizes.shtml/#standard">Standard</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

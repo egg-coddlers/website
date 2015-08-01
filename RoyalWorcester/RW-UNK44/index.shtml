@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Royal Worcester - RW-UNK44 (Bunnies and Birds)
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+    Royal Worcester - RW-UNK44 (Bunnies and Birds)
+</h1>
+
+<p>
+    This pattern consists of bunnies, birds, and butterflies.  The
+    bunnies closely resemble those on the <a href="../easter-bunnies">
+    Easter Bunnies pattern</a>.  We don't know whether these are a
+    variant of that pattern, or another pattern name.
+    </p>
+    
+<br />
+    
+<table align="center">
+<tr>
+    <td><a href="RW-UNK44-01-a.jpg">
+        <img src="RW-UNK44-01-a.jpg"
+	    height="250" alt="RW-UNK44"></a>
+        </td>
+    <td><a href="RW-UNK44-01-b.jpg">
+        <img src="RW-UNK44-01-b.jpg"
+	    height="250" alt="RW-UNK44"></a>
+        </td>
+    </tr>
+
+<tr>
+    <th colspan="2">Pattern RW-UNK44
+    </tr>
+</table>
+
+<br />
+
+<a name="Knowntypes"></a>
+
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="35%">Sizes</th>
+    <th width="35%">Notes</th>
+    <th width="10%">Sources</th>
+    </tr>
+
+<tr>
+    <td><a href="../types/#Type12">Type 12</a></td>
+    <td><a href="../sizes.shtml/#standard">Standard</a></td>
+        &nbsp;&nbsp;
+        <a href="../sizes.shtml/#king">King</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-03</a>
+        &nbsp;
+	<a href="/sources/#BB">BB</a>
+	</td>
+    </tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>
+
+
+

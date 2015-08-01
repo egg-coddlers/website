@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Coalport - CO-UNK13 - Green Leaves
+    </title>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+  </head>
+  <body bgcolor="white">
+
+
+    <a name="Top"></a>
+
+    <h1>
+      Coalport - CO-UNK13 - Green Leaves
+    </h1>
+
+    <p>
+      This pattern is in green, with crinkled green and white leaves -
+      of a plant the name of which escapes me.  The backstamp is
+      marked with 
+      <b>ENGLAND</b>,
+      a crown,
+      <b>COALPORT</b>,
+      <b>A.D. 1750</b>,
+      and
+      <b>PATENT</b>.
+      This is a single-sized coddler.
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="CO-UNK13-01.jpg">
+            <img src="CO-UNK13-01.jpg"
+		 height="250" alt="CO-UNK13"></a>
+        </td>
+	<td>	
+	  <a href="CO-UNK13-01-bs.jpg">	    
+            <img src="CO-UNK13-01-bs.jpg"
+		 height="100" alt="Backstamp">
+        </td>
+      </tr>
+      <tr>
+	<th colspan="2">CO-UNK13</th>
+      </tr>
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+

@@ -1,0 +1,151 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    
+    <!-- @(#) $Id$ -->    
+
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="manufacturer.css" type="text/css" />
+    
+    <title>
+      Aynsley Egg Coddlers
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Aynsley Egg Coddlers
+    </h1>
+ 
+    <ul>
+      "Aynsley coddlers are convex with a pedestal.  They are made in England
+      and only come in the double size.  The name of the design is part of
+      the backstamp. There are two variations of the ring on the lid.
+      One is flat and the other is round.  There are also minor
+      variations with the wording and font of the backstamps."
+      -- &nbsp;&nbsp;&nbsp;
+      <a href="/sources/#BB">BB</a>
+    </ul>
+
+    <p>
+      According to <a href="/sources/#KM">Kovel's</a>,
+      this mark was used by John Aynsley & Sons of Longton, Staffordshire,
+      England.
+    </p>
+
+    <p>
+      Some Aynsley coddlers come with a sticker attached, shown below:
+    </p>
+
+    <table align="center">
+      <tr>
+	<td><a href="aynsley-sticker.jpg">
+            <img src="aynsley-sticker.jpg" alt="Aynsley Sticker"></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th>Aynsley Sticker</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <a name="Patterns"></a>
+    <h2>Patterns</h2>
+
+    <p>
+      Listed below are descriptions and low-resolution images of the
+      patterns of egg coddlers that Aynsley produced.  To see
+      detailled images of the coddlers with the pattern and to learn
+      more about known variations of that coddler pattern, you must
+      click on the name and/or the image. 
+    </p>
+
+    <br />
+    
+    <table border width="100%">
+      <tr>
+	<th width="20%">Pattern Name</th>
+	<th width="25%">Description of Pattern</th>
+	<th width="55%">Image</th>
+      </tr>
+
+      <tr>
+	<th><a href="cottage-garden/">Cottage Garden</a></th>
+	<td>Orange butterfly, blue, yellow, and  orange flowers.
+          <i><a href="cottage-garden/">[Details]</a></i>
+	  </td>
+	<td><a href="cottage-garden/">
+            <img src="cottage-garden/cottage-garden-pat-1.jpg"
+		 height="50" alt="Cottage Garden"></a>
+          <a href="cottage-garden/">
+            <img src="cottage-garden/cottage-garden-pat-2.jpg"
+                 height="50" alt="Cottage Garden"></a>
+          <a href="cottage-garden/">
+            <img src="cottage-garden/cottage-garden-pat-3.jpg"
+                 height="50" alt="Cottage Garden"></a>
+          <a href="cottage-garden/">
+            <img src="cottage-garden/cottage-garden-pat-4.jpg"
+                 height="50" alt="Cottage Garden"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="marlina/">Marlina</a></th>
+	<td>Blue, yellow, and orange flowers.
+          <i><a href="marlina/">[Details]</a></i>
+	</td>
+	<td>
+	  <a href="marlina/">
+            <img src="marlina/marlina-01a_100px.jpg"
+		 height="50" alt="Aynsley Marlina Pattern"></a>
+	  <a href="marlina/">
+            <img src="marlina/marlina-01b_100px.jpg"
+		 height="50" alt="Aynsley Marlina Pattern"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="pembroke/">Pembroke</a></th>
+	<td>Blue bird in a branch, with orange, pink, and teal flowers.
+          <i><a href="pembroke/">[Details]</a></i>
+	</td>
+	<td><a href="pembroke/">
+            <img src="pembroke/pembroke-pat-1.jpg"
+		 height="50" alt="Pembroke"></a>
+	  <a href="pembroke/">
+            <img src="pembroke/pembroke-pat-2.jpg"
+		 height="50" alt="Pembroke"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="wild-violets/">Wild Violets</a></th>
+	<td>A bunch of violets.
+          <i><a href="wild-violets/">[Details]</a></i>
+	</td>
+	<td><a href="wild-violets/">
+            <img src="wild-violets/wild-violets-pat-1.jpg"
+		 height="50" alt="Wild Violets"></a>
+	  </td>
+      </tr>
+
+
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+
+  </body>
+</html>

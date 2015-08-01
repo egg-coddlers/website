@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>Royal Worcester - RW-UNK55 (Blue Flowers)</title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>Royal Worcester - RW-UNK55 (Blue Flowers)</h1>
+
+    <p>
+      This is an old Royal Worcester coddler, with no ring on the
+      lid. The backstamp is Type 1.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+        <td><img src="RW-UNK55-01-a.jpg" alt="RW-UNK55"></td>
+	<td><img src="RW-UNK55-01-bs.jpg" alt="Backstamp"></td>
+      </tr>
+      <tr>
+	<th colspan="2">RW-UNK55 - Standard Size</th>
+      </tr>
+    </table>
+
+    <br />
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="RW-UNK55-03-a.jpg" alt="RW-UNK55"></td>
+      </tr>
+      <tr>
+	<th colspan="1">RW-UNK55 - King Size
+    </table>
+
+    <br />
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a> Matrix</caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="30%">Sizes</th>
+	<th width="30%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type1">Type 1</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+	  &nbsp;&nbsp;
+	  <a href="../sizes.shtml#king">King</a>
+	</td>
+	<td></td>
+	<td></td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

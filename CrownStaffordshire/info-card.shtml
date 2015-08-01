@@ -1,0 +1,27 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+<head>
+<title>Crown Staffordshire Info Cards</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+<h1>
+Crown Staffordshire Info Cards
+</h1>
+
+This information is provided by Crown Staffordshire with egg coddlers
+that they sell.
+
+<p>
+<table>
+<tr>
+<td><img src="info-card-page1.jpg" align="top" alt="[page 1]">
+<td><img src="info-card-page2.jpg" align="top" alt="[page 2]">
+</tr>
+</table>
+<p>
+<!--#include virtual="pattern-nav-block.ssi" -->
+
+</body>
+</html>

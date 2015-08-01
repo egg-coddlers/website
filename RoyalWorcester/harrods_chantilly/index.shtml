@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Royal Worcester - Harrods - Chantilly Pattern
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Harrods - Chantilly Pattern
+    </h1>
+
+    <p>
+      This is one of several coddlers that were
+      made by Royal Worcester for, and sold by, Harrods of London.
+    </p>
+
+    <p>    
+      All are King size, and have gold-coloured tops and rings.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr align="center">
+	<td><a href="harrods-chantilly_full.jpg">
+            <img src="harrods-chantilly_250px.jpg"
+		 alt="Harrods Chantilly"></a></td>
+      </tr>
+
+      <tr>
+	<th>Harrods - Chantilly - King Size</th>
+      </tr>
+
+      <tr>
+	<td align="center">Click on image to view in more detail.</td>
+      </tr>
+
+    </table>
+
+    <br /
+	
+	<!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

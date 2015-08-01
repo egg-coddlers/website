@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <title>Search Results</title>
+    <! "@(#) $Id$" >
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>EggCoddlers.COM Search Results</h1>
+
+    <ul>
+      Here are the results from your most recent search. Click on the <b>Web</b>
+      tab to see pages whose text matched your search terms. Click on the <b>Image</b>
+      tab to view images that match your search terms. All search results are from
+      this web site. All pages on this site should have a search block in the bottom,
+      in the Navigation Bar.
+      <br />
+      In the Search block you can type in any terms that constitute a valid
+      <a href="http://google.com">Google</a> search. You can use any of the punctuation, symbols and
+      operators that Google Search recognizes.
+      <a href="https://support.google.com/websearch/answer/2466433?hl=en">See
+      this page</a> for more information about how to narrow and refine your
+      searches.
+    </ul>
+
+    <div id="searchbox" style="width:400px,halign:center">
+      <gcse:searchbox-only></gcse:searchbox-only>
+    </div>
+
+    <div id="searchresults">
+      <gcse:searchresults-only></gcse:searchresults-only>
+    </div>
+    
+    <br />
+
+    <br />
+
+    <!--#include virtual="nav-block.ssi" -->
+
+    <hr width="100%">
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

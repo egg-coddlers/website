@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <meta name="description"
+	  content="Egg coddlers from House of Prill
+		   These coddlers are double-sized convex coddlers
+		   with no pedestal and have corrugated sides. This
+		   pattern consists of seemingly random sprigs of
+		   flowers." />
+
+    <title>
+      Pattern HP-UNK20 (Random Flower Sprigs)
+    </title>
+  </head>
+  
+  <body>
+
+    <a name="Top"></a>
+    <h1>
+      Pattern HP-UNK20 (Random Flower Sprigs)
+    </h1>
+
+    <p>
+      These coddlers are double-sized convex coddlers with no pedestal
+      and have corrugated sides. This pattern
+      consists of seemingly random springs of flowers
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="HP-UNK20-01.jpg">
+            <img src="HP-UNK20-01.jpg" height="250"
+		 alt="HP-UNK20"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th>Pattern HP-UNK20</th>
+      </tr>
+    </table>
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+
+
+

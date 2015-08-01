@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <meta name="description"
+	  content="Egg coddlers decorated with a floral band
+		   in pinkish red and green." />
+    <title>
+      UM69 - Floral Band in Pinkish=red and Green
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      UM69 - Floral Band in Pinkish-red and Green      
+    </h1>
+
+
+    <p>
+      These coddlers are decorated with a pinkish-red floral band
+      with green leaves around the upper half of the body.
+    </p>
+    
+    <p>
+      These are double convex coddlers, with a round lifting ring.
+    </p>
+
+    <p>
+      We do not know what backstamps they have.
+    </p>
+
+    <br />
+    
+    <h2>UM69-UNK01</h2>
+
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="UM69-UNK01-a.jpg">
+	    <img src="UM69-UNK01-a.jpg"
+		 height="250" alt="UM69-UNK01"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th>UM69-UNK01</th>
+      <tr>
+      
+    </table>
+
+    <br />
+
+    <!--#include virtual="/manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

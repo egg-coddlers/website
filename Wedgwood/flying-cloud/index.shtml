@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Wedgwood - Flying Cloud
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Wedgwood - Flying Cloud
+</h1>
+
+This pattern consists of rust coloured sailing ships.
+
+<p>
+<table align="center">
+<tr>
+<td><a href="flying-cloud-01-a.jpg">
+        <img src="flying-cloud-01-a.jpg"
+	    height="250" alt="Flying Cloud"></a>
+    <a href="flying-cloud-01-b.jpg">
+        <img src="flying-cloud-01-b.jpg"
+	    height="250" alt="Flying Cloud"></a>
+</tr>
+</table>
+<p>
+<table align="center">
+<tr>
+<td><a href="flying-cloud-02.jpg">
+        <img src="flying-cloud-02.jpg"
+	    height="250" alt="Flying Cloud"></a>
+<td><a href="flying-cloud-02-bs.jpg">
+        <img src="flying-cloud-02-bs.jpg"
+	    height="100" alt="Backstamp"></a>
+</tr>
+</table>
+<p>
+<table border width="100%">
+<caption>Known Variations Matrix (Flying Cloud)</caption>
+<tr>
+<th width="20%"><a href="../#Sizes">Sizes</a></th>
+<th width="20%">Name on Backstamp?
+<th width="50%">Notes</th>
+<th width="10%">Sources</th>
+</tr>
+
+<tr>
+<td>Single
+<td>Yes
+<td>&nbsp;
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+<tr>
+<td>Double
+<td>Yes
+<td>&nbsp;
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

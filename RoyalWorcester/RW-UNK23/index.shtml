@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Royal Worcester - Pattern RW-UNK23 (Teal Blue and Purple Flowers)
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+    Royal Worcester - Pattern RW-UNK23 (Teal Blue and Purple Flowers)
+</h1>
+
+<p>
+    This pattern consists of teal, blue, and purple flowers around the
+    coddler belly, on a green vine, with a few other flowers.  The
+    pattern includes a vertical blue ribbon with a mustard yellow dot
+    in the centre.
+    </p>
+
+<br />
+
+<table align="center">
+<tr>
+    <td><img src="vine3-01-a.jpg" alt="Vine 3 Front"></td>
+    <td><img src="vine3-01-b.jpg" alt="Vine 3 Back"></td>
+    </tr>
+</table>
+
+<br />
+
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix (RW-UNK23)</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="30%">Sizes</th>
+    <th width="30%">Notes</th>
+    <th width="10%">Sources</th>
+    </tr>
+
+<tr>
+    <td>&nbsp;</td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>Known that variants could be of types 5, 6, 7, or 11</td>
+    <td><a href="/sources/#BB">BB</a></td>
+    </tr>
+
+<tr>
+    <td><a href="../types/#Type4C">Type 4C</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#BB">BB</a></td>
+    </tr>
+    
+<tr>
+    <td><a href="../types/#Type7">Type 7</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a></td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-02</a></td>
+    </tr>
+
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

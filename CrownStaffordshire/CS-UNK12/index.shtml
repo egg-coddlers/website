@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Crown Staffordshire - CS-UNK12 (Fruit - including bright red cherries)
+    </title>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Crown Staffordshire - CS-UNK12 (Fruit - including bright red cherries)
+    </h1>
+
+    <p>
+      This pattern consists of a bunch of fruit, including bright red
+      cherries.
+    </p>
+
+    <br />
+    <table align="center">
+      <tr>
+	<td><a href="CS-UNK12-01_750px.jpg">
+            <img src="CS-UNK12-01_250px.jpg"
+	         alt="12-UNK12"></a>
+        </td>
+      </tr>
+      <tr>
+	<th>Crown Staffordshire CS-UNK12</th>
+      </tr>
+    </table>
+
+
+    <br />
+
+    <table border width="100%">
+      <caption>
+	Known Variations Matrix (CS-UNK12)
+      </caption>
+      <tr>
+	<th width="20%"><a href="../#Lids">Lid</a></th>
+	<th width="20%"><a href="../#LiftingRings">Lifting Ring</a></th>
+	<th width="30%">Size/Notes</th>
+	<th width="12%">Source</th>
+      </tr>
+
+      <tr>
+	<td>Full Turn</td>
+	<td>Round Ring</td>
+	<td></td>
+	<td></td>
+      </tr>
+
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+

@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    
+    <!-- @(#) $Id$ -->
+
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+
+    <meta name="description"
+	  content="Egg coddler, double-sized, with a large pink
+	  morning glory on a white background." /> 
+
+    <title>
+      Unknown Manufacturer - UM76 (Large Pink Morning Glory)
+    </title>
+
+
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Unknown Manufacturer - UM76 (Large Pink Morning Glory)      
+    </h1>
+    
+    <p>
+      These egg coddlers are double-sized. The pattern is a large pink
+      morning glory. The backstamp is not known.
+    </p>
+
+    <br />
+
+
+    <h2>UM76-UNK01</h2>
+
+    <table align="center" width="60%">
+      <tr>
+	<td>
+	  <a href="UM76-UNK01.jpg">
+            <img src="UM76-UNK01.jpg"
+		 height="250" alt="UM76-UNK01"></a>
+	</td>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="/manu-nav-block.ssi" -->
+
+    <br />
+      
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

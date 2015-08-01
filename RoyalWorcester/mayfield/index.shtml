@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Royal Worcester - Mayfield Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Mayfield Pattern
+</h1>
+
+<p>
+This pattern consists of a blue band and bunches of flowers.
+
+<p>
+<table align="center">
+<tr>
+<td><img src="mayfield-01-a.jpg" alt="Mayfield">
+<td><img src="mayfield-01-b.jpg" alt="Mayfield">
+</tr>
+<tr>
+    <th colspan="2">Mayfield Pattern
+</tr>    
+</table>
+
+<p>
+<table align="center">
+<tr>
+<td><img src="design-sample-01.jpg" alt="Mayfield Design Sample">
+<td><img src="design-sample-01-bs.jpg" alt="Mayfield Design Sample">
+</tr>
+<tr>
+    <th colspan="2">Mayfield Pattern (Design Sample)
+</tr>    
+</table>
+
+<p>
+<a name="Knowntypes"></a>
+
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix (Mayfield)</caption>
+<tr>
+<th width="20%">Type</th>
+<th width="35%">Sizes</th>
+<th width="35%">Notes</th>
+<th width="10%">Sources</th>
+</tr>
+
+<tr>
+<td><a href="../types/#Type12">Type 12</a>
+<td><a href="../sizes.shtml#standard">Standard</a>
+    &nbsp;&nbsp;
+    <a href="../sizes.shtml#king">King</a>
+<td>&nbsp;
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+<tr>
+<td>Backstamp included the words <b>DESIGN SAMPLE</b>
+    and/or <b>RETURN TO DESIGN DEPARTMENT</b>.
+<td><a href="../sizes.shtml#king">King</a>
+<td>Probably a pre-release sample of this design.
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Wedgwood - Swallow
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Wedgwood - Swallow
+</h1>
+
+This pattern consists of a floral pattern in yellow, pink, and blue.
+
+<p>
+<table align="center">
+<tr>
+<td><a href="swallow-01-a.jpg">
+        <img src="swallow-01-a.jpg"
+	    alt="Swallow"></a>
+    <a href="swallow-01-b.jpg">
+        <img src="swallow-01-b.jpg"
+	     alt="Swallow"></a>
+    <a href="swallow-01-c.jpg">
+        <img src="swallow-01-c.jpg"
+	     alt="Swallow"></a>	     
+    <a href="swallow-01-bs.jpg">
+        <img src="swallow-01-bs.jpg"
+	    alt="Backstamp"></a>
+</tr>
+</table>
+<p>
+
+<table align="center">
+<tr>
+<td><a href="swallow-03-a.jpg">
+        <img src="swallow-03-a.jpg"
+	    height="250" alt="Swallow"></a>
+    <a href="swallow-03-b.jpg">
+        <img src="swallow-03-b.jpg"
+	    height="250" alt="Swallow"></a>
+</tr>
+</table>
+<p>
+
+
+<table border width="100%">
+<caption>Known Variations Matrix (Swallow)</caption>
+<tr>
+    <th width="20%"><a href="../#Sizes">Sizes</a></th>
+    <th width="20%">Name on Backstamp?
+    <th width="50%">Notes</th>
+    <th width="10%">Sources</th>
+</tr>
+
+<tr>
+    <td>Single
+    <td>Yes
+    <td>&nbsp
+    <td><a href="/sources/#BB">BB</a>
+</tr>
+
+<tr>
+    <td>Double
+    <td>Yes
+    <td>&nbsp
+    <td><a href="/sources/#AC">AC-04</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>
+
+
+

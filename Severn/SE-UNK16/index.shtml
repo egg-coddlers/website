@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Severn - Pattern SE-UNK16 (Libra)
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>Severn - Pattern SE-UNK16 (Libra)</h1>
+
+    <p>
+      This pattern consists of a rabbit by a pair of scales that seem
+      to be full of eggs. There is the inscription <b>Libra</b> on the
+      coddler. This coddler is larger than other Severn
+      coddlers: 5" tall and 3&frac12;" in diameter. 
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="SE-UNK16-01a.jpg">
+	    <img src="SE-UNK16-01a.jpg"
+		 alt="SE-UNK16"></a>
+	</td>
+	<td><a href="SE-UNK16-01b.jpg">
+	    <img src="SE-UNK16-01b.jpg"
+		 alt="SE-UNK16"></a>
+	</td>
+	<td><a href="SE-UNK16-01c.jpg">
+	    <img src="SE-UNK16-01c.jpg"
+		 alt="SE-UNK16"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="3">Pattern SE-UNK16 (Libra)</th>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="houseofprill.css" type="text/css" />
+
+    <meta name="description"
+	  content="Egg coddlers from House of Prill
+		   These coddlers are double-sized convex coddlers
+		   with no pedestal and have corrugated sides. This
+		   pattern consists of tall flowers - dominated by a
+		   yellow iris." /> 
+
+    <title>
+      Pattern HP-UNK21 (Tall Flowers - Yellow Iris)
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Pattern HP-UNK21 (Tall Flowers - Yellow Iris)
+    </h1>
+
+    <p>
+      These coddlers are double-sized convex coddlers with no pedestal
+      and have corrugated sides. This pattern
+      consists of tall flowers - dominated by a yellow iris.
+    </p>
+
+    <table align="center">
+      <tr>
+	<td><a href="HP-UNK21-01.jpg">
+	    <img src="HP-UNK21-01.jpg"
+		 height="250" alt="HP-UNK21" /></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th>Pattern HP-UNK21</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+    
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+
+

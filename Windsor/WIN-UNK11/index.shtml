@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Windsor - WIN-UNK11 (Hand of Cards)
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Windsor - WIN-UNK11 (Hand of Cards)
+    </h1>
+
+    <p>
+      This pattern consists of a hand of playing cards.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="WIN-UNK11-01_750px.jpg">
+	    <img src="WIN-UNK11-01_250px.jpg"
+		 alt="WIN-UNK11 Pattern"></td>
+	<td><a href="WIN-UNK11-02_750px.jpg">
+	    <img src="WIN-UNK11-02_250px.jpg"
+		 alt="WIN-UNK11 Pattern"></td>
+      </tr>
+
+      <tr>
+	<th colspan="2">Pattern WIN-UNK11 (Hand of Cards)</th>
+      </tr>
+
+      <tr>
+	<td colspan="2" align="center">
+	    Click on an image to view in more detail.
+        </td>    
+      </tr>
+      
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

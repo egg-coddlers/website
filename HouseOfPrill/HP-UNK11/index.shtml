@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Pattern HP-UNK11 (Pink & Grey Sweet Peas)
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top">
+<h1>
+    Pattern HP-UNK11 (Pink & Grey Sweet Peas)
+</h1>
+
+    These coddlers are double-sized convex coddlers with no pedestal
+    and have corrugated sides. This pattern
+    consists of a number of sweet pea flowers, in grey, light pink, 
+    and dark pink, on green leaves.
+    <p>
+
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="HP-UNK11-01.jpg">
+            <img src="HP-UNK11-01.jpg" height="250"
+            alt="HP-UNK11"></a>
+        <a href="HP-UNK11-02.jpg">
+            <img src="HP-UNK11-02.jpg" height="250" alt="HP-UNK11"></a>
+</tr>
+
+<tr>
+    <th colspan="2">HP-UNK11 (Pink & Grey Sweet Peas)
+</tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+
+</body>
+</html>
+
+
+

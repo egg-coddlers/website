@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>Unknown Manufacturer - UM65 Plain White from "Germany"</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+<h1>Unknown Manufacturer - UM65 Plain White from "Germany"</h1>
+</a>
+
+<p>
+    This is a single size plain white coddler. the backstamp is
+    "Germany", with no other marks. The shape and style is very
+    similar to the plain white coddlers of
+    <a href="/FranzJosefMayer/">Max Roesler</a> and there
+    may be a connection of which we are yet not aware.
+    </p> 
+
+<br />
+
+<table align="center">
+<tr>
+    <td><a href="UM65-UNK01-01.jpg">
+        <img src="UM65-UNK01-01.jpg"
+	    height="250" alt="Unknown: UM64-UNK01"></a>
+        </td>	    
+    </tr>
+
+<tr>
+    <td>
+        <a href="UM65-UNK01-bs-01.jpg">
+        <img src="UM65-UNK01-bs-01.jpg"
+	    height="150" alt="Backstamp"></a>
+        </td>
+    </tr>
+<tr>
+    <th>Pattern UM65-UNK01</th>
+    </tr>
+</table>
+
+<!--#include virtual="../../manu-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>
+
+
+

@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>Egg-Coddlers.COM Copyright Information</title>
+  </head>
+
+  <body bgcolor="white">
+    <a name="Top">
+      <center>      
+	<h1>Egg-Coddlers.COM Copyright Information</h1>
+      </center>
+    </a>
+    <p>
+      All web pages served by Egg-Coddlers.COM are marked at the bottom
+      with the following text:
+      <ul>
+	<pre>
+	  <b>This document is &#169; copyright Egg-Coddlers.COM. All rights
+	    reserved</b>
+	</pre>
+      </ul>
+    </p>
+
+    <p>
+      Specifically, the copyright to all textual content on this web
+      site belongs jointly to Bruce Barrett of San Jose CA,
+      and Rob Jenson of Bethesda MD.
+    </p>
+
+    <p>
+      The copyright to images on this site belongs to the individual
+      photographers and are used here with their permission.
+    </p>
+
+    <p>
+      Please <a href="/contact/">contact the editors of this web site</a>
+      for permission before reproducing any content from this web space in
+      any form or media.
+    </p>
+
+    <br />
+    <!--#include virtual="nav-block.ssi" -->
+
+    <br />
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

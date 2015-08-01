@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <title>
+      Pattern UM03-UNK02 (Pastel Roses)
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Pattern UM03-UNK02 (Pastel Roses)
+    </h1>
+
+    <p>
+      These coddlers are double-sized convex coddlers with no pedestal
+      and have corrugated sides.  The shape is the same as coddlers
+      made by <a href="/HouseOfPrill/">House of Prill</a> but they
+      have no backstamp.  The pattern consists of pastel roses.
+    </p>
+
+    <table align="center">
+      <tr>
+	<td><a href="UM03-UNK02-01.jpg">
+            <img src="UM03-UNK02-01.jpg"
+	         alt="UM03-UNK02"></a>
+      </tr>
+      
+      <tr>
+	<th colspan="2">UM03-UNK02 (Pastel Roses)
+      </tr>
+    </table>
+
+      <!--#include virtual="../pattern-nav-block.ssi" -->
+
+  </body>
+</html>

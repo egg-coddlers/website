@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Roy Kirkham - Owls Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Roy Kirkham - Owls Pattern
+    </h1>
+
+    <p>
+      This pattern consists of a Long-Eared Owl, surrounded by text.
+    </p>
+    
+    <table align="center">
+      <tr>
+	<td><a href="owls-01_750px.jpg">
+            <img src="owls-01_250px.jpg"
+	         alt="owls Pattern"></a>
+      </tr>
+
+      <tr>
+	<th colspan="1">Owls Pattern
+      </tr>
+    </table>
+
+    <br />
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

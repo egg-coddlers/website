@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Syracuse - Pattern SY-UNK15
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+    Syracuse - Pattern SY-UNK15
+</h1>
+
+<p>
+
+<table align="center">
+<tr>
+    <td><a href="SY-UNK15-01.jpg">
+            <img src="SY-UNK15-01.jpg"
+                height="250"
+		alt="SY-UNK15"></a>
+</tr>
+<tr>
+    <th>Pattern SY-UNK15
+</tr>
+</table>
+<p>
+
+<table width="100%" border>
+<caption>
+    Known Variations Matrix (Pattern SY-UNK15)
+</caption>    
+<tr>
+    <th width="11%">
+        <a href="../#characteristics_body_size">Body Size</a>:
+    <th width="11%">
+        <a href="../#characteristics_body_style">Pedestal (Y/N)</a>:
+    <th width="11%">
+        <a href="../#characteristics_bs_colour">Backstamp Colour</a>:
+    <th width="11%">
+        <a href="../#characteristics_bs_style">Backstamp Style</a>:
+    <th width="11%">
+        <a href="../#characteristics_bs_dates">Backstamp Dates</a>:
+    <th width="34%">Notes:
+    <th width="11%">Source:
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>
+

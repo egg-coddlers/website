@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Royal Worcester - Pattern RW-UNK33 (Royal Wedding)
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+    Royal Worcester - Pattern RW-UNK33 (Royal Wedding)
+</h1>
+
+<p>
+Celebrating the Royal Wedding.  This design is inscribed
+<b>H.R.H. Prince Charles, Lady Diana Spencer  29th July 1981</b>.
+
+<p>
+<table align="center">
+<tr>
+<td><img src="royal-wedding-01-a.jpg" alt="Royal Wedding">
+<td><img src="royal-wedding-01-b.jpg" alt="Royal Wedding">
+</tr>
+</table>
+
+<p>
+<a name="Knowntypes"></a>
+
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix RW-UNK33</caption>
+<tr>
+<th width="20%">Type</th>
+<th width="35%">Sizes</th>
+<th width="35%">Notes</th>
+<th width="10%">Sources</th>
+</tr>
+
+<tr>
+<td><a href="../types/#Type11">Type 11</a>
+<td><a href="../sizes.shtml#king">King</a>
+<td>&nbsp;
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

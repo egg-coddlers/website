@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <!-- @(#) $Id$ -->  
+  <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+  <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+  <head>
+    <title>
+      Unknown Manufacturer - UM01: Crown Backstamp
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Unknown Manufacturer - UM01: Crown Backstamp
+    </h1>
+
+    <p>
+      These backstamps are printed with a Crown over a circle, in which there is
+      what may be a maker's mark.
+    </p>
+    
+    <p>
+      We do not yet know whether these were made by the same manufacturer as
+      the other UM01 coddlers.
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><img src="pat-1.jpg" align="left"
+		 alt="Crown backstamp">
+	</td>
+      </tr>
+    </table>
+
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>Known Types Matrix</caption>
+      <tr>
+	<th width="20%">Colour/Pattern</th>
+	<th width="10%">Size</th>
+	<th width="50%">Images (click to enlarge)</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td>Blue Willow - with Gold trim</td>
+	<td>Single</td>
+	<td><a href="blue-willow-01.jpg">
+            <img src="blue-willow-01.jpg"
+	         height="100" alt="Blue Willow"></a>
+	</td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+    
+  </body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Severn - Pattern SE-UNK03
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Severn - Pattern SE-UNK03
+</h1>
+
+    This pattern consists of orange, yellow, pink, and purple flowers.
+    
+<p>
+<table align="center">
+<tr>
+    <td><a href="SE-UNK03-01-a.jpg">
+        <img src="SE-UNK03-01-a.jpg" height="250" alt="SE-UNK03">
+    <td><a href="SE-UNK03-01-b.jpg">
+        <img src="SE-UNK03-01-b.jpg" height="250" alt="SE-UNK03">
+</tr>
+
+<tr>
+    <th colspan="2">Pattern SE-UNK03
+</tr>  
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>
+

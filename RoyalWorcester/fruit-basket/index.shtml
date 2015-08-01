@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Royal Worcester - Fruit Basket Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Fruit Basket Pattern
+</h1>
+
+<p>
+    This pattern consists of fruit in a basket.
+    </p>
+
+<br />
+
+<table align="center">
+<tr>
+    <td><img src="fruit-basket-01-a.jpg" alt="Fruit Basket"></td>
+    <td><img src="fruit-basket-01-b.jpg" alt="Fruit Basket"></td>
+    </tr>
+</table>
+
+<br />
+<table align="center">
+<tr>
+    <td><img src="fruit-basket-02-a.jpg" alt="Fruit Basket"></td>
+    <td><img src="fruit-basket-02-b.jpg" alt="Fruit Basket"></td>
+    </tr>
+</table>
+
+<br />
+<table align="center">
+<tr>
+    <td><img src="fruit-basket-03-a.jpg" alt="Fruit Basket"></td>
+    <td><img src="fruit-basket-03-b.jpg" alt="Fruit Basket"></td>
+    </tr>
+</table>
+
+<br />
+
+<a name="Knowntypes"></a>
+
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix (Fruit Basket)</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="35%">Sizes</th>
+    <th width="35%">Notes</th>
+    <th width="10%">Sources</th>
+</tr>
+
+<tr>
+    <td><a href="../types/#Type12">Type 12</a></td>
+    <td><a href="../sizes.shtml#standard">Standard</a>
+        &nbsp;&nbsp;
+        <a href="../sizes.shtml#king">King</a>
+        &nbsp;&nbsp;
+        <a href="../sizes.shtml#jumbo">Jumbo</a>
+        </td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#BB">BB</a></td>
+    </tr>
+
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

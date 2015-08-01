@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Pattern Severn - Pattern SE-UNK10 (Two Children)
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Severn - Pattern SE-UNK10 (Two Children)
+    </h1>
+
+    <p>
+      This pattern consists of two children - with the girl in a yellow
+      dress.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="SE-UNK10-01a.jpg">
+	    <img src="SE-UNK10-01a.jpg" alt="SE-UNK10"></a>
+	</td>
+	<td><a href="SE-UNK10-01b.jpg">
+	    <img src="SE-UNK10-01b.jpg" alt="SE-UNK10"></a>
+	</td>
+      </tr>
+      <tr>
+	<th colspan="2">Pattern SE-UNK10 (Two Children)</th>
+      </tr>  
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

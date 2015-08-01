@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <meta name="description"
+	  content="Blue Bird pattern by Williams Sonoma - a pattern of bluebirds." />
+    <title>
+      Williams Sonoma Blue Bird Pattern
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Williams Sonoma Blue Bird Pattern
+    </h1>
+
+    <p>
+      These coddlers are double-sized cylindrical coddlers.
+      The pattern is bluebirds.
+    </p>
+
+    <br />
+    <table align="center" width="60%">
+      <tr>
+	<td>
+	  <a href="blue-bird-01.jpg">
+	    <img src="blue-bird-01.jpg"
+		 height="250" alt="Blue Bird Pattern"></a>
+	</td>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

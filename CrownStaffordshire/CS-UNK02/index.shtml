@@ -1,0 +1,80 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Crown Staffordshire - CS-UNK02 (Octahedron with Embossed Flowers)
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+    Crown Staffordshire - CS-UNK02 (Octahedron with Embossed Flowers)
+</h1>
+    This coddler has an octahedral cross-section, just like
+    <a href="../CS-UNK05">CS-UNK05</a>.  The surface is textured with
+    embossed flowers.
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="embossed-flower-01.jpg">
+            <img src="embossed-flower-01.jpg"
+	        alt="Embossed Flower"></a>
+    <td><a href="embossed-flower-01-bs.jpg">
+            <img src="embossed-flower-01-bs.jpg"
+	        alt="Backstamp"></a>
+</tr>
+<tr>
+    <th colspan="2">Octahedral Coddler
+</tr>
+</table>
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="embossed-flower-02.jpg">
+            <img src="embossed-flower-02.jpg"
+	        alt="Embossed Flower"></a>
+</tr>
+</table>
+
+<p>
+<table border width="100%">
+<caption>Known Variations Matrix (CS-UNK02) </caption>
+<tr>
+    <th width="20%"><a href="../#Lids">Lid</a></th>
+    <th width="20%"><a href="../#LiftingRings">Lifting Ring</th>
+    <th width="30%">Size/Notes</th>
+    <th width="10%">Source</th>
+</tr>
+
+<tr>
+    <td>Full Turn
+    <td>Square
+    <td>&nbsp;
+    <td><a href="/sources/#BB">BB</a>
+</tr>
+
+    <tr>
+    <td>Full Turn
+    <td>Round
+    <td>(shown above)
+    <td><a href="/sources/#EA">EA</a>
+</tr>
+
+    <tr>
+    <td>Quick Release
+    <td>Round
+    <td>&nbsp;
+    <td><a href="/sources/#BB">BB</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+    <title>
+        Coalport - Hong Kong
+        </title>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    </head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Coalport - Hong Kong
+</h1>
+
+<p>
+    This pattern consists of gilded  flowers and birds. The backstamp
+    includes the name of the pattern. This is a double-sized coddler.
+    </p>
+
+<table align="center">
+<tr>
+    <td><a href="hong-kong-01-a.jpg">
+        <img src="hong-kong-01-a.jpg"
+	    height="250" alt="Hong Kong"></a>
+        </td>	    
+    <td><a href="hong-kong-01-b.jpg">
+        <img src="hong-kong-01-b.jpg"
+	    height="250" alt="Hong Kong"></a>
+        </td>
+    <td><a href="hong-kong-01-bs.jpg">	    
+        <img src="hong-kong-01-bs.jpg"
+	    height="100" alt="Backstamp">
+        </td>	    
+    </tr>
+
+<tr>
+    <th colspan="3">Hong Kong</th>
+    </tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>
+
+
+
+

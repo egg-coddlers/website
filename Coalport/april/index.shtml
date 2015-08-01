@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Coalport - April
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Coalport - April
+</h1>
+
+
+The pattern is a blue freize, with small flower decorations.
+<br>The backstamp may or may not include the name of the pattern.
+<br>This is a double-sized coddler.
+
+<p>
+<table align="center">
+<tr>
+<td><a href="april-01-a.jpg">
+        <img src="april-01-a.jpg"
+	    height="250" alt="April"></a>	    
+    <a href="april-01.bs.jpg">	    
+        <img src="april-01.bs.jpg"
+	    height="100" alt="Backstamp">	    
+</tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+
+</body>
+</html>

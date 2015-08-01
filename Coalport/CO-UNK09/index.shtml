@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- $Id$ -->
+
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <title>
+      Coalport - CO-UNK09 (Red Roses and Other Flowers)
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Coalport - CO-UNK09 (Red Roses and Other Flowers)
+    </h1>
+
+    <p>
+      This is one of several similar floral Coalport coddler patterns.
+      We do not know the specific name of this variant.
+    </p>
+
+    <p>
+      This is a double-size coddler.
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="CO-UNK09-01.jpg">
+            <img src="CO-UNK09-01.jpg"
+		 height="250" alt="CO-UNK09"></a>
+        </td>
+      </tr>
+
+      <tr>
+	<th>CO-UNK09 Pattern</th>
+      </tr>
+    </table>
+    
+    <br />
+
+    <!--#include virtual="../floral-pattern-list.ssi" -->
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

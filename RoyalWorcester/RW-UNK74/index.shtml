@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>Royal Worcester - RW-UNK74 (Blue Frieze with Daisies Below)</title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>Royal Worcester - RW-UNK74 (Blue Frieze with Daisies Below)</h1>
+
+    <p>
+      This is an old Royal Worcester coddler, with no ring on the
+      lid. The backstamp is Type 1.
+    </p>
+
+    <p>
+      This is the same design as pattern:
+      <a href="../RW-UNK56/">RW-UNK56</a>
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+        <td align="center"><a href="RW-UNK74-01-a_750px.jpg">
+	    <img src="RW-UNK74-01-a_250px.jpg" alt="RW-UNK74"></a></td>
+      </tr>
+      
+      <tr>
+	<th>RW-UNK74 -- Blue Frieze with Daisies Below</th>
+      </tr>
+
+      <tr>
+	<td align="center">Click on image to view in more detail.</td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a> Matrix</caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="30%">Sizes</th>
+	<th width="30%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type2B">Type 2B</a>
+	<td><a href="../sizes.shtml#standard">Standard</a>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

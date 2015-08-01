@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Pattern HP-UNK12 (Blue Flowers with Yellow Centres)
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top">
+<h1>
+    Pattern HP-UNK12 (Blue Flowers with Yellow Centres)
+</h1>
+
+<p>
+    These coddlers are double-sized convex coddlers with no pedestal
+    and have corrugated sides. This pattern
+    consists of a number of blue flowers with yellows centres - maybe Canterbury Bells - 
+with green leaves.
+    </p>
+
+
+<table align="center">
+<tr>
+    <td><a href="HP-UNK12-01.jpg">
+            <img src="HP-UNK12-01.jpg" height="250" alt="HP-UNK12"></a>
+        
+</tr>
+
+<tr>
+    <th colspan="2">HP-UNK12 (Blue Flowers with Yellow Centres)
+</tr>
+</table>
+
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>
+
+
+

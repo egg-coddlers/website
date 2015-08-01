@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Severn - Pattern SE-UNK08 (Blackberries and Redcurrants)
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Severn - Pattern SE-UNK08 (Blackberries and Redcurrants)
+    </h1>
+
+    <p>
+      This pattern consists of fruit - blackberries and redcurrants.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="SE-UNK08-01a.jpg">
+	    <img src="SE-UNK08-01a.jpg" height="250" alt="SE-UNK08"></a>
+	</td>
+	<td><a href="SE-UNK08-01b.jpg">
+	    <img src="SE-UNK08-01b.jpg" height="250" alt="SE-UNK08"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="2">Pattern SE-UNK08 (Blackberries & Redcurrants)</th>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+

@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Crown Staffordshire - Shamrocks
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Crown Staffordshire - Shamrocks
+</h1>
+
+This pattern consists of pairs of shamrocks (three-leaf clover).
+
+<p>
+<table align="center">
+<tr>
+<td><img src="shamrocks-01.jpg" align="top" alt="Shamrocks"></td>
+</tr>
+</table>
+
+<p>
+<table border width="100%">
+<caption>Known Variations Matrix</caption>
+<tr>
+<th width="20%"><a href="../#Lids">Lid</a></th>
+<th width="20%"><a href="../#LiftingRings">Lifting Ring</th>
+<th width="30%">Size/Notes</th>
+<th width="10%">Source</th>
+</tr>
+
+<tr>
+<td>Quick Release
+<td>Flat
+<td>&nbsp;
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

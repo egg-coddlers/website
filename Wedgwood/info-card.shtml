@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>Wedgewood Info Brochure</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+<h1>
+Wedgewood Info Brochure
+</h1>
+
+This brochure with information is provided by
+Wedgwood with egg coddlers that they sell.
+
+<p>
+<table align="center">
+<tr>
+<td><a href="info-card-cover.jpg">
+    <img src="info-card-cover.jpg" height="400" align="top"
+        alt="Click to View Larger Image"></a>
+</tr>
+</table>
+
+<p>
+<table align="center">
+<tr>
+<td><a href="info-card-page1.jpg">
+    <img src="info-card-page1.jpg" height="400" align="top"
+        alt="Click to View Larger Image"></a>
+</tr>
+</table>
+<p>
+<table align="center">
+<tr>	
+<td><a href="info-card-back.jpg">
+    <img src="info-card-back.jpg" height="400" align="top"
+        alt="Click to View Larger Image"></a>
+</tr>
+</table>
+<p>
+<!--#include virtual="pattern-nav-block.ssi" -->
+
+</body>
+</html>

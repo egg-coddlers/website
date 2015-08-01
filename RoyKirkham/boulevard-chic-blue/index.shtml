@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Roy Kirkham - Boulevard Chic (Blue) Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Roy Kirkham - Boulevard Chic (Blue) Pattern
+    </h1>
+
+    <p>
+    This pattern consists of a blue hat, surrounded by text.
+    </p>
+    
+
+      <table align="center">
+	<tr>
+	  <td><a href="boulevard-chic-blue-01_750px.jpg">
+              <img src="boulevard-chic-blue-01_250px.jpg"
+	           alt="Boulevard Chic Blue Pattern"></a></td>
+	</tr>
+
+	<tr>
+	  <th colspan="1">Boulevard Chic (Blue) Pattern</th>
+	</tr>
+
+      </table>
+
+      <br />
+
+      <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

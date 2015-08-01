@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <meta name="description"
+	  content="Pipkins pattern by Williams Sonoma - Egg coddler
+		   with a pattern of a fir tree with cones." />
+
+    <title>
+      Williams Sonoma Pipkins Pattern
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Williams Sonoma Pipkins Pattern	
+    </h1>
+
+    <p>
+      These coddlers are double-sized cylindrical coddlers.
+      The pattern is a blue leaves, with a band at top and bottom.
+    </p>
+
+    <table align="center" width="60%">
+      <tr>
+	<td>
+	  <img src="pipkins-01.jpg"
+		 alt="Williams Sonoma Pipkins Pattern">
+	</td>
+      </tr>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

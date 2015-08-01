@@ -1,0 +1,107 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Sigma - Herb Garden Pattern
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Sigma - Herb Garden Pattern
+    </h1>
+
+    <p>
+      This design is found on a convex coddler with a pedestal.
+    </p>
+
+    <p>
+      The coddler is 4 inches from the base to the top of the lifting
+      ring.
+    </p>
+
+    <p>
+      This pattern consists of green bunches of herbs and their names.
+      The herbs are: <b>tarragon</b>, <b>parsley</b>, <b>rosemary</b>,
+      <b>wild watercress</b>, and <b>sage</b>.
+    </p>
+
+    <p>
+      There are at
+      least two backstamp varieties.
+    </p>
+    
+    <p>
+      The backstamp variety referred to as <i>simple</i> consists of the
+      words <b>HERB GARDEN</b>.  The backstamp variety referred to
+      as <i>complete</i> consists of the name, <b>HERB GARDEN</b>, and 
+      <b>TASTE SETTERS EAST</b> and <b>JAPAN</b> in a box.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="herb-garden-01.jpg" alt="Herb Garden"></td>
+	<td><img src="herb-garden-01-bs.jpg" alt="Complete Backstamp"></td>
+      </tr>
+    </table>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><img src="herb-garden-02-a.jpg" alt="Herb Garden"></td>
+	<td><img src="herb-garden-02-b.jpg" alt="Herb Garden"></td>
+      </tr>
+    </table>
+
+    <br />
+
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>Known Types Matrix</caption>
+
+      <tr>
+	<th width="30%">Lifting Ring</th>
+	<th width="30%">Backstamp</th>
+	<th width="30%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td>Square</td>
+	<td>Simple</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td>Square</td>
+	<td>Complete</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

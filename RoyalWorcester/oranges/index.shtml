@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <title>
+      Royal Worcester - Oranges
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Oranges
+    </h1>
+
+    <p>
+      This pattern comprises oranges and leaves in a border of
+      colorful squares.
+    </p>
+
+    <br />
+    <table align="center">
+      <tr>
+	<td align="center">
+	  <a href="oranges-01_750px.jpg">
+            <img src="oranges-01_250px.jpg" alt="Oranges"></a></td>
+      </tr>
+
+      <tr>
+	<th colspan="1">Oranges Pattern</th>
+      </tr>
+
+      <tr>
+	<td align="center">Click on image to view in more detail.</td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a> Matrix</caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="30%">Sizes</th>
+	<th width="30%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td><a href="../types/#Type12">Type 12</a></td>
+	<td><a href="../sizes.shtml#king">King</a></td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>     
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

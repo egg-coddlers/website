@@ -1,0 +1,120 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>Royal Worcester - Old Astley Pattern</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Old Astley Pattern
+</h1>
+
+<h4>This page is currently only for comparison of examples.  Once we
+are certain of identity we will redraw this page.</h4>
+
+<p>
+<table align="center">
+<tr>
+<td><a href="bowl-example.jpg">
+    <img src="bowl-example.jpg" height="250"
+         alt="Bowl with Old Astley Pattern"></a>
+</tr>
+</table>
+
+<p>
+<table align="center">
+<tr>
+<td><a href="bowl-bigflower-01.jpg">
+        <img src="bowl-bigflower-01.jpg"
+	     alt="Big flower from bowl above, enlarged"></a>
+<td><a href="bowl-yellowflower-01.jpg">
+        <img src="bowl-yellowflower-01.jpg"
+	     alt="Yellow flower from bowl above, enlarged"></a>
+<td><a href="bowl-purpleflower-01.jpg">
+        <img src="bowl-purpleflower-01.jpg"
+	     alt="Purple flower from bowl above, enlarged"></a>	     	     	     
+</table>
+<p>
+
+<table align="center">
+<tr>
+<td><a href="VRBF-01-a-nor.jpg">
+        <img src="VRBF-01-a-nor.jpg"
+	     alt="Unknown - Unflipped"></a>
+<td><a href="VRBF-01-a-flip-hor.jpg">
+        <img src="VRBF-01-a-flip-hor.jpg"
+	     alt="Unknown - Flipped Horizontally 180"></a>
+<td><a href="VRBF-01-a-flip-ver.jpg">
+        <img src="VRBF-01-a-flip-ver.jpg"
+	     alt="Unknown - Flipped Vertically 180"></a>	     
+<td><a href="VRBF-01-a-flip-both.jpg">
+        <img src="VRBF-01-a-flip-both.jpg"
+	     alt="Unknown - Flipped Horizontally and Vertically"></a>	     
+</tr>
+
+<tr>
+<td><a href="VRBF-01-a-nor.jpg">
+        <img src="VRBF-01-a-nor.jpg"
+	     alt="Unknown - Unrotated"></a>
+<td><a href="VRBF-01-a-rot-90.jpg">
+        <img src="VRBF-01-a-rot-90.jpg"
+	     alt="Unknown - Rotated Clockwise 90"></a>
+<td><a href="VRBF-01-a-rot-180.jpg">
+        <img src="VRBF-01-a-rot-180.jpg"
+	     alt="Unknown - Rotated Clockwise 180"></a>
+<td><a href="VRBF-01-a-rot-270.jpg">
+        <img src="VRBF-01-a-rot-270.jpg"
+	     alt="Unknown - Rotated Clockwise 270"></a>	     	     
+</tr>	     
+</table>
+
+<table align="center">
+<tr>
+<td><a href="VRBF-01-b-nor.jpg">
+        <img src="VRBF-01-b-nor.jpg"
+	     alt="Unknown - Unflipped"></a>
+<td><a href="VRBF-01-b-flip-hor.jpg">
+        <img src="VRBF-01-b-flip-hor.jpg"
+	     alt="Unknown - Flipped Horizontally 180"></a>
+<td><a href="VRBF-01-b-flip-ver.jpg">
+        <img src="VRBF-01-b-flip-ver.jpg"
+	     alt="Unknown - Flipped Vertically 180"></a>	     
+<td><a href="VRBF-01-b-flip-both.jpg">
+        <img src="VRBF-01-b-flip-both.jpg"
+	     alt="Unknown - Flipped Horizontally and Vertically"></a>	     
+</tr>
+
+<tr>
+<td><a href="VRBF-01-b-nor.jpg">
+        <img src="VRBF-01-b-nor.jpg"
+	     alt="Unknown - Unrotated"></a>
+<td><a href="VRBF-01-b-rot-90.jpg">
+        <img src="VRBF-01-b-rot-90.jpg"
+	     alt="Unknown - Rotated Clockwise 90"></a>
+<td><a href="VRBF-01-b-rot-180.jpg">
+        <img src="VRBF-01-b-rot-180.jpg"
+	     alt="Unknown - Rotated Clockwise 180"></a>
+<td><a href="VRBF-01-b-rot-270.jpg">
+        <img src="VRBF-01-b-rot-270.jpg"
+	     alt="Unknown - Rotated Clockwise 270"></a>	     	     
+</tr>	     
+</table>
+
+<p>
+<table align="center">
+<tr>
+<td><a href="old-astley-01-a.jpg">
+        <img src="old-astley-01-a.jpg"
+	     alt="Old Astley"></a>
+<td><a href="old-astley-01-b.jpg">
+        <img src="old-astley-01-b.jpg"
+	     alt="Old Astley"></a>	     
+</tr>	     
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

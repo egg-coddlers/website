@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+    <title>
+        Pattern HP-UNK15 (Band of Flowers dominated by a large black,
+        yellow and red flower) 
+        </title>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    </head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+<h1>
+    House of Prill - Pattern HP-UNK15 (Band of Flowers dominated by a
+    large black yellow and red flower)
+</h1>
+
+<p>
+    These coddlers are double-sized convex coddlers with no pedestal
+    and have corrugated sides. This pattern
+    consists of a Band of Flowers dominated by a large black, yellow
+    and red flower
+    </p>
+
+
+<table align="center">
+<tr>
+    <td><a href="HP-UNK15-01.jpg">
+            <img src="HP-UNK15-01.jpg" height="250"
+            alt="HP-UNK15"></a>
+        </td>
+    </tr>
+
+<tr>
+    <th colspan="2">HP-UNK15 (Band of Flowers dominated by a large
+    black, yellow and red flower)</th>
+    </tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

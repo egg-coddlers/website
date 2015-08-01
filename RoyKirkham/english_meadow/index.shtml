@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Roy Kirkham - English Meadow Pattern
+</title>
+<link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+<link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Roy Kirkham - English Meadow Pattern
+</h1>
+
+<p>
+    This pattern consists of a spray of flowers, dominated by red
+    poppy and harebells. The pattern appears twice, on opposite faces
+    of the coddler.  (Click on either image to view in more detail).
+    The copyright date of this pattern is <b>2001</b>.
+    </p>
+
+<br />
+<table align="center">
+<tr>
+    <td><a href="english_meadow-01.jpg">
+            <img src="english_meadow-01.jpg"
+	        height="200 alt="english_meadow Pattern"></a>
+        </td>
+    <td><a href="english_meadow-01-bs.jpg">
+            <img src="english_meadow-01-bs.jpg"
+	        height="100" alt="Backstamp"></a>
+        </td>
+    </tr>
+
+<tr>
+    <th colspan="2">English Meadow Pattern</th>
+    </tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

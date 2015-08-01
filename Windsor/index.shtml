@@ -1,0 +1,263 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <title>Windsor Coddlers</title>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="manufacturer.css" type="text/css" />
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>Windsor Coddlers</h1>
+
+    <p>
+      These coddlers are double-sized convex coddlers with no
+      pedestal and have corrugated sides.  The shape is the same as
+      ff	coddlers made by <a href="/HouseOfPrill/">House of Prill</a>
+      The backstamp includes the text <b>Windsor</b>.
+    </p>
+
+    <a name="Patterns"></a>
+    <h2>Patterns</h2>
+
+    <p>
+      Listed below are brief descriptions and low-resolution images of
+      the patterns of Windsor egg coddlers.  For more details about
+      that coddler design, please click on the name and/or the
+      image.
+    </p>
+
+
+    <table border width="100%">
+      <tr>
+	<th width="20%">Pattern Name</th>
+	<th width="50%">Description of Pattern</th>
+	<th width="30%">Image</th>
+      </tr>
+
+      <tr>
+	<th><a href="flories-flowers/">English Life : Florie's Flowers</a></th>
+	<td>A florist's shop, potted plants and shrubs.
+	  <i><a href="flories-flowers/">[Details]</a></i>
+	</td>
+	<td><a href="flories-flowers/">
+	    <img src="flories-flowers/flories-flowers-pat-1.jpg"
+		 alt="Florie's Flowers"></a>
+	  <a href="flories-flowers/">
+	    <img src="flories-flowers/flories-flowers-pat-2.jpg"
+		 alt="Florie's Flowers"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="primrose-junction/">
+	    English Life : Primrose Junction</a></th>
+	<td>People in and around a cafe.
+	  <i><a href="primrose-junction/">[Details]</a></i>
+	</td>
+	<td><a href="primrose-junction/">
+	    <img src="primrose-junction/primrose-junction-pat-1.jpg"
+		 alt="Primrose Junction"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="mouseykins/">Mouseykins</a></th>
+	<td>A family of mice.
+	  <i><a href="mouseykins/">[Details]</a></i>
+	</td>
+	<td><a href="mouseykins/">
+	    <img src="mouseykins/mouseykins-pat-1.jpg"
+		 alt="Mouseykins"></a>
+	  <a href="mouseykins/">
+	    <img src="mouseykins/mouseykins-pat-2.jpg"
+		 alt="Mouseykins"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WIN-UNK01/">WIN-UNK01</a></th>
+	<td>Anemones.
+	  <i><a href="WIN-UNK01/">[Details]</a></i>
+	</td>
+	<td><a href="WIN-UNK01/">
+	    <img src="WIN-UNK01/WIN-UNK01-pat-1.jpg"
+		 alt="WIN-UNK01"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WIN-UNK02/">WIN-UNK02</a></th>
+	<td>Spring flowers.
+	  <i><a href="WIN-UNK02/">[Details]</a></i>
+	</td>
+	<td><a href="WIN-UNK02/">
+	    <img src="WIN-UNK02/WIN-UNK02-pat-1.jpg"
+		 alt="WIN-UNK02"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WIN-UNK03/">WIN-UNK03</a></th>
+	<td>Chess pieces.
+	  <i><a href="WIN-UNK03/">[Details]</a></i>
+	</td>
+	<td><a href="WIN-UNK03/">
+	    <img src="WIN-UNK03/WIN-UNK03-pat-1.jpg"
+		 alt="WIN-UNK03"></a>
+	  <a href="WIN-UNK03/">
+	    <img src="WIN-UNK03/WIN-UNK03-pat-2.jpg"
+		 alt="WIN-UNK03"></a>
+	  <a href="WIN-UNK03/">
+	    <img src="WIN-UNK03/WIN-UNK03-pat-3.jpg"
+		 alt="WIN-UNK03"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WIN-UNK04/">WIN-UNK04</a></th>
+	<td>Spring flowers.
+	  <i><a href="WIN-UNK04/">[Details]</a></i>
+	</td>
+	<td><a href="WIN-UNK04/">
+	    <img src="WIN-UNK04/WIN-UNK04-pat-1.jpg"
+		 alt="WIN-UNK04"></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th><a href="WIN-UNK05/">WIN-UNK05</a></th>
+	<td>Fruit (peaches).
+	  <i><a href="WIN-UNK05/">[Details]</a></i>
+	</td>
+	<td><a href="WIN-UNK05/">
+	    <img src="WIN-UNK05/WIN-UNK05-pat-1.jpg"
+		 alt="WIN-UNK05"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WIN-UNK06/">WIN-UNK06</a></th>
+	<td>Flowers - pink rose.
+	  <i><a href="WIN-UNK06/">[Details]</a></i>
+	</td>
+	<td><a href="WIN-UNK06/">
+	    <img src="WIN-UNK06/WIN-UNK06-pat-1.jpg"
+		 alt="WIN-UNK06"></a>
+	</td>
+      </tr>
+
+    <!-- WIN-UNK07 is now English Life: Primrose Junction -->
+
+      <tr>
+	<th><a href="WIN-UNK08/">WIN-UNK08</a></th>
+	<td>Flowers - red rose and white daisy.
+	  <i><a href="WIN-UNK08/">[Details]</a></i>
+	</td>
+	<td><a href="WIN-UNK08/">
+	    <img src="WIN-UNK08/WIN-UNK08-pat-1.jpg"
+		 alt="WIN-UNK08"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WIN-UNK09/">WIN-UNK09</a></th>
+	<td>Pink dog roses.
+	  <i><a href="WIN-UNK09/">[Details]</a></i>
+	</td>
+	<td><a href="WIN-UNK09/">
+	    <img src="WIN-UNK09/WIN-UNK09-pat-1.jpg"
+		 alt="WIN-UNK09"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WIN-UNK11/">WIN-UNK11</a></th>
+	<td>Hand of cards.
+	  <i><a href="WIN-UNK11/">[Details]</a></i>
+	</td>
+	<td><a href="WIN-UNK11/">
+	    <img src="WIN-UNK11/WIN-UNK11-pat-1.jpg"
+		 alt="WIN-UNK11"></a>
+	  <a href="WIN-UNK11/">
+	    <img src="WIN-UNK11/WIN-UNK11-pat-2.jpg"
+		 alt="WIN-UNK11"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WIN-UNK12/">WIN-UNK12</a></th>
+	<td>Blue flowers and a ribbon.
+	  <i><a href="WIN-UNK12/">[Details]</a></i>
+	</td>
+	<td><a href="WIN-UNK12/">
+	    <img src="WIN-UNK12/WIN-UNK12-pat-1.jpg"
+		 alt="WIN-UNK12"></a>
+	  <a href="WIN-UNK12/">
+	    <img src="WIN-UNK12/WIN-UNK12-pat-2.jpg"
+		 alt="WIN-UNK12"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WIN-UNK13/">WIN-UNK13</a></th>
+	<td>Red berries.
+	  <i><a href="WIN-UNK13/">[Details]</a></i>
+	</td>
+	<td><a href="WIN-UNK13/">
+	    <img src="WIN-UNK13/WIN-UNK13-pat-1.jpg"
+		 alt="WIN-UNK13"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th>WIN-UNK14</th>
+	<td>Red strawberries.</td>
+	<td>We do not yet have pictures of this coddler.</td>
+      </tr>
+
+      <tr>
+	<th>WIN-UNK15</th>
+	<td>A bunch of a large dark pink, tending to purple, rose,
+	  with four fuschias.</td>
+	<td>We do not yet have pictures of this coddler.</td>
+      </tr>
+
+      
+      <tr>
+	<th><a href="WIN-UNK99/">WIN-UNK99</a></th>
+	<td>A set of twelve egg coddlers, one for each month of the year.
+	  <i><a href="WIN-UNK99/">[Details]</a></i>
+	</td>
+	<td><a href="WIN-UNK99/">
+	    <img src="WIN-UNK99/WIN-UNK99-pat-1.jpg"
+		 alt="WIN-UNK99"></a>
+	  <a href="WIN-UNK99/">
+	    <img src="WIN-UNK99/WIN-UNK99-pat-2.jpg"
+		 alt="WIN-UNK99"></a>
+	  <a href="WIN-UNK99/">
+	    <img src="WIN-UNK99/WIN-UNK99-pat-3.jpg"
+		 alt="WIN-UNK99"></a>
+	  <a href="WIN-UNK99/">
+	    <img src="WIN-UNK99/WIN-UNK99-pat-4.jpg"
+		 alt="WIN-UNK99"></a>	      
+	</td>
+      </tr>
+
+    </table>
+    
+    <br />
+
+    <!--#include virtual="/manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

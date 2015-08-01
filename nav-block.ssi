@@ -1,0 +1,40 @@
+<!-- BEGIN INCLUDE /nav-block.ssi -->
+<!-- Updated 2015-03-10 -->
+<! --------- Navigation Block - Top-Level Pages ---------->
+<hr width="100%">
+<p>
+<center>
+<table border width="95%">
+<caption>
+<h4>Egg-Coddlers.COM Navigation Bar</h4></caption>
+<tr>
+<th width=20%"><a href="/">Front Page / Index</a>
+<th width=60%" colspan="3" align="center">
+Search Egg-Coddlers.COM:
+<gcse:searchbox-only></gcse:searchbox-only>
+<th width=20%"><a href="#Top">Top of This Page</a>
+</tr>
+
+<tr>
+<th><a href="/manufacturers.shtml">
+Catalog by Manufacturer</a>
+
+<th width="20%"><a href="/pattern-xref.shtml">
+Catalog by Pattern</a>
+
+<th width="20%"><a href="/faq.shtml">
+Frequently Asked Questions</a>
+
+<th width="20%"><a href="/whats-new.shtml">
+What's New Here?</a>
+
+<th><a href="/guestbook.shtml">
+Guestbook</a>
+
+</tr>
+</table>
+</center>
+<p><hr width="100%"></p>
+<! ----- End Navigation Block - Top-Level Pages ---------->
+
+<!-- END INCLUDE /nav-block.ssi -->

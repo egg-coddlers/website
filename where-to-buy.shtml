@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <meta http-equiv="Refresh"
+	  content="15; url=/" />
+    <meta name="ROBOTS"
+	  content="NOINDEX. NOFOLLOW" />
+    <title>
+      Page Discontinued
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      [Page Discontinued] Where to Buy New Egg Coddlers
+    </h1>
+
+    The editors of this site have discontinued this web page.
+
+    <br />
+
+    This page will automatically return you to the
+    <a href="/">Egg-Coddlers.COM</a>
+    home page in fifteen seconds.
+    
+    <br />
+
+    <!--#include virtual="nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+

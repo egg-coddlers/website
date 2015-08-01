@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Shafford - Chinese Garden Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Shafford - Chinese Garden Pattern
+</h1>
+
+This coddler is concave with no pedestal.  The pattern is a bird on a
+branch, with white and lilac flowers.
+<p>
+
+<table align="center">
+<tr>
+    <td>&nbsp;
+    <td><a href="chinese-garden-01.jpg">
+            <img src="chinese-garden-01.jpg" height="200"
+	        alt="Chinese Garden"></a>
+    <td>&nbsp;		
+</tr>
+
+<tr>
+    <td><a href="chinese-garden-02-a.jpg">
+            <img src="chinese-garden-02-a.jpg" height="200"
+	        alt="Chinese Garden"></a>
+    <td><a href="chinese-garden-02-b.jpg">
+            <img src="chinese-garden-02-b.jpg" height="200"
+	        alt="Chinese Garden"></a>
+    <td><a href="chinese-garden-02-bs.jpg">
+            <img src="chinese-garden-02-bs.jpg"
+	        alt="Backstamp"></a>		
+</tr>
+
+<tr>
+    <th colspan="3">Chinese Garden Pattern
+</tr>    		
+</table>
+
+<p>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

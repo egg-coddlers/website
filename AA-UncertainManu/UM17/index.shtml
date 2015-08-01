@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+
+    <!-- @(#) $Id$ -->
+
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+
+    <title>Unknown Manufacturer - UM17</title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Unknown Manufacturer - UM17
+    </h1>
+
+    <p>
+      Single and double-sized coddlers made of clear glass.
+      These coddlers have <b>Made in Korea</b> inscribed on the bottom.
+      These have three small glass feet.  The lid is clear glass and
+      comes with a wire handle to hold it to the coddler.
+    </p>
+    
+    <p>
+      We are still looking for more images and/or information about this
+      coddler.  If you have either, please 
+      <a href="/contact/">contact us</a>.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="UM17-UNK01-01.jpg">
+	    <img src="UM17-UNK01-01.jpg"
+		 height="250"
+		 alt="UM17-UNK01"></a>
+	</td>
+	<td><a href="UM17-UNK01-01-bs.jpg">
+	    <img src="UM17-UNK01-01-bs.jpg"
+		 height="150"
+		 alt="UM17-UNK01 Backstamp"></a>
+	</td>
+      </tr>    
+
+      <tr>
+	<th colspan="2">Pattern UM17-UNK01</th>
+      </tr>
+    </table>
+    
+    <br />
+
+    <!--#include virtual="../../manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+
+

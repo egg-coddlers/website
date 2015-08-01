@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Roy Kirkham - Friends of The Ocean Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Roy Kirkham - Friends of The Ocean Pattern
+    </h1>
+
+    <p>
+    This pattern consists of a dolphin, surrounded by text.
+    </p>
+
+      <table align="center">
+	<tr>
+	  <td><a href="friendsoftheocean-01_750px.jpg">
+              <img src="friendsoftheocean-01_250px.jpg"
+	           alt="Friends of the Ocean Pattern"></a></td>
+	</tr>
+
+	<tr>
+	  <th colspan="1">Friends of The Ocean Pattern</th>
+	</tr>
+      </table>
+
+      <br />
+      
+      <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

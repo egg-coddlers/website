@@ -1,0 +1,64 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Crown Staffordshire - CS-UNK09 (Bunch of Flowers - Large Red Rose)
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+    Crown Staffordshire - CS-UNK09 (Bunch of Flowers - Large Red Rose)
+</h1>
+
+<p>
+    This pattern consists of a bunch of various flowers - including
+    one large red rose.
+    </p>
+
+<table align="center">
+<tr>
+    <td><a href="CS-UNK09-01.jpg">
+            <img src="CS-UNK09-01.jpg"
+	        height="250" alt="CS-UNK09"></a>
+        </td>
+    </tr>
+<tr>
+    <th>Crown Staffordshire CS-UNK09</th>
+    </tr>
+</table>
+
+<p>
+<table border width="100%">
+<caption>
+    Known Variations Matrix (CS-UNK09)
+</caption>
+<tr>
+    <th width="20%"><a href="../#Lids">Lid</a></th>
+    <th width="20%"><a href="../#LiftingRings">Lifting Ring</th>
+    <th width="30%">Size/Notes</th>
+    <th width="10%">Source</th>
+</tr>
+
+<tr>
+    <td>Full Turn
+    <td>Round
+    <td>&nbsp;
+    <td><a href="/sources/#BB">BB</a>
+</tr>
+
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

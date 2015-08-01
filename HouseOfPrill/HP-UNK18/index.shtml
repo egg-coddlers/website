@@ -1,0 +1,50 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Pattern HP-UNK18 (Bright Red Flowers and Blue Hightlights - Oriental Style - Version A)
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top">
+<h1>
+    Pattern HP-UNK18 (Bright Red Flowers and Blue Hightlights - Oriental Style - Version A)
+</h1>
+<p>
+    These coddlers are double-sized convex coddlers with no pedestal
+    and have corrugated sides. This pattern
+    consists of bright red flowers, with two shades of blue support
+    </p>
+
+
+<table align="center">
+<tr>
+    <td><a href="HP-UNK18-01.jpg">
+            <img src="HP-UNK18-01.jpg" height="250"
+            alt="HP-UNK18"></a>
+        </td>
+    </tr>
+
+<tr>
+    <th colspan="2">
+        HP-UNK18 (Bright Red Flowers and Blue Hightlights - Oriental
+        Style - Version A)
+	</th>
+    </tr>
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>
+
+
+

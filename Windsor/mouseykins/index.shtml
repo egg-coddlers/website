@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Mouseykins Pattern -- Windsor
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>Mouseykins Pattern</h1>
+
+    <p>
+      The pattern consists of a family of mice - with various
+      costumes. It would appear that this coddler was intended for
+      children (of all ages!).
+    </p>
+    
+    <table align="center">
+      <tr>
+	<td><img src="mouseykins-01-a.jpg"
+	         alt="Windsor Mousekins Pattern"></td>
+	<td><img src="mouseykins-01-b.jpg"
+		 alt="Windsor Mouseykins Pattern"></td>
+	<td><img src="mouseykins-01-bs.jpg"
+		 alt="Windsor Backstamp"></td>
+      </tr>
+
+      <tr>
+        <th colspan="3">Windsor Mousykins Pattern</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

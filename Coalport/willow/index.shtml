@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+
+    <!-- $Id$ -->
+    
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    
+    <title>
+      Coalport - Willow
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Coalport - Willow
+    </h1>
+
+    <p>
+      This is the classic Willow pattern.  The backstamp includes the
+      name of the pattern. Pictured is a double-sized coddler. A
+      single-size version also exists, which may be considerably older
+      than the double version. We are not sure whether the official
+      name of the single size is also Willow, so we refer to it as
+      <a href="../CO-UNK08">CO-UNK08</a>.
+      </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="willow-01-a.jpg">
+            <img src="willow-01-a.jpg"
+	         height="250" alt="Willow"></a>
+        </td>
+	<td><a href="willow-01-b.jpg">
+            <img src="willow-01-b.jpg"
+	         height="250" alt="willow"></a>
+        </td>
+	<td><a href="willow-01-c.jpg">
+            <img src="willow-01-c.jpg"
+	         height="250" alt="willow"></a>		
+        </td>
+	<td><a href="willow-01-bs.jpg">	    
+            <img src="willow-01-bs.jpg"
+	         height="100" alt="Backstamp">	    
+        </td>
+      </tr>
+
+      <tr>
+	<th colspan="4">Willow</th>
+      </tr>
+    </table>
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+
+
+
+

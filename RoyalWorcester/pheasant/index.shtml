@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Royal Worcester - Pheasant Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+    Royal Worcester - Pheasant Pattern
+</h1>
+
+<p>
+    This pattern shows a flying male Ring-necked Pheasant, with or
+    without a signature beneath the bird.  The reverse
+    side of the coddler is plain white.
+
+<p>
+    We are not sure that the official Royal Worcester name for this
+    pattern was Canada Goose.
+    
+<p>
+    The writing beneath the bird is probably the signature of the artist.    
+
+<p>    
+    If you have example of any of the "flying bird" patterns
+    ( 
+      <a href="../bobwhite/">Bobwhite</a>,
+      <a href="../canada-goose/">Canada Goose</a>,
+      <a href="../mallard/">Mallard</a>,
+      or
+      <a href="../pheasant/">Pheasant</a>
+    ), with a clear signature (or clear portions of the signature),
+    please  
+    <a href="/contact/">contact us</a>
+    ... we'd like to try to decipher the signatures.
+
+<p>
+
+<table align="center">
+<tr>
+    <td><img src="pheasant-4B.jpg" alt="Type 4B example">
+    <td><img src="pheasant-6C.jpg" alt="Type 6C example">
+</tr>
+</table>
+
+<p>
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix (Pheasant)</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="30%">Sizes</th>
+    <th width="30%">Notes</th>
+    <th width="10%">Sources</th>
+</tr>
+
+<tr>
+    <td><a href="../types/#Type4B">Type 4B</a>
+    <td><a href="../sizes.shtml#standard">Standard</a>
+    <td>Signature beneath the bird.
+    <td><a href="/sources/#BB">BB</a>
+</tr>
+
+<tr>
+    <td><a href="../types/#Type4C">Type 4C</a>
+    <td><a href="../sizes.shtml#standard">Standard</a>
+    <td>Signature beneath the bird.
+    <td><a href="/sources/#RJ">RJ</a>
+</tr>
+
+<tr>
+    <td><a href="../types/#Type6C">Type 6C</a>
+    <td><a href="../sizes.shtml#standard">Standard</a>
+    <td>No signature beneath bird.
+    <td><a href="/sources/#BB">BB</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

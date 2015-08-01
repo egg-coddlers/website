@@ -1,0 +1,189 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<html>
+  <!-- @(#) $Id$ -->
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <meta name="google-site-verification"
+	  content="WZztAcmhee7fo2wfU4lbq7sixPPt9j5D9IlZX6TswBo" />
+    <title>Welcome to Egg-Coddlers.COM</title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <table width="100%">
+      <tr>
+	<td width="8%"><img src="logo_246x246.jpg" alt="logo"></td>
+	<td width="84%" align="center"><h1><nobr>Welcome to...</nobr>
+	    <nobr>Egg-Coddlers.COM</nobr></h1>
+	  
+	  <p align="center">
+	    <script src="http://www.gmodules.com/ig/ifr?url=http://www.google.com/cse/api/017940323720048092639/cse/usdgxzlksto/gadget&amp;synd=open&amp;w=320&amp;h=75&amp;title=Egg-Coddlers.COM+Search+Engine&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>	
+	  </p>
+	</td>
+	<td width="8%">
+	  <img src="logo_246x246.jpg" alt="logo">
+	</td>
+      </tr>
+    </table>
+
+    <p>
+      This web site (<a href="/">Egg-Coddlers.COM</a>)
+      is dedicated to the study of <b>egg coddlers</b>.
+      </p>
+
+    <p>
+      An egg coddler is a porcelain or pottery cup with a lid
+      that was designed to prepare food ... in particular, an
+      egg dish that is called <b>coddled eggs</b>.
+    </p>
+
+    <p>
+      This site intends to be an information resource and
+      a forum for collectors and users of egg coddlers.
+      </p>
+
+    <p>
+      <b>Note:</b>
+      The data shown on this web site should not be assumed to be exhaustive
+      or even complete.  We have large amounts of uncatalogued data that has
+      yet to be added to this site.  We need your help to make this site
+      useful. If you know of
+      <a href="manufacturers.shtml">manufacturers</a>,
+      <a href="pattern-xref.shtml">patterns</a>,
+      <a href="/recipes/">recipes</a>, examples, or
+      any other information ... or if you have images of
+      egg coddlers that you would like to share on this site, please
+      <a href="/contact/">contact us</a>.
+    </p>
+
+    <br />
+
+    <h2>Index of Egg-Coddlers.COM</h2>
+
+    <ul>
+      <li><a href="whats-new.shtml">What's New?</a>
+	<ul>
+          For frequent visitors to the web site ... this  page will note
+	  recent changes or updates to Egg-Coddlers.COM.
+	</ul>
+      </li>
+
+      <br />
+      
+      <li><a href="introduction.shtml">
+	  Introduction ... What is an Egg Coddler?</a>
+	<ul>
+	  A general description of what we consider to be an egg coddler.
+	  Pictures of some example coddler forms.  Examples of objects
+	  that are often referred to as an 'egg coddler' that are not within
+          the scope of this site.
+	</ul>
+      </li>
+
+      <br />
+
+      <li><a href="manufacturers.shtml">
+	  Manufacturers of Egg Coddlers</a>
+	<ul>
+	  A catalog listing of all manufacturers that we know
+	  have produced coddlers. 
+	  Includes some makers mark and/or characteristics that
+	  can identify the maker of the coddler.  Each entry
+	  points to a catalog of known examples from that manufacturer.
+	</ul>
+      </li>
+
+      <br />
+
+      <li><a href="pattern-xref.shtml">
+	  Pattern Cross-Reference</a>
+	<ul>
+	  An alphabetic listing of manufacturer pattern
+	  names (if known) of all coddlers on this site.
+	  When the pattern name isn't known, the major
+	  visible features of the pattern or shape are
+	  described.
+	</ul>
+      </li>
+
+      <br />
+
+      <li><a href="where-to-buy.shtml">
+	  Where to Buy Egg Coddlers</a>
+	<ul>
+	  A list of locations online that sell new egg
+	  coddlers at retail. 
+	</ul>
+      </li>
+
+      <br />
+      
+      <li><a href="/recipes/">
+	  Coddler Recipes,  Cooking, and Handling Tips</a>
+	<ul>
+	  Recipe contributions are always welcome!
+	</ul>
+
+	<br />
+	
+      <li><a href="faq.shtml">
+	  Frequently Asked Questions</a>
+	<ul>
+	  A list of frequently asked questions about the web site, or
+	  egg coddlers in general.  With answers whenever possible.
+	</ul>
+      </li>
+
+      <br />
+
+      <li><a href="sources/">
+	  Sources and Reliability of Information</a>
+	<ul>
+	  We like to annotate, whenever possible, where we found the
+	  information that we listed.  Here we describe what those
+	  annotations mean.
+	</ul>
+      </li>
+
+      <br />
+      
+      <li><a href="acknowledgements.shtml">
+	  Acknowledgements</a>
+	<ul>
+	  A site of this scope can't exist without the assistance and
+	  information from many coddler collectors and traders.  Please
+	  <a href="/contact">contact us</a>
+	  if you spot errors (typographical or factual),
+	  if you can verify the existance of unlisted examples of coddlers,
+	  or if you wish to share images or information from your collection. 
+	</ul>
+      </li>
+
+      <br />
+      
+      <li><a href="about-website.shtml">
+	  About this Website</a>
+	<ul>
+	  The story of how this all came to be.
+	</ul>
+      </li>
+
+    </ul>
+
+    <br />
+
+    <hr width="100%">
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+    <!-- The following code is here to catch bad robots -->
+    <a href="/ECC_BAD_ROBOT_ECC/"></a>
+    
+  </body>
+</html>

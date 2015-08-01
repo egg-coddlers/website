@@ -1,0 +1,136 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Royal Worcester - Strawberry Fair Pattern
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Royal Worcester - Strawberry Fair Pattern
+    </h1>
+
+    <p>
+      This pattern consists of strawberries and butterflies.
+      </p>
+
+      <table align="center">
+	<tr>
+	  <td><a href="strawberry-fair-03-a.jpg">
+              <img src="strawberry-fair-03-a.jpg"
+	           height="200" alt="Strawberry Fair">
+	      <td><a href="strawberry-fair-03-b.jpg">
+		  <img src="strawberry-fair-03-b.jpg"
+	               height="200" alt="Strawberry Fair">
+	</tr>
+	<tr>
+	  <th colspan="2">Strawberry Fair
+	</tr>    
+      </table>
+
+      <br />
+      
+      <table align="center">
+	<tr>
+	  <td><a href="strawberry-fair-04-a.jpg">
+              <img src="strawberry-fair-04-a.jpg"
+	           height="200" alt="Strawberry Fair">
+	      <td><a href="strawberry-fair-04-b.jpg">
+		  <img src="strawberry-fair-04-b.jpg"
+	               height="200" alt="Strawberry Fair">
+		  <td><a href="strawberry-fair-04-c.jpg">
+		      <img src="strawberry-fair-04-c.jpg"
+			   height="200" alt="Strawberry Fair">
+	</tr>
+	<tr>
+	  <th colspan="2">Strawberry Fair
+	</tr>    
+      </table>
+
+    <br />
+    
+      <table align="center">
+	<tr>
+	  <td><a href="strawberry-fair-05.jpg">
+              <img src="strawberry-fair-05.jpg"
+	           height="200" alt="Strawberry Fair"></a>
+	</tr>
+	<tr>
+	  <th>Strawberry Fair (Maxime)
+	</tr>    
+      </table>
+
+    <br />
+    
+      <table align="center">
+	<tr>
+	  <td><a href="strawberry-fair-max-06-a.jpg">
+              <img src="strawberry-fair-max-06-a.jpg"
+	           height="200" alt="Strawberry Fair"></a>
+	  <td><a href="strawberry-fair-max-06-b.jpg">
+              <img src="strawberry-fair-max-06-b.jpg"
+	           height="200" alt="Strawberry Fair"></a>
+	  <td><a href="strawberry-fair-max-06-c.jpg">
+              <img src="strawberry-fair-max-06-c.jpg"
+	           height="200" alt="Strawberry Fair"></a>				
+	</tr>
+	<tr>
+	  <th colspan="3">Strawberry Fair (Maxime)
+	</tr>    
+      </table>
+
+    <br />
+    
+      <a name="Knowntypes"></a>
+
+      <table border width="100%">
+	<caption>Known
+	  <a href="../types">Types</a>
+	  Matrix (Strawberry Fair)</caption>
+	<tr>
+	  <th width="20%">Type</th>
+	  <th width="35%">Sizes</th>
+	  <th width="35%">Notes</th>
+	  <th width="10%">Sources</th>
+	</tr>
+
+	<tr>
+	  <td><a href="../types/#Type9">Type 9</a>
+	  <td><a href="../sizes.shtml#standard">Standard</a>
+	    &nbsp;&nbsp;
+	    <a href="../sizes.shtml#king">King</a>
+	    &nbsp;&nbsp;
+	    <a href="../sizes.shtml#maxime">Maxime</a>
+	  <td>&nbsp;
+	  <td><a href="/sources/#BB">BB</a>
+	</tr>
+
+	<tr>
+	  <td><a href="../types/#Type10">Type 10</a>
+	  <td><a href="../sizes.shtml#standard">Standard</a>
+	    &nbsp;&nbsp;
+	    <a href="../sizes.shtml#king">King</a>
+	  <td>&nbsp;
+	  <td><a href="/sources/#BB">BB</a>
+	</tr>
+
+	<tr>
+	  <td><a href="../types/#Type11">Type 11</a>
+	  <td><a href="../sizes.shtml#standard">Standard</a>
+	    &nbsp;&nbsp;
+	    <a href="../sizes.shtml#king">King</a>
+	  <td>&nbsp;
+	  <td><a href="/sources/#BB">BB</a>
+	</tr>
+
+      </vtable>
+
+      <br />
+      
+      <!--#include virtual="../pattern-nav-block.ssi" -->
+
+  </body>
+</html>

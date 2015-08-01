@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <title>
+      Unknown Manufacturer - UM31
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Unknown Manufacturer - UM31
+    </h1>
+
+    <p>
+      These coddlers are cylindrical, double-sized coddlers, with a tall
+      pedestal.  The backstamp has the words
+      <b>Bentson West Design for Boston Warehouse</b> with a stylish
+      <b>BW</b> in a circle. Apparently these coddlers were sold by
+      Boston Warehouse, but we don't know who manufactured them.  The
+      marking <b>Made in Taiwan</b> in the backstamp seems to indicate
+      where they were made.
+    </p>
+
+    <br />
+    
+    <h2>UM31-UNK01</h2>
+
+    <p>
+      The coddler is white, with the words <b>EGG CODDLER</b> on the
+      side, and recipes on the back.
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="UM31-UNK01-01.jpg">
+            <img src="UM31-UNK01-01.jpg"
+		 height="200" alt="UM31-UNK01"></a>
+	</td>
+	<td>	
+          <a href="UM31-UNK01-01-bs.jpg">
+            <img src="UM31-UNK01-01-bs.jpg"
+	         height="150" alt="Backstamp"></a>
+        </td>
+      </tr>
+
+      <tr>
+	<th colspan="2">Pattern UM31-UNK01</th>
+      </tr>
+    </table>
+
+    <br />
+    <br />
+
+    <h2>UM31-UNK02</h2>
+
+    <p>
+      Another coddler, believed to be from the same manufacturer, has
+      the same backstamp.  The coddler is plain white, and has a
+      <b>Taiwan</b> sticker.  (For reference purposes, we'll refer to
+      that pattern as <b>UM31-UNK02</b>).
+    </p>
+
+    <br />
+    <br />
+    
+    <h2>UM31-UNK03</h2>
+
+    <p>
+      This coddler is plain white, decorated with group of four dots
+      arranged in a diamond.
+    </p> 
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="UM31-UNK03-01.jpg">
+            <img src="UM31-UNK03-01.jpg"
+		 height="200" alt="UM31-UNK03"></a>
+        </td>
+      </tr>
+
+      <tr>
+	<th>Pattern UM31-UNK03</th>
+      </tr>
+      
+    </table>
+
+    <br />
+
+    <!--#include virtual="../../manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+    
+  </body>
+</html>
+

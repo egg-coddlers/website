@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    
+    <meta name="description"
+	  content="Williams Sonoma Floral Stripe Pattern - Red flowers
+		   with two red bands." />
+    <title>
+      Williams Sonoma Floral Stripe Pattern
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Williams Sonoma Floral Stripe Pattern
+    </h1>
+
+    <p>
+      These coddlers are double-sized cylindrical coddlers.
+      The pattern is sprays of red flowers and leaves around
+      the body of the coddler. Red rings are at the top and bottom.
+    </p>
+    
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="floral-stripe-01a.jpg">
+	    <img src="floral-stripe-01a.jpg" height="250"
+	         alt="floral-stripe"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="1">Floral Stripe Pattern</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+    
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

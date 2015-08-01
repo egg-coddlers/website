@@ -1,0 +1,75 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Royal Worcester - Pattern Name Unknown (Description)
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Pattern Name Unknown (Description)
+</h1>
+
+<p>
+<!-- Put text here describing the pattern -->
+
+
+<!-- Use the next block to center the images nicely -->
+<p>
+<table align="center">
+<tr>
+<td><img src="xxx-01-a.jpg" alt="Description">
+<td><img src="xxx-01-b.jpg" alt="Description">
+</tr>
+</table>
+<!-- Delete the above block if you have no pictures -->
+
+<p>
+<!-- Remove this next block if you have images -->
+<i><b>
+Note: We need images of this pattern for the site.  Please
+<a href="/cgi-bin/mail?egg-coddlers">contact us</a>
+if you can help.
+</i></b>
+<!-- Remove this next block if you have images -->
+
+<p>
+<a name="Knowntypes"></a>
+
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix</caption>
+<tr>
+<th width="20%">Type</th>
+<th width="35%">Sizes</th>
+<th width="35%">Notes</th>
+<th width="10%">Sources</th>
+</tr>
+
+<tr>
+<td><a href="../types/#Type7">Type 7</a>
+<td><a href="../sizes.shtml#standard">Standard</a>
+<td>&nbsp;
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+<tr>
+<td><a href="../types/#Type12">Type 12</a>
+<td><a href="../sizes.shtml#standard">Standard</a>
+    &nbsp;&nbsp;
+    <a href="../sizes.shtml#king">King</a>
+<td>&nbsp;
+<td><a href="/sources/#BB">BB</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

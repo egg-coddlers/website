@@ -1,0 +1,58 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+
+    <!-- $Id$ -->
+    
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    
+    <title>
+      Coalport - Old Coalport
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Coalport - Old Coalport
+    </h1>
+
+    <p>
+      This is one of several similar floral Coalport coddler patterns.
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="old-coalport-01-a.jpg">
+            <img src="old-coalport-01-a.jpg"
+		 height="250" alt="Old Coalport"></a>
+        </td>	    
+      </tr>
+
+      <tr>
+	<th>Old Coalport Pattern</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="../floral-pattern-list.ssi" -->
+    
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

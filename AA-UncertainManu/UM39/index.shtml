@@ -1,0 +1,44 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <meta name="description"
+	  content="Double-size cylindrical egg coddlers with
+		   pink and purple flowers. />
+		   <title>Unknown Manufacturer - UM39</title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>Unknown Manufacturer - UM39</h1>
+
+    <p>This is a double-size cylindrical-shaped coddler. The pattern
+      consists of pink and purple flowers. There is no backstamp.
+      The ring on the lid can be either circular or square.
+    </p>
+    
+    <table align="center">
+      <tr>
+	<td><a href="UM39-UNK01-01.jpg">
+            <img src="UM39-UNK01-01.jpg" alt="UM39-UNK01"></a>
+      </tr>
+      <tr>
+	<th>Pattern UM39-UNK01
+      </tr>
+    </table>
+
+    <p>
+      <!--#include virtual="../cylindrical-crossref.ssi" -->
+
+    <p>
+      <!--#include virtual="../../manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+    
+  </body>
+</html>

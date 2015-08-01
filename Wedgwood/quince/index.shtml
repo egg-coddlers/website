@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <title>
+      Wedgwood - Quince
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>Wedgwood - Quince</h1>
+
+    <p>
+      This pattern consists of pears and quinces on a yellow ochre
+      background.  In some cases the design name is included in the
+      backstamp and in others it is not.
+      </p>
+
+      <table align="center">
+	<tr>
+	  <td><a href="quince-01.jpg">
+              <img src="quince-01.jpg"
+		   height="250" alt="Quince"></a>
+	    <a href="quince-01-bs.jpg">
+              <img src="quince-01-bs.jpg"
+		   alt="Backstamp"></a>
+	</tr>
+      </table>
+
+      <br />
+
+      <table align="center">
+	<tr>
+	  <td><a href="quince-02.jpg">
+              <img src="quince-02.jpg"
+		   height="250" alt="Quince"></a>
+	    <a href="quince-02-bs.jpg">
+              <img src="quince-02-bs.jpg"
+		   alt="Backstamp"></a>
+	</tr>
+      </table>
+
+      <br />
+
+      <table align="center">
+	<tr>
+	  <td><a href="quince-03-a.jpg">
+              <img src="quince-03-a.jpg"
+		   height="250" alt="Quince"></a>
+	    <a href="quince-03-b.jpg">
+              <img src="quince-03-b.jpg"
+		   height="250" alt="Quince"></a>
+	</tr>
+      </table>
+
+      <br />
+
+      <table border width="100%">
+	<caption>Known Variations Matrix (Quince)</caption>
+	<tr>
+	  <th width="20%"><a href="../#Sizes">Sizes</a></th>
+	  <th width="20%">Name on Backstamp?</th>
+	  <th width="50%">Notes</th>
+	  <th width="10%">Sources</th>
+	</tr>
+
+	<tr>
+	  <td>Single</td>
+	  <td>No</td>
+	  <td>&nbsp</td>
+	  <td><a href="/sources/#BB">BB</a></td>
+	</tr>
+	
+	<tr>
+	  <td>Single</td>
+	  <td>Yes</td>
+	  <td>&nbsp</td>
+	  <td><a href="/sources/#EA">EA</a></td>
+	</tr>
+
+	<tr>
+	  <td>Double</td>
+	  <td>No</td>
+	  <td>&nbsp;</td>
+	  <td><a href="/sources/#BB">BB</a></td>
+	</tr>
+
+	<tr>
+	  <td>Double</td>
+	  <td>Yes</td>
+	  <td>&nbsp;</td>
+	  <td><a href="/sources/#BB">BB</a></td>
+	</tr>
+
+      </table>
+
+    <p>
+      <!--#include virtual="../pattern-nav-block.ssi" -->
+
+  </body>
+</html>
+
+

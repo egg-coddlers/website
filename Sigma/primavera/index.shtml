@@ -1,0 +1,103 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Sigma - Primavera Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Sigma - Primavera Pattern
+</h1>
+
+<p>
+This design is found on a concave coddler with no pedestal.  The
+pattern consists of flowers, including a large red poppy. There are at
+least two backstamp varieties, and at least two lifting ring varieties.
+<p>
+The backstamp variety referred to as <i>simple</i> consists of the
+words <b>TASTE SETTERS: JAPAN</b>.  The backstamp variety referred to
+as <i>complete</i> consists of the name, <b>PRIMAVERA</b>, and 
+<b>TASTE SETTERS: MADE IN JAPAN</b> in a box, with a couple of flowers.
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="primavera-03-a.jpg">
+            <img src="primavera-03-a.jpg"
+	         height="250" alt="Primavera"></a>
+    <td><a href="primavera-03-b.jpg">
+            <img src="primavera-03-b.jpg"
+	         height="250" alt="Primavera"></a>
+    <td><a href="primavera-03-bs.jpg">
+            <img src="primavera-03-bs.jpg"
+	         height="100" alt="Simple Backstamp"></a>		 
+</tr>
+</table>
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="primavera-02-a.jpg">
+            <img src="primavera-02-a.jpg"
+	         height="225" alt="Primavera"></a>
+    <td><a href="primavera-02-b.jpg">
+            <img src="primavera-02-b.jpg"
+	         height="225" alt="Primavera"></a>
+    <td><a href="primavera-02-bs.jpg">
+            <img src="primavera-02-bs.jpg"
+	         height="100" alt="Complete Backstamp"></a>
+
+</tr>
+</table>
+
+<p>
+<a name="Knowntypes"></a>
+
+<table border width="100%">
+<caption>Known Types Matrix</caption>
+<tr>
+    <th width="30%">Lifting Ring</th>
+    <th width="30%">Backstamp</th>
+    <th width="30%">Notes</th>
+    <th width="10%">Sources</th>
+</tr>
+
+<tr>
+    <td>Square
+    <td>Simple
+    <td>&nbsp;
+    <td><a href="/sources/#BB">BB</a>
+</tr>
+
+<tr>
+    <td>Square
+    <td>Complete
+    <td>&nbsp;
+    <td><a href="/sources/#BB">BB</a>
+</tr>
+
+<tr>
+    <td>Oval
+    <td>Simple
+    <td>&nbsp;
+    <td><a href="/sources/#BB">BB</a>
+</tr>
+
+<tr>
+    <td>Oval
+    <td>Complete
+    <td>&nbsp;
+    <td><a href="/sources/#BB">BB</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

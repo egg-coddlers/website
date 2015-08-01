@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Royal Worcester - Easter Bunnies Pattern
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Easter Bunnies Pattern
+</h1>
+
+<p>
+    This is a newly discovered Royal Worcester pattern.  The one
+    example that we've heard about seems to be several years old.  The
+    pattern consists of an Easter motif (bunny, chicks, basket,
+    decorated eggs, chocolate bunnies, etc).  Another Royal Worcester
+    pattern with a similar motif (possibly part of the same pattern)
+    is <a href="../RW-UNK44">RW-UNK44</a>.
+    </p>
+
+<br />
+    
+<table align="center">
+<tr>
+    <td><a href="easter-01-a.jpg">
+        <img src="easter-01-a.jpg"
+	    height="250" alt="Easter Bunnies"></a>
+        </td>	    
+    <td><a href="easter-01-b.jpg">
+        <img src="easter-01-b.jpg"
+	    height="250" alt="Easter Bunnies"></a>
+        </td>	    
+    </tr>
+<tr>
+    <th colspan="2">Easter Bunnies - Example 1</th>
+    </tr>
+</table>
+
+<br />
+    
+<table align="center">
+<tr>
+    <td><a href="easter-02-a.jpg">
+        <img src="easter-02-a.jpg"
+	    height="250" alt="Easter Bunnies"></a>
+        </td>
+    </tr>
+<tr>
+    <th>Easter Bunnies - Example 2</th>
+    </tr>
+</table>
+
+<br />
+
+<a name="Knowntypes"></a>
+
+<table border width="100%">
+<caption>Known
+<a href="../types">Types</a>
+Matrix</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="35%">Sizes</th>
+    <th width="35%">Notes</th>
+    <th width="10%">Sources</th>
+</tr>
+
+<tr>
+    <td><a href="../types/#Type12">Type 12</a></td>
+    <td><a href="../sizes.shtml/#standard">Standard</a>
+        &nbsp;&nbsp;
+        <a href="../sizes.shtml/#king">King</a>
+	</td>
+    <td>&nbsp;</td>
+    <td><a href="/sources/#AC">AC-03</a>
+        &nbsp;
+	<a href="/sources/#BB">BB</a>
+        </td>
+    </tr>
+
+</table>
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>
+
+
+

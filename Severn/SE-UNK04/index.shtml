@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Severn - Pattern SE-UNK04
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>Severn - Pattern SE-UNK04</h1>
+
+    <p>
+      This pattern consists of a single flower on one side, pink and
+      yellow flowers on the other side.
+      </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="SE-UNK04-01-a.jpg">
+            <img src="SE-UNK04-01-a.jpg" height="250" alt="SE-UNK04"></a>
+	</td>
+	<td><a href="SE-UNK04-01-b.jpg">
+	    <img src="SE-UNK04-01-b.jpg" height="250"
+		 alt="SE-UNK04"></a>
+	</td>
+	<td><a href="SE-UNK04-01-bs.jpg">
+	    <img src="SE-UNK04-01-bs.jpg" height="100"
+		 alt="Backstamp"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="3">Pattern SE-UNK04</th>
+      </tr>  
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

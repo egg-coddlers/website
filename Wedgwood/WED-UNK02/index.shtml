@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />    
+    <title>
+      Wedgwood Pattern WED-UNK02
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Wedgwood Pattern WED-UNK02
+    </h1>
+
+    <p>
+      These coddlers are decorated with a single rose on
+      a vase-shaped green trellis at the top of the coddler.
+    </p>
+
+    <p>
+      The backstamp does not include the pattern name.
+    </p>
+
+    <br />
+    
+    <table align="center" width="40%">
+      <tr>
+	<td>
+	  <a href="WED-UNK02-01.jpg">
+            <img src="WED-UNK02-01.jpg"
+		 height="250" alt="WED-UNK02"></a>
+	</td>
+	<td>
+	  <a href="WED-UNK02-02.jpg">
+            <img src="WED-UNK02-02.jpg"
+		 height="250" alt="WED-UNK02"></a>
+	</td>
+	<td>
+	  <a href="WED-UNK02-bs-01.jpg">
+            <img src="WED-UNK02-bs-01.jpg"
+		 height="150" alt="WED-UNK02"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="3">Wedgwood Pattern WED-UNK02</th>
+      </tr>
+      
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+    
+  </body>
+</html>

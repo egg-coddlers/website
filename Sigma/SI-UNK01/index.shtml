@@ -1,0 +1,123 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id$ -->  
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>
+      Sigma - Pattern SI-UNK01 (Pastel Shapes and Flowers)
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Sigma - Pattern SI-UNK01 (Pastel Shapes and Flowers)
+    </h1>
+
+    <p>
+      This pattern has pastel-coloured shapes and floral patterns.
+      They are inscribed <b>TASTE SETTER COLLECTION</b>.
+    </p>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="pastel-shapes-01-a_full.jpg">
+	    <img src="pastel-shapes-01-a_250px.jpg" alt="SI-UNK01"></a></td>
+	<td><a href="pastel-shapes-01-b_full.jpg">
+	    <img src="pastel-shapes-01-b_250px.jpg" alt="SI-UNK01"></a></td>
+      </tr>
+
+      <tr>
+	<th colspan="2">SI-UNK01 -- Pastel Shapes and Flowers</th>
+      </tr>
+      
+      <tr>
+	<td colspan="2" align="center">
+	  Click on an image to view in more detail.
+        </td>    
+      </tr>
+
+    </table>
+    <br />
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="pastel-shapes-02-a_full.jpg">
+	    <img src="pastel-shapes-02-a_250px.jpg" alt="SI-UNK01"></a></td>
+	<td><a href="pastel-shapes-03-a_full.jpg">
+	    <img src="pastel-shapes-03-a_250px.jpg" alt="SI-UNK01"></a></td>
+      </tr>
+
+      <tr>
+	<th colspan="2">SI-UNK01 -- Pastel Shapes and Flowers</th>
+      </tr>
+      
+      <tr>
+	<td colspan="2" align="center">
+	  Click on an image to view in more detail.
+        </td>    
+      </tr>
+
+    </table>
+
+    <br />
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><img src="pastel-shapes-04-a.jpg" alt="SI-UNK01"></td>
+	<td><img src="pastel-shapes-04-b.jpg" alt="SI-UNK01"></td>
+      </tr>
+
+      <tr>
+	<th colspan="2">SI-UNK01 -- Pastel Shapes and Flowers</th>
+      </tr>
+
+    </table>
+
+    <br />
+    
+    <a name="Knowntypes"></a>
+
+    <table border width="100%">
+      <caption>Known Types Matrix</caption>
+
+      <tr>
+	<th width="35%">Lifting Ring</th>
+	<th width="35%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
+
+      <tr>
+	<td>Square</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+      <tr>
+	<td>Round</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+
+    <!-- @(#) $Id$ -->
+
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+	
+    <meta name="description"
+	  content="Egg coddler, double-sized, with blackberries
+		   and strawberries." />
+
+    <title>
+      Unknown Manufacturer - UM80 (Blackberries and Strawberries)
+    </title>
+
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Unknown Manufacturer - UM80 (Blackberries and Strawberries)      
+    </h1>
+    
+    <p>
+      These are double-sized egg coddlers. The pattern is
+      blackberries and strawberries. The backstamp is not known.
+    </p>
+
+    <br />
+    
+    <h2>UM80-UNK01</h2>
+
+    <table align="center" width="60%">
+      <tr>
+	<td>
+	  <a href="UM80-UNK01-1.jpg">
+            <img src="UM80-UNK01-1.jpg"
+		 height="250" alt="UM80-UNK01"></a>
+
+	  <a href="UM80-UNK01-2.jpg">
+            <img src="UM80-UNK01-2.jpg"
+		 height="250" alt="UM80-UNK01"></a>
+	</td>
+
+      </tr>
+    </table>
+
+    <br />
+
+      <!--#include virtual="/manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

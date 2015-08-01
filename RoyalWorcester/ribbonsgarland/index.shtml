@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+Royal Worcester - Holly Ribbons Garland
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+Royal Worcester - Holly Ribbons Garland
+</h1>
+
+<p>
+    This is a Christmas coddler that first came to light in 2006 - but
+    we are not sure when it was introduced by Royal Worcester. The
+    backstamp is unknown.
+    </p>
+
+<br />
+    
+<table>
+    <tr>
+        <td><a href="RW-ribbonsgarland-01-a.jpg">
+	        <img src="RW-ribbonsgarland-01-a.jpg"
+		    height="200"
+		    alt="Holly Ribbons Garland"></a>
+        </td>
+    </tr>
+
+<tr>
+    <th>Holly Ribbons Garland</th>
+    </tr>
+</table>
+
+<br />
+<table border width="100%">
+<caption>Known
+    <a href="../types">Types</a> Matrix</caption>
+<tr>
+    <th width="20%">Type</th>
+    <th width="30%">Sizes</th>
+    <th width="30%">Notes</th>
+    <th width="10%">Sources</th>
+</tr>
+
+<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>Backstamp and type is unknown</td>
+    <td>&nbsp;</td>
+    </tr>
+
+</table>
+
+
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Crown Staffordshire - Chelsea Manor
+</title>
+</head>
+<body bgcolor="white">
+
+<a name="Top"></a>
+
+<h1>
+    Crown Staffordshire - Chelsea Manor
+</h1>
+
+    This pattern consists of pink peonies with grapes in a yellow
+    basket.  This pattern was originally marked as <b>CS-UNK01</b>
+    until we learned the name.
+
+<p>
+<table align="center">
+<tr>
+    <td><a href="chelsea-manor-03-a.jpg">
+            <img src="chelsea-manor-03-a.jpg"
+	        height="250" alt="Chelsea Manor"></a>
+    <td><a href="chelsea-manor-03-b.jpg">
+            <img src="chelsea-manor-03-b.jpg"
+	        height="250" alt="Chelsea Manor"></a>
+    <td><a href="chelsea-manor-03-c.jpg">
+            <img src="chelsea-manor-03-c.jpg"
+	        height="250" alt="Chelsea Manor"></a>
+    <td><a href="chelsea-manor-03-a.jpg">
+            <img src="chelsea-manor-03-bs.jpg"
+	        height="150" alt="Backstamp"></a>
+</tr>
+
+<tr>
+    <th colspan="4">Chelsea Manor Pattern
+</tr>    
+</table>
+
+<p>
+<table border width="100%">
+<caption>
+    Known Variations Matrix (Chelsea Manor)
+</caption>
+
+<tr>
+    <th width="20%"><a href="../#Lids">Lid</a></th>
+    <th width="20%"><a href="../#LiftingRings">Lifting Ring</th>
+    <th width="20%">Name on Backstamp?
+    <th width="30%">Size/Notes</th>
+    <th width="10%">Source</th>
+</tr>
+
+<tr>
+    <td>Quick Release
+    <td>Round
+    <td>No
+    <td>&nbsp;
+    <td><a href="/sources/#BB">BB</a>
+</tr>
+
+<tr>
+    <td>Quick Release
+    <td>Round
+    <td>Yes
+    <td>&nbsp;
+    <td><a href="/sources/#AC">AC-02</a>
+</tr>
+
+</table>
+
+<p>
+<!--#include virtual="../pattern-nav-block.ssi" -->
+
+</body>
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+
+    <!-- @(#) $Id$ -->
+
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <meta name="description"
+	  content="Egg coddlers from House of Prill.
+		   These coddlers are double-sized convex coddlers
+		   with no pedestal and have corrugated sides. This
+		   pattern consists of Desert Rose - very similar to
+		   the famous Franciscan pattern of the same name." />
+
+    <title>
+      HP-UNK23 (Desert Rose)
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Pattern HP-UNK23 (Desert Rose)
+    </h1>
+
+    <p>
+      These coddlers are double-sized convex coddlers with no pedestal
+      and have corrugated sides. This pattern consists of Desert Rose
+      - very similar to the famous Franciscan pattern of the same name.
+    </p>
+
+    <br />
+    <table align="center">
+      <tr>
+	<td><a href="HP-UNK23-01_250px.jpg">
+            <img src="HP-UNK23-01_250px.jpg" alt="HP-UNK23"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th>Pattern HP-UNK23</th>
+      </tr> 
+    </table>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+    
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
