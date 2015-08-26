@@ -1,7 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
 
     <meta name="description"
@@ -112,6 +111,7 @@
         </td>
       </tr>
 
+
       <tr>
 	<th>Pattern SA-HH-03</th>
       </tr>
@@ -136,18 +136,29 @@
 
     <br />
 
-    <p>
-      Coddlers with the following homilies are also known to exist
-      but we do not yet have pictures of them.
-    </p>
-
-    <br />
     
     <h3>SA-HH-05: "Start each day in a happy way"</h3>
 
+    <p>We do not yet have an image of this coddler pattern.</p>
+      
     <br />
     
-    <h3>SA-HH-06: "Love is the greatest gift of all"</h3>
+    <h3>SA-HH-06: "Love is the nicest gift of all"</h3>
+
+    <table>
+      <tr>
+	<td><a href="holly-hobbie-06.jpg">
+            <img src="holly-hobbie-06.jpg"
+		 alt="SA-HH-06"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th>Pattern SA-HH-06</th>
+      </tr>
+    </table>
+
+    
 
     <br />
 
