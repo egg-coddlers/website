@@ -24,3 +24,5 @@ UM68-UNK02	SA-TT-02	Colour the world with happiness
 UM68-UNK03	SA-TT-03	A friend like you is a wish come true
 
 UM68-UNK04	SA-TT-04	Happiness is found in little things
+
+UM68-UNK05	SA-TT-05	Friendship that "little something extra"
