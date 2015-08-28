@@ -102,14 +102,12 @@
 	<td width="15%">&nbsp;</td>
 	<td>
           <a href="UM64-UNK09-01.jpg">
-            <img src="UM64-UNK09-01.jpg"
-    	         height="250" alt="UM64-UNK09"></a>
+            <img src="UM64-UNK09-01_250px.jpg" alt="UM64-UNK09"></a>
         </td>
 	<td width="15%">&nbsp;</td>	
 	<td>
-          <a href="UM64-UNK10-10.jpg">
-            <img src="UM64-UNK10-01.jpg"
-   	         height="250" alt="UM64-UNK10"></a>
+          <a href="UM64-UNK10-01.jpg">
+            <img src="UM64-UNK10-01_250px.jpg" alt="UM64-UNK10"></a>
         </td>		 
       </tr>
       
@@ -144,10 +142,12 @@
           <a href="UM64-UNK06-01.jpg">
             <img src="UM64-UNK06-01.jpg" alt="UM64-UNK06 - single size"></a>
         </td>
+	<td width="15%"></td>
 	<td>
           <a href="UM64-UNK07-01.jpg">
             <img src="UM64-UNK07-01_250px.jpg" alt="UM64-UNK07 - double size"></a>
         </td>
+	<td width="15%"></td>
 	<td>
           <a href="UM64-UNK08-01.jpg">
             <img src="UM64-UNK08-01_250px.jpg" alt="UM64-UNK08 - double size"></a>
@@ -156,7 +156,9 @@
       
       <tr>
 	<th>Pattern UM64-UNK06 - single</th>
+	<td></td>
 	<th>Pattern UM64-UNK07 - double</th>
+	<td></td>
 	<th>Pattern UM64-UNK08 - double</th>
       </tr>
     </table>
@@ -168,20 +170,28 @@
     <table align="center">
       <tr>
 	<td>
-          <a href="UM64-UNK11-01.jpg">
-            <img src="UM64-UNK11-01.jpg"
-                 height="250" alt="UM64-UNK11 - single size"></a>
+          <a href="UM64-UNK11-01-a.jpg">
+            <img src="UM64-UNK11-01-a_250px.jpg" alt="UM64-UNK11 - single size"></a>
         </td>
 	<td>
-          <a href="UM64-UNK12-01.jpg">
-            <img src="UM64-UNK12-01.jpg"
-                 height="250" alt="UM64-UNK12 - single size"></a>
+          <a href="UM64-UNK11-01-b.jpg">
+            <img src="UM64-UNK11-01-b_250px.jpg" alt="UM64-UNK11 - single size"></a>
+        </td>
+	<td width="20%"><td>
+	<td>
+          <a href="UM64-UNK12-01-a.jpg">
+            <img src="UM64-UNK12-01-a_250px.jpg" alt="UM64-UNK12 - single size"></a>
+        </td>
+	<td>
+          <a href="UM64-UNK12-01-b.jpg">
+            <img src="UM64-UNK12-01-b_250px.jpg" alt="UM64-UNK12 - single size"></a>
         </td>
 	</tr>
       
 	<tr>
-	  <th>Pattern UM64-UNK11 - single</th>
-	  <th>Pattern UM64-UNK12 - single</th>
+	  <th colspan="2">Pattern UM64-UNK11 - single</th>
+	  <td></td>
+	  <th colspan="2">Pattern UM64-UNK12 - single</th>
 	</tr>
       </table>
       
