@@ -1,7 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="manufacturer.css" type="text/css" />
     <meta name="Description"
@@ -44,12 +43,10 @@
     <table align="center">
       <tr>
 	<td><a href="UM72-UNK01R-01.jpg">
-            <img src="UM72-UNK01R-01.jpg"
-	         height="250" alt="UM72-UNK02 Ribbed"></a>
+            <img src="UM72-UNK01R-01_250px.jpg" alt="UM72-UNK02 Ribbed"></a>
 	</td>
 	<td><a href="UM72-UNK01S-01.jpg">
-            <img src="UM72-UNK01S-01.jpg"
-	         height="250" alt="UM72-UNK02 Smooth"></a>
+            <img src="UM72-UNK01S-01_250px.jpg" alt="UM72-UNK02 Smooth"></a>
         </td>
       </tr>
       
@@ -94,8 +91,7 @@
 		 height="250" alt="UM72-UNK03 Ribbed"></a>
 	</td>
 	<td><a href="UM72-UNK03S-01.jpg">
-            <img src="UM72-UNK03S-01.jpg"
-		 height="250" alt="UM72-UNK03 Smooth"></a>
+            <img src="UM72-UNK03S-01_250px.jpg" alt="UM72-UNK03 Smooth"></a>
 	</td>
       </tr>
 
@@ -113,12 +109,10 @@
     <table align="center">
       <tr>
 	<td><a href="UM72-UNK04R-01.jpg">
-            <img src="UM72-UNK04R-01.jpg"
-		 height="250" alt="UM72-UNK04 Ribbed"></a>
+            <img src="UM72-UNK04R-01_250px.jpg" alt="UM72-UNK04 Ribbed"></a>
 	</td>
 	<td><a href="UM72-UNK04S-01.jpg">
-            <img src="UM72-UNK04S-01.jpg"
-		 height="250" alt="UM72-UNK04 Smooth"></a>
+            <img src="UM72-UNK04S-01_250px.jpg" alt="UM72-UNK04 Smooth"></a>
 	</td>
       </tr>
 
@@ -136,12 +130,10 @@
     <table align="center">
       <tr>
 	<td><a href="UM72-UNK05R-01.jpg">
-            <img src="UM72-UNK05R-01.jpg"
-		 height="250" alt="UM72-UNK05 Ribbed"></a>
+            <img src="UM72-UNK05R-01_250px.jpg" alt="UM72-UNK05 Ribbed"></a>
 	</td>
 	<td><a href="UM72-UNK05S-01.jpg">
-            <img src="UM72-UNK05S-01.jpg"
-		 height="250" alt="UM72-UNK05 Smooth"></a>
+            <img src="UM72-UNK05S-01_250px.jpg" alt="UM72-UNK05 Smooth"></a>
 	</td>
       </tr>
 
@@ -157,7 +149,20 @@
 
     <h2>UM72-UNK06 (Orange Daisies with Yellow Centres)</h2>
 
-    <p>Pictures to be added.</p>
+    <table align="center">
+      <tr>
+	<td>Picture to be added soon</td>
+	<td><a href="UM72-UNK06S-01.jpg">
+            <img src="UM72-UNK06S-01_250px.jpg" alt="UM72-UNK06 Smooth"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<td></td>
+  	<td>UM72-UNK05 Smooth</td>
+      </tr>
+
+    </table>
 
     <br />
 
