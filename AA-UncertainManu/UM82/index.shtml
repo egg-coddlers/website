@@ -1,50 +1,33 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    
-    <!-- @(#) $Id$ -->
-
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-    
-    <meta name="description"
-	  content="Egg coddler, double-sized, flowers with blue
-	  twisted rope." />
-
+    <meta http-equiv="Refresh"
+	  content="30; url=/Sigma/" />
     <title>
-      Unknown Manufacturer - UM82 (Flowers With Blue Twisted Rope)
+      UM82 Is Now In Sigma
     </title>
 
   </head>
   
-  <body bgcolor="white">
-
-    <a name="Top"></a>
+  <body>
     <h1>
-      Unknown Manufacturer - UM82 (Flowers With Blue Twisted Rope)      
+     UM82 Is Now In Sigma      
     </h1>
-    
+   
     <p>
-      These are double-sized egg coddlers. The pattern is of flowers
-      with blue twisted rope. The backstamp is not known.
+      The editors of the web site have moved egg coddlers formerly
+      designated as UM82 to the section on
+      <a href="/Sigma/">Sigma</a>.
     </p>
 
-    <br />
-
-    <h2>UM82-UNK01</h2>
-
-    <table align="center" width="60%">
-      <tr>
-	<td>
-	  <a href="UM82-UNK01-01.jpg">
-            <img src="UM82-UNK01-01.jpg"
-		 height="250" alt="UM82-UNK01"></a>
-	</td>
-      </tr>
-    </table>
+    <p>
+      Your web browser will redirect you to that page in thirty seconds,
+      or <a href="/Sigma/">click on this link to go there
+      now.</a>
+      </p>
 
     <br />
-
-    <!--#include virtual="/manu-nav-block.ssi" -->
 
     <p>
       This page was last modified on
