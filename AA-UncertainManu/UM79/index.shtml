@@ -1,23 +1,16 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    
-    <!-- @(#) $Id$ -->
-
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-
     <meta name="description"
 	  content="Egg coddler, double-sized, with three red-orange
 		   flowers." />
-    
     <title>
       Unknown Mnnufacturer - UM79 (Three Red-Orange Flowers)      
     </title>
-
   </head>
   
   <body>
-
     <a name="Top"></a>
     <h1>
       Unknown Mnnufacturer - UM79 (Three Red-Orange Flowers)
@@ -32,15 +25,38 @@
 
     <h2>UM79-UNK01</h2>
 
+    <table align="center" width="60%">
+      <tr>
+	<td>
+	  <a href="UM79-UNK01-01.jpg">
+            <img src="UM79-UNK01-01_250px.jpg" alt="UM79-UNK01"></a>
+	</td>
+      </tr>
+    </table>
+
+    <br />
+
+    <h2>UM79-UNK02</h2>
 
     <table align="center" width="60%">
       <tr>
 	<td>
-	  <a href="UM79-UNK01-1.jpg">
-            <img src="UM79-UNK01-1.jpg"
-		 height="250" alt="UM79-UNK01"></a>
+	  <a href="UM79-UNK02-01.jpg">
+            <img src="UM79-UNK02-01.jpg" alt="UM79-UNK02"></a>
 	</td>
+      </tr>
+    </table>
 
+    <br />
+
+    <h2>UM79-UNK03</h2>
+
+    <table align="center" width="60%">
+      <tr>
+	<td>
+	  <a href="UM79-UNK03-01.jpg">
+            <img src="UM79-UNK03-01.jpg" alt="UM79-UNK03"></a>
+	</td>
       </tr>
     </table>
 
