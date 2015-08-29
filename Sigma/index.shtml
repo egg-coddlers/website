@@ -1,7 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="manufacturer.css" type="text/css" />
     <title>
@@ -92,11 +91,9 @@
 	<th><a href="barnyard/">Barnyard</a></th>
 	<td>Wire mesh, feathers, and chicken feet.</td>
 	<td><a href="barnyard/">
-	    <img src="barnyard/barnyard-pat-1.jpg"
-		 height="50" alt="Barnyard"></a>
+	    <img src="barnyard/barnyard-pat-1.jpg" alt="Barnyard"></a>
 	  <a href="barnyard/">
-            <img src="barnyard/barnyard-pat-2.jpg"
-		 height="50" alt="Barnyard"></a>
+            <img src="barnyard/barnyard-pat-2.jpg" alt="Barnyard"></a>
 	</td>
       </tr>
 
@@ -106,8 +103,7 @@
 	  above.
 	</td>
 	<td><a href="grand-duchess/">
-	    <img src="grand-duchess/grand-duchess-pat-1.jpg"
-		 height="50" alt="Grand Duchess"></a>
+	    <img src="grand-duchess/grand-duchess-pat-1.jpg" alt="Grand Duchess"></a>
 	</td>
       </tr>
 
@@ -115,11 +111,9 @@
 	<th><a href="herb-garden/">Herb Garden</a></th>
 	<td>Green bunches of herbs.</td>
 	<td><a href="herb-garden/">
-	    <img src="herb-garden/herb-garden-pat-1.jpg"
-		 height="50" alt="Herb-Garden"></a>
+	    <img src="herb-garden/herb-garden-pat-1.jpg" alt="Herb-Garden"></a>
 	  <a href="herb-garden/">
-	    <img src="herb-garden/herb-garden-pat-2.jpg"
-		 height="50" alt="Herb-Garden"></a>
+	    <img src="herb-garden/herb-garden-pat-2.jpg" alt="Herb-Garden"></a>
 	</td>
       </tr>
 
@@ -129,11 +123,9 @@
 	  <i><a href="petite_fleur/">[Details]</a></i>
 	</td>
 	<td><a href="petite_fleur/">
-            <img src="petite_fleur/multicoloured-flowers-pat-1.jpg"
-		 height="50" alt="petite_fleur"></a>
+            <img src="petite_fleur/multicoloured-flowers-pat-1.jpg" alt="petite_fleur"></a>
 	  <a href="petite_fleur/">
-            <img src="petite_fleur/multicoloured-flowers-pat-2.jpg"
-		 height="50" alt="petite_fleur"></a>
+            <img src="petite_fleur/multicoloured-flowers-pat-2.jpg" alt="petite_fleur"></a>
 	</td>
       </tr>
       
@@ -141,8 +133,7 @@
 	<th><a href="primavera">Primavera</a></th>
 	<td>Flowers, including a large red poppy.</td>
 	<td><a href="primavera/">
-            <img src="primavera/primavera-pat-1.jpg"
-		 height="50" alt="Primavera"></a>
+            <img src="primavera/primavera-pat-1.jpg" alt="Primavera"></a>
 	</td>
       </tr>
 
@@ -152,11 +143,9 @@
 	  <i><a href="SI-UNK01/">[Details]</a></i>
 	</td>
 	<td><a href="SI-UNK01/">
-            <img src="SI-UNK01/SI-UNK01-pat-1.jpg"
-		 height="50" alt="SI-UNK01"></a>
+            <img src="SI-UNK01/SI-UNK01-pat-1.jpg" alt="SI-UNK01"></a>
 	  <a href="SI-UNK01/">
-            <img src="SI-UNK01/SI-UNK01-pat-2.jpg"
-		 height="50" alt="SI-UNK01"></a>
+            <img src="SI-UNK01/SI-UNK01-pat-2.jpg" alt="SI-UNK01"></a>
 	</td>
       </tr>
       
@@ -166,18 +155,19 @@
 	  <i><a href="SI-UNK02/">[Details]</a></i>
 	</td>
 	<td><a href="SI-UNK02/">
-            <img src="SI-UNK02/eggs-pat-1.jpg"
-		 height="50" alt="SI-UNK02"></a>
+            <img src="SI-UNK02/eggs-pat-1.jpg" alt="SI-UNK02"></a>
 	</td>
       </tr>
 
       <tr>
 	<th><a href="SI-UNK03/">SI-UNK03</a></th>
 	<td>Blue Chain Garland
-	  <i><a href="SI-UNK02/">[Details]</a></i></td>
-	<td>Picture to follow</td>
+	  <i><a href="SI-UNK03/">[Details]</a></i>
+	</td>
+	<td><a href="SI-UNK03/">
+	       <img src="SI-UNK03/SI-UNK03-pat-1.jpg" alt="SI-UNK03"></a>
+	</td>
       </tr>
-
     </table>
 
     <!--#include virtual="/AA-UncertainManu/shafford-sigma-crossref.ssi" -->
