@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id: index.shtml,v 1.6 2013/01/26 21:04:11 RobJenson Exp $ -->
+
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+
+    <title>
+      Coddlers for Which We Need Pictures.
+    </title>
+
+    <meta name="description"
+	  content="Descriptions of egg coddlers that we know, or think
+                   we know, exist but for which we dont know the
+		   manufacturer, and have no pictures."> 
+    
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>Coddlers for Which We Need Pictures</h1>
+
+    <p>
+      We <b>know</b> these descriptions are vague - but if you can't
+      find your coddler on the rest of the site, and the description
+      even remotely matches any of these - please consider sending a
+      picture that we can use. Thank you.
+    </p>
+    
+    <table border align="center" width="80%">
+      <tr>
+	<th width="15%">Size
+	<th width="85%">Description
+      </tr>
+
+      <tr>
+	<td>Unknown</td>
+	<td>Light brown. Eggs in a basket - nest - broken egg.</td>
+      </tr>
+      
+      <tr>
+	<td>Single</td>
+	<td>French. Top strap. All white.</td>
+      </tr>
+      
+      <tr>
+	<td>Single</td>
+	<td>French. Top strap. Pictures of chickens.</td>
+      </tr>
+
+      <tr>
+	<td>Double</td>
+	<td>Row of pink and blue flowers under a single thin floral
+	  band.</td>
+      </tr>
+
+      <tr>
+	<td>Double</td>
+	<td>Lifebelt <b>IL ETAIT UN PETIT NAVIRE</b>.</td>
+      </tr>
+
+      <tr>
+	<td>Double
+	<td>Flowers: Two pink (one a cabbage rose) and one
+	  orange.</td>
+      </tr>
+
+      <tr>
+	<td>Double</td>
+	<td>Two large red-orange flowers - grey leaves.</td>
+      </tr>
+
+      <tr>
+	<td>Double</td>
+	<td>Yellow and gray pastel flowers.</td>
+      </tr>
+
+      <tr>
+	<td>Double</td>
+	<td>Yellow and orange daisies.</td>
+      </tr>
+
+      <tr>
+	<td>Double</td>
+	<td>Irises.</td>
+      </tr>
+
+      <tr>
+	<td>Double</td>
+	<td>Covered in flowers - chintz.</td>
+      </tr>
+
+    </table>
+    
+    <br />
+
+    <!--#include virtual="/manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
