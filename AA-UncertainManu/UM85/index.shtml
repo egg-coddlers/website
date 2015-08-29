@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <title>Unknown Manufacturer - UM85</title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Unknown Manufacturer - UM85
+    </h1>
+
+    <p>
+      Double size coddler with brown decals: eggs in a nest, eggs in a
+      basket and a cracked/broken egg.
+    </p>
+
+    <br />
+    
+    <table align="center" width="60%">
+      <tr>
+	<td>
+	  <a href="UM85-UNK01-01-a.jpg">
+            <img src="UM85-UNK01-01-a_250px.jpg" alt="UM85-UNK01"></a>
+	</td>
+	<td>
+	  <a href="UM85-UNK01-01-b.jpg">
+            <img src="UM85-UNK01-01-b_250px.jpg" alt="UM85-UNK01"></a>
+	</td>
+	<td>
+	  <a href="UM85-UNK01-01-c.jpg">
+            <img src="UM85-UNK01-01-c_250px.jpg" alt="UM80-UNK01"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="3">Pattern UM85-UNK01</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="../../manu-nav-block.ssi" -->
+    
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+
+
