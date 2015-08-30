@@ -1,10 +1,8 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-
     <title>
       Unknown Manufacturer - UM01: Made in England Backstamp
     </title>
@@ -351,6 +349,13 @@
 				   stand"></a>
 	</td>
 	<td><a href="/sources/#EA">EA</a></td>
+      </tr>
+
+      <tr>
+	<td>Pheasant and leaves on the front, leaves on the back</td>
+	<td>Double</td>
+	<td>Same pattern as single, above.</td>
+	<td><a href="/sources/#BB">BB</a></td>	
       </tr>
 
       <tr>
