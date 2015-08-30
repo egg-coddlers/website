@@ -1,0 +1,34 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <meta http-equiv="Refresh"
+	  content="30; url=/AA-UncertainManu/UM01/bs-england/" />	  
+    <title>This Page is Replaced</title>
+  </head>
+  
+  <body>
+    <h1>This Page is Replaced</h1>
+   
+    <p>
+      The editors of the web site have recategorized the coddlers
+      that were shown here before. These examples are now in the
+      <a href="../bs-england/">UM01: Made in England Backstamp</a> section.
+    </p>
+
+    <p>
+      Your web browser will redirect you to that page in thirty seconds,
+      or <a href="../bs-england/">click on this link to go there
+      now.</a>
+      </p>
+
+    <br />
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
