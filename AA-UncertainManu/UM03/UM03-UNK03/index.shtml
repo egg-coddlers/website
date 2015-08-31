@@ -1,18 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-    <title>
-      Pattern UM03-UNK03 (Two Birds)
-    </title>
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />    
+    <title>Pattern UM03-UNK03 (Two Birds)</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Pattern UM03-UNK03 (Two Birds)
-    </h1>
+    
+    <h1>Pattern UM03-UNK03 (Two Birds)</h1>
 
     <p>
       These coddlers are double-sized convex coddlers with no pedestal
@@ -25,6 +22,8 @@
       pink flowers and three tiny orange flowers on a top branch.  This
       design appears on only one side of the coddler.
     </p>
+
+    <br />
     
     <table align="center">
       <tr>
@@ -35,10 +34,20 @@
       </tr>
 
       <tr>
-	<th colspan="2">UM03-UNK03 (Two Birds)
+	<th>UM03-UNK03 (Two Birds)</th>
       </tr>
     </table>
 
+    <br />
+    
     <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
   </body>
 </html>
