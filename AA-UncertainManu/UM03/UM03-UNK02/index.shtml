@@ -1,18 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-    <title>
-      Pattern UM03-UNK02 (Pastel Roses)
-    </title>
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />    
+    <title>Pattern UM03-UNK02 (Pastel Roses)</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Pattern UM03-UNK02 (Pastel Roses)
-    </h1>
+    
+    <h1>Pattern UM03-UNK02 (Pastel Roses)</h1>
 
     <p>
       These coddlers are double-sized convex coddlers with no pedestal
@@ -26,14 +23,24 @@
 	<td><a href="UM03-UNK02-01.jpg">
             <img src="UM03-UNK02-01.jpg"
 	         alt="UM03-UNK02"></a>
+	</td>
       </tr>
       
       <tr>
-	<th colspan="2">UM03-UNK02 (Pastel Roses)
+	<th>UM03-UNK02 (Pastel Roses)</th>
       </tr>
     </table>
 
-      <!--#include virtual="../pattern-nav-block.ssi" -->
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
 
   </body>
 </html>
