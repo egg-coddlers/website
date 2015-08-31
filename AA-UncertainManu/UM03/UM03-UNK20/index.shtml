@@ -40,7 +40,7 @@
 
       <br />
       
-      <!--#include virtual="/manu-nav-block.ssi" -->
+      <!--#include virtual="../pattern-nav-block.ssi" -->
 
       <p>
 	This page was last modified on
