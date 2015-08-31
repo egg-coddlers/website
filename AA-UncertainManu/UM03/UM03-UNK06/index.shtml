@@ -1,57 +1,74 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-<title>
-    Pattern UM03-UNK06 (Fruits)
-</title>
-</head>
-<body bgcolor="white">
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>Pattern UM03-UNK06 (Fruits)</title>
+  </head>
+  
+  <body bgcolor="white">
+    <a name="Top"></a>
+    
+    <h1>Pattern UM03-UNK06 (Fruits)</h1>
 
-<a name="Top">
-<h1>
-    Pattern UM03-UNK06 (Fruits)
-</h1>
-
-    These coddlers are double-sized convex coddlers with no pedestal
-    and have corrugated sides.  The shape is the same as coddlers made
-    by
-    <a href="/HouseOfPrill/">House of Prill</a>
-    but they have no backstamp.  There is what seems to be a hand
-    painted signature on the bottom, that may be <b>E E Ross</b> but
-    it's very difficult to see.
     <p>
-    The pattern consists of two apples, a pear, two plums, and two
-    cherries.  
+      These coddlers are double-sized convex coddlers with no pedestal
+      and have corrugated sides.  The shape is the same as coddlers made
+      by
+      <a href="/HouseOfPrill/">House of Prill</a>
+      but they have no backstamp.  There is what seems to be a hand
+      painted signature on the bottom, that may be <b>E E Ross</b> but
+      it's very difficult to see.
+    </p>
+    
+    <p>
+      The pattern consists of two apples, a pear, two plums, and two
+      cherries.
+    </p>
+    
+    <br />
 
-
-<p>
-<table align="center">
-<tr>
-    <td><a href="UM03-UNK06-01-a.jpg">
+    <table align="center">
+      <tr>
+	<td><a href="UM03-UNK06-01-a.jpg">
             <img src="UM03-UNK06-01-a.jpg" height="200"
-	        alt="UM03-UNK06"></a>
-    <td><a href="UM03-UNK06-01-b.jpg">
+	         alt="UM03-UNK06"></a>
+	</td>
+	<td><a href="UM03-UNK06-01-b.jpg">
             <img src="UM03-UNK06-01-b.jpg" height="200"
-	        alt="UM03-UNK06"></a>
-    <td><a href="UM03-UNK06-01-c.jpg">
+	         alt="UM03-UNK06"></a>
+	</td>
+	<td><a href="UM03-UNK06-01-c.jpg">
             <img src="UM03-UNK06-01-c.jpg" height="200"
-	        alt="UM03-UNK06"></a>
-    <td><a href="UM03-UNK06-01-d.jpg">
+	         alt="UM03-UNK06"></a>
+	</td>
+	<td><a href="UM03-UNK06-01-d.jpg">
             <img src="UM03-UNK06-01-d.jpg" height="200"
-	        alt="UM03-UNK06"></a>
-    <td><a href="UM03-UNK06-01-bs.jpg">
+	         alt="UM03-UNK06"></a>
+	</td>
+	<td><a href="UM03-UNK06-01-bs.jpg">
             <img src="UM03-UNK06-01-bs.jpg" height="100"
 	        alt="UM03-UNK06"></a>
-</tr>
+	</td>
+      </tr>
 
-<tr>
-    <th colspan="2">UM03-UNK06 (Fruits)
-</tr>
-</table>
-<p>
+      <tr>
+	<th colspan="5">UM03-UNK06 (Fruits)
+      </tr>
+    </table>
 
-<!--#include virtual="../../../manu-nav-block.ssi" -->
-</body>
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+    
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+    
+  </body>
 </html>
 
 
