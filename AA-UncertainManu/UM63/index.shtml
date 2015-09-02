@@ -1,43 +1,49 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <title>Unknown Manufacturer - UM63 (Plain White - PIC China)</title>
+  </head>
+  
+  <body bgcolor="white">
+    <a name="Top"></a>
+    
+    <h1>Unknown Manufacturer - UM63 (Plain White - PIC China)</h1>
 
-<title>
-    Unknown Manufacturer - UM63 (Plain White - PIC China)
-    </title>
-<!-- @(#) $Id$ -->    
-</head>
-<body bgcolor="white">
+    <p>
+      This is a double-size coddler, with almost parallel sides, and a
+      small pedestal. The backstamp is <b>PIC CHINA</b>.
+    </p>
 
-<a name="Top"></a>
-<h1>Unknown Manufacturer - UM63 (Plain White - PIC China)</h1>
-</a>
-
-This is a double-size coddler, with almost parallel sides, and a small pedestal. 
-The backstamp is "PIC CHINA"
-
-<p>
-<table align="center">
-<tr>
-    <td>
-         <a href="UM63-UNK01-01.jpg">
-        <img src="UM63-UNK01-01.jpg"
-
-	    height="250" alt="UM63-UNK01"></a>
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td>
+          <a href="UM63-UNK01-01.jpg">
+            <img src="UM63-UNK01-01.jpg" height="250" alt="UM63-UNK01"></a>
          <a href="UM63-UNK01-bs-01.jpg">
-        <img src="UM63-UNK01-bs-01.jpg"
+           <img src="UM63-UNK01-bs-01.jpg" height="250" alt="UM63-UNK01_backstamp"></a>
+      </tr>
+      
+      <tr>
+	<th>Pattern UM63-UNK01</th>
+      </tr>
+      
+    </table>
 
-	    height="250" alt="UM63-UNK01_backstamp"></a>
-</tr>
-<tr>
-    <th>Pattern UM63-UNK01
-</tr>
-</table>
+    <br />
 
+    <!--#include virtual="/manu-nav-block.ssi" -->
 
-<p>
-<!--#include virtual="../../manu-nav-block.ssi" -->
-</body>
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+    
+  </body>
 </html>
 
 
