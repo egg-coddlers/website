@@ -1,22 +1,16 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <meta name="description"
 	  content="Concave double-size egg coddlers with red roses." />
-    <title>
-      UM71 - Red Roses
-    </title>
+    <title>UM71 - Red Roses</title>
   </head>
   
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      UM71 - Red Roses
-    </h1>
-
+    
+    <h1>UM71 - Red Roses</h1>
 
     <p>
       Concave Double Coddler with a square lifting ring - decorated with
@@ -35,10 +29,14 @@
       <tr>
 	<td>
 	  <a href="UM71-UNK01-a.jpg">
-            <img src="UM71-UNK01-a.jpg"
-		 height="250" alt="UM71-UNK01"></a>
+            <img src="UM71-UNK01-a.jpg_250px" alt="UM71-UNK01"></a>
 	</td>
       </tr>
+
+      <tr>
+	<th>UM71-UNK01</th>
+      </tr>
+      
     </table>
 
     <br />
