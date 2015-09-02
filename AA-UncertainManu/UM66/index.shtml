@@ -59,20 +59,18 @@
     <br />
     <br />
 
-    <h2>
-      UM66-UNK02
-    </h2>
+    <h2>UM66-UNK02</h2>
 
     <table align="center">
       <tr>
 	<td>
 	  <a href="UM66-UNK02-a.jpg">
-	    <img src="UM66-UNK02-a.jpg" height="250"
+	    <img src="UM66-UNK02-a.jpg" height="236"
 		 alt="UM66-UNK02"></a>
 	  </td>
 	<td>
 	  <a href="UM66-UNK02-b.jpg">
-	    <img src="UM66-UNK02-b.jpg" height="250"
+	    <img src="UM66-UNK02-b.jpg" height="236"
 		 alt="UM66-UNK02"></a>
 	</td>
       </tr>
@@ -86,9 +84,7 @@
     <br />
     <br />
 
-    <h2>
-      UM66-UNK03
-    </h2>
+    <h2>UM66-UNK03</h2>
 
     <p>
       This coddler is 6.5 cm high and 5.2 cm in diameter.
@@ -100,13 +96,11 @@
       <tr>
 	<td>
 	  <a href="UM66-UNK03-a.jpg">
-            <img src="UM66-UNK03-a.jpg"
-		 height="250" alt="UM66-UNK03"></a>
+            <img src="UM66-UNK03-a_250px.jpg" alt="UM66-UNK03"></a>
 	</td>
 	<td>
 	  <a href="UM66-UNK03-b.jpg">
-            <img src="UM66-UNK03-b.jpg"
-		 height="250" alt="UM66-UNK03"></a>
+            <img src="UM66-UNK03-b_250px.jpg" alt="UM66-UNK03"></a>
 	</td>
       </tr>
 
@@ -131,13 +125,11 @@
       <tr>
 	<td>
 	  <a href="UM66-UNK04-a.jpg">
-            <img src="UM66-UNK04-a.jpg"
-		 height="250" alt="UM66-UNK04"></a>
+            <img src="UM66-UNK04-a_250px.jpg" alt="UM66-UNK04"></a>
 	</td>
 	<td>
 	  <a href="UM66-UNK04-b.jpg">
-            <img src="UM66-UNK04-b.jpg"
-		 height="150" alt="UM66-UNK04"></a>
+            <img src="UM66-UNK04-b_250px.jpg" alt="UM66-UNK04"></a>
 	</td>
       </tr>
 
