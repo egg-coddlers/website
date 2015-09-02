@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    
+    <!-- @(#) $Id: index.shtml,v 1.22 2013/02/18 03:19:50 RobJenson Exp $ -->
+
+    <meta http-equiv="Refresh"
+	  content="30; url=/Sands/" />
+    
+    <title>
+      UM25 Is Now In Sands
+    </title>
+
+  </head>
+  
+  <body>
+    <h1>
+      UM25 Is Now In Sands
+    </h1>
+   
+    <p>
+      The editors of the web site have moved egg coddlers formerly
+      designated as UM25 to the section on
+      <a href="/Sands/">Sands</a>.
+    </p>
+
+    <p>
+      Your web browser will redirect you to that page in thirty seconds,
+      or <a href="/Sands/">click on this link to go there
+      now.</a>
+      </p>
+
+    <br />
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
