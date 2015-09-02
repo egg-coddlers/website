@@ -1,0 +1,49 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />    
+    <title>
+      Pattern UM03-UNK26 (Campanula Puscilla - Canterbury Bells)
+    </title>
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Pattern UM03-UNK26 (Campanula Puscilla - Canterbury Bells)
+    </h1>
+    
+    <p>
+      These coddlers are double-sided convex coddlers with no pedestal.
+      They have corrugated sides.  The shape is the same as the
+      shape of coddlers made by
+      <a href="/HouseOfPrill">House of Prill</a>,
+      but these have no backstamp.
+    </p>
+      
+    <p>
+      This pattern is Campanula puscilla - Canterbury bells.
+    </p>
+
+    <p>
+      <table align="center">
+	<tr>
+	  <td><a href="UM03-UNK26-01_full.jpg">
+              <img src="UM03-UNK26-01_250px.jpg" alt="UM03-UNK26"></a>
+	  </td>
+	</tr>
+      </table>
+    </p>
+	
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+    
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
