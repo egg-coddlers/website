@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+<head>
+<title>
+    Pattern UM27 is by Porcelain de Paris
+    </title>
+<!-- @(#) $Id: index.shtml,v 1.7 2005/05/28 02:46:54 rbj Exp $ -->    
+<meta http-equiv="Refresh"
+      content="20; url=http://www.egg-coddlers.com/PorcelaineDeParis/">
+</head>
+
+<body bgcolor="white">
+
+<a name="Top"></a>
+<h1>Pattern UM27 is by Porcelain de Paris</h1>
+
+<p>
+    The egg coddlers that we'd assigned the designation UM27 are
+    by
+    <a href="/PorcelaineDeParis/">Porcelain de Paris</a>.
+    </p>
+    
+<p>    
+    Your browser will redirect you to that page in a moment.  If you
+    are using a browser that does not support redirects, click on the
+    link above.
+    </p>
+
+<!--#include virtual="../../manu-nav-block.ssi" -->
+</body>
+</html>
+
