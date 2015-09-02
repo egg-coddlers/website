@@ -21,9 +21,12 @@
       <tr>
 	<td>
           <a href="UM63-UNK01-01.jpg">
-            <img src="UM63-UNK01-01.jpg" height="250" alt="UM63-UNK01"></a>
+            <img src="UM63-UNK01-01_250px.jpg" alt="UM63-UNK01"></a>
+	  </td>
+	<td>
          <a href="UM63-UNK01-bs-01.jpg">
-           <img src="UM63-UNK01-bs-01.jpg" height="250" alt="UM63-UNK01_backstamp"></a>
+           <img src="UM63-UNK01-bs-01_200px.jpg" alt="UM63-UNK01_backstamp"></a>
+	 </td>
       </tr>
       
       <tr>
