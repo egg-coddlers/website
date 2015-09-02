@@ -25,12 +25,16 @@
 
     <h2>UM70-UNK01</h2>
 
-    <table align="center" width="60%">
+    <table align="center">
       <tr>
 	<td>
 	  <a href="UM70-UNK01-a.jpg">
             <img src="UM70-UNK01-a.jpg" alt="UM70-UNK01"></a>
 	</td>
+      </tr>
+
+      <tr>
+	<th>UM70-UNK01</th>
       </tr>
     </table>
 
