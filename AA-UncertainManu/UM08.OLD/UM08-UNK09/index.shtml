@@ -1,0 +1,46 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id: index.shtml,v 1.1 2012/04/01 01:17:28 RobJenson Exp $ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />    
+    <meta name="description"
+	  content="Egg coddler with a pattern of two bands and
+		   four blue bunches of flowers in pots. Sold by
+		   Williams-Sonoma." />
+    <title>
+      Pattern UM08-UNK09 (Flowers in pots)
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    
+    <h1>
+      Pattern UM08-UNK09 (Flowers in pots)
+    </h1>
+
+    <p>
+      These coddlers are double-sized cylindrical coddlers.
+      The pattern is two bands - one top one bottom, and four blue
+      bunches of flowers in pots in the centre.
+    </p>
+
+    <p>
+      Pictures to be added soon.
+    </p>
+
+    <br />
+
+    <!--#include virtual="../../../manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
