@@ -1,19 +1,14 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-    <title>
-      Unknown Manufacturer - UM31
-    </title>
+    <title>Unknown Manufacturer - UM31</title>
   </head>
   
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Unknown Manufacturer - UM31
-    </h1>
+    
+    <h1>Unknown Manufacturer - UM31</h1>
 
     <p>
       These coddlers are cylindrical, double-sized coddlers, with a tall
@@ -52,6 +47,7 @@
       <tr>
 	<th colspan="2">Pattern UM31-UNK01</th>
       </tr>
+      
     </table>
 
     <br />
