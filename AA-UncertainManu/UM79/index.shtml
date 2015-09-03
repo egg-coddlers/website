@@ -25,39 +25,54 @@
 
     <h2>UM79-UNK01</h2>
 
-    <table align="center" width="60%">
+    <table align="center">
       <tr>
 	<td>
 	  <a href="UM79-UNK01-01.jpg">
             <img src="UM79-UNK01-01_250px.jpg" alt="UM79-UNK01"></a>
 	</td>
       </tr>
+
+      <tr>
+	<th>Pattern UM79-UNK01</th>
+      </tr>
+      
     </table>
 
     <br />
 
     <h2>UM79-UNK02</h2>
 
-    <table align="center" width="60%">
+    <table align="center">
       <tr>
 	<td>
 	  <a href="UM79-UNK02-01.jpg">
             <img src="UM79-UNK02-01.jpg" alt="UM79-UNK02"></a>
 	</td>
       </tr>
+
+      <tr>
+	<th>Pattern UM79-UNK02</th>
+      </tr>
+      
     </table>
 
     <br />
 
     <h2>UM79-UNK03</h2>
 
-    <table align="center" width="60%">
+    <table align="center">
       <tr>
 	<td>
 	  <a href="UM79-UNK03-01.jpg">
             <img src="UM79-UNK03-01.jpg" alt="UM79-UNK03"></a>
 	</td>
       </tr>
+
+      <tr>
+	<th>Pattern UM79-UNK03</th>
+      </tr>
+      
     </table>
 
     <br />
