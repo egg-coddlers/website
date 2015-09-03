@@ -1,26 +1,17 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    
-    <!-- @(#) $Id$ -->
-
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-
     <meta name="description"
 	  content="Egg coddler, double-sized, with small black squares on
 		   a white background." />
-
-    <title>
-      Unknown Manufacturer - UM75 (Small Black Squares)
-    </title>
+    <title>Unknown Manufacturer - UM75 (Small Black Squares)</title>
   </head>
   
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Unknown Manufacturer - UM75 (Small Black Squares)      
-    </h1>
+    
+    <h1>Unknown Manufacturer - UM75 (Small Black Squares)</h1>
 
     <br />
     
@@ -29,16 +20,22 @@
     <p>
       These egg coddlers are double-sized. The pattern is small black
       squares. The backstamp is not known.
-      </p>
+    </p>
 
+    <br />
+    
     <table align="center" width="60%">
       <tr>
 	<td>
 	  <a href="UM75-UNK01.jpg">
-            <img src="UM75-UNK01.jpg"
-		 height="250" alt="UM75-UNK01"></a>
+            <img src="UM75-UNK01_250px.jpg" alt="UM75-UNK01"></a>
 	</td>
       </tr>
+
+      <tr>
+	<th>Pattern UM75-UNK01</th>
+      </tr>
+      
     </table>
 
     <br />
