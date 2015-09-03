@@ -1,49 +1,40 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    
-    <!-- @(#) $Id$ -->
-
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-
     <meta name="description"
 	  content="Blue Rooster.">
-    
-    <title>
-      Unknown Manufacturer - UM77 (Blue Rooster)
-    </title>
-    
+    <title>Unknown Manufacturer - UM77 (Blue Rooster)</title>
   </head>
   
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Unknown Manufacturer - UM77 (Blue Rooster)      
-    </h1>
+    
+    <h1>Unknown Manufacturer - UM77 (Blue Rooster)</h1>
     
     <p>
       These egg coddlers are single-sized. The pattern is roosters and
       a hen in blue. The backstamp is not known.
     </p>
 
-
     <br />
     
     <h2>UM77-UNK01</h2>
 
-    <table align="center" width="60%">
+    <table align="center">
       <tr>
 	<td>
 	  <a href="UM77-UNK01-1.jpg">
-            <img src="UM77-UNK01-1.jpg"
-		 height="250" alt="UM77-UNK01"></a>
+            <img src="UM77-UNK01-1_250px.jpg" alt="UM77-UNK01"></a>
 	</td>
 	<td>
 	  <a href="UM77-UNK01-2.jpg">
-            <img src="UM77-UNK01-2.jpg"
-		 height="250" alt="UM77-UNK01"></a>
+            <img src="UM77-UNK01-2_250px.jpg" alt="UM77-UNK01"></a>
 	</td>
+      </tr>
+
+      <tr>
+	<th colspan="2">Pattern UM77-UNK01</th>
       </tr>
     </table>
 
