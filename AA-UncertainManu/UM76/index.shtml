@@ -1,27 +1,17 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    
-    <!-- @(#) $Id$ -->
-
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-
     <meta name="description"
 	  content="Egg coddler, double-sized, with a large pink
 	  morning glory on a white background." /> 
-
-    <title>
-      Unknown Manufacturer - UM76 (Large Pink Morning Glory)
-    </title>
-
-
+    <title>Unknown Manufacturer - UM76 (Large Pink Morning Glory)</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Unknown Manufacturer - UM76 (Large Pink Morning Glory)      
-    </h1>
+    
+    <h1>Unknown Manufacturer - UM76 (Large Pink Morning Glory)</h1>
     
     <p>
       These egg coddlers are double-sized. The pattern is a large pink
@@ -33,22 +23,24 @@
 
     <h2>UM76-UNK01</h2>
 
-    <table align="center" width="60%">
+    <table align="center">
       <tr>
 	<td>
 	  <a href="UM76-UNK01.jpg">
-            <img src="UM76-UNK01.jpg"
-		 height="250" alt="UM76-UNK01"></a>
+            <img src="UM76-UNK01_250px.jpg" alt="UM76-UNK01"></a>
 	</td>
       </tr>
+
+      <tr>
+	<th>Pattern UM76-UNK01</th>
+      </tr>
+      
     </table>
 
     <br />
 
     <!--#include virtual="/manu-nav-block.ssi" -->
 
-    <br />
-      
     <p>
       This page was last modified on
       <!--#echo var="LAST_MODIFIED"-->
