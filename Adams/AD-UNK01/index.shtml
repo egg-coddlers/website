@@ -1,58 +1,55 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-<title>
-Adams - Pattern AD-UNK01 (2 Roosters)
-</title>
-</head>
-<body bgcolor="white">
+  <head>
+    <title>Adams - Pattern AD-UNK01 (2 Roosters)</title>
+  </head>
+  
+  <body bgcolor="white">
+    <a name="Top"></a>
 
-<a name="Top"></a>
+    <h1>Adams - Pattern AD-UNK01 (2 Roosters)</h1>
 
-<h1>
-Adams - Pattern AD-UNK01 (2 Roosters)
-</h1>
+    <p>
+      This pattern consists of a rooster on either side of the coddler.
+    </p>
 
-<p>
-  This pattern consists of a rooster on either side of the coddler.
-  </p>
+    <p>
+      We've seen this coddler only with an Adams
+      <a href="../#Type2">Type 2</a> backstamp.
+    </p>
 
-<p>
-  We've seen this coddler only with an Adams
-  <a href="../#Type2">Type 2</a> backstamp.
-  </p>
+    <p>
+      Both the single size (approx. 3&frac12;" tall) and the double size
+      (approx. 4" tall) are known.
+    </p>
 
-<p>
-  Both the single size (approx. 3&frac12;" tall) and the double size
-  (approx. 4" tall) are known.
-  </p>
-
-
-<br />
-<table align="center">
-<tr>
-    <td><a href="rooster-01-a.jpg">
-        <img src="rooster-01-a.jpg"
-	     height="200" alt="AD-UNK01"></a>
-    </td>
-    <td><a href="rooster-01-b.jpg">
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="rooster-01-a.jpg">
+            <img src="rooster-01-a.jpg"
+		 height="200" alt="AD-UNK01"></a>
+	</td>
+	<td><a href="rooster-01-b.jpg">
             <img src="rooster-01-b.jpg"
-	        height="200" alt="AD-UNK01 with Adams Pamphlet"></a>
-      </td>
-    <td><a href="rooster-01-bs.jpg">
+	         height="200" alt="AD-UNK01 with Adams Pamphlet"></a>
+	</td>
+	<td><a href="rooster-01-bs.jpg">
             <img src="rooster-01-bs.jpg"
-	        height="100" alt="Backstamp"></a>
-    </td>
-</tr>
+	         height="100" alt="Backstamp"></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th colspan="3">Pattern AD-UNK01</th>
+      </tr>
+      
+    </table>
 
-<tr>
-    <th colspan="2">Pattern AD-UNK01</th>
-</tr>
-</table>
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
 
-
-<br />
-<!--#include virtual="../pattern-nav-block.ssi" -->
-
-</body>
+  </body>
 </html>
