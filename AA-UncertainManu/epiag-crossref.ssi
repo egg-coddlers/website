@@ -1,5 +1,5 @@
-<!-- ----- Begin Include EPIAG Coddler Cross Reference ------>
-<!-- @(#) $Id$ -->
+<!-- BEGIN INCLUDE /AA-UncertainManu/epiag-crossref.ssi -->
+
 <p>
 <a name="Related"></a>
 <h2>Related Designs?</h2>
@@ -23,5 +23,5 @@ the same manufacturer or are part of a set.
 </tr>
 </table>
 <p>
-<!-- ----- End Include EPIAG Coddler Cross Reference ------ -->
 
+<!-- END INCLUDE /AA-UncertainManu/epiag-crossref.ssi -->
