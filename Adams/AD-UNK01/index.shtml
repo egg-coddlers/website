@@ -51,5 +51,12 @@
     
     <!--#include virtual="../pattern-nav-block.ssi" -->
 
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
   </body>
 </html>
