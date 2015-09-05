@@ -1,17 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <title>
-      Aynsley - Cottage Garden Pattern
-    </title>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>Aynsley - Cottage Garden Pattern</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Aynsley - Cottage Garden Pattern
-    </h1>
+    <h1>Aynsley - Cottage Garden Pattern</h1>
 
     <p>
       This pattern consists of a garden scene, with flowers, plants,
@@ -21,97 +19,128 @@
       yellow three-leaved flower. There are also two variations of the
       ring on the lid, with a round cross-section, one with a flat
       cross-section.
-      </p>
+    </p>
 
-    <br />
-    
-    <table align="center">
-	<tr>
-	  <td><img src="cottage-garden-01-b.jpg"
-		   height="200" alt="Cottage Garden"></td>
-	  <td><img src="cottage-garden-01-a.jpg" height="200"
-		   alt="Cottage Garden"></td>
-	  <td><img src="cottage-garden-01-bs.jpg" height="100"
-		   alt="Backstamp"></td>
-	</tr>
-
-	<tr>
-	  <th colspan="3">Cottage Garden Pattern -
-	    Orange-Yellow Flower on Back</th>
-	</tr>    
-    </table>
-
-
-    <br />
+    <div class="space50px"></div>
     
     <table align="center">
       <tr>
-	<td><img src="cottage-garden-02-a.jpg"
-		 height="200" alt="Cottage Garden"></td>
-	<td><img src="cottage-garden-02-b.jpg" height="200"
-		 alt="Cottage Garden"></td>
-	<td><img src="cottage-garden-02-c.jpg" height="200"
-		 alt="Cottage Garden"></td>
-	<td><img src="cottage-garden-02-bs.jpg" height="100"
-		 alt="Backstamp"></td>
+	<td>
+	  <a href="cottage-garden-01-b.jpg">
+	    <img src="cottage-garden-01-b_250px.jpg" alt="Cottage Garden"></a>
+	</td>
+	<td>
+	  <a href="cottage-garden-01-a.jpg">
+	    <img src="cottage-garden-01-a_250px.jpg" alt="Cottage Garden"></a>
+	</td>
+	<td>
+	  <a href="cottage-garden-01-bs.jpg">
+	    <img src="cottage-garden-01-bs_150px.jpg" alt="Backstamp">
+	</td>
       </tr>
 
       <tr>
-	<th colspan="4">Cottage Garden Pattern -
-	  Blue and Yellow Flower on Back</th>
+	<th colspan="3">Cottage Garden Pattern - Orange-Yellow Flower on Back</th>
       </tr>
     </table>
 
-    <br />
+    <div class="space50px"></div>
     
     <table align="center">
       <tr>
-	<td><img src="cottage-garden-03-a.jpg" height="200"
-		 alt="Cottage Garden"></td>
-	  <td><img src="cottage-garden-03-b.jpg" height="200"
-		   alt="Cottage Garden"></td>
-	</tr>
-
-	<tr>
-	  <th colspan="2">Cottage Garden Pattern -
-	    Blue and Yellow Flower on Back</th>
-	</tr>
-      </table>
-
-    <br />
-    
-    <table align="center">
-      <tr>
-	<td><img src="cottage-garden-04.jpg" height="200"
+	<td>
+	  <img src="cottage-garden-02-a.jpg"
+		 height="200" alt="Cottage Garden">
+	</td>
+	<td>
+	  <img src="cottage-garden-02-b.jpg" height="200"
 		 alt="Cottage Garden">
-	<td><img src="cottage-garden-04-bs.jpg" height="100"
-		 alt="Backstamp">
+	</td>
+	<td>
+	  <a href="cottage-garden-02-c.jpg">
+	    <img src="cottage-garden-02-c.jpg" height="200" alt="Cottage Garden"></a>
+	</td>
+	<td>
+	  <a href="cottage-garden-02-bs.jpg">
+	    <img src="cottage-garden-02-bs.jpg" height="150" alt="Backstamp"></a>
+	</td>
       </tr>
 
       <tr>
-	<th colspan="2">Cottage Garden Pattern -
-	  Orange-Yellow Flower on Back</th>
-      </tr>    
+	<th colspan="4">Cottage Garden Pattern - Blue and Yellow Flower on Back</th>
+      </tr>
+      
     </table>
 
-
-    <br />
+    <div class="space50px"></div>
     
     <table align="center">
       <tr>
-	<td><img src="cottage-garden-05-c.jpg" alt="Cottage Garden">
-	<td><img src="cottage-garden-05-a.jpg" alt="Cottage Garden">
-	<td><img src="cottage-garden-05-b.jpg" alt="Cottage Garden">
+	<td>
+	  <a href="cottage-garden-03-a.jpg">
+	    <img src="cottage-garden-03-a_250px.jpg" alt="Cottage Garden"></a>
+	</td>
+	<td>
+	  <a href="cottage-garden-03-b.jpg">
+	    <img src="cottage-garden-03-b_250px.jpg" alt="Cottage Garden"></a>
+	</td>
       </tr>
 
       <tr>
-	<th colspan="3">Cottage Garden Pattern - Both Back Variations Shown
-      </tr>    
+	<th colspan="2">Cottage Garden Pattern -  Blue and Yellow Flower on Back</th>
+      </tr>
+      
+    </table>
+
+    <div class="space50px"></div>
+    
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="cottage-garden-04.jpg">
+	    <img src="cottage-garden-04_250px.jpg" alt="Cottage Garden"></a>
+	</td>
+	<td>
+	  <a href="cottage-garden-04-bs.jpg">
+	  <img src="cottage-garden-04-bs_150px.jpg" alt="Backstamp"></a>
+      </tr>
+
+      <tr>
+	<th colspan="2">Cottage Garden Pattern - Orange-Yellow Flower on Back</th>
+      </tr>
+      
+    </table>
+
+    <div class="space50px"></div>
+    
+    <table align="center">
+      <tr>
+	<td>
+	  <img src="cottage-garden-05-c.jpg" alt="Cottage Garden">
+	</td>
+	<td>
+	  <img src="cottage-garden-05-a.jpg" alt="Cottage Garden">
+	</td>
+	<td>
+	  <img src="cottage-garden-05-b.jpg" alt="Cottage Garden">
+	  </td>
+      </tr>
+
+      <tr>
+	<th colspan="3">Cottage Garden Pattern - Both Back Variations Shown</th>
+      </tr>
     </table>
 
     <br />
     
-<!--#include virtual="../pattern-nav-block.ssi" -->
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
 
   </body>
 </html>
