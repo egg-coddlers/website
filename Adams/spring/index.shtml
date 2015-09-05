@@ -35,35 +35,23 @@
 
     <table align="center">
       <tr>
-	<td><a href="spring-01.jpg">
-            <img src="spring-01.jpg"
-		 height="200" alt="Spring Pattern - Pink"></a>
+	<td>
+	  <a href="spring-01.jpg">
+            <img src="spring-01_250px.jpg" alt="Spring Pattern - Pink"></a>
 	</td>
-	<td><a href="spring-01-bs.jpg">
-            <img src="spring-01-bs.jpg"
-	         height="100" alt="Backstamp"></a>
+	<td>
+	  <a href="spring-01-bs.jpg">
+            <img src="spring-01-bs_150px.jpg" alt="Backstamp"></a>
 	</td>
-      </tr>
-
-      <tr>
-	<th colspan="2">Spring Pattern - Pink</th>
-      </tr>
-
-    </table>
-
-    <br />
-    
-    <table align="center">
-      <tr>
-	<td colspan="2">
+	<td></td>
+	<td>
 	  <a href="spring-02.jpg">
-	    <img src="spring-02.jpg"
-		 height="200" alt="Spring Pattern - Blue"></a>
+	    <img src="spring-02_250px.jpg" alt="Spring Pattern - Blue"></a>
 	</td>
       </tr>
 
       <tr>
-	<th colspan="2">Spring Pattern - Blue</th>
+	<th colspan="5">Spring Pattern</th>
       </tr>
 
     </table>
@@ -71,6 +59,7 @@
     <br />
 
     <!--#include virtual="../pattern-nav-block.ssi" -->
+
     <p>
       This page was last modified on
       <!--#echo var="LAST_MODIFIED"-->
