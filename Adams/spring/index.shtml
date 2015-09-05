@@ -1,74 +1,82 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-<title>
-  Adams - Spring Pattern
-</title>
-</head>
-<body bgcolor="white">
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="manufacturer.css" type="text/css" />
+    <title>Adams - Spring Pattern</title>
+  </head>
+  
+  <body bgcolor="white">
+    <a name="Top"></a>
 
-<a name="Top"></a>
+    <h1>Adams - Spring Pattern</h1>
 
-<h1>
-    Adams - Spring Pattern
-</h1>
+    <p>
+      This pattern consists of small chintz flowers and leaves
+      all around the body of the coddler.
+    </p>
 
-<p>
-    This pattern consists of small chintz flowers and leaves
-    all around the body of the coddler.
-</p>
+    <p>
+      The examples we've  seen to date all have a 
+      <a href="../#Type2">Type 2</a>
+      backstamp.
+    </p>
 
-<p>
-    The examples we've  seen to date all have a 
-    <a href="../#Type2">Type 2</a>
-    backstamp.
-</p>
+    <p>
+      This pattern occurs in both Pink and Blue.
+    </p>
 
-<p>
-  This pattern occurs in both Pink and Blue.
-</p>
+    <p>
+      Both the single size (approx. 3&frac12;" tall), and the double size
+      (approx 4" tall) are known.
+    </p>
 
-<p>Both the single size (approx. 3&frac12;" tall), and the double size
-  (approx 4" tall) are known.  </p>
+    <br />
 
-
-<br />
-
-<table align="center">
-<tr>
-    <td><a href="spring-01.jpg">
-        <img src="spring-01.jpg"
-	     height="200" alt="Spring Pattern - Pink"></a>
-      </td>
-
-						       
-    <td><a href="spring-01-bs.jpg">
+    <table align="center">
+      <tr>
+	<td><a href="spring-01.jpg">
+            <img src="spring-01.jpg"
+		 height="200" alt="Spring Pattern - Pink"></a>
+	</td>
+	<td><a href="spring-01-bs.jpg">
             <img src="spring-01-bs.jpg"
-	        height="100" alt="Backstamp"></a>
-      </td>
-</tr>
+	         height="100" alt="Backstamp"></a>
+	</td>
+      </tr>
 
-<tr>
-    <th colspan="2">Spring Pattern - Pink</th>
-</tr>
+      <tr>
+	<th colspan="2">Spring Pattern - Pink</th>
+      </tr>
 
-<tr>
-  <td colspan="2">
-    <a href="spring-02.jpg">
-      <img src="spring-02.jpg"
-	   height="200" alt="Spring Pattern - Blue"></a>
-    </td>
-</tr>
+    </table>
 
-<tr>
-  <th colspan="2">Spring Pattern - Blue</th>
-  </tr>
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td colspan="2">
+	  <a href="spring-02.jpg">
+	    <img src="spring-02.jpg"
+		 height="200" alt="Spring Pattern - Blue"></a>
+	</td>
+      </tr>
 
-</table>
+      <tr>
+	<th colspan="2">Spring Pattern - Blue</th>
+      </tr>
 
-<br />
+    </table>
 
-<!--#include virtual="../pattern-nav-block.ssi" -->
+    <br />
 
-</body>
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
 </html>
