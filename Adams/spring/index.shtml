@@ -2,7 +2,7 @@
 <html>
   <head>
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-    <link rel="stylesheet" href="manufacturer.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
     <title>Adams - Spring Pattern</title>
   </head>
   
