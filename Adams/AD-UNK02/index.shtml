@@ -44,7 +44,7 @@
       </tr>
 
       <tr>
-	<th colspan="2">Pattern AD-UNK01</th>
+	<th colspan="2">Pattern AD-UNK02</th>
       </tr>
       
     </table>
@@ -52,6 +52,13 @@
     <br />
 
     <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
 
   </body>
 </html>
