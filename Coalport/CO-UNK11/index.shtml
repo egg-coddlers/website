@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- $Id: index.shtml,v 1.3 2013/02/27 01:53:12 RobJenson Exp $ -->
+
+    <meta http-equiv="Refresh"
+	  content="10; url=../old-coalport/" />
+    
+    <title>
+      Pattern CO-UNK11 is Old Coalport
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Pattern CO-UNK11 is Old Coalport      
+    </h1>
+
+    <p>
+      The pattern previously known as CO-UNK11 is now known to be
+      called <i><a href="../old-coalport/">Old Coalport</a></i>.
+      </p>
+    </p>
+
+    <p>
+      Your web browser will redirect you to that page in ten seconds,
+      or <a href="../old-coalport/">click on this link to go there
+      now.</a>
+    </p>
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
