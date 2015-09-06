@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    
+    <!-- @(#) $Id: index.shtml,v 1.2 2013/01/29 01:25:03 RobJenson Exp $ -->
+
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+
+    <meta name="description"
+	  content="Egg coddlers from House of Prill.
+		   These coddlers are double-sized convex coddlers
+		   with no pedestal and have corrugated sides. This
+		   pattern consists of Lotus Corniculatus, yellow
+		   flowers." />
+
+    <title>
+      HP-UNK24 (Lotus corniculatus - Yellow flowers)
+    </title>
+  </head>
+
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Pattern HP-UNK24 (Lotus corniculatus - Yellow flowers)
+    </h1>
+
+    <p>
+      These coddlers are double-sized convex coddlers with no pedestal
+      and have corrugated sides. This pattern
+      consists of Lotus corniculatus, yellow flowers.
+    </p>
+
+    <p>
+	Picture to follow soon.
+	</p>
+
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
