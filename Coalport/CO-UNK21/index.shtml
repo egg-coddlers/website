@@ -1,23 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-
-    <!-- @(#) $Id$ -->
-
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-
-    <title>
-      Coalport - CO-UNK21 - Floral
-    </title>
+    <title>Coalport - CO-UNK21 - Floral</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Coalport - CO-UNK21
-    </h1>
+    <h1>Coalport - CO-UNK21</h1>
 
     <p>
       This is yet another floral Coalport pattern. We do not know the
@@ -29,6 +21,8 @@
       This is a double-sized coddler.
     </p>
 
+    <br />
+    
     <table align="center">
       <tr>
 	<td>
@@ -42,8 +36,9 @@
       </tr>
 
       <tr>
-	<th>Coalport: CO-UNK21</th>
+	<th>Pattern Coalport CO-UNK21</th>
       </tr>
+      
     </table>
 
     <br />
@@ -63,4 +58,3 @@
 
   </body>
 </html>
-
