@@ -1,47 +1,43 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-    <title>
-        Coalport - CO-UNK15 - Blue Leaves with Gold Band
-        </title>
+  <head>
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-    </head>
-<body bgcolor="white">
+    <title>Coalport - CO-UNK15 - Blue Leaves with Gold Band</title>
+  </head>
+  
+  <body bgcolor="white">
+    <a name="Top"></a>
 
-<a name="Top"></a>
+    <h1>Coalport - CO-UNK15</h1>
 
-<h1>
-Coalport - CO-UNK15
-</h1>
-
-<p>
-    Blue leaves with a broad gold band across the middle. This is a
-    single-sized coddler. We do not know the backstamp.
+    <p>
+      Blue leaves with a broad gold band across the middle. This is a
+      single-sized coddler. We do not know the backstamp.
     </p>
 
-<table align="center">
-<tr>
-    <td><a href="CO-UNK15-01.jpg">
-        <img src="CO-UNK15-01.jpg"
-	    height="250" alt="CO-UNK15"></a>
+    <table align="center">
+      <tr>
+	<td><a href="CO-UNK15-01.jpg">
+            <img src="CO-UNK15-01_250px.jpg" alt="CO-UNK15"></a>
         </td>
-    </tr>
+      </tr>
 
-<tr>
-    <th>CO-UNK15</th>
-    </tr>
-</table>
+      <tr>
+	<th>Pattern CO-UNK15</th>
+      </tr>
+    </table>
 
-<!--#include virtual="../pattern-nav-block.ssi" -->
+    <br />
 
-<p>
-This page was last modified on
-<!--#echo var="LAST_MODIFIED"-->
-.<br />
-<!--#include virtual="/copyright.ssi" -->
-</p>
+    <!--#include virtual="../pattern-nav-block.ssi" -->
 
-</body>
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
 </html>
-
