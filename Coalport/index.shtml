@@ -1,23 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    
-    <!-- @(#) $Id$ -->
-    
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="manufacturer.css" type="text/css" />
-    
-    <title>
-      Coalport Egg Coddlers
-    </title>
+    <title>Coalport Egg Coddlers</title>
   </head>
 
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Coalport Coddlers
-    </h1>
+    
+    <h1>Coalport Coddlers</h1>
 
     <p>
       Coalport coddlers are made in England. These coddlers have a
@@ -33,14 +25,18 @@
 	links.</b>
     </p>
 
+    <br />
+
     <a name="Sizes"></a>
     <h2>Sizes</h2>
+    
     <p>
       Coalport coddlers are known in two sizes: 
       <b>single</b> and <b>double</b>.
     </p>
 
-
+    <br />
+    
     <a name="Patterns"></a>
     <h2>Patterns</h2>
     <p>
@@ -51,6 +47,8 @@
       name and/or the image.
     </p>
 
+    <br />
+    
     <table border width="100%">
       <tr>
 	<th width="20%">Pattern Name
