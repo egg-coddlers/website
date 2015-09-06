@@ -1,7 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->  
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="manufacturer.css" type="text/css" />
     <meta name="description"
@@ -11,23 +10,21 @@
 		   Paris France, Depuis 1773, and in most cases the pattern
 		   name. They also produced convex coddlers with a pedestal
 		   decorated with North American birds." />
-    <title>
-      Porcelaine de Paris Egg Coddlers
-    </title>
+    <title>Porcelaine de Paris Egg Coddlers</title>
   </head>
 
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Porcelaine de Paris Egg Coddlers
-    </h1>
+    
+    <h1>Porcelaine de Paris Egg Coddlers</h1>
 
     <p>
       Porcelaine de Paris manufactured two styles of egg coddler:
       <a href="#Concave">concave</a>, and
       <a href="#Convex">convex with a pedestal</a>.
     </p>
+
+    <br />
     
     <a name="Concave"></a>    
     <h2>Concave Coddlers</h2>
