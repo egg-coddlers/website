@@ -1,25 +1,20 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->    
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <meta name="description"
 	  content="Egg coddlers from Coquetier Du Riviere." />
-    <title>
-      Coquetier Du Riviere Egg Coddlers
-    </title>
+    <title>Coquetier Du Riviere Egg Coddlers</title>
   </head>
   
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Coquetier Du Riviere Egg Coddlers
-    </h1>
+    
+    <h1>Coquetier Du Riviere Egg Coddlers</h1>
 
     <p>
       We know very little about these coddlers. Made in France.
-      </p>
+    </p>
 
     <br />
 
@@ -42,6 +37,7 @@
       <tr>
         <th>Coquetier Du Riviere Pattern CDR-UNK01</th>
       </tr>
+      
     </table>
 
     <br />
@@ -67,8 +63,8 @@
       <tr>
         <th colspan="2">Coquetier Du Riviere Pattern CDR-UNK02</th>
       </tr>
+	
     </table>
-
 
     <br />
 
@@ -83,11 +79,3 @@
 
   </body>
 </html>
-
-
-
-
-
-
-
-
