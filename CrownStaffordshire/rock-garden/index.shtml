@@ -1,20 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->  
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-    <title>
-      Crown Staffordshire - Rock Garden Pattern
-    </title>
+    <title>Crown Staffordshire - Rock Garden Pattern</title>
   </head>
-  <body bgcolor="white">
 
+  <body bgcolor="white">
     <a name="Top"></a>
 
-    <h1>
-      Crown Staffordshire - Rock Garden Pattern
-    </h1>
+    <h1>Crown Staffordshire - Rock Garden Pattern</h1>
 
     <p>
       This pattern consists of blue flowers (forget-me-nots ?) on a
@@ -32,8 +27,11 @@
 		 alt="Rock Garden" /></a>
 	</td>
       </tr>
+      
       <tr>
-	<th>Rock Garden Pattern - Example 1
+	<th>Rock Garden Pattern - Example 1</th>
+      </tr>
+	  
     </table>
 
     <br />
@@ -46,8 +44,11 @@
 	    <img src="rock-garden-03_250px.jpg"
 		 alt="Rock Garden"></a></td>
       </tr>
+      
       <tr>
-	<th>Rock Garden Pattern - Example 3
+	<th>Rock Garden Pattern - Example 3</th>
+      </tr>
+      
     </table>
 
     <br />
@@ -56,9 +57,14 @@
       <tr>
 	<td><a href="rock-garden-04_750px.jpg">
 	    <img src="rock-garden-04_250px.jpg"
-		 alt="Rock Garden"></a></td>
+		 alt="Rock Garden"></a>
+	</td>
       </tr>
+      
     </table>
+
+    <br />
+    
     <table align="center">
       <tr>
 	<th>
