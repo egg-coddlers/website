@@ -1,39 +1,52 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-<title>
-    Pattern UM03-UNK08 (Floral Spray)
-</title>
-</head>
-<body bgcolor="white">
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>Pattern UM03-UNK08 (Floral Spray)</title>
+  </head>
+  
+  <body bgcolor="white">
+    <a name="Top"></a>
+    
+    <h1>Pattern UM03-UNK08 (Floral Spray)</h1>
 
-<a name="Top">
-<h1>
-    Pattern UM03-UNK08 (Floral Spray)
-</h1>
+    <p>
+    This pattern consists of a  floral spray. The design appears on
+    only one side of the coddler.
+    </p>
 
-    This pattern consists of a  floral spray.
-    This design appears on only one side of the coddler.
+    <br />
 
-<p>
-<table align="center">
-<tr>
-    <td><a href="UM03-UNK08-01-a.jpg">
+    <table align="center">
+      <tr>
+	<td><a href="UM03-UNK08-01-a.jpg">
             <img src="UM03-UNK08-01-a.jpg"
-	        height="250" alt="UM03-UNK08"></a>
-    <td><a href="UM03-UNK08-01-b.jpg">
+	         height="250" alt="UM03-UNK08"></a>
+	</td>
+	<td><a href="UM03-UNK08-01-b.jpg">
             <img src="UM03-UNK08-01-b.jpg"
-	        height="200" alt="Closer view of pattern"></a>		
-</tr>
+	        height="200" alt="Closer view of pattern"></a>
+	</td>
+      </tr>
 
-<tr>
-    <th colspan="2">UM03-UNK08 (Floral Spray)
-</tr>
-</table>
-<p>
+      <tr>
+	<th colspan="2">UM03-UNK08 (Floral Spray)</th>
+      </tr>
+    </table>
 
-<!--#include virtual="../../../manu-nav-block.ssi" -->
-</body>
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
 </html>
 
 

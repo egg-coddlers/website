@@ -1,20 +1,14 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-
-    <!-- @(#) $Id$ -->
-
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-
     <title>Unknown Manufacturer - UM17</title>
   </head>
 
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Unknown Manufacturer - UM17
-    </h1>
+    
+    <h1>Unknown Manufacturer - UM17</h1>
 
     <p>
       Single and double-sized coddlers made of clear glass.
@@ -64,5 +58,3 @@
 
   </body>
 </html>
-
-

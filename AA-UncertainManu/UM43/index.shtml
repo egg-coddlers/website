@@ -1,46 +1,56 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-<title>Unknown Manufacturer - UM43</title>
-</head>
-<body bgcolor="white">
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <title>Unknown Manufacturer - UM43</title>
+  </head>
+  <body bgcolor="white">
+    
+    <a name="Top"></a>
+    <h1>Unknown Manufacturer - UM43</h1>
 
-<a name="Top"></a>
-<h1>Unknown Manufacturer - UM43</h1>
-</a>
+    <p>
+      This is a double-sized cylindrical coddler.  The pattern consists of
+      yellow, orange, white, and light blue flowers.  Marked <b>Japan</b> on
+      the backstamp.
+      </p>
 
-This is a double-sized cylindrical coddler.  The pattern consists of
-yellow, orange, white, and light blue flowers.  Marked <b>Japan</b> on
-the backstamp. 
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="UM43-UNK01-01.jpg">
+            <img src="UM43-UNK01-01.jpg" alt="UM43-UNK01"></a></td>
+      </tr>
+      <tr>
+	<th>Pattern UM43-UNK01
+      </tr>
+    </table>
+    
+    <table align="center">
+      <tr>
+	<td><a href="UM43-UNK01-02.jpg">
+            <img src="UM43-UNK01-02.jpg" alt="UM43-UNK01"></a>
+      </tr>
+      <tr>
+	<th>Pattern UM43-UNK01
+      </tr>
+    </table>
+    
+    <br />
+      
+    <!--#include virtual="../cylindrical-crossref.ssi" -->
 
-<p>
-<table align="center">
-<tr>
-    <td><a href="UM43-UNK01-01.jpg">
-        <img src="UM43-UNK01-01.jpg" alt="UM43-UNK01"></a>
-</tr>
-<tr>
-    <th>Pattern UM43-UNK01
-</tr>
-</table>
+    <!--#include virtual="../../manu-nav-block.ssi" -->
 
-<p>
-<table align="center">
-<tr>
-    <td><a href="UM43-UNK01-02.jpg">
-        <img src="UM43-UNK01-02.jpg" alt="UM43-UNK01"></a>
-</tr>
-<tr>
-    <th>Pattern UM43-UNK01
-</tr>
-</table>
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
 
-<p>
-<!--#include virtual="../cylindrical-crossref.ssi" -->
-
-<p>
-<!--#include virtual="../../manu-nav-block.ssi" -->
-</body>
+  </body>
 </html>
 
 

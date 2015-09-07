@@ -1,37 +1,39 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <meta name="description"
 	  content="Plain white double sized egg coddlers, marked &quot;G
 		   Japan&quot; underneath.">
-    <title>
-      UM73 Double Coddlers - G Japan.
-    </title>
+    <title>UM73 Double Coddlers - G Japan</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      UM73 Double Coddlers - G Japan.
-    </h1>
+    
+    <h1>UM73 Double Coddlers - G Japan</h1>
+    
     <p>
       Plain white, convex, double-size egg coddlers.
       Marked <b>G Japan</b> underneath.
     </p>
 
-
+    <br />
+    
     <h2>UM73-UNK01</h2>
 
-    <table align="center" width="60%">
+    <table align="center">
       <tr>
 	<td>
 	  <a href="UM73-UNK01.jpg">
-            <img src="UM73-UNK01.jpg"
-		 height="250" alt="UM73-UNK01"></a>
+            <img src="UM73-UNK01.jpg" alt="UM73-UNK01"></a>
 	</td>
       </tr>
+
+      <tr>
+	<th>UM73-UNK01</th>
+      </tr>
+      
     </table>
 
     <br />

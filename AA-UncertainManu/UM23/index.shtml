@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <meta name="description"
 	  content="Egg coddlers from an unknown manufacturer,
 		   designated UM23.  These are double-sized cylindrical
@@ -32,36 +32,51 @@
       and
       <b>LICENSEE ENESCO</b>.  In some examples, the word
       <b>JAPAN</b> also appears on the bottom.
-      </p>
+    </p>
 
+    <p>
+      We believe that these coddlers were sold in sets, shown below.
+      <br />
+      <ul>
+      <img src="UM23-set-01.jpg" alt="Set of four - front">
+      <img src="UM23-set-02.jpg" alt="Set of four - back">
+      </ul>
+    </p>
+
+    <br />
+    
     <h2>Patterns</h2>
     <h3>UM23-UNK01</h3>
 
-      <table align="center">
-	<tr>
-	  <td><a href="UM23-UNK01-01-a.jpg">
-              <img src="UM23-UNK01-01-a.jpg"
-	           alt="UM23-UNK01"></a>
-          </td>		
-	  <td><a href="UM23-UNK01-01-b.jpg">
-              <img src="UM23-UNK01-01-b.jpg"
-	           alt="UM23-UNK01"></a>
-          </td>		
-	  <td><a href="UM23-UNK01-01-bs.jpg">
-              <img src="UM23-UNK01-01-bs.jpg"
-		   alt="Backstamp"></a>
-	</tr>
-	<tr>
-	  <td><a href="UM23-UNK01-02.jpg">
-              <img src="UM23-UNK01-02.jpg"
-	           alt="UM23-UNK01"></a>
-          </td>		 
-	</tr>
-
-	<tr>
-	  <th colspan="4">Pattern UM23-UNK01</th>
-	</tr>
-      </table>
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="UM23-UNK01-01-a.jpg">
+            <img src="UM23-UNK01-01-a.jpg"
+	         alt="UM23-UNK01"></a>
+        </td>		
+	<td><a href="UM23-UNK01-01-b.jpg">
+            <img src="UM23-UNK01-01-b.jpg"
+	         alt="UM23-UNK01"></a>
+        </td>		
+	<td><a href="UM23-UNK01-01-bs.jpg">
+            <img src="UM23-UNK01-01-bs.jpg"
+		 alt="Backstamp"></a>
+      </tr>
+      
+      <tr>
+	<td><a href="UM23-UNK01-02.jpg">
+            <img src="UM23-UNK01-02.jpg"
+	         alt="UM23-UNK01"></a>
+        </td>		 
+      </tr>
+      
+      <tr>
+	<th colspan="4">Pattern UM23-UNK01</th>
+      </tr>
+      
+    </table>
 
     <br />
 
@@ -72,6 +87,8 @@
 	Nuco</b>.
     </p>  
 
+    <br />
+    
     <table align="center">
       <tr>
 	<td><a href="UM23-UNK02-01.jpg">
@@ -87,9 +104,11 @@
       <tr>
 	<th colspan="2">Pattern UM23-UNK02</th>
       </tr>
+      
     </table>
 
     <br />
+    
     <h3>UM23-UNK03</h3>
 
     <table align="center">
@@ -103,20 +122,26 @@
 		 alt="Backstamp"></a>
         </td>	    
       </tr>
+      
       <tr>
 	<td><a href="UM23-UNK03-02.jpg">
             <img src="UM23-UNK03-02.jpg"
 		 alt="UM23-UNK03"></a>
         </td>	    
       </tr>
+      
       <tr>
 	<th colspan="2">Pattern UM23-UNK03</th>
       </tr>
+      
     </table>
 
     <br />
+    
     <h3>UM23-UNK04</h3>
 
+    <br />
+    
     <table align="center">
       <tr>
 	<td><a href="UM23-UNK04-01-a.jpg">
@@ -140,6 +165,7 @@
 		 height="150" alt="Backstamp"></a>
         </td>	    
       </tr>
+      
       <tr>
 	<td><a href="UM23-UNK04-02.jpg">
             <img src="UM23-UNK04-02.jpg" height="100"
@@ -150,16 +176,24 @@
       <tr>
 	<th colspan="5">Pattern UM23-UNK04</th>
       </tr>
+      
     </table>
 
+    <br />
+    
     <h3>UM23-UNK05</h3>
+    
     <p>
       We do not yet have pictures of this coddler. The pattern is
       three birds and a flower.
-      </p>
+    </p>
 
+    <br />
+    
     <!--#include virtual="/AA-UncertainManu/cylindrical-crossref.ssi" -->
 
+    <br />
+    
     <!--#include virtual="/manu-nav-block.ssi" -->
 
     <p>

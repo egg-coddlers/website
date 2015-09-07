@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id: index.shtml,v 1.1 2012/03/31 23:49:57 RobJenson Exp $ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />    
+    <title>
+      Pattern UM03-UNK31 (Small Blue Flowers)
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Pattern UM03-UNK31 (Small Blue Flowers)
+    </h1>
+    
+    <p>
+      These coddlers are double-sided convex coddlers with no pedestal.
+      They have corrugated sides.  The shape is the same as the
+      shape of coddlers made by
+      <a href="/HouseOfPrill">House of Prill</a>,
+      but these have no backstamp.
+    </p>
+    
+    <p>
+      This pattern is lots of small blue flowers, evenly placed
+    </p>
+
+    <p>
+      Picture to be added soon.
+    </p>
+    
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>

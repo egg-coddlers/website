@@ -1,72 +1,74 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-<title>Royal Worcester - RW-UNK64 (Stinton Pheasant)</title>
-</head>
-<body bgcolor="white">
+  <head>
+    <title>Royal Worcester - RW-UNK64 (Stinton Pheasant)</title>
+  </head>
+  
+  <body bgcolor="white">
+    <a name="Top"></a>
 
-<a name="Top"></a>
+    <h1>Royal Worcester - RW-UNK64 (Stinton Pheasant)</h1>
 
-<h1>Royal Worcester - RW-UNK64 (Stinton Pheasant)</h1>
-
-<p>
-    This is an old Royal Worcester coddler.
-    The painting of a Ring-necked Pheasant is signed "Stinton"
-    We can't quite make-out the initial - and several members
-    of the Stinton painting dynasty worked for Royal Worcester. 
-    The backstamp is Type 4C.
+    <p>
+      This is an old Royal Worcester coddler.
+      The painting of a Ring-necked Pheasant is signed "Stinton"
+      We can't quite make-out the initial - and several members
+      of the Stinton painting dynasty worked for Royal Worcester. 
+      The backstamp is Type 4C.
     </p>
 
-<br />    
+    <br />    
 
-<table>
-    <tr>
+    <table>
+      <tr>
         <td><a href="RW-UNK64-01-a.jpg">
-	        <img src="RW-UNK64-01-a.jpg"
-		    height="200"
-		    alt="RW-UNK64 - Stinton Pheasant"></a>
-            </td>
+	    <img src="RW-UNK64-01-a.jpg"
+		 height="200"
+		 alt="RW-UNK64 - Stinton Pheasant"></a>
+        </td>
 
         <td><a href="RW-UNK64-02-a.jpg">
-	        <img src="RW-UNK64-02-a.jpg"
-		    height="200"
-		    alt="RW-UNK64 - Stinton Pheasant"></a>		    
-            </td>
-    </tr>
+	    <img src="RW-UNK64-02-a.jpg"
+		 height="200"
+		 alt="RW-UNK64 - Stinton Pheasant"></a>		    
+        </td>
+      </tr>
 
-<tr>
-    <th colspan="2">RW-UNK64 - Stinton Pheasant</th>
-    </tr>
-</table>
+      <tr>
+	<th colspan="2">RW-UNK64 - Stinton Pheasant</th>
+      </tr>
+      
+    </table>
 
-<br />
+    <br />
 
-<table border width="100%">
-<caption>Known
-    <a href="../types">Types</a> Matrix</caption>
-<tr>
-    <th width="20%">Type</th>
-    <th width="30%">Sizes</th>
-    <th width="30%">Notes</th>
-    <th width="10%">Sources</th>
-</tr>
+    <table border width="100%">
+      <caption>Known
+	<a href="../types">Types</a> Matrix</caption>
+      <tr>
+	<th width="20%">Type</th>
+	<th width="30%">Sizes</th>
+	<th width="30%">Notes</th>
+	<th width="10%">Sources</th>
+      </tr>
 
-<tr>
-    <td><a href="../types/#Type4C">Type 4C</a></td>
-    <td><a href="../sizes.shtml#standard">Standard</a></td>
-    <td>&nbsp;</td>
-    <td><a href="/sources/#BB">BB</a></td>
-    </tr>
-</table>
+      <tr>
+	<td><a href="../types/#Type4C">Type 4C</a></td>
+	<td><a href="../sizes.shtml#standard">Standard</a></td>
+	<td>&nbsp;</td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
+      
+    </table>
 
-<!--#include virtual="../pattern-nav-block.ssi" -->
+    <!--#include virtual="../pattern-nav-block.ssi" -->
 
-<p>
-This page was last modified on
-<!--#echo var="LAST_MODIFIED"-->
-.<br />
-<!--#include virtual="/copyright.ssi" -->
-</p>
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
 
-</body>
+  </body>
 </html>

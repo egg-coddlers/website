@@ -1,89 +1,110 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-<title>
-    Pattern UM03-UNK05 (Plain White)
-</title>
-</head>
-<body bgcolor="white">
-
-<a name="Top">
-<h1>
-    Pattern UM03-UNK05 (Plain White)
-</h1>
-
-    These coddlers are double-sized convex coddlers with no pedestal
-    and have corrugated sides.  The shape is the same as coddlers made
-    by
-    <a href="/HouseOfPrill/">House of Prill</a>
-    but they have no backstamp.  The pattern
-    is a plain white glaze.
-
-    <p>
-    Some of these coddlers have a removable sticker marked <b>Lillian
-    Vernon 1981 Japan</b>.  Example 3, shown below, was found with the
-    original box that was labelled <b>Lillian Vernon</b>.
-
-    <p>
-    Another example had a clear sticker on the bottom marked
-    <b>Distributed by: Distribue Par</b>,
-    <b>INNOVATION</b>,
-    <b>North Vancouver B. C. V7P185</b>,
-    and  <b>JAPAN</b>
-<p>
-    Yet another example had a sticker marked <b>ROWOCO</b>.  This was
-    probably sold by
-    <a href="http://www.rowoco.com/">Rowoco</a>.
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>Pattern UM03-UNK05 (Plain White)</title>
+  </head>
+  
+  <body bgcolor="white">
+    <a name="Top"></a>
     
-<p>
+    <h1>Pattern UM03-UNK05 (Plain White)</h1>
 
-<table align="center">
-<tr>
-    <td><a href="UM03-UNK05-01-b.jpg">
+    <p>
+      These coddlers are double-sized convex coddlers with no pedestal
+      and have corrugated sides.  The shape is the same as coddlers made
+      by <a href="/HouseOfPrill/">House of Prill</a> but they have no
+      backstamp.  The pattern is a plain white glaze.
+    </p>
+
+    <p>
+      Some of these coddlers have a removable sticker
+      marked <b>Lillian Vernon 1981 Japan</b>.  Example 3, shown
+      below, was found with the original box that was
+      labeled <b>Lillian Vernon</b>.
+    </p>
+    
+    <p>
+      Another example had a clear sticker on the bottom marked
+      <b>Distributed by: Distribue Par</b>,
+      <b>INNOVATION</b>,
+      <b>North Vancouver B. C. V7P185</b>,
+      and  <b>JAPAN</b>
+    </p>
+    
+    <p>
+      Yet another example had a sticker marked <b>ROWOCO</b>.  This was
+      probably sold by
+      <a href="https://web.archive.org/web/20000301214535/http://rowoco.com/">Rowoco</a>
+    </p>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="UM03-UNK05-01-b.jpg">
             <img src="UM03-UNK05-01-b.jpg" height="250"
-	        alt="UM03-UNK05"></a>
-</tr>
-<tr>
-    <th>Pattern UM03-UNK05 - Example 1
-</tr>
-</table>
+	         alt="UM03-UNK05"></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th>Pattern UM03-UNK05 - Example 1</th>
+      </tr>
+    </table>
 
-<p>
-<table align="center">
-<tr>
-    <td><a href="UM03-UNK05-02.jpg">
-            <img src="UM03-UNK05-02.jpg"
-	        height="250" alt="UM03-UNK05"></a>
-</tr>
-<tr>
-    <th>Pattern UM03-UNK05 - Example 2
-</tr>
-</table>
-
-<p>
-<table align="center">
-<tr>
-    <td><a href="UM03-UNK05-03-a.jpg">
-            <img src="UM03-UNK05-03-a.jpg"
-	        height="250" alt="UM03-UNK05"></a>
-</tr>
-<tr>
-    <th>Pattern UM03-UNK05 - Example 3, With Lillian Vernon Box
-</tr>
-</table>
-
-<p>
-<table align="center">
-<tr>
-    <td><a href="rowoco-bs.jpg">
-            <img src="rowoco-bs.jpg"
-	        height="200" alt="Rowoco Sticker"></a>
-</tr>
-</table>
+    <br />
     
-<p>    		
-<!--#include virtual="../../../manu-nav-block.ssi" -->
-</body>
+    <table align="center">
+      <tr>
+	<td><a href="UM03-UNK05-02.jpg">
+            <img src="UM03-UNK05-02.jpg"
+	         height="250" alt="UM03-UNK05"></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th>Pattern UM03-UNK05 - Example 2</th>
+      </tr>
+    </table>
+
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="UM03-UNK05-03-a.jpg">
+            <img src="UM03-UNK05-03-a.jpg"
+	         height="250" alt="UM03-UNK05"></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th>Pattern UM03-UNK05 - Example 3, With Lillian Vernon Box</th>
+      </tr>
+    </table>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="rowoco-bs.jpg">
+            <img src="rowoco-bs.jpg"
+	         height="200" alt="Rowoco Sticker"></a>
+	</td>
+      </tr>
+    </table>
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
 </html>
 
 

@@ -1,6 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
 <html>
-  <!-- @(#) $Id$ -->
   <head>
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <meta name="google-site-verification"
@@ -109,16 +108,6 @@
 
       <br />
 
-      <li><a href="where-to-buy.shtml">
-	  Where to Buy Egg Coddlers</a>
-	<ul>
-	  A list of locations online that sell new egg
-	  coddlers at retail. 
-	</ul>
-      </li>
-
-      <br />
-      
       <li><a href="/recipes/">
 	  Coddler Recipes,  Cooking, and Handling Tips</a>
 	<ul>

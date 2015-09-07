@@ -1,23 +1,18 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-    <link rel="stylesheet" href="../adams.css" type="text/css" />
-    <title>
-      Adams - Tower Pattern - Brown
-    </title>
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>Adams - Tower Pattern - Brown</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Adams - Tower Pattern - Brown
-    </h1>
+    <h1>Adams - Tower Pattern - Brown</h1>
 
     <p>
-      This is the classic Adams Tower pattern - in Brown
+      This is the classic Adams Tower pattern - in Brown.
     </p>
 
     <p>
@@ -44,6 +39,7 @@
       <tr>
 	<th colspan="2">Tower Brown</th>
       </tr>
+      
     </table>
 
     <br />

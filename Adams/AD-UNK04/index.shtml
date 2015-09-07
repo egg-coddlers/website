@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <meta http-equiv="Refresh"
+      content="30; url=/Adams/spring/" />
+    <title>Pattern AD-UNK04 is Named Spring</title>
+  </head>
+  
+  <body bgcolor="white">
+    <a name="Top"></a>
+
+    <h1>
+      Pattern AD-UNK04 is Named Spring
+    </h1>
+
+    <p>
+      The editors have determined that the pattern previously
+      identified on this site as AD-UNK04 is named
+      <a href="../spring/">Spring</a>.
+    </p>
+    
+    <p>    
+      Your web browser will redirect you to that page in thirty
+      seconds, or <a href="../spring/">click on this link to go there
+      now</a>.
+    </p>
+
+    <br />
+    
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+
+
+

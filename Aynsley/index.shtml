@@ -1,31 +1,26 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    
-    <!-- @(#) $Id$ -->    
-
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="manufacturer.css" type="text/css" />
-    
-    <title>
-      Aynsley Egg Coddlers
-    </title>
+    <title>Aynsley Egg Coddlers</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Aynsley Egg Coddlers
-    </h1>
+    
+    <h1>Aynsley Egg Coddlers</h1>
  
     <ul>
-      "Aynsley coddlers are convex with a pedestal.  They are made in England
-      and only come in the double size.  The name of the design is part of
-      the backstamp. There are two variations of the ring on the lid.
-      One is flat and the other is round.  There are also minor
-      variations with the wording and font of the backstamps."
-      -- &nbsp;&nbsp;&nbsp;
-      <a href="/sources/#BB">BB</a>
+      <p>
+	"Aynsley coddlers are convex with a pedestal.  They are made in England
+	and only come in the double size.  The name of the design is part of
+	the backstamp. There are two variations of the ring on the lid.
+	One is flat and the other is round.  There are also minor
+	variations with the wording and font of the backstamps."
+	-- &nbsp;&nbsp;&nbsp;
+	<a href="/sources/#BB">BB</a>
+      </p>
     </ul>
 
     <p>
@@ -38,9 +33,12 @@
       Some Aynsley coddlers come with a sticker attached, shown below:
     </p>
 
+    <br />
+    
     <table align="center">
       <tr>
-	<td><a href="aynsley-sticker.jpg">
+	<td>
+	  <a href="aynsley-sticker.jpg">
             <img src="aynsley-sticker.jpg" alt="Aynsley Sticker"></a>
 	</td>
       </tr>
@@ -132,7 +130,6 @@
 	  </td>
       </tr>
 
-
     </table>
 
     <br />
@@ -145,7 +142,6 @@
       .<br />
       <!--#include virtual="/copyright.ssi" -->
     </p>
-
 
   </body>
 </html>

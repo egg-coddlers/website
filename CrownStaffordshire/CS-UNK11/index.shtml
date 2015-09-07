@@ -1,0 +1,60 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <title>
+      Crown Staffordshire - CS-UNK11 (Small roses on vine)
+    </title>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+  </head>
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+
+    <h1>
+      Crown Staffordshire - CS-UNK11 (Small roses on vine)
+    </h1>
+
+    <p>
+      This pattern consists of a bunch of small roses on a vine.
+    </p>
+
+    <p>
+      Pictures to be added soon.
+    </p>
+
+    <br />
+
+    <table border width="100%">
+      <caption>
+	Known Variations Matrix (CS-UNK11)
+      </caption>
+      <tr>
+	<th width="20%"><a href="../#Lids">Lid</a></th>
+	<th width="20%"><a href="../#LiftingRings">Lifting Ring</a></th>
+	<th width="30%">Size/Notes</th>
+	<th width="11%">Source</th>
+      </tr>
+
+      <tr>
+	<td>Unknown</td>
+	<td>Unknown</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+      </tr>
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+

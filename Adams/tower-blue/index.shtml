@@ -1,51 +1,55 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-<title>
-  Adams - Tower Pattern - Blue
-</title>
-</head>
-<body bgcolor="white">
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>Adams - Tower Pattern - Blue</title>
+  </head>
+  
+  <body bgcolor="white">
+    <a name="Top"></a>
 
-<a name="Top"></a>
+    <h1>Adams - Tower Pattern - Blue</h1>
 
-<h1>
-  Adams - Tower Pattern - Blue
-</h1>
+    <p>
+      This is the classic Adams Tower pattern - in blue.
+    </p>
 
-<p>
-  This is the classic Adams Tower pattern - in blue.
-</p>
+    <p>
+      We've seen this coddler only with an Adams
+      <a href="../#Type2">Type 2</a>
+      backstamp.
+    </p>
 
-<p>
-  We've seen this coddler only with an Adams
-  <a href="../#Type2">Type 2</a>
-  backstamp.
-</p>
+    <p>
+      Both the single size (approx. 3&frac12;" tall) and the double size
+      (approx. 4" tall) are known.
+    </p>
 
-<p>
-  Both the single size (approx. 3&frac12;" tall) and the double size
-  (approx. 4" tall) are known.
-  </p>
+    <br />
 
-<br />
+    <table align="center">
+      <tr>
+	<td><a href="tower-blue-01.jpg">
+            <img src="tower-blue-01_250px.jpg" alt="Adams Tower - Blue"></a>
+	</td>
+      </tr>
 
-<table align="center">
-  <tr>
-    <td><a href="tower-blue-1.jpg">
-        <img src="tower-blue-1.jpg"
-	     height="200" alt="Adams Tower - Blue"></a>
-      </td>
-  </tr>
+      <tr>
+	<th>Pattern Adams Tower blue</th>
+      </tr>
+    </table>
 
-  <tr>
-    <th colspan="2">Pattern Adams Tower blue
-  </tr>
-</table>
+    <br />
 
-<br />
+    <!--#include virtual="../pattern-nav-block.ssi" -->
 
-<!--#include virtual="../pattern-nav-block.ssi" -->
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
 
-</body>
+  </body>
 </html>

@@ -1,19 +1,14 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-    <title>
-      Unknown Manufacturer - UM03 (Similar to House of Prill)
-    </title>
+    <title>Unknown Manufacturer - UM03 (Similar to House of Prill)</title>
   </head>
 
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Unknown Manufacturer - UM03 (Similar to House of Prill)
-    </h1>
+    
+    <h1>Unknown Manufacturer - UM03 (Similar to House of Prill)</h1>
 
     <p>
       These egg coddlers have corrugated sides.  They are the same
@@ -31,302 +26,318 @@
       <a href="/Windsor/">Windsor</a>, and also
       <a href="/AA-UncertainManu/UM72/">Unknown Manufacturer: UM72</a>.
     </p>
+
+    <br />
     
     <a name="Patterns"></a>
     <h2>Patterns</h2>
 
-    <p>
-      <table border width="100%">
-	<tr>
-	  <th width="20%">Pattern Name</th>
-	  <th width="25%">Description of Pattern</th>
-	  <th width="55%">Image</th>
-	</tr>
+    <br />
+    <table border width="100%">
+      <tr>
+	<th width="20%">Pattern Name</th>
+	<th width="25%">Description of Pattern</th>
+	<th width="55%">Image</th>
+      </tr>
 
-	<!-- Pattern UM03-UNK01 has been moved to UM72 -->
-	<!-- Pattern UM03-UNK12 has been moved to UM72 -->
-	<!-- Pattern UM03-UNK14 is Windsor Mouseykins -->
-	<!-- Pattern UM03-UNK15 has been moved to UM72 -->
-	<!-- Pattern UM03-UNK23 has been moved to UM72 -->
+      <!-- Pattern UM03-UNK01 has been moved to UM72 -->
+      <!-- Pattern UM03-UNK12 has been moved to UM72 -->
+      <!-- Pattern UM03-UNK14 is Windsor Mouseykins -->
+      <!-- Pattern UM03-UNK15 has been moved to UM72 -->
+      <!-- Pattern UM03-UNK23 has been moved to UM72 -->
 
-	<tr>
-	  <th><a href="UM03-UNK11">UM03-UNK11</a></th>
-	  <td>Red flowers on stalks with a butterfly.
-            <i><a href="UM03-UNK11">[Details]</a></i>
-	  </td>
-	  <td><a href="UM03-UNK11">
-	      <img src="UM03-UNK11/UM03-UNK11-pat-1.jpg"
-	           height="150" alt="UM03-UNK11"></a>
-	  </td>
-	</tr>
+      <tr>
+	<th><a href="UM03-UNK11">UM03-UNK11</a></th>
+	<td>Red flowers on stalks with a butterfly.
+          <i><a href="UM03-UNK11">[Details]</a></i>
+	</td>
+	<td><a href="UM03-UNK11">
+	    <img src="UM03-UNK11/UM03-UNK11-pat-1.jpg"
+	         height="150" alt="UM03-UNK11"></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK02">UM03-UNK02</a></th>
+	<td>Pastel roses.
+	  <i><a href="UM03-UNK02">[Details]</a></i>
+	</td>
+	<td><a href="UM03-UNK02">
+	    <img src="UM03-UNK02/UM03-UNK02-pat-1.jpg"
+		 height="150" alt="UM03-UNK02"></a>
+	</td>		
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK04">UM03-UNK04</a></th>
+	<td>Two rows of tiny flowers.
+          <i><a href="UM03-UNK04">[Details]</a></i>
+	</td>
+	<td><a href="UM03-UNK04">
+            <img src="UM03-UNK04/UM03-UNK04-pat-1.jpg"
+		 height="150" alt="UM03-UNK04"></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK05">UM03-UNK05</a></th>
+	<td>Plain white.
+          <i><a href="UM03-UNK05">[Details]</a></i>
+        </td>
+	<td><a href="UM03-UNK05">
+            <img src="UM03-UNK05/UM03-UNK05-pat-1.jpg"
+	         height="150" alt="UM03-UNK05"></a>
+        </td>
+      </tr>
 
-	<tr>
-	  <th><a href="UM03-UNK02">UM03-UNK02</a></th>
-	  <td>Pastel roses.
-	    <i><a href="UM03-UNK02">[Details]</a></i>
-	  </td>
-	  <td><a href="UM03-UNK02">
-	      <img src="UM03-UNK02/UM03-UNK02-pat-1.jpg"
-		   height="150" alt="UM03-UNK02"></a>
-	  </td>		
-	</tr>
+      <tr>
+	<th><a href="UM03-UNK06">UM03-UNK06</a></th>
+	<td>Two apples, a pear, two plums, and two cherries.
+          <i><a href="UM03-UNK06">[Details]</a></i>
+	</td>
+	<td><a href="UM03-UNK06">
+            <img src="UM03-UNK06/UM03-UNK06-pat-1.jpg"
+	         height="150" alt="UM03-UNK06"></a>
+	  <a href="UM03-UNK06">
+	    <img src="UM03-UNK06/UM03-UNK06-pat-2.jpg"
+		 height="150" alt="UM03-UNK06"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK08">UM03-UNK08</a></th>
+	<td>Floral Spray
+          <i><a href="UM03-UNK08">[Details]</a></i>
+	</td>
+	<td><a href="UM03-UNK08">
+            <img src="UM03-UNK08/UM03-UNK08-pat-1.jpg"
+		 height="150" alt="UM03-UNK08"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK03">UM03-UNK03</a></th>
+	<td>Two birds.
+          <i><a href="UM03-UNK03">[Details]</a></i>
+        </td>
+	<td><a href="UM03-UNK03">
+            <img src="UM03-UNK03/UM03-UNK03-pat-1.jpg"
+		 height="150" alt="UM03-UNK03"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK07">UM03-UNK07</a></th>
+	<td>Two birds.
+          <i><a href="UM03-UNK07">[Details]</a></i>
+	</td>
+	<td><a href="UM03-UNK07">
+            <img src="UM03-UNK07/UM03-UNK07-pat-1.jpg"
+		 height="150" alt="UM03-UNK07"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK09">UM03-UNK09</a></th>
+	<td>Two birds.
+          <i><a href="UM03-UNK09">[Details]</a></i>
+        </td>
+	<td><a href="UM03-UNK09">
+            <img src="UM03-UNK09/UM03-UNK09-pat-1.jpg"
+		 height="150" alt="UM03-UNK09"></a>
+        </td>
+      </tr>
 
-	<tr>
-	  <th><a href="UM03-UNK04">UM03-UNK04</a></th>
-	  <td>Two rows of tiny flowers.
-            <i><a href="UM03-UNK04">[Details]</a></i>
-	  </td>
-	  <td><a href="UM03-UNK04">
-              <img src="UM03-UNK04/UM03-UNK04-pat-1.jpg"
-		   height="150" alt="UM03-UNK04"></a>
-	  </td>
-	</tr>
+      <tr>
+	<th><a href="UM03-UNK10">UM03-UNK10</a></th>
+	<td>Two birds.
+          <i><a href="UM03-UNK10">[Details]</a></i>
+        </td>
+	<td><a href="UM03-UNK10">
+            <img src="UM03-UNK10/UM03-UNK10-pat-1.jpg"
+		 height="150" alt="UM03-UNK10"></a>
+        </td>
+      </tr>
 
-	<tr>
-	  <th><a href="UM03-UNK05">UM03-UNK05</a></th>
-	  <td>Plain white.
-            <i><a href="UM03-UNK05">[Details]</a></i>
-          </td>
-	  <td><a href="UM03-UNK05">
-              <img src="UM03-UNK05/UM03-UNK05-pat-1.jpg"
-	           height="150" alt="UM03-UNK05"></a>
-          </td>
-	</tr>
+      <tr>
+	<th><a href="UM03-UNK13">UM03-UNK13</a></th>
+	<td>Two birds.
+          <i><a href="UM03-UNK13">[Details]</a></i>
+	</td>
+	<td><a href="UM03-UNK13">
+            <img src="UM03-UNK13/UM03-UNK13-pat-1.jpg"
+	         height="150" alt="UM03-UNK13"></a>
+        </td>		
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK16">UM03-UNK16</a></th>
+	<td>Blue Chintz
+          <i><a href="UM03-UNK16">[Details]</a></i>
+	</td>
+	<td><a href="UM03-UNK16">
+            <img src="UM03-UNK16/UM03-UNK16-pat-1.jpg"
+		 height="150"   alt="UM03-UNK16"></a>
+        </td>		
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK18">UM03-UNK18</a></th>
+	<td>Delicate Blue Flowers
+          <i><a href="UM03-UNK18">[Details]</a></i>
+        </td>
+	<td><a href="UM03-UNK18">
+            <img src="UM03-UNK18/UM03-UNK18-pat-1.jpg"
+		 height="150"   alt="UM03-UNK18"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK19">UM03-UNK19</a></th>
+	<td>Bunch of blue flowers with red ribbon
+          <i><a href="UM03-UNK19">[Details]</a></i>
+        </td>
+	<td><a href="UM03-UNK19">
+            <img src="UM03-UNK19/UM03-UNK19-pat-1.jpg"
+		 height="150"   alt="UM03-UNK19"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK21">UM03-UNK21</a></th>
+	<td>Anthyllis montana
+          <i><a href="UM03-UNK21">[Details]</a></i>
+        </td>
+	<td><a href="UM03-UNK21">
+            <img src="UM03-UNK21/UM03-UNK21-pat-1.jpg"
+		 height="150"   alt="UM03-UNK21"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK22">UM03-UNK22</a></th>
+	<td>Lotus corniculatus
+          <i><a href="UM03-UNK22">[Details]</a></i>
+        </td>
+	<td><a href="UM03-UNK22">
+            <img src="UM03-UNK22/UM03-UNK22-pat-1.jpg"
+		 height="150"   alt="UM03-UNK22"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK17">UM03-UNK17</a></th>
+	<td>Oxalis acetosella
+          <i><a href="UM03-UNK17">[Details]</a></i>
+        </td>
+	<td><a href="UM03-UNK17">
+            <img src="UM03-UNK17/UM03-UNK17-pat-1.jpg"
+		 height="150" alt="UM03-UNK17"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK20">UM03-UNK20</a></th>
+	<td>Vaccinium vitas-idaea
+          <i><a href="UM03-UNK20">[Details]</a></i>
+        </td>
+	<td><a href="UM03-UNK20">
+            <img src="UM03-UNK20/UM03-UNK20-pat-1.jpg"
+		 height="150"   alt="UM03-UNK20"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK24">UM03-UNK24</a></th>
+	<td>Multicoloured flowers - dominated by a red cabbage rose
+          <i><a href="UM03-UNK24">[Details]</a></i>
+        </td>
+	<td><a href="UM03-UNK24">
+            <img src="UM03-UNK24/UM03-UNK24-pat-1.jpg" alt="UM03-UNK24"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK25">UM03-UNK25</a></th>
+	<td>Blue Flowers
+          <i><a href="UM03-UNK25">[Details]</a></i>
+        </td>
+	<td>Picture to be added soon.
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK26">UM03-UNK26</a></th>
+	<td>Campanula puscilla - Canterbury Bells
+          <i><a href="UM03-UNK26">[Details]</a></i>
+        </td>
+	<td><a href="UM03-UNK26">
+            <img src="UM03-UNK26/UM03-UNK26-pat-1.jpg" alt="UM03-UNK26"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK27">UM03-UNK27</a></th>
+	<td>Viola odorata
+          <i><a href="UM03-UNK27">[Details]</a></i>
+        </td>
+	<td><a href="UM03-UNK27">
+            <img src="UM03-UNK27/UM03-UNK27-pat-1.jpg" alt="UM03-UNK27"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK28">UM03-UNK28</a></th>
+	<td>Pair of Birds,  one Red & Blue, the other Orange & Blue
+          <i><a href="UM03-UNK28">[Details]</a></i>
+        </td>
+	<td>Picture to be added soon.
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK29">UM03-UNK29</a></th>
+	<td>Red Flowers - chintz-like - similar to
+	  <a href="/AA-UncertainManu/UM48/">UM48</a>
+          <i><a href="UM03-UNK29">[Details]</a></i>
+        </td>
+	<td><a href="UM03-UNK29">
+            <img src="UM03-UNK29/UM03-UNK29-pat-1.jpg" alt="UM03-UNK29"></a>
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK30">UM03-UNK30</a></th>
+	<td>White and Blue Flowers
+          <i><a href="UM03-UNK30">[Details]</a></i>
+        </td>
+	<td>Picture to be added soon.
+        </td>
+      </tr>
+      
+      <tr>
+	<th><a href="UM03-UNK31">UM03-UNK31</a></th>
+	<td>Small Blue Flowers
+	  <i><a href="UM03-UNK31">[Details]</a></i>
+	</td>
+	<td>Picture to be added soon.
+	</td>
+      </tr>
 
-	<tr>
-	  <th><a href="UM03-UNK06">UM03-UNK06</a></th>
-	  <td>Two apples, a pear, two plums, and two cherries.
-            <i><a href="UM03-UNK06">[Details]</a></i>
-	  </td>
-	  <td><a href="UM03-UNK06">
-              <img src="UM03-UNK06/UM03-UNK06-pat-1.jpg"
-	           height="150 alt="UM03-UNK06"></a>
-					       <a href="UM03-UNK06">
-						 <img src="UM03-UNK06/UM03-UNK06-pat-2.jpg"
-						      height="150" alt="UM03-UNK06"></a>
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK08">UM03-UNK08</a></th>
-	  <td>Floral Spray
-            <i><a href="UM03-UNK08">[Details]</a></i>
-	  </td>
-	  <td><a href="UM03-UNK08">
-              <img src="UM03-UNK08/UM03-UNK08-pat-1.jpg"
-		   height="150" alt="UM03-UNK08"></a>
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK03">UM03-UNK03</a></th>
-	  <td>Two birds.
-            <i><a href="UM03-UNK03">[Details]</a></i>
-          </td>
-	  <td><a href="UM03-UNK03">
-              <img src="UM03-UNK03/UM03-UNK03-pat-1.jpg"
-		   height="150" alt="UM03-UNK03"></a>
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK07">UM03-UNK07</a></th>
-	  <td>Two birds.
-            <i><a href="UM03-UNK07">[Details]</a></i>
-	  </td>
-	  <td><a href="UM03-UNK07">
-              <img src="UM03-UNK07/UM03-UNK07-pat-1.jpg"
-		   height="150" alt="UM03-UNK07"></a>
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK09">UM03-UNK09</a></th>
-	  <td>Two birds.
-            <i><a href="UM03-UNK09">[Details]</a></i>
-          </td>
-	  <td><a href="UM03-UNK09">
-              <img src="UM03-UNK09/UM03-UNK09-pat-1.jpg"
-		   height="150" alt="UM03-UNK09"></a>
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK10">UM03-UNK10</a></th>
-	  <td>Two birds.
-            <i><a href="UM03-UNK10">[Details]</a></i>
-          </td>
-	  <td><a href="UM03-UNK10">
-              <img src="UM03-UNK10/UM03-UNK10-pat-1.jpg"
-		   height="150" alt="UM03-UNK10"></a>
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK13">UM03-UNK13</a></th>
-	  <td>Two birds.
-            <i><a href="UM03-UNK13">[Details]</a></i>
-	  </td>
-	  <td><a href="UM03-UNK13">
-              <img src="UM03-UNK13/UM03-UNK13-pat-1.jpg"
-	           height="150" alt="UM03-UNK13"></a>
-          </td>		
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK16">UM03-UNK16</a></th>
-	  <td>Blue Chintz
-            <i><a href="UM03-UNK16">[Details]</a></i>
-	  </td>
-	  <td><a href="UM03-UNK16">
-              <img src="UM03-UNK16/UM03-UNK16-pat-1.jpg"
-		   height="150"   alt="UM03-UNK16"></a>
-          </td>		
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK18">UM03-UNK18</a></th>
-	  <td>Delicate Blue Flowers
-            <i><a href="UM03-UNK18">[Details]</a></i>
-          </td>
-	  <td><a href="UM03-UNK18">
-              <img src="UM03-UNK18/UM03-UNK18-pat-1.jpg"
-		   height="150"   alt="UM03-UNK18"></a>
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK19">UM03-UNK19</a></th>
-	  <td>Bunch of blue flowers with red ribbon
-            <i><a href="UM03-UNK19">[Details]</a></i>
-          </td>
-	  <td><a href="UM03-UNK19">
-              <img src="UM03-UNK19/UM03-UNK19-pat-1.jpg"
-		   height="150"   alt="UM03-UNK19"></a>
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK21">UM03-UNK21</a></th>
-	  <td>Anthyllis montana
-            <i><a href="UM03-UNK21">[Details]</a></i>
-          </td>
-	  <td><a href="UM03-UNK21">
-              <img src="UM03-UNK21/UM03-UNK21-pat-1.jpg"
-		   height="150"   alt="UM03-UNK21"></a>
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK22">UM03-UNK22</a></th>
-	  <td>Lotus corniculatus
-            <i><a href="UM03-UNK22">[Details]</a></i>
-          </td>
-	  <td><a href="UM03-UNK22">
-              <img src="UM03-UNK22/UM03-UNK22-pat-1.jpg"
-		   height="150"   alt="UM03-UNK22"></a>
-          </td>
-	</tr>
+      <tr>
+	<th><a href="UM03-UNK32">UM03-UNK32</a></th>
+	<td>Orange-red Dahlias
+	  <i><a href="UM03-UNK32">[Details]</a></i>
+	<td><a href="UM03-UNK29">
+            <img src="UM03-UNK32/UM03-UNK32-pat-1.jpg" alt="UM03-UNK32"></a>
+        </td>
+      </tr>
 	
-	<tr>
-	  <th><a href="UM03-UNK17">UM03-UNK17</a></th>
-	  <td>Oxalis acetosella
-            <i><a href="UM03-UNK17">[Details]</a></i>
-          </td>
-	  <td><a href="UM03-UNK17">
-              <img src="UM03-UNK17/UM03-UNK17-pat-1.jpg"
-		   height="150" alt="UM03-UNK17"></a>
-          </td>
-	</tr>
+    </table>
 
-	<tr>
-	  <th><a href="UM03-UNK20">UM03-UNK20</a></th>
-	  <td>Vaccinium vitas-idaea
-            <i><a href="UM03-UNK20">[Details]</a></i>
-          </td>
-	  <td><a href="UM03-UNK20">
-              <img src="UM03-UNK20/UM03-UNK20-pat-1.jpg"
-		   height="150"   alt="UM03-UNK20"></a>
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK24">UM03-UNK24</a></th>
-	  <td>Multicoloured flowers - dominated by a red cabbage rose
-            <i><a href="UM03-UNK24">[Details]</a></i>
-          </td>
-	  <td>Picture to be added soon.
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK25">UM03-UNK25</a></th>
-	  <td>Blue Flowers
-            <i><a href="UM03-UNK25">[Details]</a></i>
-          </td>
-	  <td>Picture to be added soon.
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK26">UM03-UNK26</a></th>
-	  <td>Campanula puscilla - Canterbury Bells
-            <i><a href="UM03-UNK26">[Details]</a></i>
-          </td>
-	  <td>Picture to be added soon.
-          </td>
-	</tr>
-
-
-	<tr>
-	  <th><a href="UM03-UNK27">UM03-UNK27</a></th>
-	  <td>Viola odorata
-            <i><a href="UM03-UNK27">[Details]</a></i>
-          </td>
-	  <td>Picture to be added soon.
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK28">UM03-UNK28</a></th>
-	  <td>Pair of Birds,  one Red & Blue, the other Orange & Blue
-            <i><a href="UM03-UNK28">[Details]</a></i>
-          </td>
-	  <td>Picture to be added soon.
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK29">UM03-UNK29</a></th>
-	  <td>Red Flowers - chintz-like - similar to
-	    <a href="/AA-UncertainManu/UM48/">UM48</a>
-            <i><a href="UM03-UNK29">[Details]</a></i>
-          </td>
-	  <td>Picture to be added soon.
-          </td>
-	</tr>
-
-	<tr>
-	  <th><a href="UM03-UNK30">UM03-UNK30</a></th>
-	  <td>White and Blue Flowers
-            <i><a href="UM03-UNK30">[Details]</a></i>
-          </td>
-	  <td>Picture to be added soon.
-          </td>
-	</tr>
-	
-	<tr>
-	  <th><a href="UM03-UNK31">UM03-UNK31</a></th>
-	  <td>Small Blue Flowers
-	    <i><a href="UM03-UNK31">[Details]</a></i>
-	  </td>
-	  <td>Picture to be added soon.
-	  </td>
-	</tr>
-	
-      </table>
-
-      <!--#include virtual="/manu-nav-block.ssi" -->
+    <br />
+    
+    <!--#include virtual="/manu-nav-block.ssi" -->
 
     <p>
       This page was last modified on

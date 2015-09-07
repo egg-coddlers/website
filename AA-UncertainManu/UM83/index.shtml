@@ -1,26 +1,17 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    
-    <!-- @(#) $Id$ -->
-
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-    
     <meta name="description"
 	  content="Egg coddler, double-sized, small blue, yellow and
 	  red tulips." />
-
-    <title>
-      Unknown Manufacturer - UM83 (Small Blue, Yellow and Red Tulips)
-    </title>
-
+    <title>Unknown Manufacturer - UM83 (Small Blue, Yellow and Red Tulips)</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Unknown Manufacturer - UM83 (Small Blue, Yellow and Red Tulips)      
-    </h1>
+    
+    <h1>Unknown Manufacturer - UM83 (Small Blue, Yellow and Red Tulips)</h1>
 
     <p>
       These are double-sized egg coddlers. The pattern is of small
@@ -31,7 +22,7 @@
     
     <h2>UM83-UNK01</h2>
 
-    <table align="center" width="60%">
+    <table align="center">
       <tr>
 	<td>
 	  <a href="UM83-UNK01-01.jpg">
@@ -39,6 +30,11 @@
 		 height="250" alt="UM83-UNK01"></a>
 	</td>
       </tr>
+
+      <tr>
+	<th>Pattern UM83-UNK01</th>
+      </tr>
+      
     </table>
 
     <br />

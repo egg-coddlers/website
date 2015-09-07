@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <title>Unknown Manufacturer - UM86</title>
+  </head>
+  
+  <body bgcolor="white">
+    <a name="Top"></a>
+    <h1>Unknown Manufacturer - UM86</h1>
+
+    <p>
+      Single size egg coddler with a nautical theme: an anchor, a
+      lifebelt, an inscription in French: <b>IL ETAIT UN PETIT
+      NAVIRE</b>. This inscription is the name of a
+      <a href="https://en.wikipedia.org/wiki/Il_%C3%A9tait_un_petit_navire">traditional French song</a>. 
+      </p>
+
+    <p>
+      This coddler looks and feels exactly like
+      a <a href="/RoyalWorcester">Royal Worcester</a> standard size
+      coddler, but has no backstamp. It may well have been a special release
+      from Royal Worcester. 
+    </p>
+
+    <br />
+    
+    <table align="center" width="50%">
+      <tr>
+	<td>
+	  <a href="UM86-UNK01-01-a.jpg">
+            <img src="UM86-UNK01-01-a_250px.jpg" alt="UM86-UNK01"></a>
+	</td>
+	<td>
+	  <a href="UM86-UNK01-01-b.jpg">
+            <img src="UM86-UNK01-01-b_250px.jpg" alt="UM86-UNK01"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th colspan="2">Pattern UM86-UNK01</th>
+      </tr>
+    </table>    
+
+    <!--#include virtual="../../manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
+</html>
+
+

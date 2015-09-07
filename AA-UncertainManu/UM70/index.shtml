@@ -1,21 +1,16 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <meta name="description"
 	  content="Very small egg coddler decorated with red roses." />
-    <title>
-      UM70 - Very Small Coddler - Red Roses
-    </title>
+    <title>UM70 - Very Small Coddler - Red Roses</title>
   </head>
 
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      UM70 - Very Small Coddler - Red Roses
-    </h1>
+    
+    <h1>UM70 - Very Small Coddler - Red Roses</h1>
 
     <p>
       These coddlers are just 2.1/2" tall - to the top of the ring -
@@ -30,13 +25,16 @@
 
     <h2>UM70-UNK01</h2>
 
-    <table align="center" width="60%">
+    <table align="center">
       <tr>
 	<td>
 	  <a href="UM70-UNK01-a.jpg">
-            <img src="UM70-UNK01-a.jpg"
-		 height="250" alt="UM70-UNK01"></a>
+            <img src="UM70-UNK01-a.jpg" alt="UM70-UNK01"></a>
 	</td>
+      </tr>
+
+      <tr>
+	<th>UM70-UNK01</th>
       </tr>
     </table>
 

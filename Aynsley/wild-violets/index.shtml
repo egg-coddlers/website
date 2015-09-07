@@ -1,33 +1,26 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->    
-
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-
-    <title>
-      Aynsley - Wild Violets Pattern
-    </title>
+    <title>Aynsley - Wild Violets Pattern</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Aynsley - Wild Violets Pattern
-    </h1>
+    <h1>Aynsley - Wild Violets Pattern</h1>
 
     <table align="center">
       <tr>
 	<td><a href="wild-violets-01.jpg">
-	    <img src="wild-violets-01.jpg"
-		 height="250" alt="Wild Violets"></a>
+	    <img src="wild-violets-01_250px.jpg" alt="Wild Violets"></a>
       </tr>
 
       <tr>
 	<th>Aynsley Wild Violets Pattern</th>
       </tr>
+      
     </table>
 
     <br />

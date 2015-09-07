@@ -1,43 +1,40 @@
 <!-- BEGIN INCLUDE /manu-nav-block.ssi -->
 <!-- Updated 2015-03-23 -->
-<! --------- Navigation Block - Top-Level Pages ---------->
-<p><hr width="100%"></p>
+
+<p>
+  <hr width="100%">
+</p>
+
 <center>
-<table border width="95%">
-<caption>
-<h4>Egg-Coddlers.COM Navigation Bar</h4></caption>
-<tr>
-<th width=20%"><a href="/">Front Page / Index</a></th>
-<th width=60%" colspan="3" align="center">
-<!-- The JavaScript Libraries are loaded in /copyright.ssi -->
-Search Egg-Coddlers.COM:
-<gcse:searchbox-only></gcse:searchbox-only>
-</th>
-<th width=20%"><a href="">Top of This Page</a></th>
-</tr>
+  <table border width="95%">
+    <caption>
+      <h4>Egg-Coddlers.COM Navigation Bar</h4>
+    </caption>
+    
+    <tr>
+      <th width="20%"><a href="/">Front Page / Index</a></th>
+      <th width="60%" colspan="3" align="center">
+	<!-- The JavaScript Libraries are loaded in /copyright.ssi -->
+	Search Egg-Coddlers.COM:
+	<gcse:searchbox-only></gcse:searchbox-only>
+      </th>
+      <th width="20%"><a href="">Top of This Page</a></th>
+    </tr>
 
-<tr>
-<th><a href="/manufacturers.shtml">
-Catalog by Manufacturer</a>
-</th>
-<th width="20%"><a href="/pattern-xref.shtml">
-Catalog by Pattern</a>
-</th>
-
-<th width="20%"><a href="/faq.shtml">
-Frequently Asked Questions</a>
-</th>
-
-<th width="20%"><a href="/whats-new.shtml">
-What's New Here?</a>
-
-<th width="20%"><a href="/guestbook.shtml">
-Guestbook</a>
-</th>
-</tr>
-</table>
+    <tr>
+      <th><a href="/manufacturers.shtml">Catalog by Manufacturer</a></th>
+      <th width="20%"><a href="/pattern-xref.shtml">Catalog by Pattern</a></th>
+      <th width="20%"><a href="/faq.shtml">Frequently Asked Questions</a></th>
+      <th width="20%"><a href="/whats-new.shtml">What's New Here?</a></th>
+      <th width="20%"><a href="/guestbook.shtml">Guestbook</a></th>
+    </tr>
+    
+  </table>
 
 </center>
-<p><hr width="100%"></p>
-<! ----- End Navigation Block - Top-Level Pages ---------->
+
+<p>
+  <hr width="100%">
+</p>
+
 <!-- END INCLUDE /manu-nav-block.ssi -->

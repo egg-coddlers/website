@@ -1,24 +1,24 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-<title>
-    Pattern UM03-UNK09 (Two Birds)
-</title>
-</head>
-<body bgcolor="white">
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>Pattern UM03-UNK09 (Two Birds)</title>
+  </head>
+  
+  <body bgcolor="white">
+    <a name="Top"></a>
+    
+    <h1>Pattern UM03-UNK09 (Two Birds)</h1>
 
-<a name="Top">
-<h1>
-    Pattern UM03-UNK09 (Two Birds)
-</h1>
-
-    These coddlers are double-sized convex coddlers with no pedestal
+    <p>
+      These coddlers are double-sized convex coddlers with no pedestal
     and have corrugated sides.  The shape is the same as coddlers made
-    by
-    <a href="/HouseOfPrill/">House of Prill</a>
-    but they have no backstamp.  The pattern
-    consists of two coloured birds.  This design appears on only one
-    side of the coddler.
+    by <a href="/HouseOfPrill/">House of Prill</a> 
+    but they have no backstamp.  The pattern consists of two coloured
+    birds.  This design appears on only one  side of the coddler.
+    </p>
+    
     <p>
     Other coddlers with similar patterns:
     <ul>
@@ -27,23 +27,35 @@
 	<li><a href="../UM03-UNK10">UM03-UNK10</a>
 	<li><a href="../UM03-UNK13">UM03-UNK13</a>
     </ul>
+    </p>
 
-<p>
-<table align="center">
-<tr>
-    <td><a href="UM03-UNK09-01.jpg">
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="UM03-UNK09-01.jpg">
             <img src="UM03-UNK09-01.jpg"
 	        height="250" alt="UM03-UNK09"></a>
-</tr>
+	</td>
+      </tr>
 
-<tr>
-    <th colspan="2">UM03-UNK09 (Two Birds)
-</tr>
-</table>
-<p>
+      <tr>
+	<th>UM03-UNK09 (Two Birds)</th>
+      </tr>
+    </table>
 
-<!--#include virtual="../../../manu-nav-block.ssi" -->
-</body>
+    <br />
+
+    <!--#include virtual="../../../manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+
+  </body>
 </html>
 
 

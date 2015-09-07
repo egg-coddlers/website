@@ -1,28 +1,28 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-    <title>
-      Pattern UM03-UNK11 (Red Flowers)
-    </title>
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>Pattern UM03-UNK11 (Red Flowers)</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
-      <h1>
-	Pattern UM03-UNK11 (Red Flowers)
-      </h1>
+    
+      <h1>Pattern UM03-UNK11 (Red Flowers)</h1>
 
       <p>
 	These coddlers are double-sized convex coddlers with no
 	pedestal. They have corrugated sides.  The shape is the same as
-	the shape of coddlers made by <a href="/HouseOfPrill">House of
-	  Prill</a>, but these have no backstamp. This pattern is red
+	the shape of coddlers made by
+	<a href="/HouseOfPrill/">House of Prill</a>,
+	but these have no backstamp. This pattern is red
 	flowers on stalks wnith a butterfly inspecting the scene.  The
 	design appears on only one side of the coddler.
       </p>
 
+      <br />
+      
       <table align="center">
 	<tr>
 	  <td><a href="UM03-UNK11-01.jpg">
@@ -36,6 +36,8 @@
 	</tr>
       </table>
 
+      <br />
+      
       <!--#include virtual="../pattern-nav-block.ssi" -->
 
       <p>

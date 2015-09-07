@@ -1,50 +1,41 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-    <title>
-        Coalport - CO-UNK012- Gold Frieze
-        </title>
+  <head>
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-</head>
-<body bgcolor="white">
+    <title>Coalport - CO-UNK12- Gold Frieze</title>
+  </head>
 
-<a name="Top"></a>
+  <body bgcolor="white">
+    <a name="Top"></a>
 
-<h1>
-Coalport - CO-UNK012- Gold Frieze
-</h1>
+    <h1>Coalport - CO-UNK12- Gold Frieze</h1>
 
-<p>
-    This is a Single-size coddler. The pattern is white, with a gold
-    frieze around the top. We do not know the backstamp.
+    <p>
+      This is a Single-size coddler. The pattern is white, with a gold
+      frieze around the top. We do not know the backstamp.
     </p>
 
-<table align="center">
-<tr>
-    <td>
-    <a href="CO-UNK12-01-a.jpg">
-        <img src="CO-UNK12-01-a.jpg"
-	    height="250" alt="CO-UNK12"></a>
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="CO-UNK12-01-a.jpg">
+            <img src="CO-UNK12-01-a.jpg" alt="CO-UNK12"></a>
         </td>	    
-    </tr>
-<tr>
-    <th>CO-UNK12</th>
-    </tr>    
-</table>
+      </tr>
+      <tr>
+	<th>Pattern CO-UNK12</th>
+      </tr>    
+    </table>
 
-<!--#include virtual="../pattern-nav-block.ssi" -->
+    <!--#include virtual="../pattern-nav-block.ssi" -->
 
-<p>
-This page was last modified on
-<!--#echo var="LAST_MODIFIED"-->
-.<br />
-<!--#include virtual="/copyright.ssi" -->
-</p>
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
 
-</body>
+  </body>
 </html>
-
-
-
-

@@ -1,47 +1,58 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-<title>
-    Unknown Manufacturer - UM60 (Random yellow and red trumpet flower,
-    with green leaves)
-    </title>
-<!-- @(#) $Id$ -->    
-</head>
-<body bgcolor="white">
+  <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <title>Unknown Manufacturer - UM60 (Random yellow and red trumpet flower,
+    with green leaves)</title>
+  </head>
+  
+  <body bgcolor="white">
+    <a name="Top"></a>
+    
+    <h1>Unknown Manufacturer - UM60 (Random yellow and red trumpet
+    flower, with green leaves)</h1>
 
-<a name="Top"></a>
-<h1>
-    Unknown Manufacturer - UM60 (Random yellow and red trumpet flower,
-    with green leaves)
-    </h1>
-
-<p>    
-    This double-sized convex coddler with no pedestal is almost
-    cylindrical in shape. It has a round lifting ring.
+    <p>    
+      This double-sized convex coddler with no pedestal is almost
+      cylindrical in shape. It has a round lifting ring.
     </p>
 
-<p>    
-    The pattern consists of random yellow and red trumpet flower, with
-    green leaves.
+    <p>    
+      The pattern consists of random yellow and red trumpet flower, with
+      green leaves.
     </p>
 
-<table align="center">
-<tr>
-    <td><a href="UM60-UNK01-01.jpg">
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="UM60-UNK01-01.jpg">
             <img src="UM60-UNK01-01.jpg"
-    	        height="250" alt="UM60-UNK01"></a>
+    	         height="250" alt="UM60-UNK01"></a>
         </td>		
     </tr>
-<tr>
-    <th>Pattern UM60-UNK01
-    </tr>
-</table>
+      
+      <tr>
+	<th>Pattern UM60-UNK01</th>
+      </tr>
+    </table>
 
-<!--#include virtual="/AA-UncertainManu/convex-cylindrical-crossref.ssi" -->
+    <br />
+    
+    <!--#include virtual="/AA-UncertainManu/convex-cylindrical-crossref.ssi" -->
 
+    <br />
+    
+    <!--#include virtual="/manu-nav-block.ssi" -->
 
-<!--#include virtual="../../manu-nav-block.ssi" -->
-</body>
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+    
+  </body>
 </html>
 
 
