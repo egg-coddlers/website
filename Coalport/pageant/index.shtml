@@ -1,68 +1,70 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-    <title>
-         Coalport - Pageant
-        </title>
+  <head>
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-    </head>
-<body bgcolor="white">
+    <title>Coalport - Pageant</title>
+  </head>
+  <body bgcolor="white">
+    <a name="Top"></a>
 
-<a name="Top"></a>
+    <h1>Coalport - Pageant</h1>
 
-<h1>
-Coalport - Pageant
-</h1>
-
-<p>
-    This pattern consists of stylized lily-like flowers. The backstamp
-    includes the name of the pattern. This is a double-sized coddler.
+    <p>
+      This pattern consists of stylized lily-like flowers. The backstamp
+      includes the name of the pattern. This is a double-sized coddler.
     </p>
 
-<table align="center">
-<tr>
-    <td><a href="pageant-01.jpg">
-        <img src="pageant-01.jpg"
-	    height="200" alt="Pageant"></a>
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="pageant-01.jpg">
+            <img src="pageant-01.jpg"
+		 height="200" alt="Pageant"></a>
         </td>
-    <td><a href="pageant-01-bs.jpg">	    
-        <img src="pageant-01-bs.jpg"
-	    height="100" alt="Backstamp">
+	<td><a href="pageant-01-bs.jpg">	    
+            <img src="pageant-01-bs.jpg"
+		 height="100" alt="Backstamp"></a>
         </td>
-    </tr>
+      </tr>
 
-<tr>
-    <th colspan="2">Pageant Pattern</th>
-    </tr>    
-</table>
+      <tr>
+	<th colspan="2">Pageant Pattern</th>
+      </tr>
+      
+    </table>
 
-<br />
+    <br />
 
-<table align="center">
-<tr>
-    <td><a href="pageant-03.jpg">
-        <img src="pageant-03.jpg"
-	    height="250" alt="Pageant"></a>
+    <table align="center">
+      <tr>
+	<td><a href="pageant-03.jpg">
+            <img src="pageant-03.jpg"
+		 height="250" alt="Pageant"></a>
         </td>
-    <td><a href="pageant-03-bs.jpg">	    
-        <img src="pageant-03-bs.jpg"
-	    height="100" alt="Backstamp">
+	<td><a href="pageant-03-bs.jpg">	    
+            <img src="pageant-03-bs.jpg"
+		 height="100" alt="Backstamp"></a>
         </td>	    
-    </tr>
-<tr>
-    <th colspan="2">Pageant Pattern</th>
-    </tr>    
-</table>
+      </tr>
+      
+      <tr>
+	<th colspan="2">Pageant Pattern</th>
+      </tr>
+      
+    </table>
 
-<!--#include virtual="../pattern-nav-block.ssi" -->
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
 
-<p>
-This page was last modified on
-<!--#echo var="LAST_MODIFIED"-->
-.<br />
-<!--#include virtual="/copyright.ssi" -->
-</p>
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
 
-</body>
+  </body>
 </html>
