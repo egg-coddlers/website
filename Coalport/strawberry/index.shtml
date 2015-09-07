@@ -1,26 +1,27 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-    <title>
-      Coalport - Strawberry
-    </title>
+    <title>Coalport - Strawberry</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Coalport - Strawberry
-    </h1>
+    <h1>Coalport - Strawberry</h1>
     
     <p>
       This pattern consists of strawberries on the plant on one side,
       with a stunning blue butterfly on the other. There are at least
-      two variations of the butterfly, one blue, and one yellow
-      (picture to be added soon). This is a double-sized coddler.
+      two variations of the butterfly, one blue, and one yellow.
+    </p>
+
+    <p>
+      This is a double-sized coddler.
+    </p>
+
+    <p>
       There is gold trim at the base of the pedestal.   This backstamp
       is the usual backstamp, with the number <b>19</b> below the
       backstamp.
@@ -44,8 +45,24 @@
         </td>
       </tr>
       <tr>
-	<th colspan="3">Strawberry</th>
-      </tr>    
+	<th colspan="3">Strawberry - Blue Butterfly</th>
+      </tr>
+      
+    </table>
+
+    <br />
+
+    <table align="center">
+      <tr>
+	<td><a href="strawberry-02_750px.jpg">
+            <img src="strawberry-02_250px.jpg"
+	         alt="Strawberry - Yellow Butterfly"></a>
+        </td>
+      </tr>
+      <tr>
+	<th can="3">Strawberry - Yellow Butterfly</th>
+      </tr>
+      
     </table>
 
     <br />
