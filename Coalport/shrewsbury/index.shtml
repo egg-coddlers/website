@@ -1,53 +1,50 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-    <title>
-        Coalport - Shrewsbury Pattern
-        </title>
+  <head>
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-</head>
-<body bgcolor="white">
+    <title>Coalport - Shrewsbury Pattern</title>
+  </head>
 
-<a name="Top"></a>
+  <body bgcolor="white">
+    <a name="Top"></a>
 
-<h1>
-    Coalport - Shrewsbury Pattern
-</h1>
+    <h1>Coalport - Shrewsbury Pattern</h1>
 
-<p>
-    This pattern consists of a bunch of flowers, including two roses,
-    a white flower, and many smaller blue flowers.  The pattern is
-    repeated on the other side of the coddler.  There is gold trim at
-    the base of the pedestal.   This backstamp   is the usual
-    backstamp, with the number <b>21</b> below the backstamp
+    <p>
+      This pattern consists of a bunch of flowers, including two roses,
+      a white flower, and many smaller blue flowers.  The pattern is
+      repeated on the other side of the coddler.  There is gold trim at
+      the base of the pedestal.   This backstamp   is the usual
+      backstamp, with the number <b>21</b> below the backstamp
     </p>
 
-<table align="center">
-<tr>
-    <td><a href="shrewsbury-01.jpg">
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td><a href="shrewsbury-01.jpg">
             <img src="shrewsbury-01.jpg"
-	        height="250" alt="Shrewsbury"></a>
+	         height="250" alt="Shrewsbury"></a>
         </td>
-    </tr>
+      </tr>
 
-<tr>
-    <th colspan="1">Shrewsbury</th>
-    </tr>    
-</table>
+      <tr>
+	<th colspan="1">Shrewsbury</th>
+      </tr>
+      
+    </table>
 
-<!--#include virtual="../pattern-nav-block.ssi" -->
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
 
-<p>
-This page was last modified on
-<!--#echo var="LAST_MODIFIED"-->
-.<br />
-<!--#include virtual="/copyright.ssi" -->
-</p>
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
 
-</body>
+  </body>
 </html>
-
-
-
-
