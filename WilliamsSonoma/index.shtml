@@ -1,0 +1,227 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<html>
+  <head>
+    <!-- @(#) $Id: index.shtml,v 1.15 2015/03/22 22:48:59 rjenson Exp rjenson $ -->
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="manufacturer.css" type="text/css" />    
+    <meta name="description"
+	  content="Egg coddlers from an unknown manufacturer, sold
+		   by Williams Sonoma. These are double-sized cylindrical
+		   coddlers." />
+    <title>
+      Egg Coddlers from Williams Sonoma
+    </title>
+  </head>
+  
+  <body bgcolor="white">
+
+    <a name="Top"></a>
+    <h1>
+      Egg Coddlers from Williams Sonoma
+    </h1>
+
+    <p>
+      There are several egg coddlers that are cylindrical in shape,
+      all were sold by Williams-Sonoma at some point in time.
+    </p>
+    
+    <p>
+      The earlier versions of these coddlers have round stickers on
+      the bottom that look like backstamps. The more recent ones have a
+      backstamp.
+    </p>
+
+    <br />
+    
+    <a name="Patterns"></a>
+    <h2>Patterns</h2>
+
+    <table border width="100%">
+      <tr>
+	<th width="20%">Pattern Name</th>
+	<th width="25%">Description of Pattern</th>
+	<th width="55%">Image</th>
+      </tr>
+
+      <tr>
+	<th><a href="blue-bird">Blue Bird</a></th>
+	<td>Bluebirds
+          <i><a href="blue-bird">[Details]</a></i>
+	</td>
+        <td><a href="blue-bird">
+            <img src="blue-bird/blue-bird-pat-1.jpg"
+		 height="100" alt="Blue Bird"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="floral-stripe">Floral Stripe</a></th>
+	<td>Red flowers and two red bands.
+          <i><a href="floral-stripe">[Details]</a></i>
+	</td>
+	<td><a href="floral-stripe">
+            <img src="floral-stripe/floral-stripe-pat-1.jpg"
+                 height="100" alt="Floral Stripe"></a>
+	</td>
+      </tr>
+      
+
+      <tr>
+	<th><a href="flow-blue">Flow Blue</a></th>
+	<td>Flow blue vine with flowers and leaves.
+          Backstamp includes
+	  <b>WILLIAMS-SONOMA</b>,
+	  <b>FLOW BLUE</b>,
+	  <b>DISHWASHER AND MICROWAVE SAFE</b>,
+	  <b>MADE IN CHINA</b>.
+          <i><a href="WS-UNK05">[Details]</a></i>
+	</td>
+	<td><a href="flow-blue">
+            <img src="flow-blue/flow-blue-pat-1.jpg"
+	         alt="Flow Blue Pattern"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="french-floral">French Floral</a>
+	</th>
+	<td>Flow blue flowers.
+	  <i><a href="french-floral">[Details]</a></i>
+	</td>
+	<td><a href="french-floral">
+	    <img src="french-floral/french-floral-pat-1.jpg"
+		 alt="French Floral Pattern"></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th><a href="pipkins">Pipkins</a>
+	</th>
+	<td>Flow blue flowers with bands at top and bottom
+	  <i><a href="pipkins">[Details]</a></i>
+	</td>
+	<td><a href="pipkins">
+	    <img src="pipkins/pipkins-pat-1.jpg"
+		 alt="Pipkins Pattern"></a>
+	</td>
+      </tr>
+      
+      <tr>
+	<th><a href="spring-fleur">Spring Fleur</a>
+        </th>
+	<td>Flow blue, flowers and butterflies.
+          Backstamp includes
+          <b>WILLIAMS-SONOMA</b>,
+          <b>Made in China</b>,
+          <b>Dishwasher Safe</b>.
+        </td>
+	<td>Images to be added soon.
+        </td>
+      </tr>
+
+      <tr>
+	<th><a href="WS-UNK01">WS-UNK01</a></th>
+	<td>Pale cobalt blue with white interior.  Lid is removed with
+          <font size=-1><sup>1</sup>/<sub>3</sub></font>
+          of a turn.  Weight is 7.5 oz.   No stickers.
+          <i><a href="WS-UNK01">[Details]</a></i>
+	</td>
+	<td><a href="WS-UNK01">
+            <img src="WS-UNK01/WS-UNK01-pat-1.jpg"
+	         alt="WS-UNK01"></a>
+          <a href="WS-UNK01">
+            <img src="WS-UNK01/WS-UNK01-mark-1.jpg"
+	         alt="WS-UNK01"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WS-UNK02">WS-UNK02</a></th>
+	<td>Deep cobalt blue with cream interior.  Lid is removed with
+          <font size=-1><sup>2</sup>/<sub>3</sub></fvont>
+          of a turn.  Weight is 7.0 oz.  Backstamp sticker with
+	  <b>MADE IN CHINA</b>, <b>WILLIAMS-SONOMA GRANDE CUISINE</b>
+          <i><a href="WS-UNK02">[Details]</a></i>
+	</td>
+	<td><a href="WS-UNK02">
+            <img src="WS-UNK02/WS-UNK02-pat-1.jpg"
+	         alt="WS-UNK02"></a>
+          <a href="WS-UNK02">
+            <img src="WS-UNK02/WS-UNK02-mark-1.jpg"
+	         alt="WS-UNK02"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WS-UNK03">WS-UNK03</a></th>
+	<td>White coddler with cobalt blue cluster of leaves
+          <i><a href="WS-UNK03">[Details]</a></i>
+	</td>
+	<td><a href="WS-UNK03">
+            <img src="WS-UNK03/WS-UNK03-pat-1.jpg"
+	         alt="WS-UNK03"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WS-UNK04">WS-UNK04</a></th>
+	<td>White coddler with cobalt blue flower pattern.
+          <i><a href="WS-UNK04">[Details]</a></i>
+	</td>
+	<td><a href="WS-UNK04">
+            <img src="WS-UNK04/WS-UNK04-pat-1.jpg"
+	         alt="WS-UNK04"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WS-UNK06">WS-UNK06</a></th>
+	<td>Flow blue bunch of flowers.
+          Backstamp includes
+	  <b>WILLIAMS-SONOMA</b>,
+	  <b>FLOW BLUE</b>,
+	  <b>DISHWASHER AND MICROWAVE SAFE</b>,
+	  <b>MADE IN CHINA</b>.
+
+          <i><a href="WS-UNK06">[Details]</a></i>
+	</td>
+	<td><a href="WS-UNK06">
+            <img src="WS-UNK06/WS-UNK06-pat-1.jpg"
+                 height="100" alt="WS-UNK06"></a>
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WS-UNK09">WS-UNK09</a></th>
+	<td>Flowers in pots
+	  <i><a href="WS-UNK09">[Details]</a></i>
+	</td>
+	<td>Images to be added soon.
+	</td>
+      </tr>
+
+      <tr>
+	<th><a href="WS-UNK10">WS-UNK10</a></th>
+	<td>Fir tree with cones.
+          <i><a href="WS-UNK10">[Details]</a></i>
+	</td>
+        <td><a href="WS-UNK10">
+            <img src="WS-UNK10/WS-UNK10-pat-1.jpg"
+		 height="100" alt="WS-UNK10"></a>
+	</td>
+      </tr>
+    </table>
+
+    <br />
+
+    <!--#include virtual="/manu-nav-block.ssi" -->
+
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
+    
+  </body>
+</html>
