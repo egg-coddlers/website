@@ -1,23 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-
-    <!-- $Id$ -->
-    
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-
-    <title>
-      Coalport - June Time
-    </title>
+    <title>Coalport - June Time</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Coalport - June Time
-    </h1>
+    <h1>Coalport - June Time</h1>
 
     <p>
       This pattern consists of a beautiful group of flowers and a
@@ -39,13 +31,14 @@
         </td>	    
 	<td><a href="june-time-01-bs.jpg">	    
             <img src="june-time-01-bs.jpg"
-		 height="100" alt="Backstamp">
+		 height="100" alt="Backstamp"></a>
         </td>	    
       </tr>
 
       <tr>
 	<th colspan="2">Aynsley June Time Pattern</th>
       </tr>
+      
     </table>
 
     <br />
