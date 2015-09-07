@@ -1,23 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-
-    <!-- $Id$ -->
-    
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-    
-    <title>
-      Coalport - Ludlow
-    </title>
+    <title>Coalport - Ludlow</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Coalport - Ludlow
-    </h1>
+    <h1>Coalport - Ludlow</h1>
 
     <p>
       This pattern consists of a bunch of flowers, including one pink
@@ -49,7 +41,8 @@
 
       <tr>
 	<th colspan="2">Ludlow Pattern</th>
-      </tr>    
+      </tr>
+      
     </table>
 
     <br />
