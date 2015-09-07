@@ -1,79 +1,76 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-
-    <title>
-      Crown Staffordshire - Green Vine Pattern
-    </title>
+    <title>Crown Staffordshire - Green Vine Pattern</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Crown Staffordshire - Green Vine Pattern
-    </h1>
+    <h1>Crown Staffordshire - Green Vine Pattern</h1>
 
     <p>
-    This pattern consists of a vine with leaves.
-</p>
+      This pattern consists of a vine with leaves.
+    </p>
 
     <br />
 
-      <table align="center">
-	<tr>
-	  <td>
-	    <img src="green-vine-01.jpg" align="top" alt="Green Vine">
-	  </td>
-	  <td>
-	    <img src="green-vine-01-bs.jpg" align="top"
-		 alt="Backstamp">
-	  </td>
-	</tr>
-      </table>
-
-    <br />
-      <table align="center">
-	<tr>
-	  <td>
-	    <img src="green-vine-02.jpg" align="top" alt="Green Vine">
-	  </td>
-	</tr>
-      </table>
+    <table align="center">
+      <tr>
+	<td>
+	  <img src="green-vine-01.jpg" align="top" alt="Green Vine">
+	</td>
+	<td>
+	  <img src="green-vine-01-bs.jpg" align="top"
+	       alt="Backstamp">
+	</td>
+      </tr>
+      
+    </table>
 
     <br />
     
-      <table border width="100%">
-	<caption>Known Variations Matrix</caption>
-	<tr>
-	  <th width="20%"><a href="../#Lids">Lid</a></th>
-	  <th width="20%"><a href="../#LiftingRings">Lifting Ring</th>
-	  <th width="30%">Size/Notes</th>
-	  <th width="10%">Source</th>
-	</tr>
+    <table align="center">
+      <tr>
+	<td>
+	  <img src="green-vine-02.jpg" align="top" alt="Green Vine">
+	</td>
+      </tr>
+      
+    </table>
 
-	<tr>
-	  <td>Full Turn</td>
-	  <td>Square</td>
-	  <td></td>
-	  <td><a href="/sources/#BB">BB</a></td>
-	</tr>
+    <br />
+    
+    <table border width="100%">
+      <caption>Known Variations Matrix</caption>
+      <tr>
+	<th width="20%"><a href="../#Lids">Lid</a></th>
+	<th width="20%"><a href="../#LiftingRings">Lifting Ring</th>
+	<th width="30%">Size/Notes</th>
+	<th width="10%">Source</th>
+      </tr>
 
-	<tr>
-	  <td>Quick Release</td>
-	  <td>Flat</td>
-	  <td></td>
-	  <td><a href="/sources/#BB">BB</a></td>
-	</tr>
+      <tr>
+	<td>Full Turn</td>
+	<td>Square</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
 
-      </table>
+      <tr>
+	<td>Quick Release</td>
+	<td>Flat</td>
+	<td></td>
+	<td><a href="/sources/#BB">BB</a></td>
+      </tr>
 
-      <br />
+    </table>
 
-      <!--#include virtual="../pattern-nav-block.ssi" -->
+    <br />
+
+    <!--#include virtual="../pattern-nav-block.ssi" -->
 
     <p>
       This page was last modified on
