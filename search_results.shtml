@@ -3,10 +3,9 @@
   <head>
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <title>Search Results</title>
-    <! "@(#) $Id$" >
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
     <h1>EggCoddlers.COM Search Results</h1>
