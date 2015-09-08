@@ -2,10 +2,10 @@
 <html>
   <head>
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <title>Villeroy & Boch Egg Coddlers</title>
     <meta name="description"
 	  content="Egg coddlers from Villeroy & Boch - 
 		   These are double sized coddlers." />
-    <title>Villeroy & Boch Egg Coddlers</title>
   </head>
   
   <body bgcolor="white">
@@ -30,13 +30,11 @@
 
     <table align="center">
       <tr>
-	<td><a href="VB-UNK01-01.jpg">
-            <img src="VB-UNK01-01a.jpg" height="250"
-		 alt="VB-UNK01 Pattern"></a>
+	<td><a href="VB-UNK01-01_900px.jpg">
+            <img src="VB-UNK01-01_250px.jpg" alt="VB-UNK01 Pattern"></a>
 	</td>
-	<td><a href="VB-UNK01-02.jpg">
-            <img src="VB-UNK01-01-bs.jpg" height="250"
-		 alt="VB-UNK01 Backstamp"></a>
+	<td><a href="VB-UNK01-01-bs_1kpx.jpg">
+            <img src="VB-UNK01-01-bs_150px.jpg" alt="VB-UNK01 Backstamp"></a>
 	</td>
       </tr>
     </table>
