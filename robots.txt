@@ -1,5 +1,3 @@
-#ident "@(#) $Id$"
-
 # Bad robots will show up in error logs
 
 User-agent: *
