@@ -1,75 +1,72 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
-<head>
-    <meta name="description"
-      content="Egg coddlers from Doulton - Made in England. These are
-      single-sized concave coddlers. The backstamp shows the pattern
-      name.">
-    <title>
-        Doulton Egg Coddlers
-        </title>
+  <head>
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-</head>
-<body bgcolor="white">
+    <title>Doulton Egg Coddlers</title>
+    <meta name="description"
+	  content="Egg coddlers from Doulton - Made in England. These are
+		   single-sized concave coddlers. The backstamp shows the pattern
+		   name.">
+  </head>
+  
+  <body bgcolor="white">
+    <a name="Top"></a>
 
-<a name="Top"></a>
-<h1>
-    Doulton Egg Coddlers
-    </h1>
+    <h1>Doulton Egg Coddlers</h1>
 
-<p>
-    These coddlers are single-sized concave coddlers.
+    <p>
+      These coddlers are single-sized concave coddlers.
     </p>
-<p>
-    The backstamp includes the pattern name.
-    </p>
-
-<h2>Patterns</h2>
-
-
-<h3>Kew</h3>
-<p>
-    This pattern is decorated with delicate flowers.
+    
+    <p>
+      The backstamp includes the pattern name.
     </p>
 
-<table align="center">
-<tr>
-    <td><a href="doulton-kew-01.jpg">
-            <img src="doulton-kew-01.jpg"
-	            height="250"
-		    alt="Doulton - Kew"></a>
+    <br />
+    
+    <h2>Patterns</h2>
 
 
-         <a href="doulton-kew-02.jpg">
+    <h3>Kew</h3>
+    <p>
+      This pattern is decorated with delicate flowers.
+    </p>
+
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="doulton-kew-01.jpg">
+            <img src="doulton-kew-01.jpg" height="250"
+		 alt="Doulton - Kew"></a>
+	</td>
+	<td>
+          <a href="doulton-kew-02.jpg">
             <img src="doulton-kew-02.jpg"
-	            height="250"
-		    alt="Doulton - Kew"></a>
-
-        </td>		    
-    <td><a href="doulton-kew-bs.jpg">
+	         height="250"
+		 alt="Doulton - Kew"></a>
+        </td>
+	<td>
+	  <a href="doulton-kew-bs.jpg">
             <img src="doulton-kew-bs.jpg"
-	            height="150" alt="Kew Backstamp"></a>
-       </td>		    
-    </tr>
-</table>
+	         height="150" alt="Kew Backstamp"></a>
+	</td>    
+      </tr>
 
+      <tr>
+	<th>Doulton Kew Pattern</th>
+      </tr>
+    </table>
 
-<!--#include virtual="/manu-nav-block.ssi" -->
+    <br />
+    
+    <!--#include virtual="/manu-nav-block.ssi" -->
 
-<p>
-This page was last modified on
-<!--#echo var="LAST_MODIFIED"-->
-.<br />
-<!--#include virtual="/copyright.ssi" -->
-</p>
+    <p>
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
 
-</body>
+  </body>
 </html>
-
-
-
-
-
-
-
-
