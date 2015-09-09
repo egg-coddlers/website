@@ -1,19 +1,14 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->  
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-
-    <title>
-      George Good Egg Coddlers
-    </title>
+    <title>George Good Egg Coddlers</title>
   </head>
 
   <body bgcolor="white">
+    <a name="Top"></a>
 
-    <h1>
-      George Good Egg Coddlers
-    </h1>
+    <h1>George Good Egg Coddlers</h1>
 
     <p>
       We are listing these coddlers, tentatively, under the manufacturer
@@ -34,22 +29,26 @@
       <a href="/contact/">contact us</a>.
     </p>
 
-    <p>
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="chick-on-branch-01_full.jpg">
+            <img src="chick-on-branch-01_250px.jpg"
+		 height="250" alt="Chick on Branch"></a>
+	</td>
+	<td><a href="chick-on-branch-01-bs_full.jpg">		
+            <img src="chick-on-branch-01-bs_100px.jpg"
+		 height="100" alt="Backstamp"></a>
+	</td>
+      </tr>
+      
+    </table>
 
-      <table align="center">
-	<tr>
-	  <td><a href="chick-on-branch-01_full.jpg">
-              <img src="chick-on-branch-01_250px.jpg"
-		   height="250" alt="Chick on Branch"></a>
-	  <td><a href="chick-on-branch-01-bs_full.jpg">		
-              <img src="chick-on-branch-01-bs_100px.jpg"
-		   height="100" alt="Backstamp"></a>
-	</tr>
-      </table>
+    <br />
 
-      <br />
-
-      <!--#include virtual="../manu-nav-block.ssi" -->
+    <!--#include virtual="../manu-nav-block.ssi" -->
       
     <p>
       This page was last modified on
