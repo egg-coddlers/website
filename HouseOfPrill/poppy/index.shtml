@@ -1,48 +1,44 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-
-    <!-- @(#) $Id$ -->
-
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />    
-    
-    <title>
-      House of Prill - Poppy Pattern
-    </title>
+    <title>House of Prill - Poppy Pattern</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      House of Prill - Poppy Pattern
-    </h1>
+    <h1>House of Prill - Poppy Pattern</h1>
 
     <p>
       This pattern is similar to the "Amapola" pattern by Villeroy and
       Boch.
     </p>
 
-    <p>
-      <table align="center">
-	<tr>
-	  <td><a href="poppy-01.jpg">
-              <img src="poppy-01.jpg" height="250" alt="Poppy">
-	  </td>
-	  <td><a href="poppy-01-bs.jpg">
-	      <img src="poppy-01-bs.jpg" alt="Backstamp">
-	  </td>
-	</tr>
+    <br />
 
-	<tr>
-	  <th colspan="2">Poppy Pattern<th>
-	</tr>    
-      </table>
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="poppy-01.jpg">
+            <img src="poppy-01.jpg" height="250" alt="Poppy"></a>
+	</td>
+	<td>
+	  <a href="poppy-01-bs.jpg">
+	    <img src="poppy-01-bs.jpg" alt="Backstamp"></a>
+	</td>
+      </tr>
 
-      <br />
+      <tr>
+	<th colspan="2">Poppy Pattern<th>
+      </tr>
       
-      <!--#include virtual="../pattern-nav-block.ssi" -->
+    </table>
+
+    <br />
+      
+    <!--#include virtual="../pattern-nav-block.ssi" -->
       
     <p>
       This page was last modified on
