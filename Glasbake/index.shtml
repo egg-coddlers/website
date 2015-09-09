@@ -1,14 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <title>McKee Glasbake Egg Coddlers</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
+    
     <h1>McKee Glasbake Egg Coddlers</h1>
-
+    
     <p>
       These items are marginally egg coddlers: the advertisements and
       packaging materials refer to them as "egg cookers."  They are made
@@ -52,11 +53,13 @@
 
     <table align="center">
       <tr>
-	<td><a href="GB-RBSFALRW-01.jpg">
+	<td>
+	  <a href="GB-RBSFALRW-01.jpg">
             <img src="GB-RBSFALRW-01.jpg"
 	         height="250" alt="GB-RBSFALRW"></a>
 	</td>
-	<td><a href="GB-RBSFALRW-01-bs.jpg">		
+	<td>
+	  <a href="GB-RBSFALRW-01-bs.jpg">		
             <img src="GB-RBSFALRW-01-bs.jpg"
 	         height="250" alt="Backstamp"></a>
 	</td>
@@ -65,6 +68,7 @@
       <tr>
 	<th colspan="2">McKee Glasbake Style GB-RBSFALRW</th>
       </tr>
+      
     </table>
 
     <p>
@@ -73,8 +77,6 @@
       lid.  The backstamp markings includes the word <b>GLASBAKE</b>.
     </p>
 
-    <br />
-
     <p>
       <b>GB-RBSFALYW</b> has small glass feet, ribbing on the glass
       walls, an
@@ -82,14 +84,16 @@
       lid.  The backstamp markings includes the word <b>GLASBAKE</b>.
     </p>
 
-    <p>Picture to be added soon.
+    <p>
+      Picture to be added soon.
     </p>.
 
     <br />
     
     <table align="center">
       <tr>
-	<td><a href="GB-RBSFALMW-01.jpg">
+	<td>
+	  <a href="GB-RBSFALMW-01.jpg">
             <img src="GB-RBSFALMW-01.jpg"
 	         height="250" alt="GB-RBSFALRW"></a>
 	</td>
@@ -98,6 +102,7 @@
       <tr>
 	<th colspan="1">McKee Glasbake Style GB-RBSFALMW</th>
       </tr>
+      
     </table>
 
     <p>
@@ -109,13 +114,17 @@
 
     <table align="center">
       <tr>
-	<td><a href="GB-RBSFALBW-01.jpg">
+	<td>
+	  <a href="GB-RBSFALBW-01.jpg">
             <img src="GB-RBSFALBW-01.jpg"
 	         height="250" alt="GB-RBSFALBW"></a>
+	</td>
       </tr>
+      
       <tr>
 	<th colspan="1">McKee Glasbake Style GB-RBSFALBW</th>
       </tr>
+      
     </table>
 
     <p>
@@ -123,19 +132,26 @@
       aluminum lid with a black wooden handle.
     </p>
 
-    <br />      
+    <br />
+    
     <table align="center">
       <tr>
-	<td><a href="GB-SBLFALBW-01-a.jpg">
+	<td>
+	  <a href="GB-SBLFALBW-01-a.jpg">
             <img src="GB-SBLFALBW-01-a.jpg"
 	         height="250" alt="GB-SBLFALBW"></a>
-	<td><a href="GB-SBLFALBW-01-b.jpg">
+	</td>
+	<td>
+	  <a href="GB-SBLFALBW-01-b.jpg">
             <img src="GB-SBLFALBW-01-b.jpg"
-	         height="100" alt="GB-SBLFALBW"></a>		
+	         height="100" alt="GB-SBLFALBW"></a>
+	</td>
       </tr>
+      
       <tr>
 	<th colspan="2">McKee Glasbake Style GB-SBLFALBW</th>		
       </tr>
+      
     </table>
 
     <p>
@@ -148,8 +164,6 @@
       (The first letters of the name "SEISERS" is not clearly
       impressed and may be another name).
     </p>
-
-    <br />
 
     <p>
       <b>GB-SBLFALRW</b> has a smooth body (no ribbing), larger feet,
@@ -164,13 +178,17 @@
     
     <table align="center">
       <tr>
-	<td><a href="GB-SBNFALAL-01.jpg">
+	<td>
+	  <a href="GB-SBNFALAL-01.jpg">
             <img src="GB-SBNFALAL-01.jpg"
 	         height="250" alt="GB-SBNFALAL"></a>
+	</td>
       </tr>
+      
       <tr>
 	<th colspan="1">McKee Glasbake Style GB-SBNFALAL</th>
       </tr>
+      
     </table>
 
     <p>
@@ -182,13 +200,17 @@
 
     <table align="center">
       <tr>
-	<td><a href="GB-SBNFALBW-01.jpg">
+	<td>
+	  <a href="GB-SBNFALBW-01.jpg">
             <img src="GB-SBNFALBW-01.jpg"
 	         height="250" alt="GB-SBNFALBW"></a>
+	</td>
       </tr>
+      
       <tr>
-	<th colspan="1">McKee Glasbake Style GB-SBNFALBW
+	<th colspan="1">McKee Glasbake Style GB-SBNFALBW</th>
       </tr>
+      
     </table>
 
     <p>
@@ -200,21 +222,23 @@
     
     <table align="center">
       <tr>
-	<td><a href="GB-SBSFBLBL-01.jpg">
+	<td>
+	  <a href="GB-SBSFBLBL-01.jpg">
             <img src="GB-SBSFBLBL-01.jpg"
 	         height="250" alt="GB-SBSFBLBL"></a>
+	</td>
       </tr>
+      
       <tr>
 	<th colspan="1">McKee Glasbake Style GB-SBSFBLBL</th>
       </tr>
+      
     </table>
 
     <p>
       <b>GB-SBSFALBW</b> has a smooth body (no ribbing), small feet,
       a Bakelite lid with a Bakelite handle (all one piece).
     </p>
-
-    <br />
 
     <p>
       Information on this page came from 
@@ -236,4 +260,3 @@
     
   </body>
 </html>
-
