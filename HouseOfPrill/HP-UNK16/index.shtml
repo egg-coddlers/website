@@ -1,20 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-    <title>
-      Pattern HP-UNK16 (Blue Flowers)
-    </title>
+    <title>Pattern HP-UNK16 (Blue Flowers)</title>
   </head>
 
   <body bgcolor="white">
-
     <a name="Top">
-      <h1>
-	Pattern HP-UNK16 (Blue Flowers)
-      </h1>
+      
+      <h1>Pattern HP-UNK16 (Blue Flowers)</h1>
 
       <p>
 	These coddlers are double-sized convex coddlers with no pedestal
@@ -26,7 +21,8 @@
 
       <table align="center">
 	<tr>
-	  <td><a href="HP-UNK16-01.jpg">
+	  <td>
+	    <a href="HP-UNK16-01.jpg">
               <img src="HP-UNK16-01.jpg" height="250"
 		   alt="HP-UNK16"></a>
           </td>	    
