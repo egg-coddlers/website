@@ -1,29 +1,20 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-
-    <!-- @(#) $Id$ -->
-
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-
+    <title>HP-UNK22 (Pink Roses)</title>
     <meta name="description"
 	  content="Egg coddlers from House of Prill. These coddlers
 		   are double-sized convex coddlers with no pedestal
 		   and have corrugated sides. This pattern
 		   consists of two rows of pink roses" />
-
-    <title>
-      HP-UNK22 (Pink Roses)
-    </title>
   </head>
 
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Pattern HP-UNK22 (Pink Roses)
-    </h1>
+    
+    <h1>Pattern HP-UNK22 (Pink Roses)</h1>
 
     <p>
       These coddlers are double-sized convex coddlers with no pedestal
@@ -35,7 +26,8 @@
 
     <table align="center">
       <tr>
-	<td><a href="HP-UNK22-01_250px.jpg">
+	<td>
+	  <a href="HP-UNK22-01_250px.jpg">
             <img src="HP-UNK22-01_250px.jpg" alt="HP-UNK22"></a>
         </td>
       </tr>
