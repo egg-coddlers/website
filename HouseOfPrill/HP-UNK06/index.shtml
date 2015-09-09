@@ -1,45 +1,39 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-
-    
-    <!-- @(#) $Id$ -->  
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-
-    <title>
-      House of Prill - Pattern HP-UNK06
-    </title>
+    <title>House of Prill - Pattern HP-UNK06</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      House of Prill - Pattern HP-UNK06
-    </h1>
+    <h1>House of Prill - Pattern HP-UNK06</h1>
 
     <p>
-    This pattern consists of red and yellow butterflies and flowers.
+      This pattern consists of red and yellow butterflies and flowers.
     </p>
 
     <br />
     
-      <table align="center">
-	<tr>
-	  <td><a href="HP-UNK06-01-c_750px.jpg">
-              <img src="HP-UNK06-01-c_250px.jpg" alt="HP-UNK06"></a>
-	    </td>
-	</tr>
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="HP-UNK06-01-c_750px.jpg">
+            <img src="HP-UNK06-01-c_250px.jpg" alt="HP-UNK06"></a>
+	</td>
+      </tr>
 
-	<tr>
-	  <th colspan="1">Pattern HP-UNK06</ath>
-	</tr>  
-      </table>
+      <tr>
+	<th colspan="1">Pattern HP-UNK06</th>
+      </tr>
+      
+    </table>
 
     <br />
 
-      <!--#include virtual="../pattern-nav-block.ssi" -->
+    <!--#include virtual="../pattern-nav-block.ssi" -->
 
     <p>
       This page was last modified on
@@ -50,4 +44,3 @@
 
   </body>
 </html>
-
