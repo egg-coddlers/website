@@ -1,22 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-
-    <!-- @(#) $Id$ -->  
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-
-    <title>
-      House of Prill - Blue Onion Pattern
-    </title>
+    <title>House of Prill - Blue Onion Pattern</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      House of Prill - Blue Onion Pattern
-    </h1>
+    <h1>House of Prill - Blue Onion Pattern</h1>
 
     <p>
       This pattern is similar to the classic blue and white pattern seen
@@ -28,11 +21,13 @@
     <p>
       <table align="center">
 	<tr>
-	  <td><a href="blue-onion-01.jpg">
+	  <td>
+	    <a href="blue-onion-01.jpg">
               <img src="blue-onion-01.jpg"
 		   height="250" alt="Blue Onion"></a>
 	  </td>
-	  <td><a href="blue-onion-02_750px.jpg">
+	  <td>
+	    <a href="blue-onion-02_750px.jpg">
 	      <img src="blue-onion-02_250px.jpg"
 		   alt="Blue Onion"></a>
 	  </td>
@@ -40,7 +35,8 @@
 
 	<tr>
 	  <th colspan="2">Blue Onion Pattern</th>
-	</tr>    
+	</tr>
+	
       </table>
 
       <br />
@@ -56,4 +52,3 @@
 
   </body>
 </html>
-
