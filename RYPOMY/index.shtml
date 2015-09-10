@@ -1,35 +1,32 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <title>RyPomy Coddlers</title>
     <meta name="description"
 	  content="Egg coddlers from RyPomy.">
-    <title>
-      RyPomy Coddlers
-    </title>
-    
-    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-    
   </head>
   
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      RyPomy Coddlers
-    </h1>
+    
+    <h1>RyPomy Coddlers</h1>
 
     <p>
-      We know very little about these coddlers. Made in France
-      </p>
+      We know very little about these coddlers. They were made in France.
+    </p>
 
+    <br />
+    
     <h2>Patterns</h2>
-
 
     <h3>RY-UNK01</h3>
     <p>
-      Double size. Concave
+      Double size. Concave.
     </p>
 
+    <br />
+    
     <table align="center">
       <tr>
 	<td><a href="RY-UNK01-01.jpg">
@@ -41,12 +38,15 @@
                  alt="RyPomy RY-UNK01 Pattern"></a>
         </td>
       </tr>
+      
       <tr>
         <th colspan="2">RyPomy RY-UNK01</th>
       </tr>
+      
     </table>
 
-
+    <br />
+    
     <!--#include virtual="/manu-nav-block.ssi" -->
 
     <p>

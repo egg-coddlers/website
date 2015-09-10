@@ -1,42 +1,39 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-
-    <!-- @(#) $Id$ -->  
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-
-    <title>
-      Roy Kirkham - Monsters Under the Bed Pattern
-    </title>
+    <title>Roy Kirkham - Monsters Under the Bed Pattern</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Roy Kirkham - Monsters Under the Bed Pattern
-    </h1>
+    <h1>Roy Kirkham - Monsters Under the Bed Pattern</h1>
+    
     <p>
-    This pattern consists of a bed - with alleged monsters
-    underneath.
+      This pattern consists of a bed - with alleged monsters
+      underneath.
     </p>
 
-      <table align="center">
-	<tr>
-	  <td><a href="monstersunderthebed-01_750px.jpg">
-              <img src="monstersunderthebed-01_250px.jpg"
-	           alt="Monsters Under the Bed Pattern"></a>
-	</tr>
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="monstersunderthebed-01_750px.jpg">
+            <img src="monstersunderthebed-01_250px.jpg"
+	         alt="Monsters Under the Bed Pattern"></a>
+	</td>
+      </tr>
 
-	<tr>
-	  <th colspan="1">Monsters Under the Bed Pattern</th>
-	</tr>
-      </table>
-
-      <br />
+      <tr>
+	<th colspan="1">Monsters Under the Bed Pattern</th>
+      </tr>
       
-      <!--#include virtual="../pattern-nav-block.ssi" -->
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
 
     <p>
       This page was last modified on

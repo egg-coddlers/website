@@ -1,37 +1,34 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-
-    <!-- @(#) $Id$ -->  
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-
-    <title>
-      Roy Kirkham - Malmaison Pattern
-    </title>
+    <title>Roy Kirkham - Malmaison Pattern</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Roy Kirkham - Malmaison Pattern
-    </h1>
+    <h1>Roy Kirkham - Malmaison Pattern</h1>
 
     <p>
       This pattern consists of a red-pink rose.
     </p>
 
+    <br />
+    
     <table align="center">
       <tr>
-	<td><a href="malmaison-01_750px.jpg">
+	<td>
+	  <a href="malmaison-01_750px.jpg">
             <img src="malmaison-01_250px.jpg"
-	         alt="malmaison Pattern"></a></td>
+	         alt="malmaison Pattern"></a>
+	</td>
       </tr>
 
       <tr>
-	<th colspan="1">Malmaison Pattern</th.
-					    </tr>
+	<th colspan="1">Malmaison Pattern</th>
+      </tr>
     </table>
 
     <br />

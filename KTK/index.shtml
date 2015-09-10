@@ -1,27 +1,26 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="manufacturer.css" type="text/css" />
-
+    <title>KTK Egg Coddlers</title>
     <meta name="description"
 	  content="Egg coddlers from KTK - Knowles, Taylor, & Knowles
 		   These are single sized coddlers." />
 
-    <title>KTK Egg Coddlers</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
+    
     <h1>KTK Egg Coddlers</h1>
 
     <p>
       These are single sized coddlers. 
       Very little is know about them - other than this one pattern.
-      
     </p>
 
+    <br />
 
     <h2>Patterns</h2>
 
@@ -31,13 +30,15 @@
       All White. Backstamp is an egg, with patent dates, 
       similar to those made by
       <a href="/Syracuse/">Syracuse</a>.
-
     </p>
 
     <p>
-      Picture to be added.</p>
+      Picture to be added.
+    </p>
 
 
+    <br />
+    
     <!--#include virtual="/manu-nav-block.ssi" -->
 
     <p>

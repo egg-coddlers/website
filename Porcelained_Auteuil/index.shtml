@@ -1,34 +1,26 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    
-    <!-- $Id$ -->
-    
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-
+    <title>Porcelaine d'Auteuil Egg Coddlers</title>
     <meta name="description"
 	  content="Egg coddlers from Porcelaine d'Auteuil. We know
 	  very little about these coddlers - other than that at least
 	  one exists!." />
-    
-    <title>
-      Porcelaine d'Auteuil Egg Coddlers
-    </title>
-
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Porcelaine d'Auteuil Egg Coddlers
-    </h1>
+    
+    <h1>Porcelaine d'Auteuil Egg Coddlers</h1>
 
     <p>
-      We know very little about these coddlers. Made in France
-      </p>
+      We know very little about these coddlers. Made in France.
+    </p>
 
+    <br />
+    
     <h2>Patterns</h2>
-
 
     <h3>PDA-UNK01</h3>
     <p>
@@ -37,6 +29,8 @@
       bottom <b>Cr&eacute;ation Jacques Lobjoy</b>.
     </p>
 
+    <br />
+    
     <table align="center">
       <tr>
 	<td><a href="PDA-UNK01-01.jpg">
@@ -48,9 +42,11 @@
                  alt="Porcelaine d'Auteuil Backstamp"></a>
         </td>
       </tr>
+      
       <tr>
         <th colspan="2">Porcelaine d'Auteuil Pattern PDA-UNK01</th>
       </tr>
+      
     </table>
 
     <br />

@@ -1,19 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="manufacturer.css" type="text/css" />
-    <title>
-      Pyrex Egg Coddlers
-    </title>
+    <title>Pyrex Egg Coddlers</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Pyrex Egg Coddlers
-    </h1>
+    
+    <h1>Pyrex Egg Coddlers</h1>
 
     <p>
       Pyrex has made several different styles of egg coddlers.
@@ -43,6 +39,7 @@
       <tr>
 	<th colspan="2">Pyrex Style PY-SSALNC</th>
       </tr>
+      
     </table>
 
     <br />
@@ -62,9 +59,11 @@
                  height="200" alt="Pyrex PY-SSALNC Style"></a>
 	</td>
       </tr>
+      
       <tr>
 	<th colspan="3">Pyrex Style PY-SSALNC with Stand</th>
       </tr>
+      
     </table>
 
     <p>
@@ -110,9 +109,12 @@
 
       <tr>
 	<th>Pyrex Style PY-DSGLMC</th>
-      </tr>    
+      </tr>
+      
     </table>	    
 
+    <br />
+    
     <p>
       <b>PY-DSGLMC</b> is a double-sized coddler made of clear glass.
       The lid is also made of clear glass.  The lid is held to the body
@@ -147,6 +149,8 @@
       Picture to be added soon.
     </p>
 
+    <br />
+    
     <!--#include virtual="../manu-nav-block.ssi" -->
 
     <p>

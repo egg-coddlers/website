@@ -1,41 +1,38 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->  
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-    <title>
-      Roy Kirkham - Boulevard Chic (Brown) Pattern
-    </title>
+    <title>Roy Kirkham - Boulevard Chic (Brown) Pattern</title>
   </head>
 
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Roy Kirkham - Boulevard Chic (Brown) Pattern
-    </h1>
+    <h1>Roy Kirkham - Boulevard Chic (Brown) Pattern</h1>
 
     <p>
-    This pattern consists of a brown hat, surrounded by text.
+      This pattern consists of a brown hat, surrounded by text.
     </p>
 
-      <table align="center">
-	<tr>
-	  <td><a href="boulevard-chic-brown-01_750px.jpg">
-              <img src="boulevard-chic-brown-01_250px.jpg"
-	           alt="Boulevard Chic Brown Pattern"></a></td>
-	</tr>
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="boulevard-chic-brown-01_750px.jpg">
+            <img src="boulevard-chic-brown-01_250px.jpg"
+	         alt="Boulevard Chic Brown Pattern"></a>
+	</td>
+      </tr>
 
-	<tr>
-	  <th colspan="1">Boulevard Chic (Brown) Pattern</th>
-	</tr>
-      </table>
-
-      <br />
+      <tr>
+	<th colspan="1">Boulevard Chic (Brown) Pattern</th>
+      </tr>
       
-      <!--#include virtual="../pattern-nav-block.ssi" -->
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
 
     <p>
       This page was last modified on

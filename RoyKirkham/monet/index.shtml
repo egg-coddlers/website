@@ -1,22 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->  
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-
-    <title>
-      Roy Kirkham - Monet Pattern
-    </title>
+    <title>Roy Kirkham - Monet Pattern</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Roy Kirkham - Monet Pattern
-    </h1>
-
+    <h1>Roy Kirkham - Monet Pattern</h1>
 
     <p>
       This pattern consists of a bright red poppy. The second picture
@@ -30,6 +23,8 @@
 	    <a href="monet-01_750px.jpg">
               <img src="monet-01_250px.jpg"
 		   alt="Monet Pattern"></a>
+	  </td>
+	  <td>
 	    <a href="monet-02_750px.jpg">
               <img src="monet-02_250px.jpg"
 		   alt="Monet Pattern"></a>
@@ -37,8 +32,9 @@
 	</tr>
 
 	<tr>
-	  <th colspan="2">Monet Pattern</th>
+	  <th colspan="2">Roy Kirkham Monet Pattern</th>
 	</tr>
+	
       </table>
 
       <br />

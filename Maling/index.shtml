@@ -1,47 +1,42 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="manufacturer.css" type="text/css" />
+    <title>Maling Egg Coddlers</title>
     <meta name="description"
 	  content="Egg coddlers from Maling." />
-    <title>
-      Maling
-    </title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Maling Egg Coddlers
-    </h1>
+    
+    <h1>Maling Egg Coddlers</h1>
 
     <p>
       These are single sized coddlers. We have also heard rumours of a
       double-sized coddler.
-      </p>
+    </p>
     
     <p>
       Very little is know about Maling coddlers, other than this one
       pattern. All that we have seen are very similar, but each is
       slightly different. We assume them to be one pattern - probably
       either hand painted, or selected from a common set of decals.
-      </p>
+    </p>
 
     <p>
       C.T. Maling was a Newcastle-on-Tyne based pottery.
     </p>
 
-
     <br />
     
     <h2>Patterns</h2>
 
-
     <h3>MAL-UNK01</h3>
+    
     <p>
-      Floral - "Premier Egg Cup"
+      Floral - "Premier Egg Cup."
     </p>
 
     <table align="center">
@@ -51,16 +46,25 @@
             <img src="MAL-UNK01-01-a.jpg"
 		 height="250"
 		 alt="MAL-UNK01"></a>
+	</td>
+	<td>
 	  <a href="MAL-UNK01-02-a.jpg">
             <img src="MAL-UNK01-02-a.jpg"
 		 height="250"
 		 alt="MAL-UNK01"></a>
+	</td>
+	<td>
 	  <a href="MAL-UNK01-bs-01.jpg">
             <img src="MAL-UNK01-bs-01.jpg"
 		 height="150"
 		 alt="MAL-UNK01 Backstamp"></a>
 	</td>		    
       </tr>
+
+      <tr>
+	<th colspan="3">Maling Pattern MAL-UNK01</th>
+      </tr>
+
     </table>
 
     <br />

@@ -1,42 +1,43 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-
-    <!-- @(#) $Id$ -->  
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-
-    <title>
-      Roy Kirkham - English Chintz Pattern
-    </title>
+    <title>Roy Kirkham - English Chintz Pattern</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Roy Kirkham - English Chintz Pattern
-    </h1>
+    <h1>Roy Kirkham - English Chintz Pattern</h1>
 
     <p>
       This pattern consists of blue roses, surrounded by text. The
       second picture shows a variation where "English" is mis-spelt
-      "Engish"
+      "Engish".
     </p>
 
+    <br />
+    
     <table align="center">
       <tr>
-	<td><a href="english-chintz-blue-01_750px.jpg">
+	<td>
+	  <a href="english-chintz-blue-01_750px.jpg">
             <img src="english-chintz-blue-01_250px.jpg"
-	         alt="English Chintz Blue Pattern"></a></td>
-	<td><a href="english-chintz-blue-02_750px.jpg">
+	         alt="English Chintz Blue Pattern"></a>
+	</td>
+	<td>
+	  <a href="english-chintz-blue-02_750px.jpg">
 	    <img src="english-chintz-blue-02_250px.jpg"
-		 alt="English Chinta Blue Pattern - spelling mistake"></a></td>
+		 alt="English Chinta Blue Pattern - spelling
+		      mistake"></a>
+	</td>
       </tr>
 
       <tr>
 	<th colspan="2">English Chintz Blue Pattern</th>
       </tr>
+      
     </table>
 
     <br />

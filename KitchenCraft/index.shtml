@@ -1,26 +1,17 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    
-    <!-- @(#) $Id$ -->
-
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="manufacturer.css" type="text/css" />    
-
+    <title>Kitchen Craft Egg Coddlers</title>
     <meta name="description"
 	  content="Egg coddlers from Kitchen Craft." />
-
-    <title>
-      Kitchen Craft Egg Coddlers
-    </title>
   </head>
   
   <body bgcolor="white">
-
     <a name="Top"></a>
-    <h1>
-      Kitchen Craft Egg Coddlers
-    </h1>
+    
+    <h1>Kitchen Craft Egg Coddlers</h1>
 
     <p>
       We know very little about these coddlers - other than that at
@@ -50,8 +41,8 @@
       <tr>
 	<th>KC-UNK01</th>
       </tr>
+      
     </table>
-
 
     <br />
 

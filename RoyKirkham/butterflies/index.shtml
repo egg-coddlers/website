@@ -1,17 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <title>
-      Roy Kirkham - Butterflies Pattern
-    </title>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>Roy Kirkham - Butterflies Pattern </title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Roy Kirkham - Butterflies Pattern
-    </h1>
+    <h1>Roy Kirkham - Butterflies Pattern</h1>
 
     <p>
       This pattern celebrates butterflies.  (Click on the image to
@@ -23,7 +21,8 @@
     
     <table align="center">
       <tr>
-	<td><a href="butterflies-01.jpg">
+	<td>
+	  <a href="butterflies-01.jpg">
             <img src="butterflies-01.jpg"
 	         height="200" alt="Butterflies Pattern"></a>
 	</td>
@@ -32,6 +31,7 @@
       <tr>
 	<th colspan="2">Butterflies Pattern</th>
       </tr>
+      
     </table>
 
     <br />

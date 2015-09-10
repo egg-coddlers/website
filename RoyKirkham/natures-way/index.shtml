@@ -1,42 +1,40 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->  
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-    <title>
-      Roy Kirkham - Nature's Way Pattern
-    </title>
+    <title>Roy Kirkham - Nature's Way Pattern</title>
   </head>
 
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Roy Kirkham - Nature's Way Pattern
-    </h1>
+    <h1>Roy Kirkham - Nature's Way Pattern</h1>
 
     <p>
       This pattern consists of a fruits and flowers, surrounded by text.
     </p>
     
-    <p>
-      <table align="center">
-	<tr>
-	  <td><a href="natures-way-01_750px.jpg">
-              <img src="natures-way-01_250px.jpg"
-		   alt="Nature's Way Pattern"></a>
-	</tr>
-
-	<tr>
-	  <th colspan="1">Nature's Way Pattern</th>
-	</tr>
-      </table>
-
-      <br />
+    <br />
+    
+    <table align="center">
+      <tr>
+	<td>
+	  <a href="natures-way-01_750px.jpg">
+            <img src="natures-way-01_250px.jpg"
+		 alt="Nature's Way Pattern"></a>
+	</td>
+      </tr>
       
-      <!--#include virtual="../pattern-nav-block.ssi" -->
+      <tr>
+	<th colspan="1">Nature's Way Pattern</th>
+      </tr>
+      
+    </table>
+
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
 
     <p>
       This page was last modified on

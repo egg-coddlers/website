@@ -1,17 +1,14 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="manufacturer.css" type="text/css" />
-    
-    <title>
-      Roy Kirkham Egg Coddlers
-    </title>
+    <title>Roy Kirkham Egg Coddlers</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
+    
     <h1>Roy Kirkham Egg Coddlers</h1>
 
     <p>
@@ -48,6 +45,7 @@
     <br />
 
     <a name="Patterns"></a>
+    
     <h2>Patterns</h2>
 
     <p>
@@ -79,4 +77,3 @@
 
   </body>
 </html>
-
