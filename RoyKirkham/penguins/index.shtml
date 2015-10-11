@@ -1,36 +1,35 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->  
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-
-    <title>
-      Roy Kirkham - Penguins Pattern
-    </title>
+    <title>Roy Kirkham - Penguins Pattern</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Roy Kirkham - Penguins Pattern
-    </h1>
+    <h1>Roy Kirkham - Penguins Pattern</h1>
 
     <p>
       This pattern consists of penguins, surrounded by text.
     </p>
 
+    <br />
+    
     <table align="center">
       <tr>
-	<td><a href="penguins-01_750px.jpg">
+	<td>
+	  <a href="penguins-01_750px.jpg">
             <img src="penguins-01_250px.jpg"
 		 alt="Penguins Pattern"></a>
+	</td>
       </tr>
 
       <tr>
 	<th colspan="1">Penguins Pattern</th>
       </tr>
+      
     </table>
 
     <br />

@@ -1,20 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->  
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-    <title>
-      Royal Worcester - Pattern RW-UNK31 (Plain Pale Yellow)
-    </title>
+    <title>Royal Worcester - Pattern RW-UNK31 (Plain Pale Yellow)</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Royal Worcester - Pattern RW-UNK31 (Plain Pale Yellow)
-    </h1>
+    <h1>Royal Worcester - Pattern RW-UNK31 (Plain Pale Yellow)</h1>
 
     <p>
       This pattern consists of a plain pale yellow coddler.
@@ -24,8 +19,11 @@
 
     <table align="center">
       <tr align="center">
-	<td><a href="yellow-01_750px.jpg">
-	    <img src="yellow-01_250px.jpg" alt="Plain Dark  Yellow"></a></td>
+	<td>
+	  <a href="yellow-01_750px.jpg">
+	    <img src="yellow-01_250px.jpg" alt="Plain Dark
+	    Yellow"></a>
+	</td>
       </tr>
 
       <tr>
@@ -41,9 +39,8 @@
     <br />
     
     <table border width="100%">
-      <caption>Known
-	<a href="../types">Types</a>
-	Matrix (RW-UNK31)</caption>
+      <caption>Known <a href="../types">Types</a> Matrix</caption>
+      
       <tr>
 	<th width="20%">Type</th>
 	<th width="30%">Sizes</th>

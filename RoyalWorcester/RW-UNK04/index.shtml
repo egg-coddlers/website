@@ -1,21 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-    <title>
-      Royal Worcester - Unknown Pattern Name (Plain Pale Blue)
-    </title>
+    <title>Royal Worcester - Unknown Pattern Name (Plain Pale Blue)</title>
   </head>
 
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Royal Worcester - Unknown Pattern Name (Plain Pale Blue)
-    </h1>
+    <h1>Royal Worcester - Unknown Pattern Name (Plain Pale Blue)</h1>
 
     <p>
       This coddler is plain, with a pale blue glaze.
@@ -25,18 +19,23 @@
     
     <table align="center">
       <tr>
-	<td><a href="plainblue.jpg">
+	<td>
+	  <a href="plainblue.jpg">
             <img src="plainblue.jpg" alt="Plain Pale Blue"></a>
 	</td>
       </tr>
+      
     </table>
 
     <br />
 
     <table border width="100%">
-      <caption>Known
+      <caption>
+	Known
 	<a href="../types">Types</a>
-	Matrix</caption>
+	Matrix
+      </caption>
+      
       <tr>
 	<th width="20%">Type</th>
 	<th width="30%">Sizes</th>

@@ -1,20 +1,19 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
     <title>Royal Worcester - RW-UNK02 (Plain White)</title>
   </head>
 
   <body bgcolor="white">
-
     <a name="Top"></a>
 
     <h1>Royal Worcester - RW-UNK02 (Plain White)</h1>
 
     <p>
       This coddler is plain, with a white glaze.
+    </p>
 
       <ul>
         "Plain white Royal Worcester coddlers with either no
@@ -23,40 +22,51 @@
         were omitted before firing."&nbsp;&nbsp;&nbsp;
         <a href="/sources/#BB">BB</a>
       </ul>
-    </p>
 
     <br />
     
     <table align="center">
       <tr>
-	<td><img src="plain-white.jpg" alt="Plain White"></td>
+	<td>
+	  <img src="plain-white.jpg" alt="Plain White">
+	</td>
       </tr>
 
       <tr>
 	<th>RW-UNK02 -- Plain White</th>
       </tr>
+      
     </table>
 
     <br />
 
     <table align="center">
       <tr>
-	<td><img src="plain-white-02.jpg" alt="Plain White"></td>
-	<td><a href="plain-white-02-bs_full.jpg">
-	    <img src="plain-white-02-bs_150px.jpg" alt="Backstamp"></a></td>
+	<td>
+	  <img src="plain-white-02.jpg" alt="Plain White">
+	</td>
+	<td>
+	  <a href="plain-white-02-bs_full.jpg">
+	    <img src="plain-white-02-bs_150px.jpg"
+	    alt="Backstamp"></a>
+	</td>
       </tr>
 
       <tr>
 	<th colspan="2">RW-UNK02 -- Plain White</th>
       </tr>
+      
     </table>
 
     <br />
     
     <table border width="100%">
+      
       <caption>Known
 	<a href="../types">Types</a>
-	Matrix</caption>
+	Matrix
+      </caption>
+      
       <tr>
 	<th width="20%">Type</th>
 	<th width="30%">Sizes</th>
@@ -154,6 +164,8 @@
 
     </table>
 
+    <br />
+    
     <!--#include virtual="../pattern-nav-block.ssi" -->
 
     <p>

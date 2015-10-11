@@ -1,17 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <title>
-      Roy Kirkham - Sweet Pansy Pattern
-    </title>
+    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
+    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
+    <title>Roy Kirkham - Sweet Pansy Pattern</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
-    <h1>
-      Roy Kirkham - Sweet Pansy Pattern
-    </h1>
+    <h1>Roy Kirkham - Sweet Pansy Pattern</h1>
 
     <p>
       This pattern consists of a various coloured pansies.
@@ -19,19 +17,26 @@
       The copyright date of this pattern is <b>2001</b>.
     </p>
 
+    <br />
+    
     <table align="center">
       <tr>
-	<td><a href="sweet_pansy-01_750px.jpg">
+	<td>
+	  <a href="sweet_pansy-01_750px.jpg">
             <img src="sweet_pansy-01_250px.jpg"
-	         alt="Sweet Pansy Pattern"></a></td>
-	<td><a href="sweet_pansy-01-bs_full.jpg">
+	         alt="Sweet Pansy Pattern"></a>
+	</td>
+	<td>
+	  <a href="sweet_pansy-01-bs_full.jpg">
             <img src="sweet_pansy-01-bs_100px.jpg"
-	         alt="Backstamp"></a></td>
+	         alt="Backstamp"></a>
+	</td>
       </tr>
 
       <tr>
 	<th colspan="2">Sweet Pansy Pattern</th>
       </tr>
+      
     </table>
 
     <br />

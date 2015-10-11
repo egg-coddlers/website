@@ -1,41 +1,44 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-  <!-- @(#) $Id$ -->  
   <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
   <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-    <title>Royal Worcester - RW-UNK03 (Purple on White)</title>
+  <title>Royal Worcester - RW-UNK03 (Purple on White)</title>
   </head>
+  
   <body bgcolor="white">
-
     <a name="Top"></a>
 
     <h1>Royal Worcester - RW-UNK03 (Purple on White)</h1>
 
-<br />
+    <table align="center">
+      <tr>
+	<td><img src="purple-on-white-3E.jpg"></td>
+	<td><img src="purple-on-white-3E-lidhm.jpg"></td>
+      </tr>
 
-      <table align="center">
-	<tr>
-	  <td><img src="purple-on-white-3E.jpg"></td>
-	  <td><img src="purple-on-white-3E-lidhm.jpg"></td>
-	</tr>
+      <tr>
+	<th colspan="2">RW-UNK03 -- Purple on White</th>
+      </tr>
 
-	<tr>
-	  <th colspan="2">RW-UNK03 -- Purple on White</th>
-	</tr>
-      </table>
+    </table>
 
     <p>
       This design is purple on white, purple around the top third, with a
       gold "necklace" underneath.  This coddler has a silver top and thread,
       hallmarked  Birmingham, 1912.  The backstamp is in red, and has
       registration number <b>561564</b>.
+    </p>
 
-    <p>
-      <table border width="100%">
+    <br />
+    
+    <table border width="100%">
+      
 	<caption>Known
 	  <a href="../types">Types</a>
-	  Matrix</caption>
+	  Matrix
+	</caption>
+	
 	<tr>
 	  <th width="20%">Type</th>
 	  <th width="30%">Sizes</th>
@@ -50,10 +53,18 @@
 	  <td><a href="/sources/#BB">BB</a>
 	</tr>
 
-      </table>
+    </table>
 
+    <br />
+    
+    <!--#include virtual="../pattern-nav-block.ssi" -->
+      
     <p>
-      <!--#include virtual="../pattern-nav-block.ssi" -->
+      This page was last modified on
+      <!--#echo var="LAST_MODIFIED"-->
+      .<br />
+      <!--#include virtual="/copyright.ssi" -->
+    </p>
 
   </body>
 </html>

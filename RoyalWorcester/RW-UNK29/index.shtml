@@ -1,21 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
 <html>
   <head>
-    <!-- @(#) $Id$ -->  
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-    <title>
-      Royal Worcester - Pattern RW-UNK29 (Plain Dark Yellow)
-    </title>
+    <title>Royal Worcester - Pattern RW-UNK29 (Plain Dark Yellow)</title>
   </head>
 
   <body bgcolor="white">
-
     <a name="Top"></a>
-
-    <h1>
-      Royal Worcester - Pattern RW-UNK29 (Plain Dark Yellow)
-    </h1>
+    
+    <h1>Royal Worcester - Pattern RW-UNK29 (Plain Dark Yellow)</h1>
 
     <p>
       This pattern consists of a plain dark yellow coddler.
@@ -25,18 +19,17 @@
 
     <table align="center">
       <tr>
-	<td><a href="yellow-01_750px.jpg">
-	    <img src="yellow-01_250px.jpg" alt="Plain Dark Yellow"></a></td>
+	<td>
+	  <a href="yellow-01_750px.jpg">
+	    <img src="yellow-01_250px.jpg" alt="Plain Dark
+	    Yellow"></a>
+	</td>
       </tr>
 
       <tr>
 	<th>RW-UNK29 -- Plain Dark Yellow</th>
       </tr>
       
-      <tr>
-	<td align="center">Click on image to view in more detail.</td>
-      </tr>
-
     </table>
 
     <br />
@@ -44,9 +37,10 @@
     <a name="Knowntypes"></a>
 
     <table border width="100%">
-      <caption>Known
-	<a href="../types">Types</a>
-	Matrix (RW-UNK29)</caption>
+      
+      <caption>Known <a href="../types">Types</a> Matrix (RW-UNK29)
+      </caption>
+      
       <tr>
 	<th width="20%">Type</th>
 	<th width="30%">Sizes</th>
@@ -74,7 +68,6 @@
       .<br />
       <!--#include virtual="/copyright.ssi" -->
     </p>
-
 
   </body>
 </html>
