@@ -5,6 +5,28 @@
     <meta name="google-site-verification"
 	  content="WZztAcmhee7fo2wfU4lbq7sixPPt9j5D9IlZX6TswBo" />
     <title>Welcome to Egg-Coddlers.COM</title>
+
+
+    <!-- Matomo -->
+    <script type="text/javascript">
+      var _paq = window._paq || [];
+      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(["sentCookieDomain", "*.www.egg-coddlers.com"]);
+  _paq.push(["setDomains", ["*.www.egg-coddlers.com","*.new.egg-coddlers.com"]]);
+  _paq.push(["enableCrossDomainLinking"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://matomo.spotch.systems/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '3']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://matomo.spotch.systems/matomo.php?idsite=3&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code -->
+    
   </head>
   <body bgcolor="white">
 
@@ -26,36 +48,59 @@
       </tr>
     </table>
 
-    <p>
-      This web site (<a href="/">Egg-Coddlers.COM</a>)
-      is dedicated to the study of <b>egg coddlers</b>.
+    <div id="first_intro_block">
+    <ul>
+      <p>
+	This web site is dedicated to the study of <b>egg coddlers</b>.
       </p>
 
-    <p>
-      An egg coddler is a porcelain or pottery cup with a lid
-      that was designed to prepare food ... in particular, an
-      egg dish that is called <b>coddled eggs</b>.
-    </p>
-
-    <p>
-      This site intends to be an information resource and
-      a forum for collectors and users of egg coddlers.
+      <p>
+	An egg coddler is a porcelain or pottery cup with a lid
+	that was designed to prepare food ... in particular, an
+	egg dish that is called <b>coddled eggs</b>.
       </p>
 
-    <p>
-      <b>Note:</b>
-      The data shown on this web site should not be assumed to be exhaustive
-      or even complete.  We have large amounts of uncatalogued data that has
-      yet to be added to this site.  We need your help to make this site
-      useful. If you know of
-      <a href="manufacturers.shtml">manufacturers</a>,
-      <a href="pattern-xref.shtml">patterns</a>,
-      <a href="/recipes/">recipes</a>, examples, or
-      any other information ... or if you have images of
-      egg coddlers that you would like to share on this site, please
-      <a href="/contact/">contact us</a>.
-    </p>
+      <p>
+	This site intends to be an information resource and
+	a forum for collectors and users of egg coddlers.
+      </p>
 
+      <p>
+	Data shown on this web site should not be assumed to be
+	100% exhaustive, complete or correct. We try to verify all
+	information and when it is questionable we will say so.
+	We also still have a substantial backlog of data to add to the
+	site.
+      </p>
+
+      <p>
+	We need your help to keep this site useful! If you know of
+	<a href="manufacturers.shtml">manufacturers</a>,
+	<a href="pattern-xref.shtml">patterns</a>,
+	<a href="/recipes/">recipes</a>, examples, or
+	any other information ... or if you have images of
+	egg coddlers that you would like to share on this site, please
+	<a href="/contact/">contact us</a>.
+      </p>
+
+      <p>
+	If you are interested in egg coddlers, or coddled eggs, there
+	is an online community on Facebook called the
+	<a href="https://www.facebook.com/groups/28997366242/">Egg
+	Coddlers Appreciation Society</a>. Matt Collyer created that
+	group. The editors of this site did not create that community,
+	but you can often find us lurking there.
+      </p>
+
+      <p>
+	Finally, we would like to mention that the site is still
+	alive and well (as of April 2019). Updates are going slowly,
+	and we hope to migrate to a better management system that will
+	make the site look better and be easier to update.
+      <ul>
+
+    </div>
+    
     <br />
 
     <h2>Index of Egg-Coddlers.COM</h2>
