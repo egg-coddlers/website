@@ -1,6 +1,6 @@
 <!-- BEGIN INCLUDE /copyright.ssi -->
 <!-- @(#) $Id$ -->
-<b>This document is &#169; Copyright 2001-2018
+<b>This document is &#169; Copyright 2001-2019
 <a href="/copyright.shtml">Egg-Coddlers.COM</a>.
 All rights reserved.</b><br />
 
@@ -17,4 +17,26 @@ All rights reserved.</b><br />
   })();
 
 </script>
+
+<!-- Matomo -->
+<script type="text/javascript">
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setCookieDomain", "*.www.egg-coddlers.com"]);
+  _paq.push(["setDomains", ["*.www.egg-coddlers.com","*.new.egg-coddlers.com"]]);
+  _paq.push(["enableCrossDomainLinking"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://matomo.spotch.systems/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '3']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://matomo.spotch.systems/matomo.php?idsite=3&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Matomo Code -->
+
+
 <!-- END INCLUDE /copyright.ssi -->
