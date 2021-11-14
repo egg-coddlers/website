@@ -1,90 +1,79 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
 <html>
-  <head>
-    <title>
-      Images of all known Royal Worcester Backstamps
-    </title>    
-  </head>
-  <body bgcolor="white">
+<head>
+<title>
+    Images of all known Royal Worcester Backstamps
+</title>    
+</head>
+<body bgcolor="white">
 
-    <h1>
-      Images of all known Royal Worcester Backstamps
-    </h1>
+<h1>
+    Images of all known Royal Worcester Backstamps
+</h1>
 
-    <p>
-      This page displays all known Royal Worcester backstamps next to
-      each other to help you distinguish and determine what
-      <a href="../types/">type</a>
-      of coddler you have.
-    </p>
+    This page displays all known Royal Worcester backstamps next to
+    each other to help you distinguish and determine what type of
+    coddler you have.  This page contains many images and may have to
+    be reloaded several times to see them all.
+<p>
 
-    <br />
+<table width="100%" border align="center">
+<tr align="center">
+   <td><a href="types/#Type1">
+        <img src="types/bs_1.jpg" width="100" alt="Type 1
+            Backstamp"></a>
+    <td><a href="types/#Type2A">
+        <img src="types/bs_2A.jpg" width="100" alt="Type 2A
+	    Backstamp"></a>
+    <td><a href="types/#Type2B">
+        <img src="types/bs_2B.jpg" width="100" alt="Type 2B
+	    Backstamp"></a>
+    <td><a href="types/#Type2C">
+        <img src="types/bs_2C.jpg" width="100" alt="Type 2C
+	    Backstamp"></a>
+    <td><a href="types/#Type3">
+        <img src="types/bs_3-02.jpg" width="100" alt="Type 3
+	    Backstamp"></a>	    
+</tr>
 
-    <table width="100%" border align="center">
-      <tr align="center">
-	<td><a href="types/#Type1">
-            <img src="types/bs_1-03.jpg" width="100"
-		 alt="Type 1 Backstamp"></a></td>
-	<td><a href="types/#Type2A">
-            <img src="types/bs_2A.jpg" width="100"
-		 alt="Type 2A Backstamp"></a></td>
-	<td><a href="types/#Type2B">
-            <img src="types/bs_2B.jpg" width="100"
-		 alt="Type 2B Backstamp"></a></td>
-	<td><a href="types/#Type2C">
-            <img src="types/bs_2C.jpg" width="100"
-		 alt="Type 2C Backstamp"></a></td>
-	<td><a href="types/#Type3">
-            <img src="types/bs_3-02.jpg" width="100"
-		 alt="Type 3 Backstamp"></a></td>
-      </tr>
+<tr align="center">
+    <th><a href="types/#Type1">Type 1</a>
+    <th><a href="types/#Type2A">Type 2A</a>
+    <th><a href="types/#Type2B">Type 2B</a>
+    <th><a href="types/#Type2C">Type 2C</a>
+    <th><a href="types/#Type3">Type 3</a>    
+</tr>
+</table>
+<p>
+<table width="100%" border align="center">
+<tr align="center">
+   <td><a href="types/#Type4A">
+           <i>No Image Available</i></a>
+    <td><a href="types/#Type4B">
+        <img src="types/bs_4B.jpg" width="100" alt="Type 4B
+	    Backstamp"></a>
+    <td><a href="types/#Type4C">
+        <img src="types/bs_4C-01.jpg" width="100" alt="Type 4C
+	    Backstamp"></a>
+    <td><a href="types/#Type4D">
+           <i>No Image Available</i></a>
+    <td><a href="types/#Type4E">
+               <i>No Image Available</i></a>
+</tr>
 
-      <tr align="center">
-	<th><a href="types/#Type1">Type 1</a></th>
-	<th><a href="types/#Type2A">Type 2A</a></th>
-	<th><a href="types/#Type2B">Type 2B</a></th>
-	<th><a href="types/#Type2C">Type 2C</a></th>
-	<th><a href="types/#Type3">Type 3</a></th>
-      </tr>
-    </table>
+<tr align="center">
+    <th><a href="types/#Type4A">Type 4A</a>
+    <th><a href="types/#Type4B">Type 4B</a>
+    <th><a href="types/#Type4C">Type 4C</a>
+    <th><a href="types/#Type4D">Type 4D</a>
+    <th><a href="types/#Type4E">Type 4E</a>    
+</tr>
+</table>
 
-    <br />
 
-    <table width="100%" border align="center">
-      <tr align="center">
-	<td><a href="types/#Type4A">
-            <i>No Image Available</i></a></td>
-	<td><a href="types/#Type4B">
-            <img src="types/bs_4B.jpg" width="100"
-		 alt="Type 4B Backstamp"></a></td>
-	<td><a href="types/#Type4C">
-            <img src="types/bs_4C-01.jpg" width="100"
-		 alt="Type 4C Backstamp"></a></td>
-	<td><a href="types/#Type4D">
-            <i>No Image Available</i></a></td>
-	<td><a href="types/#Type4E">
-            <i>No Image Available</i></a></td>
-      </tr>
+<p>
+<!--#include virtual="../nav-block.ssi" -->
 
-      <tr align="center">
-	<th><a href="types/#Type4A">Type 4A</a></th>
-	<th><a href="types/#Type4B">Type 4B</a></th>
-	<th><a href="types/#Type4C">Type 4C</a></th>
-	<th><a href="types/#Type4D">Type 4D</a></th>
-	<th><a href="types/#Type4E">Type 4E</a></th>
-      </tr>
-    </table>
-
-    <br />
-    
-    <!--#include virtual="nav-block.ssi" -->
-
-    <p>
-      This page was last modified on
-      <!--#echo var="LAST_MODIFIED"-->
-      .<br />
-      <!--#include virtual="/copyright.ssi" -->
-    </p>
-
-  </body>
+</body>
 </html>
+

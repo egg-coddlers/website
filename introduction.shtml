@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Introduction</title>
-<! "@(#) $Id$" >
+<! "@(#) $Id: introduction.shtml,v 1.39 2005/03/19 19:05:04 rbj Exp $" >
 </head>
 <body bgcolor="white">
 
@@ -254,6 +254,15 @@ discuss here on this site.
 
 
 <!--#include virtual="nav-block.ssi" -->
+<p><hr width="100%"></p>
+
+<p>
+This page was last modified on
+<!--#echo var="LAST_MODIFIED"-->
+.<br />
+<!--#include virtual="/copyright.ssi" -->
+</p>
+
 
 </body>
 </html>

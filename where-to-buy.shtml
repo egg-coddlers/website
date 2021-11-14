@@ -4,7 +4,7 @@
     <!-- @(#) $Id$ -->
     <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <meta http-equiv="Refresh"
-	  content="15; url=/" />
+	  content="15; url=/old_site/" />
     <meta name="ROBOTS"
 	  content="NOINDEX. NOFOLLOW" />
     <title>
@@ -25,7 +25,7 @@
     <br />
 
     This page will automatically return you to the
-    <a href="/">Egg-Coddlers.COM</a>
+    <a href="/old_site/">Egg-Coddlers.COM</a>
     home page in fifteen seconds.
     
     <br />

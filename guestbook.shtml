@@ -9,9 +9,9 @@
     </title>
     <meta name="dc.creator" content="Rob Jenson" />
     <meta name="dcterms.created" content="2000-03-05" />
-    <meta name="dcterms.modified" content="2012-03-18" />
+    <meta name="dcterms.modified" content="2006-12-12" />
     <meta name="dc.format" content="text/html" />
-<!-- ident "@(#) $Id$ -->
+<!-- ident "@(#) $Id: guestbook.shtml,v 1.2 2012/03/19 01:23:16 RobJenson Exp $ -->
   </head>
 
   <body bgcolor="white">

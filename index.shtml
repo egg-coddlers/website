@@ -1,31 +1,10 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<!DOCTYPE HTML>
+<!-- Updated 2021-11-11 -->
 <html>
   <head>
-    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-    <meta name="google-site-verification"
-	  content="WZztAcmhee7fo2wfU4lbq7sixPPt9j5D9IlZX6TswBo" />
     <title>Welcome to Egg-Coddlers.COM</title>
-
-
-    <!-- Matomo -->
-    <script type="text/javascript">
-      var _paq = window._paq || [];
-      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-      _paq.push(["sentCookieDomain", "*.www.egg-coddlers.com"]);
-  _paq.push(["setDomains", ["*.www.egg-coddlers.com","*.new.egg-coddlers.com"]]);
-  _paq.push(["enableCrossDomainLinking"]);
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="https://matomo.spotch.systems/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '3']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<noscript><p><img src="https://matomo.spotch.systems/matomo.php?idsite=3&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-<!-- End Matomo Code -->
+    
+    <!--#include virtual="inside-head-block.ssi" -->
     
   </head>
   <body bgcolor="white">
@@ -38,9 +17,6 @@
 	<td width="84%" align="center"><h1><nobr>Welcome to...</nobr>
 	    <nobr>Egg-Coddlers.COM</nobr></h1>
 	  
-	  <p align="center">
-	    <script src="http://www.gmodules.com/ig/ifr?url=http://www.google.com/cse/api/017940323720048092639/cse/usdgxzlksto/gadget&amp;synd=open&amp;w=320&amp;h=75&amp;title=Egg-Coddlers.COM+Search+Engine&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>	
-	  </p>
 	</td>
 	<td width="8%">
 	  <img src="logo_246x246.jpg" alt="logo">
@@ -94,9 +70,9 @@
 
       <p>
 	Finally, we would like to mention that the site is still
-	alive and well (as of February 2020). Updates are going slowly,
-	and we hope to migrate to a better management system that will
-	make the site look better and be easier to update.
+	alive and well (as of November 2021). We are in the process of migrating to a new structure and layout.
+        You will see the new site if you 
+	<a href="/">start from the front page</a>.
       <ul>
 
     </div>
@@ -208,6 +184,8 @@
     <br />
 
     <hr width="100%">
+
+    <!--#include virtual="nav-block.ssi" -->
 
     <p>
       This page was last modified on

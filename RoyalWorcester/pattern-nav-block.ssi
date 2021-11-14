@@ -1,56 +1,43 @@
 <!-- BEGIN INCLUDE /RoyalWorcester/pattern-nav-block.ssi -->
-<!-- Updated 2013-03-10 -->
+<!-- Updated 2021-11-10 -->
 
 <hr width="100%">
 <p>
-<center>
-<table border width="95%">
-<caption>
-<h4>Egg-Coddlers.COM Navigation Bar</h4></caption>
-<tr>
-<th width=20%"><a href="/">Front Page / Index</a></th>
-<th width=20%"><a href="/RoyalWorcester/patterns/">
-Royal Worcester Patterns</a></th>
-<th width=20%"><a href="/RoyalWorcester/">
-Royal Worcester Coddlers</a></th>
-    <th width="40%" colspan="2" align="center">
-
-<script>
-  (function() {
-    var cx = '017940323720048092639:usdgxzlksto';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-          '//www.google.com/cse/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-Search Egg-Coddlers.COM:
-<gcse:searchbox-only></gcse:searchbox-only>
+  <center>
+    <table border width="95%">
+      <caption>
+	<h4>Egg-Coddlers.COM Navigation Bar (Legacy Site)</h4></caption>
+      <tr>
+	<th width=20%"><a href="/old_site/">Front Page / Index</a></th>
+					   <th width=20%"><a href="/RoyalWorcester/patterns/">
+	    Royal Worcester Patterns</a></th>
+	<th width=20%"><a href="/RoyalWorcester/">
+					       Royal Worcester Coddlers</a></th>
+	<th width="40%" colspan="2" align="center">
+	<script async src="https://cse.google.com/cse.js?cx=67a6a5d21aa9a450"></script>
+	Search Egg Coddlers International
+	<div class="gcse-searchbox-only" data-resultsUrl="https://eggcoddlers.com/search"></div>
         </th>
-    </tr>
+      </tr>
 
-<tr>
-<th><a href="/manufacturers.shtml">
-Catalog by Manufacturer</a>
+      <tr>
+	<th><a href="/manufacturers.shtml">
+	    Catalog by Manufacturer</a>
 
-<th><a href="/pattern-xref.shtml">
-Catalog by Pattern</a>
+	<th><a href="/pattern-xref.shtml">
+	    Catalog by Pattern</a>
 
-<th><a href="/faq.shtml">
-Frequently Asked Questions</a>
+	<th><a href="/faq.shtml">
+	    Frequently Asked Questions</a>
 
-    <th width="20%"><a href="/whats-new.shtml">
-        What's New Here?</a></th>
+	<th width="20%"><a href="/whats-new.shtml">
+            What's New Here?</a></th>
 
-<th><a href="/guestbook.shtml">
-Guestbook</a>
+	<th><a href="/new_site/">Preview the New Site</a></th>
 
-</tr>
-</table>
-</center>
+      </tr>
+    </table>
+  </center>
 <p><hr width="100%"></p>
 
 <!-- END INCLUDE /RoyalWorcester/pattern-nav-block.ssi -->

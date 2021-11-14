@@ -1,4 +1,5 @@
 <!-- BEGIN INCLUDE /CrownStaffordshire/pattern-nav-block.ssi -->
+<!-- Updated 2021-11-10 -->
 
 <p>
   <hr width="100%">
@@ -7,19 +8,18 @@
 <center>
   <table border width="95%">
     <caption>
-      <h4>Egg-Coddlers.COM Navigation Bar</h4>
+      <h4>Egg-Coddlers.COM Navigation Bar (Legacy Site)</h4>
     </caption>
     
     <tr>
-      <th width="20%"><a href="/">Front Page / Index</a></th>
+      <th width="20%"><a href="/old_site/">Front Page / Index</a></th>
       <th width="20%"><a href="/CrownStaffordshire/">
           Crown Staffordshire Coddlers</a>
       </th>
-      <th width="40%" colspan="2" align="center">
-	Search Egg-Coddlers.COM:
-	<gcse:searchbox-only></gcse:searchbox-only>
-      </th>
-      <th width="20%"><a href="#Top">Top of This Page</a></th>
+	<script async src="https://cse.google.com/cse.js?cx=67a6a5d21aa9a450"></script>
+	Search Egg Coddlers International
+	<div class="gcse-searchbox-only" data-resultsUrl="https://eggcoddlers.com/search"></div>
+      <th width="20%" colspan="2"><a href="#Top">Top of This Page</a></th>
     </tr>
 
     <tr>
@@ -31,8 +31,8 @@
           Frequently Asked Questions</a></th>
       <th width="20%"><a href="/whats-new.shtml">
           What's New Here?</a></th>
-      <th><a href="/guestbook.shtml">
-          Guestbook</a></th>
+      <th><a href="/new_site/">
+          Preview the New Site</a></th>
     </tr>
   </table>
 </center>
