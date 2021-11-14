@@ -1,4 +1,4 @@
-<!-- BEGIN INCLUDE /inside-head-block.ssi -->
+<!-- BEGIN INCLUDE inside-head-block.ssi -->
 <!-- Updated 2021-11-10 -->
 <!-- Code to include inside the <head></head> block of every old  page -->
 <!-- Most of the Javascript code is included in copyright.ssi at the bottom of each page -->
@@ -7,4 +7,4 @@
 <link rel='stylesheet' id='ecc-old-site-css' href='https://eggcoddlers.com/old_site/eggcoddlers.css' media='all' />
 <!-- End Stylesheets 
 
-<!-- END INCLUDE /inside-head-block.ssi -->
+<!-- END INCLUDE inside-head-block.ssi -->
