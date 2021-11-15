@@ -1,5 +1,7 @@
 
-# Contents of http://www.egg-coddlers.com #
+# Egg Coddlers International Website #
 
-This is the Published branch, which should reflect the individual
-files that have been published on the web site.
+This is the content of https://eggcoddlers.com/old_site ... which is slowly being migrated to the new site.
+
+
+
