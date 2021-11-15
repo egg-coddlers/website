@@ -1,9 +1,0 @@
-<!-- BEGIN INCLUDE inside-head-tags.ssi -->
-<!-- Updated 2021-11-15 -->
-<!-- Code to include inside the <head></head> block of every old  page -->
-
-  <!--#include virtual="/ecc-default-stylesheet.ssi" -->
-  
-  <!--#include virtual="/viewport-meta-tag.ssi" -->
-
-<!-- END INCLUDE inside-head-tags.ssi -->
