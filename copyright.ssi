@@ -1,28 +1,17 @@
-<!-- BEGIN INCLUDE /copyright.ssi -->
-<!-- Updated 2021-11-11 -->
+<!-- BEGIN INCLUDE /old_site/copyright.ssi -->
+<!-- Updated 2021-11-14 -->
 
-<div id='ecc-old-site-copyright'>
-<b>This document is &#169; Copyright 2001-2021
-<a href="/copyright.shtml">Egg-Coddlers.COM</a>.
-All rights reserved.</b><br />
+<div id='ecc-old-site-copyright-block'>
+<p>
+<a href="/copyright/">This document is &#169; Copyright 2001-2021
+Egg Coddlers International</a>.
 </div>
 
-<!-- Matomo Tracking Code -->
-<script>
-  var _paq = window._paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-  var u="https://matomo.spotch.systems/";
-  _paq.push(['setTrackerUrl', u+'matomo.php']);
-  _paq.push(['setSiteId', '3']);
-  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-  g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
+<!-- It is better to include this JavaScript inside the <head> tags
+  but until we update every shtml page to include it, we know that
+  every page has the copyright include at the bottom.
+  -->
 
-<noscript><p><img src="https://matomo.spotch.systems/matomo.php?idsite=3&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-<!-- End Matomo Code -->
+  <!--#include virtual="/old_site/matomo.ssi" -->
 
 <!-- END INCLUDE /copyright.ssi -->

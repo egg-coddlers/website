@@ -1,10 +1,10 @@
 <!DOCTYPE HTML>
-<!-- Updated 2021-11-11 -->
+<!-- Updated 2021-11-15 -->
 <html>
   <head>
     <title>Welcome to Egg-Coddlers.COM</title>
     
-    <!--#include virtual="inside-head-block.ssi" -->
+    <!--#include virtual="inside-head-tags.ssi" -->
     
   </head>
   <body bgcolor="white">
@@ -70,7 +70,8 @@
 
       <p>
 	Finally, we would like to mention that the site is still
-	alive and well (as of November 2021). We are in the process of migrating to a new structure and layout.
+	alive and well (as of November 2021). We are in the process of
+	migrating to a new structure and layout. 
         You will see the new site if you 
 	<a href="/">start from the front page</a>.
       <ul>
@@ -194,8 +195,5 @@
       <!--#include virtual="/copyright.ssi" -->
     </p>
 
-    <!-- The following code is here to catch bad robots -->
-    <a href="/ECC_BAD_ROBOT_ECC/"></a>
-    
   </body>
 </html>
