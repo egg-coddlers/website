@@ -1,10 +1,13 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<!DOCTYPE html>
+<!-- Updated 2021-11-15 -->
+
 <html>
   <head>
-    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <title>
       What's New at Egg-Coddlers.COM?
     </title>
+    <!--#include virtual="/inside-head-tags.ssi" -->
+    
   </head>
   <body bgcolor="white">
 
@@ -14,6 +17,10 @@
       What's New at Egg-Coddlers.COM? 
     </h1>
 
+    <p>This page will no longer be updated. Changes to the site will
+      be announced on the new page:
+      <a href="/news">News</a>.
+    </p>
     <p>
       This page is a register of changes made to
       <a href="/old_site/">the Egg-Coddlers.COM</a> web site, and news from the editors.
