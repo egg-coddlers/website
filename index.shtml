@@ -4,7 +4,7 @@
   <head>
     <title>Welcome to Egg-Coddlers.COM</title>
     
-    <!--#include virtual="inside-head-tags.ssi" -->
+    <!--#include virtual="/inside-head-tags.ssi" -->
     
   </head>
   <body bgcolor="white">
@@ -186,7 +186,7 @@
 
     <hr width="100%">
 
-    <!--#include virtual="nav-block.ssi" -->
+    <!--#include virtual="/nav-block.ssi" -->
 
     <p>
       This page was last modified on
