@@ -1,20 +1,15 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<!DOCTYPE html>
 <html>
   <head>
-    <!-- @(#) $Id: index.shtml,v 1.3 2012/03/25 20:56:41 RobJenson Exp
-	 $ -->
-    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-    <link rel="stylesheet" href="manufacturer.css" type="text/css" />
-    <title>
-      Royal Worcester Coddlers
-    </title>
+    <title>Royal Worcester Coddlers</title>
+
+    <!--#include virtual="/inside-head-tags.ssi" -->
+
   </head>
   <body bgcolor="white">
 
     <a name="Top"></a>
-    <h1>
-      Royal Worcester Coddlers
-    </h1>
+    <h1>Royal Worcester Coddlers</h1>
 
     <p>
       <a href="http://www.royal-worcester.co.uk">Royal Worcester</a>
@@ -34,9 +29,6 @@
       <p><li><a href="patterns/">
 	    Patterns</a></li></p>
 
-	  <p><li><a href="where-to-buy.shtml">
-		Where to Buy Recent RW Coddlers</a>
-	      </li></p>
     </ul>
 
     <br />
