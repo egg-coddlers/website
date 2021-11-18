@@ -11,7 +11,9 @@
     <th width=20%"><a href="/old_site/">Front Page / Index</a></th>
     <th width=20%"><a href="/Severn/">Severn Coddlers</a></th>
     <th width="40%" colspan="2" align="center">
-    <!-- BEGIN INCLUDE gcse-search-only-box.ssi -->
+    
+    <!--#include virtual="/gcse-search-only-box.ssi" -->
+    
     </th>
     <th width="20%"><a href="">Top of This Page</a></th>
     </tr>
