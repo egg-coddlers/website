@@ -1,5 +1,5 @@
-<!-- BEGIN INCLUDE /manu-nav-block.ssi -->
-<!-- Updated 2021-11-10 -->
+<!-- BEGIN INCLUDE manu-nav-block.ssi -->
+<!-- Updated 2021-11-17 -->
 
 <p>
   <hr width="100%">
@@ -14,9 +14,7 @@
     <tr>
       <th width="20%"><a href="/old_site/">Front Page / Index</a></th>
       <th width="60%" colspan="3" align="center">
-	<script async src="https://cse.google.com/cse.js?cx=67a6a5d21aa9a450"></script>
-	Search Egg Coddlers International
-	<div class="gcse-searchbox-only" data-resultsUrl="https://eggcoddlers.com/search"></div>
+      	  <!--#include virtual="/gcse-search-only-box.ssi" -->
       </th>
       <th width="20%"><a href="#Top">Top of This Page</a></th>
     </tr>
@@ -37,4 +35,4 @@
   <hr width="100%">
 </p>
 
-<!-- END INCLUDE /manu-nav-block.ssi -->
+<!-- END INCLUDE manu-nav-block.ssi -->
