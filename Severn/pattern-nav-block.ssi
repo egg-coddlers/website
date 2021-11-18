@@ -1,5 +1,5 @@
-<!-- BEGIN INCLUDE /Severn/pattern-nav-block.ssi -->
-<!-- Updated 2021-11-10 -->
+<!-- BEGIN INCLUDE Severn pattern-nav-block.ssi -->
+<!-- Updated 2021-11-17 -->
 
 <p><hr width="100%"></p>
 
@@ -11,9 +11,7 @@
     <th width=20%"><a href="/old_site/">Front Page / Index</a></th>
     <th width=20%"><a href="/Severn/">Severn Coddlers</a></th>
     <th width="40%" colspan="2" align="center">
-      <script async src="https://cse.google.com/cse.js?cx=67a6a5d21aa9a450"></script>
-      Search Egg Coddlers International
-      <div class="gcse-searchbox-only" data-resultsUrl="https://eggcoddlers.com/search"></div>
+    <!-- BEGIN INCLUDE gcse-search-only-box.ssi -->
     </th>
     <th width="20%"><a href="">Top of This Page</a></th>
     </tr>
@@ -30,5 +28,4 @@
 
 <p><hr width="100%"></p>
 
-
-<!-- END INCLUDE /Severn/pattern-nav-block.ssi -->
+<!-- END INCLUDE Severn pattern-nav-block.ssi -->

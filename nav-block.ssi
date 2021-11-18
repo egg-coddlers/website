@@ -1,5 +1,5 @@
-<!-- BEGIN INCLUDE /nav-block.ssi -->
-<!-- Updated 2021-11-11 -->
+<!-- BEGIN INCLUDE nav-block.ssi -->
+<!-- Updated 2021-11-17 -->
 <!-- ------- Navigation Block - Top-Level Pages ---------->
 
 <div id='ecc-old-site-nav-bar'>
@@ -18,9 +18,7 @@
 	<a href="/old_site/">Front Page / Index</a>
       </th>
       <th width="60%" colspan="3" align="center">
-	Search Egg Coddlers International:<br />
-	<script async src="https://cse.google.com/cse.js?cx=67a6a5d21aa9a450b"></script>
-	<div class="gcse-searchbox-only" data-resultsUrl="https://eggcoddlers.com/search"></div>
+      	  <!--#include virtual="/gcse-search-only-box.ssi" -->
       </th>
       <th width="20%">
 	<a href="#Top">Top of This Page</a>

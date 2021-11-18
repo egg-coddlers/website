@@ -1,0 +1,10 @@
+<!-- BEGIN INCLUDE gcse-search-only-box.ssi -->
+<!-- Updated 2021-11-17 -->
+
+<!-- This is the code to create a Google Programmable Search box -->
+     <div id="searchbox">
+	Search Egg Coddlers International:<br />
+	<script async src="https://cse.google.com/cse.js?cx=67a6a5d21aa9a450b"></script>
+	<div class="gcse-searchbox-only" data-resultsUrl="https://eggcoddlers.com/search"></div>
+     </div>
+<!-- END INCLUDE gcse-search-only-box.ssi -->
