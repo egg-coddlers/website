@@ -1,7 +1,7 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<!DOCTYPE html>
+<!-- Updated 2021-11-17 -->
 <html>
   <head>
-    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
     <meta name="keywords"
 	  content="egg coddler, porcelain, ceramic, pottery, manufacturer,
 		   example, backstamp, pattern,
@@ -24,6 +24,9 @@
     <title>
       Manufacturers of Egg Coddlers
     </title>
+
+    <!--#include virtual="/inside-head-tags.ssi" -->
+
   </head>
   
   <body bgcolor="white">
