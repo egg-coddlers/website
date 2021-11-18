@@ -1,12 +1,11 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<!-- Updated 2021-11-17 -->
 <html>
   <head>
-    <!-- @(#) $Id: index.shtml,v 1.15 2013/02/11 23:44:12 RobJenson Exp $ -->
-    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-    <link rel="stylesheet" href="manufacturer.css" type="text/css" />
-    <title>
-      Severn Ware Egg Coddlers
-    </title>
+    <title>Severn Ware Egg Coddlers</title>
+
+        <!--#include virtual="/inside-head-tags.ssi" -->
+
   </head>
 
   <body bgcolor="white">
@@ -245,7 +244,7 @@
 
     <br />
 
-    <!--#include virtual="../manu-nav-block.ssi" -->
+    <!--#include virtual="/manu-nav-block.ssi" -->
 
     <p>
       This page was last modified on

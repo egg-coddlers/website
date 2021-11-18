@@ -1,12 +1,9 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<!-- Updated 2021-11-18 -->
 <html>
   <head>
-    <!-- @(#) $Id: index.shtml,v 1.1 2014/04/01 00:16:50 RobJenson Exp $ -->  
-    <link rel="stylesheet" href="/eggcoddlers.css" type="text/css" />
-    <link rel="stylesheet" href="../manufacturer.css" type="text/css" />
-    <title>
-      Severn - Pattern SE-UNK01
-    </title>
+    <title>Severn - Pattern SE-UNK01</title>
+    <!--#include virtual="/inside-head-tags.ssi" -->    
   </head>
 
   <body bgcolor="white">
